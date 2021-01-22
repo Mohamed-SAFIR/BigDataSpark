@@ -1,0 +1,301 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+21632,Saint Vincent and Grenadines,1985,male,35-54 years,2,6100,32.79,Saint Vincent and Grenadines1985,,"145,641,704",1622,Silent
+21633,Saint Vincent and Grenadines,1985,female,15-24 years,0,11900,0.0,Saint Vincent and Grenadines1985,,"145,641,704",1622,Generation X
+21634,Saint Vincent and Grenadines,1985,female,25-34 years,0,9200,0.0,Saint Vincent and Grenadines1985,,"145,641,704",1622,Boomers
+21635,Saint Vincent and Grenadines,1985,female,35-54 years,0,7400,0.0,Saint Vincent and Grenadines1985,,"145,641,704",1622,Silent
+21636,Saint Vincent and Grenadines,1985,female,5-14 years,0,12300,0.0,Saint Vincent and Grenadines1985,,"145,641,704",1622,Generation X
+21637,Saint Vincent and Grenadines,1985,female,55-74 years,0,4100,0.0,Saint Vincent and Grenadines1985,,"145,641,704",1622,G.I. Generation
+21638,Saint Vincent and Grenadines,1985,female,75+ years,0,1000,0.0,Saint Vincent and Grenadines1985,,"145,641,704",1622,G.I. Generation
+21639,Saint Vincent and Grenadines,1985,male,15-24 years,0,12100,0.0,Saint Vincent and Grenadines1985,,"145,641,704",1622,Generation X
+21640,Saint Vincent and Grenadines,1985,male,25-34 years,0,9300,0.0,Saint Vincent and Grenadines1985,,"145,641,704",1622,Boomers
+21641,Saint Vincent and Grenadines,1985,male,5-14 years,0,12800,0.0,Saint Vincent and Grenadines1985,,"145,641,704",1622,Generation X
+21642,Saint Vincent and Grenadines,1985,male,55-74 years,0,2900,0.0,Saint Vincent and Grenadines1985,,"145,641,704",1622,G.I. Generation
+21643,Saint Vincent and Grenadines,1985,male,75+ years,0,700,0.0,Saint Vincent and Grenadines1985,,"145,641,704",1622,G.I. Generation
+21644,Saint Vincent and Grenadines,1986,female,15-24 years,0,12100,0.0,Saint Vincent and Grenadines1986,,"160,846,667",1771,Generation X
+21645,Saint Vincent and Grenadines,1986,female,25-34 years,0,9300,0.0,Saint Vincent and Grenadines1986,,"160,846,667",1771,Boomers
+21646,Saint Vincent and Grenadines,1986,female,35-54 years,0,7400,0.0,Saint Vincent and Grenadines1986,,"160,846,667",1771,Silent
+21647,Saint Vincent and Grenadines,1986,female,5-14 years,0,12500,0.0,Saint Vincent and Grenadines1986,,"160,846,667",1771,Generation X
+21648,Saint Vincent and Grenadines,1986,female,55-74 years,0,4100,0.0,Saint Vincent and Grenadines1986,,"160,846,667",1771,G.I. Generation
+21649,Saint Vincent and Grenadines,1986,female,75+ years,0,1000,0.0,Saint Vincent and Grenadines1986,,"160,846,667",1771,G.I. Generation
+21650,Saint Vincent and Grenadines,1986,male,15-24 years,0,12300,0.0,Saint Vincent and Grenadines1986,,"160,846,667",1771,Generation X
+21651,Saint Vincent and Grenadines,1986,male,25-34 years,0,9400,0.0,Saint Vincent and Grenadines1986,,"160,846,667",1771,Boomers
+21652,Saint Vincent and Grenadines,1986,male,35-54 years,0,6100,0.0,Saint Vincent and Grenadines1986,,"160,846,667",1771,Silent
+21653,Saint Vincent and Grenadines,1986,male,5-14 years,0,13000,0.0,Saint Vincent and Grenadines1986,,"160,846,667",1771,Generation X
+21654,Saint Vincent and Grenadines,1986,male,55-74 years,0,2900,0.0,Saint Vincent and Grenadines1986,,"160,846,667",1771,G.I. Generation
+21655,Saint Vincent and Grenadines,1986,male,75+ years,0,700,0.0,Saint Vincent and Grenadines1986,,"160,846,667",1771,G.I. Generation
+21656,Saint Vincent and Grenadines,1987,female,15-24 years,0,11800,0.0,Saint Vincent and Grenadines1987,,"175,580,630",1908,Generation X
+21657,Saint Vincent and Grenadines,1987,female,25-34 years,0,7722,0.0,Saint Vincent and Grenadines1987,,"175,580,630",1908,Boomers
+21658,Saint Vincent and Grenadines,1987,female,35-54 years,0,7471,0.0,Saint Vincent and Grenadines1987,,"175,580,630",1908,Silent
+21659,Saint Vincent and Grenadines,1987,female,5-14 years,0,13490,0.0,Saint Vincent and Grenadines1987,,"175,580,630",1908,Generation X
+21660,Saint Vincent and Grenadines,1987,female,55-74 years,0,4835,0.0,Saint Vincent and Grenadines1987,,"175,580,630",1908,G.I. Generation
+21661,Saint Vincent and Grenadines,1987,female,75+ years,0,1500,0.0,Saint Vincent and Grenadines1987,,"175,580,630",1908,G.I. Generation
+21662,Saint Vincent and Grenadines,1987,male,15-24 years,0,12015,0.0,Saint Vincent and Grenadines1987,,"175,580,630",1908,Generation X
+21663,Saint Vincent and Grenadines,1987,male,25-34 years,0,7324,0.0,Saint Vincent and Grenadines1987,,"175,580,630",1908,Boomers
+21664,Saint Vincent and Grenadines,1987,male,35-54 years,0,7072,0.0,Saint Vincent and Grenadines1987,,"175,580,630",1908,Silent
+21665,Saint Vincent and Grenadines,1987,male,5-14 years,0,13801,0.0,Saint Vincent and Grenadines1987,,"175,580,630",1908,Generation X
+21666,Saint Vincent and Grenadines,1987,male,55-74 years,0,4058,0.0,Saint Vincent and Grenadines1987,,"175,580,630",1908,G.I. Generation
+21667,Saint Vincent and Grenadines,1987,male,75+ years,0,948,0.0,Saint Vincent and Grenadines1987,,"175,580,630",1908,G.I. Generation
+21668,Saint Vincent and Grenadines,1990,male,25-34 years,3,8514,35.24,Saint Vincent and Grenadines1990,,"240,365,259",2553,Boomers
+21669,Saint Vincent and Grenadines,1990,male,55-74 years,1,4229,23.65,Saint Vincent and Grenadines1990,,"240,365,259",2553,G.I. Generation
+21670,Saint Vincent and Grenadines,1990,male,35-54 years,1,7593,13.17,Saint Vincent and Grenadines1990,,"240,365,259",2553,Silent
+21671,Saint Vincent and Grenadines,1990,female,15-24 years,0,11097,0.0,Saint Vincent and Grenadines1990,,"240,365,259",2553,Generation X
+21672,Saint Vincent and Grenadines,1990,female,25-34 years,0,8323,0.0,Saint Vincent and Grenadines1990,,"240,365,259",2553,Boomers
+21673,Saint Vincent and Grenadines,1990,female,35-54 years,0,7762,0.0,Saint Vincent and Grenadines1990,,"240,365,259",2553,Silent
+21674,Saint Vincent and Grenadines,1990,female,5-14 years,0,13580,0.0,Saint Vincent and Grenadines1990,,"240,365,259",2553,Generation X
+21675,Saint Vincent and Grenadines,1990,female,55-74 years,0,5128,0.0,Saint Vincent and Grenadines1990,,"240,365,259",2553,G.I. Generation
+21676,Saint Vincent and Grenadines,1990,female,75+ years,0,1532,0.0,Saint Vincent and Grenadines1990,,"240,365,259",2553,G.I. Generation
+21677,Saint Vincent and Grenadines,1990,male,15-24 years,0,11489,0.0,Saint Vincent and Grenadines1990,,"240,365,259",2553,Generation X
+21678,Saint Vincent and Grenadines,1990,male,5-14 years,0,13853,0.0,Saint Vincent and Grenadines1990,,"240,365,259",2553,Generation X
+21679,Saint Vincent and Grenadines,1990,male,75+ years,0,1041,0.0,Saint Vincent and Grenadines1990,,"240,365,259",2553,G.I. Generation
+21680,Saint Vincent and Grenadines,1995,male,35-54 years,4,9078,44.06,Saint Vincent and Grenadines1995,,"316,008,481",3293,Boomers
+21681,Saint Vincent and Grenadines,1995,male,55-74 years,1,4642,21.54,Saint Vincent and Grenadines1995,,"316,008,481",3293,Silent
+21682,Saint Vincent and Grenadines,1995,male,25-34 years,1,9023,11.08,Saint Vincent and Grenadines1995,,"316,008,481",3293,Generation X
+21683,Saint Vincent and Grenadines,1995,male,15-24 years,1,11449,8.73,Saint Vincent and Grenadines1995,,"316,008,481",3293,Generation X
+21684,Saint Vincent and Grenadines,1995,female,15-24 years,0,11061,0.0,Saint Vincent and Grenadines1995,,"316,008,481",3293,Generation X
+21685,Saint Vincent and Grenadines,1995,female,25-34 years,0,8575,0.0,Saint Vincent and Grenadines1995,,"316,008,481",3293,Generation X
+21686,Saint Vincent and Grenadines,1995,female,35-54 years,0,8791,0.0,Saint Vincent and Grenadines1995,,"316,008,481",3293,Boomers
+21687,Saint Vincent and Grenadines,1995,female,5-14 years,0,12450,0.0,Saint Vincent and Grenadines1995,,"316,008,481",3293,Millenials
+21688,Saint Vincent and Grenadines,1995,female,55-74 years,0,5396,0.0,Saint Vincent and Grenadines1995,,"316,008,481",3293,Silent
+21689,Saint Vincent and Grenadines,1995,female,75+ years,0,1681,0.0,Saint Vincent and Grenadines1995,,"316,008,481",3293,G.I. Generation
+21690,Saint Vincent and Grenadines,1995,male,5-14 years,0,12625,0.0,Saint Vincent and Grenadines1995,,"316,008,481",3293,Millenials
+21691,Saint Vincent and Grenadines,1995,male,75+ years,0,1203,0.0,Saint Vincent and Grenadines1995,,"316,008,481",3293,G.I. Generation
+21692,Saint Vincent and Grenadines,1996,male,25-34 years,4,9020,44.35,Saint Vincent and Grenadines1996,,"331,489,704",3450,Generation X
+21693,Saint Vincent and Grenadines,1996,male,35-54 years,2,9518,21.01,Saint Vincent and Grenadines1996,,"331,489,704",3450,Boomers
+21694,Saint Vincent and Grenadines,1996,female,35-54 years,1,9172,10.9,Saint Vincent and Grenadines1996,,"331,489,704",3450,Boomers
+21695,Saint Vincent and Grenadines,1996,male,15-24 years,1,11360,8.8,Saint Vincent and Grenadines1996,,"331,489,704",3450,Generation X
+21696,Saint Vincent and Grenadines,1996,female,15-24 years,0,10978,0.0,Saint Vincent and Grenadines1996,,"331,489,704",3450,Generation X
+21697,Saint Vincent and Grenadines,1996,female,25-34 years,0,8535,0.0,Saint Vincent and Grenadines1996,,"331,489,704",3450,Generation X
+21698,Saint Vincent and Grenadines,1996,female,5-14 years,0,12189,0.0,Saint Vincent and Grenadines1996,,"331,489,704",3450,Millenials
+21699,Saint Vincent and Grenadines,1996,female,55-74 years,0,5346,0.0,Saint Vincent and Grenadines1996,,"331,489,704",3450,Silent
+21700,Saint Vincent and Grenadines,1996,female,75+ years,0,1733,0.0,Saint Vincent and Grenadines1996,,"331,489,704",3450,G.I. Generation
+21701,Saint Vincent and Grenadines,1996,male,5-14 years,0,12360,0.0,Saint Vincent and Grenadines1996,,"331,489,704",3450,Millenials
+21702,Saint Vincent and Grenadines,1996,male,55-74 years,0,4651,0.0,Saint Vincent and Grenadines1996,,"331,489,704",3450,Silent
+21703,Saint Vincent and Grenadines,1996,male,75+ years,0,1233,0.0,Saint Vincent and Grenadines1996,,"331,489,704",3450,G.I. Generation
+21704,Saint Vincent and Grenadines,1997,male,25-34 years,1,8956,11.17,Saint Vincent and Grenadines1997,,"347,770,000",3613,Generation X
+21705,Saint Vincent and Grenadines,1997,male,35-54 years,1,10022,9.98,Saint Vincent and Grenadines1997,,"347,770,000",3613,Boomers
+21706,Saint Vincent and Grenadines,1997,male,15-24 years,1,11269,8.87,Saint Vincent and Grenadines1997,,"347,770,000",3613,Generation X
+21707,Saint Vincent and Grenadines,1997,female,15-24 years,0,10897,0.0,Saint Vincent and Grenadines1997,,"347,770,000",3613,Generation X
+21708,Saint Vincent and Grenadines,1997,female,25-34 years,0,8443,0.0,Saint Vincent and Grenadines1997,,"347,770,000",3613,Generation X
+21709,Saint Vincent and Grenadines,1997,female,35-54 years,0,9614,0.0,Saint Vincent and Grenadines1997,,"347,770,000",3613,Boomers
+21710,Saint Vincent and Grenadines,1997,female,5-14 years,0,11950,0.0,Saint Vincent and Grenadines1997,,"347,770,000",3613,Millenials
+21711,Saint Vincent and Grenadines,1997,female,55-74 years,0,5289,0.0,Saint Vincent and Grenadines1997,,"347,770,000",3613,Silent
+21712,Saint Vincent and Grenadines,1997,female,75+ years,0,1780,0.0,Saint Vincent and Grenadines1997,,"347,770,000",3613,G.I. Generation
+21713,Saint Vincent and Grenadines,1997,male,5-14 years,0,12124,0.0,Saint Vincent and Grenadines1997,,"347,770,000",3613,Millenials
+21714,Saint Vincent and Grenadines,1997,male,55-74 years,0,4666,0.0,Saint Vincent and Grenadines1997,,"347,770,000",3613,Silent
+21715,Saint Vincent and Grenadines,1997,male,75+ years,0,1245,0.0,Saint Vincent and Grenadines1997,,"347,770,000",3613,G.I. Generation
+21716,Saint Vincent and Grenadines,1998,male,75+ years,1,1251,79.94,Saint Vincent and Grenadines1998,,"373,619,852",3874,G.I. Generation
+21717,Saint Vincent and Grenadines,1998,male,55-74 years,2,4684,42.7,Saint Vincent and Grenadines1998,,"373,619,852",3874,Silent
+21718,Saint Vincent and Grenadines,1998,male,35-54 years,4,10556,37.89,Saint Vincent and Grenadines1998,,"373,619,852",3874,Boomers
+21719,Saint Vincent and Grenadines,1998,male,25-34 years,3,8852,33.89,Saint Vincent and Grenadines1998,,"373,619,852",3874,Generation X
+21720,Saint Vincent and Grenadines,1998,female,15-24 years,0,10819,0.0,Saint Vincent and Grenadines1998,,"373,619,852",3874,Generation X
+21721,Saint Vincent and Grenadines,1998,female,25-34 years,0,8318,0.0,Saint Vincent and Grenadines1998,,"373,619,852",3874,Generation X
+21722,Saint Vincent and Grenadines,1998,female,35-54 years,0,10094,0.0,Saint Vincent and Grenadines1998,,"373,619,852",3874,Boomers
+21723,Saint Vincent and Grenadines,1998,female,5-14 years,0,11738,0.0,Saint Vincent and Grenadines1998,,"373,619,852",3874,Millenials
+21724,Saint Vincent and Grenadines,1998,female,55-74 years,0,5226,0.0,Saint Vincent and Grenadines1998,,"373,619,852",3874,Silent
+21725,Saint Vincent and Grenadines,1998,female,75+ years,0,1810,0.0,Saint Vincent and Grenadines1998,,"373,619,852",3874,G.I. Generation
+21726,Saint Vincent and Grenadines,1998,male,15-24 years,0,11181,0.0,Saint Vincent and Grenadines1998,,"373,619,852",3874,Generation X
+21727,Saint Vincent and Grenadines,1998,male,5-14 years,0,11920,0.0,Saint Vincent and Grenadines1998,,"373,619,852",3874,Millenials
+21728,Saint Vincent and Grenadines,1999,male,35-54 years,4,11082,36.09,Saint Vincent and Grenadines1999,,"390,719,148",4041,Boomers
+21729,Saint Vincent and Grenadines,1999,male,55-74 years,1,4717,21.2,Saint Vincent and Grenadines1999,,"390,719,148",4041,Silent
+21730,Saint Vincent and Grenadines,1999,male,5-14 years,1,11747,8.51,Saint Vincent and Grenadines1999,,"390,719,148",4041,Millenials
+21731,Saint Vincent and Grenadines,1999,female,15-24 years,0,10747,0.0,Saint Vincent and Grenadines1999,,"390,719,148",4041,Generation X
+21732,Saint Vincent and Grenadines,1999,female,25-34 years,0,8186,0.0,Saint Vincent and Grenadines1999,,"390,719,148",4041,Generation X
+21733,Saint Vincent and Grenadines,1999,female,35-54 years,0,10547,0.0,Saint Vincent and Grenadines1999,,"390,719,148",4041,Boomers
+21734,Saint Vincent and Grenadines,1999,female,5-14 years,0,11554,0.0,Saint Vincent and Grenadines1999,,"390,719,148",4041,Millenials
+21735,Saint Vincent and Grenadines,1999,female,55-74 years,0,5187,0.0,Saint Vincent and Grenadines1999,,"390,719,148",4041,Silent
+21736,Saint Vincent and Grenadines,1999,female,75+ years,0,1840,0.0,Saint Vincent and Grenadines1999,,"390,719,148",4041,G.I. Generation
+21737,Saint Vincent and Grenadines,1999,male,15-24 years,0,11093,0.0,Saint Vincent and Grenadines1999,,"390,719,148",4041,Generation X
+21738,Saint Vincent and Grenadines,1999,male,25-34 years,0,8736,0.0,Saint Vincent and Grenadines1999,,"390,719,148",4041,Generation X
+21739,Saint Vincent and Grenadines,1999,male,75+ years,0,1249,0.0,Saint Vincent and Grenadines1999,,"390,719,148",4041,G.I. Generation
+21740,Saint Vincent and Grenadines,2000,male,35-54 years,3,11565,25.94,Saint Vincent and Grenadines2000,0.674,"396,270,000",4087,Boomers
+21741,Saint Vincent and Grenadines,2000,male,15-24 years,2,11006,18.17,Saint Vincent and Grenadines2000,0.674,"396,270,000",4087,Generation X
+21742,Saint Vincent and Grenadines,2000,female,15-24 years,0,10682,0.0,Saint Vincent and Grenadines2000,0.674,"396,270,000",4087,Generation X
+21743,Saint Vincent and Grenadines,2000,female,25-34 years,0,8075,0.0,Saint Vincent and Grenadines2000,0.674,"396,270,000",4087,Generation X
+21744,Saint Vincent and Grenadines,2000,female,35-54 years,0,10952,0.0,Saint Vincent and Grenadines2000,0.674,"396,270,000",4087,Boomers
+21745,Saint Vincent and Grenadines,2000,female,5-14 years,0,11396,0.0,Saint Vincent and Grenadines2000,0.674,"396,270,000",4087,Millenials
+21746,Saint Vincent and Grenadines,2000,female,55-74 years,0,5182,0.0,Saint Vincent and Grenadines2000,0.674,"396,270,000",4087,Silent
+21747,Saint Vincent and Grenadines,2000,female,75+ years,0,1861,0.0,Saint Vincent and Grenadines2000,0.674,"396,270,000",4087,G.I. Generation
+21748,Saint Vincent and Grenadines,2000,male,25-34 years,0,8625,0.0,Saint Vincent and Grenadines2000,0.674,"396,270,000",4087,Generation X
+21749,Saint Vincent and Grenadines,2000,male,5-14 years,0,11593,0.0,Saint Vincent and Grenadines2000,0.674,"396,270,000",4087,Millenials
+21750,Saint Vincent and Grenadines,2000,male,55-74 years,0,4776,0.0,Saint Vincent and Grenadines2000,0.674,"396,270,000",4087,Silent
+21751,Saint Vincent and Grenadines,2000,male,75+ years,0,1243,0.0,Saint Vincent and Grenadines2000,0.674,"396,270,000",4087,G.I. Generation
+21752,Saint Vincent and Grenadines,2001,male,75+ years,1,1260,79.37,Saint Vincent and Grenadines2001,,"430,040,370",4418,Silent
+21753,Saint Vincent and Grenadines,2001,male,35-54 years,3,11990,25.02,Saint Vincent and Grenadines2001,,"430,040,370",4418,Boomers
+21754,Saint Vincent and Grenadines,2001,male,25-34 years,2,8657,23.1,Saint Vincent and Grenadines2001,,"430,040,370",4418,Generation X
+21755,Saint Vincent and Grenadines,2001,male,55-74 years,1,4798,20.84,Saint Vincent and Grenadines2001,,"430,040,370",4418,Silent
+21756,Saint Vincent and Grenadines,2001,female,25-34 years,1,8112,12.33,Saint Vincent and Grenadines2001,,"430,040,370",4418,Generation X
+21757,Saint Vincent and Grenadines,2001,female,15-24 years,0,10638,0.0,Saint Vincent and Grenadines2001,,"430,040,370",4418,Millenials
+21758,Saint Vincent and Grenadines,2001,female,35-54 years,0,11314,0.0,Saint Vincent and Grenadines2001,,"430,040,370",4418,Boomers
+21759,Saint Vincent and Grenadines,2001,female,5-14 years,0,11209,0.0,Saint Vincent and Grenadines2001,,"430,040,370",4418,Millenials
+21760,Saint Vincent and Grenadines,2001,female,55-74 years,0,5142,0.0,Saint Vincent and Grenadines2001,,"430,040,370",4418,Silent
+21761,Saint Vincent and Grenadines,2001,female,75+ years,0,1879,0.0,Saint Vincent and Grenadines2001,,"430,040,370",4418,Silent
+21762,Saint Vincent and Grenadines,2001,male,15-24 years,0,10929,0.0,Saint Vincent and Grenadines2001,,"430,040,370",4418,Millenials
+21763,Saint Vincent and Grenadines,2001,male,5-14 years,0,11413,0.0,Saint Vincent and Grenadines2001,,"430,040,370",4418,Millenials
+21764,Saint Vincent and Grenadines,2002,male,75+ years,2,1270,157.48,Saint Vincent and Grenadines2002,,"461,883,444",4723,Silent
+21765,Saint Vincent and Grenadines,2002,male,35-54 years,2,12383,16.15,Saint Vincent and Grenadines2002,,"461,883,444",4723,Boomers
+21766,Saint Vincent and Grenadines,2002,male,25-34 years,1,8713,11.48,Saint Vincent and Grenadines2002,,"461,883,444",4723,Generation X
+21767,Saint Vincent and Grenadines,2002,male,15-24 years,1,10839,9.23,Saint Vincent and Grenadines2002,,"461,883,444",4723,Millenials
+21768,Saint Vincent and Grenadines,2002,female,35-54 years,1,11640,8.59,Saint Vincent and Grenadines2002,,"461,883,444",4723,Boomers
+21769,Saint Vincent and Grenadines,2002,female,15-24 years,0,10586,0.0,Saint Vincent and Grenadines2002,,"461,883,444",4723,Millenials
+21770,Saint Vincent and Grenadines,2002,female,25-34 years,0,8183,0.0,Saint Vincent and Grenadines2002,,"461,883,444",4723,Generation X
+21771,Saint Vincent and Grenadines,2002,female,5-14 years,0,11047,0.0,Saint Vincent and Grenadines2002,,"461,883,444",4723,Millenials
+21772,Saint Vincent and Grenadines,2002,female,55-74 years,0,5140,0.0,Saint Vincent and Grenadines2002,,"461,883,444",4723,Silent
+21773,Saint Vincent and Grenadines,2002,female,75+ years,0,1887,0.0,Saint Vincent and Grenadines2002,,"461,883,444",4723,Silent
+21774,Saint Vincent and Grenadines,2002,male,5-14 years,0,11257,0.0,Saint Vincent and Grenadines2002,,"461,883,444",4723,Millenials
+21775,Saint Vincent and Grenadines,2002,male,55-74 years,0,4854,0.0,Saint Vincent and Grenadines2002,,"461,883,444",4723,Silent
+21776,Saint Vincent and Grenadines,2003,male,25-34 years,2,8774,22.79,Saint Vincent and Grenadines2003,,"481,806,296",4902,Generation X
+21777,Saint Vincent and Grenadines,2003,male,55-74 years,1,4931,20.28,Saint Vincent and Grenadines2003,,"481,806,296",4902,Silent
+21778,Saint Vincent and Grenadines,2003,male,35-54 years,1,12755,7.84,Saint Vincent and Grenadines2003,,"481,806,296",4902,Boomers
+21779,Saint Vincent and Grenadines,2003,female,15-24 years,0,10526,0.0,Saint Vincent and Grenadines2003,,"481,806,296",4902,Millenials
+21780,Saint Vincent and Grenadines,2003,female,25-34 years,0,8273,0.0,Saint Vincent and Grenadines2003,,"481,806,296",4902,Generation X
+21781,Saint Vincent and Grenadines,2003,female,35-54 years,0,11938,0.0,Saint Vincent and Grenadines2003,,"481,806,296",4902,Boomers
+21782,Saint Vincent and Grenadines,2003,female,5-14 years,0,10901,0.0,Saint Vincent and Grenadines2003,,"481,806,296",4902,Millenials
+21783,Saint Vincent and Grenadines,2003,female,55-74 years,0,5176,0.0,Saint Vincent and Grenadines2003,,"481,806,296",4902,Silent
+21784,Saint Vincent and Grenadines,2003,female,75+ years,0,1891,0.0,Saint Vincent and Grenadines2003,,"481,806,296",4902,Silent
+21785,Saint Vincent and Grenadines,2003,male,15-24 years,0,10742,0.0,Saint Vincent and Grenadines2003,,"481,806,296",4902,Millenials
+21786,Saint Vincent and Grenadines,2003,male,5-14 years,0,11110,0.0,Saint Vincent and Grenadines2003,,"481,806,296",4902,Millenials
+21787,Saint Vincent and Grenadines,2003,male,75+ years,0,1275,0.0,Saint Vincent and Grenadines2003,,"481,806,296",4902,Silent
+21788,Saint Vincent and Grenadines,2004,male,55-74 years,1,5030,19.88,Saint Vincent and Grenadines2004,,"521,975,111",5286,Silent
+21789,Saint Vincent and Grenadines,2004,male,35-54 years,2,13116,15.25,Saint Vincent and Grenadines2004,,"521,975,111",5286,Boomers
+21790,Saint Vincent and Grenadines,2004,male,25-34 years,1,8823,11.33,Saint Vincent and Grenadines2004,,"521,975,111",5286,Generation X
+21791,Saint Vincent and Grenadines,2004,female,15-24 years,0,10459,0.0,Saint Vincent and Grenadines2004,,"521,975,111",5286,Millenials
+21792,Saint Vincent and Grenadines,2004,female,25-34 years,0,8353,0.0,Saint Vincent and Grenadines2004,,"521,975,111",5286,Generation X
+21793,Saint Vincent and Grenadines,2004,female,35-54 years,0,12215,0.0,Saint Vincent and Grenadines2004,,"521,975,111",5286,Boomers
+21794,Saint Vincent and Grenadines,2004,female,5-14 years,0,10749,0.0,Saint Vincent and Grenadines2004,,"521,975,111",5286,Millenials
+21795,Saint Vincent and Grenadines,2004,female,55-74 years,0,5239,0.0,Saint Vincent and Grenadines2004,,"521,975,111",5286,Silent
+21796,Saint Vincent and Grenadines,2004,female,75+ years,0,1885,0.0,Saint Vincent and Grenadines2004,,"521,975,111",5286,Silent
+21797,Saint Vincent and Grenadines,2004,male,15-24 years,0,10640,0.0,Saint Vincent and Grenadines2004,,"521,975,111",5286,Millenials
+21798,Saint Vincent and Grenadines,2004,male,5-14 years,0,10961,0.0,Saint Vincent and Grenadines2004,,"521,975,111",5286,Millenials
+21799,Saint Vincent and Grenadines,2004,male,75+ years,0,1270,0.0,Saint Vincent and Grenadines2004,,"521,975,111",5286,Silent
+21800,Saint Vincent and Grenadines,2005,male,15-24 years,4,10542,37.94,Saint Vincent and Grenadines2005,0.6970000000000001,"550,728,667",5556,Millenials
+21801,Saint Vincent and Grenadines,2005,male,35-54 years,2,13458,14.86,Saint Vincent and Grenadines2005,0.6970000000000001,"550,728,667",5556,Boomers
+21802,Saint Vincent and Grenadines,2005,male,25-34 years,1,8846,11.3,Saint Vincent and Grenadines2005,0.6970000000000001,"550,728,667",5556,Generation X
+21803,Saint Vincent and Grenadines,2005,female,35-54 years,1,12482,8.01,Saint Vincent and Grenadines2005,0.6970000000000001,"550,728,667",5556,Boomers
+21804,Saint Vincent and Grenadines,2005,female,15-24 years,0,10390,0.0,Saint Vincent and Grenadines2005,0.6970000000000001,"550,728,667",5556,Millenials
+21805,Saint Vincent and Grenadines,2005,female,25-34 years,0,8413,0.0,Saint Vincent and Grenadines2005,0.6970000000000001,"550,728,667",5556,Generation X
+21806,Saint Vincent and Grenadines,2005,female,5-14 years,0,10587,0.0,Saint Vincent and Grenadines2005,0.6970000000000001,"550,728,667",5556,Millenials
+21807,Saint Vincent and Grenadines,2005,female,55-74 years,0,5331,0.0,Saint Vincent and Grenadines2005,0.6970000000000001,"550,728,667",5556,Silent
+21808,Saint Vincent and Grenadines,2005,female,75+ years,0,1869,0.0,Saint Vincent and Grenadines2005,0.6970000000000001,"550,728,667",5556,Silent
+21809,Saint Vincent and Grenadines,2005,male,5-14 years,0,10795,0.0,Saint Vincent and Grenadines2005,0.6970000000000001,"550,728,667",5556,Millenials
+21810,Saint Vincent and Grenadines,2005,male,55-74 years,0,5148,0.0,Saint Vincent and Grenadines2005,0.6970000000000001,"550,728,667",5556,Silent
+21811,Saint Vincent and Grenadines,2005,male,75+ years,0,1257,0.0,Saint Vincent and Grenadines2005,0.6970000000000001,"550,728,667",5556,Silent
+21812,Saint Vincent and Grenadines,2006,male,75+ years,1,1269,78.8,Saint Vincent and Grenadines2006,,"610,930,037",6142,Silent
+21813,Saint Vincent and Grenadines,2006,male,35-54 years,2,13702,14.6,Saint Vincent and Grenadines2006,,"610,930,037",6142,Boomers
+21814,Saint Vincent and Grenadines,2006,male,25-34 years,1,8894,11.24,Saint Vincent and Grenadines2006,,"610,930,037",6142,Generation X
+21815,Saint Vincent and Grenadines,2006,male,15-24 years,1,10473,9.55,Saint Vincent and Grenadines2006,,"610,930,037",6142,Millenials
+21816,Saint Vincent and Grenadines,2006,female,35-54 years,1,12698,7.88,Saint Vincent and Grenadines2006,,"610,930,037",6142,Boomers
+21817,Saint Vincent and Grenadines,2006,female,15-24 years,0,10320,0.0,Saint Vincent and Grenadines2006,,"610,930,037",6142,Millenials
+21818,Saint Vincent and Grenadines,2006,female,25-34 years,0,8494,0.0,Saint Vincent and Grenadines2006,,"610,930,037",6142,Generation X
+21819,Saint Vincent and Grenadines,2006,female,5-14 years,0,10460,0.0,Saint Vincent and Grenadines2006,,"610,930,037",6142,Millenials
+21820,Saint Vincent and Grenadines,2006,female,55-74 years,0,5404,0.0,Saint Vincent and Grenadines2006,,"610,930,037",6142,Silent
+21821,Saint Vincent and Grenadines,2006,female,75+ years,0,1857,0.0,Saint Vincent and Grenadines2006,,"610,930,037",6142,Silent
+21822,Saint Vincent and Grenadines,2006,male,5-14 years,0,10674,0.0,Saint Vincent and Grenadines2006,,"610,930,037",6142,Millenials
+21823,Saint Vincent and Grenadines,2006,male,55-74 years,0,5218,0.0,Saint Vincent and Grenadines2006,,"610,930,037",6142,Silent
+21824,Saint Vincent and Grenadines,2007,male,25-34 years,4,8927,44.81,Saint Vincent and Grenadines2007,,"651,833,333",6539,Generation X
+21825,Saint Vincent and Grenadines,2007,male,15-24 years,3,10403,28.84,Saint Vincent and Grenadines2007,,"651,833,333",6539,Millenials
+21826,Saint Vincent and Grenadines,2007,male,35-54 years,4,13920,28.74,Saint Vincent and Grenadines2007,,"651,833,333",6539,Boomers
+21827,Saint Vincent and Grenadines,2007,female,15-24 years,0,10243,0.0,Saint Vincent and Grenadines2007,,"651,833,333",6539,Millenials
+21828,Saint Vincent and Grenadines,2007,female,25-34 years,0,8564,0.0,Saint Vincent and Grenadines2007,,"651,833,333",6539,Generation X
+21829,Saint Vincent and Grenadines,2007,female,35-54 years,0,12889,0.0,Saint Vincent and Grenadines2007,,"651,833,333",6539,Boomers
+21830,Saint Vincent and Grenadines,2007,female,5-14 years,0,10307,0.0,Saint Vincent and Grenadines2007,,"651,833,333",6539,Generation Z
+21831,Saint Vincent and Grenadines,2007,female,55-74 years,0,5514,0.0,Saint Vincent and Grenadines2007,,"651,833,333",6539,Silent
+21832,Saint Vincent and Grenadines,2007,female,75+ years,0,1825,0.0,Saint Vincent and Grenadines2007,,"651,833,333",6539,Silent
+21833,Saint Vincent and Grenadines,2007,male,5-14 years,0,10526,0.0,Saint Vincent and Grenadines2007,,"651,833,333",6539,Generation Z
+21834,Saint Vincent and Grenadines,2007,male,55-74 years,0,5306,0.0,Saint Vincent and Grenadines2007,,"651,833,333",6539,Silent
+21835,Saint Vincent and Grenadines,2007,male,75+ years,0,1265,0.0,Saint Vincent and Grenadines2007,,"651,833,333",6539,Silent
+21836,Saint Vincent and Grenadines,2008,male,55-74 years,1,5420,18.45,Saint Vincent and Grenadines2008,,"695,428,852",6966,Silent
+21837,Saint Vincent and Grenadines,2008,male,35-54 years,2,14103,14.18,Saint Vincent and Grenadines2008,,"695,428,852",6966,Boomers
+21838,Saint Vincent and Grenadines,2008,female,35-54 years,1,13057,7.66,Saint Vincent and Grenadines2008,,"695,428,852",6966,Boomers
+21839,Saint Vincent and Grenadines,2008,female,15-24 years,0,10175,0.0,Saint Vincent and Grenadines2008,,"695,428,852",6966,Millenials
+21840,Saint Vincent and Grenadines,2008,female,25-34 years,0,8614,0.0,Saint Vincent and Grenadines2008,,"695,428,852",6966,Generation X
+21841,Saint Vincent and Grenadines,2008,female,5-14 years,0,10132,0.0,Saint Vincent and Grenadines2008,,"695,428,852",6966,Generation Z
+21842,Saint Vincent and Grenadines,2008,female,55-74 years,0,5642,0.0,Saint Vincent and Grenadines2008,,"695,428,852",6966,Silent
+21843,Saint Vincent and Grenadines,2008,female,75+ years,0,1792,0.0,Saint Vincent and Grenadines2008,,"695,428,852",6966,Silent
+21844,Saint Vincent and Grenadines,2008,male,15-24 years,0,10344,0.0,Saint Vincent and Grenadines2008,,"695,428,852",6966,Millenials
+21845,Saint Vincent and Grenadines,2008,male,25-34 years,0,8944,0.0,Saint Vincent and Grenadines2008,,"695,428,852",6966,Generation X
+21846,Saint Vincent and Grenadines,2008,male,5-14 years,0,10348,0.0,Saint Vincent and Grenadines2008,,"695,428,852",6966,Generation Z
+21847,Saint Vincent and Grenadines,2008,male,75+ years,0,1255,0.0,Saint Vincent and Grenadines2008,,"695,428,852",6966,Silent
+21848,Saint Vincent and Grenadines,2009,male,25-34 years,1,8944,11.18,Saint Vincent and Grenadines2009,,"674,922,481",6754,Generation X
+21849,Saint Vincent and Grenadines,2009,female,15-24 years,0,10126,0.0,Saint Vincent and Grenadines2009,,"674,922,481",6754,Millenials
+21850,Saint Vincent and Grenadines,2009,female,25-34 years,0,8643,0.0,Saint Vincent and Grenadines2009,,"674,922,481",6754,Generation X
+21851,Saint Vincent and Grenadines,2009,female,35-54 years,0,13206,0.0,Saint Vincent and Grenadines2009,,"674,922,481",6754,Boomers
+21852,Saint Vincent and Grenadines,2009,female,5-14 years,0,9944,0.0,Saint Vincent and Grenadines2009,,"674,922,481",6754,Generation Z
+21853,Saint Vincent and Grenadines,2009,female,55-74 years,0,5787,0.0,Saint Vincent and Grenadines2009,,"674,922,481",6754,Silent
+21854,Saint Vincent and Grenadines,2009,female,75+ years,0,1761,0.0,Saint Vincent and Grenadines2009,,"674,922,481",6754,Silent
+21855,Saint Vincent and Grenadines,2009,male,15-24 years,0,10305,0.0,Saint Vincent and Grenadines2009,,"674,922,481",6754,Millenials
+21856,Saint Vincent and Grenadines,2009,male,35-54 years,0,14258,0.0,Saint Vincent and Grenadines2009,,"674,922,481",6754,Boomers
+21857,Saint Vincent and Grenadines,2009,male,5-14 years,0,10156,0.0,Saint Vincent and Grenadines2009,,"674,922,481",6754,Generation Z
+21858,Saint Vincent and Grenadines,2009,male,55-74 years,0,5558,0.0,Saint Vincent and Grenadines2009,,"674,922,481",6754,Silent
+21859,Saint Vincent and Grenadines,2009,male,75+ years,0,1239,0.0,Saint Vincent and Grenadines2009,,"674,922,481",6754,Silent
+21860,Saint Vincent and Grenadines,2010,male,25-34 years,4,8930,44.79,Saint Vincent and Grenadines2010,0.711,"681,225,963",6809,Generation X
+21861,Saint Vincent and Grenadines,2010,male,5-14 years,1,9962,10.04,Saint Vincent and Grenadines2010,0.711,"681,225,963",6809,Generation Z
+21862,Saint Vincent and Grenadines,2010,female,15-24 years,0,10100,0.0,Saint Vincent and Grenadines2010,0.711,"681,225,963",6809,Millenials
+21863,Saint Vincent and Grenadines,2010,female,25-34 years,0,8656,0.0,Saint Vincent and Grenadines2010,0.711,"681,225,963",6809,Generation X
+21864,Saint Vincent and Grenadines,2010,female,35-54 years,0,13330,0.0,Saint Vincent and Grenadines2010,0.711,"681,225,963",6809,Generation X
+21865,Saint Vincent and Grenadines,2010,female,5-14 years,0,9754,0.0,Saint Vincent and Grenadines2010,0.711,"681,225,963",6809,Generation Z
+21866,Saint Vincent and Grenadines,2010,female,55-74 years,0,5951,0.0,Saint Vincent and Grenadines2010,0.711,"681,225,963",6809,Silent
+21867,Saint Vincent and Grenadines,2010,female,75+ years,0,1741,0.0,Saint Vincent and Grenadines2010,0.711,"681,225,963",6809,Silent
+21868,Saint Vincent and Grenadines,2010,male,15-24 years,0,10289,0.0,Saint Vincent and Grenadines2010,0.711,"681,225,963",6809,Millenials
+21869,Saint Vincent and Grenadines,2010,male,35-54 years,0,14386,0.0,Saint Vincent and Grenadines2010,0.711,"681,225,963",6809,Generation X
+21870,Saint Vincent and Grenadines,2010,male,55-74 years,0,5730,0.0,Saint Vincent and Grenadines2010,0.711,"681,225,963",6809,Silent
+21871,Saint Vincent and Grenadines,2010,male,75+ years,0,1221,0.0,Saint Vincent and Grenadines2010,0.711,"681,225,963",6809,Silent
+21872,Saint Vincent and Grenadines,2011,male,35-54 years,3,14471,20.73,Saint Vincent and Grenadines2011,0.713,"676,129,407",6759,Generation X
+21873,Saint Vincent and Grenadines,2011,female,55-74 years,1,6091,16.42,Saint Vincent and Grenadines2011,0.713,"676,129,407",6759,Boomers
+21874,Saint Vincent and Grenadines,2011,male,15-24 years,1,10177,9.83,Saint Vincent and Grenadines2011,0.713,"676,129,407",6759,Millenials
+21875,Saint Vincent and Grenadines,2011,female,15-24 years,0,9973,0.0,Saint Vincent and Grenadines2011,0.713,"676,129,407",6759,Millenials
+21876,Saint Vincent and Grenadines,2011,female,25-34 years,0,8686,0.0,Saint Vincent and Grenadines2011,0.713,"676,129,407",6759,Millenials
+21877,Saint Vincent and Grenadines,2011,female,35-54 years,0,13447,0.0,Saint Vincent and Grenadines2011,0.713,"676,129,407",6759,Generation X
+21878,Saint Vincent and Grenadines,2011,female,5-14 years,0,9530,0.0,Saint Vincent and Grenadines2011,0.713,"676,129,407",6759,Generation Z
+21879,Saint Vincent and Grenadines,2011,female,75+ years,0,1807,0.0,Saint Vincent and Grenadines2011,0.713,"676,129,407",6759,Silent
+21880,Saint Vincent and Grenadines,2011,male,25-34 years,0,8921,0.0,Saint Vincent and Grenadines2011,0.713,"676,129,407",6759,Millenials
+21881,Saint Vincent and Grenadines,2011,male,5-14 years,0,9742,0.0,Saint Vincent and Grenadines2011,0.713,"676,129,407",6759,Generation Z
+21882,Saint Vincent and Grenadines,2011,male,55-74 years,0,5909,0.0,Saint Vincent and Grenadines2011,0.713,"676,129,407",6759,Boomers
+21883,Saint Vincent and Grenadines,2011,male,75+ years,0,1283,0.0,Saint Vincent and Grenadines2011,0.713,"676,129,407",6759,Silent
+21884,Saint Vincent and Grenadines,2012,male,25-34 years,2,8898,22.48,Saint Vincent and Grenadines2012,0.715,"692,933,741",6918,Millenials
+21885,Saint Vincent and Grenadines,2012,male,15-24 years,2,10078,19.85,Saint Vincent and Grenadines2012,0.715,"692,933,741",6918,Millenials
+21886,Saint Vincent and Grenadines,2012,male,55-74 years,1,6126,16.32,Saint Vincent and Grenadines2012,0.715,"692,933,741",6918,Boomers
+21887,Saint Vincent and Grenadines,2012,female,35-54 years,2,13558,14.75,Saint Vincent and Grenadines2012,0.715,"692,933,741",6918,Generation X
+21888,Saint Vincent and Grenadines,2012,male,35-54 years,2,14545,13.75,Saint Vincent and Grenadines2012,0.715,"692,933,741",6918,Generation X
+21889,Saint Vincent and Grenadines,2012,female,15-24 years,1,9859,10.14,Saint Vincent and Grenadines2012,0.715,"692,933,741",6918,Millenials
+21890,Saint Vincent and Grenadines,2012,female,25-34 years,0,8700,0.0,Saint Vincent and Grenadines2012,0.715,"692,933,741",6918,Millenials
+21891,Saint Vincent and Grenadines,2012,female,5-14 years,0,9355,0.0,Saint Vincent and Grenadines2012,0.715,"692,933,741",6918,Generation Z
+21892,Saint Vincent and Grenadines,2012,female,55-74 years,0,6253,0.0,Saint Vincent and Grenadines2012,0.715,"692,933,741",6918,Boomers
+21893,Saint Vincent and Grenadines,2012,female,75+ years,0,1881,0.0,Saint Vincent and Grenadines2012,0.715,"692,933,741",6918,Silent
+21894,Saint Vincent and Grenadines,2012,male,5-14 years,0,9568,0.0,Saint Vincent and Grenadines2012,0.715,"692,933,741",6918,Generation Z
+21895,Saint Vincent and Grenadines,2012,male,75+ years,0,1346,0.0,Saint Vincent and Grenadines2012,0.715,"692,933,741",6918,Silent
+21896,Saint Vincent and Grenadines,2013,female,15-24 years,0,9748,0.0,Saint Vincent and Grenadines2013,0.7170000000000001,"721,207,148",7183,Millenials
+21897,Saint Vincent and Grenadines,2013,female,25-34 years,0,8694,0.0,Saint Vincent and Grenadines2013,0.7170000000000001,"721,207,148",7183,Millenials
+21898,Saint Vincent and Grenadines,2013,female,35-54 years,0,13666,0.0,Saint Vincent and Grenadines2013,0.7170000000000001,"721,207,148",7183,Generation X
+21899,Saint Vincent and Grenadines,2013,female,5-14 years,0,9231,0.0,Saint Vincent and Grenadines2013,0.7170000000000001,"721,207,148",7183,Generation Z
+21900,Saint Vincent and Grenadines,2013,female,55-74 years,0,6444,0.0,Saint Vincent and Grenadines2013,0.7170000000000001,"721,207,148",7183,Boomers
+21901,Saint Vincent and Grenadines,2013,female,75+ years,0,1948,0.0,Saint Vincent and Grenadines2013,0.7170000000000001,"721,207,148",7183,Silent
+21902,Saint Vincent and Grenadines,2013,male,15-24 years,0,9986,0.0,Saint Vincent and Grenadines2013,0.7170000000000001,"721,207,148",7183,Millenials
+21903,Saint Vincent and Grenadines,2013,male,25-34 years,0,8863,0.0,Saint Vincent and Grenadines2013,0.7170000000000001,"721,207,148",7183,Millenials
+21904,Saint Vincent and Grenadines,2013,male,35-54 years,0,14602,0.0,Saint Vincent and Grenadines2013,0.7170000000000001,"721,207,148",7183,Generation X
+21905,Saint Vincent and Grenadines,2013,male,5-14 years,0,9440,0.0,Saint Vincent and Grenadines2013,0.7170000000000001,"721,207,148",7183,Generation Z
+21906,Saint Vincent and Grenadines,2013,male,55-74 years,0,6377,0.0,Saint Vincent and Grenadines2013,0.7170000000000001,"721,207,148",7183,Boomers
+21907,Saint Vincent and Grenadines,2013,male,75+ years,0,1399,0.0,Saint Vincent and Grenadines2013,0.7170000000000001,"721,207,148",7183,Silent
+21908,Saint Vincent and Grenadines,2014,male,75+ years,1,1440,69.44,Saint Vincent and Grenadines2014,0.72,"725,185,185",7203,Silent
+21909,Saint Vincent and Grenadines,2014,male,25-34 years,1,8817,11.34,Saint Vincent and Grenadines2014,0.72,"725,185,185",7203,Millenials
+21910,Saint Vincent and Grenadines,2014,female,15-24 years,0,9636,0.0,Saint Vincent and Grenadines2014,0.72,"725,185,185",7203,Millenials
+21911,Saint Vincent and Grenadines,2014,female,25-34 years,0,8665,0.0,Saint Vincent and Grenadines2014,0.72,"725,185,185",7203,Millenials
+21912,Saint Vincent and Grenadines,2014,female,35-54 years,0,13751,0.0,Saint Vincent and Grenadines2014,0.72,"725,185,185",7203,Generation X
+21913,Saint Vincent and Grenadines,2014,female,5-14 years,0,9144,0.0,Saint Vincent and Grenadines2014,0.72,"725,185,185",7203,Generation Z
+21914,Saint Vincent and Grenadines,2014,female,55-74 years,0,6689,0.0,Saint Vincent and Grenadines2014,0.72,"725,185,185",7203,Boomers
+21915,Saint Vincent and Grenadines,2014,female,75+ years,0,1991,0.0,Saint Vincent and Grenadines2014,0.72,"725,185,185",7203,Silent
+21916,Saint Vincent and Grenadines,2014,male,15-24 years,0,9888,0.0,Saint Vincent and Grenadines2014,0.72,"725,185,185",7203,Millenials
+21917,Saint Vincent and Grenadines,2014,male,35-54 years,0,14629,0.0,Saint Vincent and Grenadines2014,0.72,"725,185,185",7203,Generation X
+21918,Saint Vincent and Grenadines,2014,male,5-14 years,0,9346,0.0,Saint Vincent and Grenadines2014,0.72,"725,185,185",7203,Generation Z
+21919,Saint Vincent and Grenadines,2014,male,55-74 years,0,6680,0.0,Saint Vincent and Grenadines2014,0.72,"725,185,185",7203,Boomers
+21920,Saint Vincent and Grenadines,2015,female,5-14 years,1,9071,11.02,Saint Vincent and Grenadines2015,,"756,666,667",7496,Generation Z
+21921,Saint Vincent and Grenadines,2015,male,15-24 years,1,9783,10.22,Saint Vincent and Grenadines2015,,"756,666,667",7496,Millenials
+21922,Saint Vincent and Grenadines,2015,male,35-54 years,1,14619,6.84,Saint Vincent and Grenadines2015,,"756,666,667",7496,Generation X
+21923,Saint Vincent and Grenadines,2015,female,15-24 years,0,9515,0.0,Saint Vincent and Grenadines2015,,"756,666,667",7496,Millenials
+21924,Saint Vincent and Grenadines,2015,female,25-34 years,0,8622,0.0,Saint Vincent and Grenadines2015,,"756,666,667",7496,Millenials
+21925,Saint Vincent and Grenadines,2015,female,35-54 years,0,13809,0.0,Saint Vincent and Grenadines2015,,"756,666,667",7496,Generation X
+21926,Saint Vincent and Grenadines,2015,female,55-74 years,0,6999,0.0,Saint Vincent and Grenadines2015,,"756,666,667",7496,Boomers
+21927,Saint Vincent and Grenadines,2015,female,75+ years,0,2012,0.0,Saint Vincent and Grenadines2015,,"756,666,667",7496,Silent
+21928,Saint Vincent and Grenadines,2015,male,25-34 years,0,8762,0.0,Saint Vincent and Grenadines2015,,"756,666,667",7496,Millenials
+21929,Saint Vincent and Grenadines,2015,male,5-14 years,0,9266,0.0,Saint Vincent and Grenadines2015,,"756,666,667",7496,Generation Z
+21930,Saint Vincent and Grenadines,2015,male,55-74 years,0,7031,0.0,Saint Vincent and Grenadines2015,,"756,666,667",7496,Boomers
+21931,Saint Vincent and Grenadines,2015,male,75+ years,0,1459,0.0,Saint Vincent and Grenadines2015,,"756,666,667",7496,Silent

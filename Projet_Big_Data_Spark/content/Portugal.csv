@@ -1,0 +1,325 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+19356,Portugal,1985,male,75+ years,89,160554,55.43,Portugal1985,0.6759999999999999,"27,118,476,174",2912,G.I. Generation
+19357,Portugal,1985,male,55-74 years,245,805542,30.41,Portugal1985,0.6759999999999999,"27,118,476,174",2912,G.I. Generation
+19358,Portugal,1985,male,35-54 years,185,1103803,16.76,Portugal1985,0.6759999999999999,"27,118,476,174",2912,Silent
+19359,Portugal,1985,female,75+ years,39,288221,13.53,Portugal1985,0.6759999999999999,"27,118,476,174",2912,G.I. Generation
+19360,Portugal,1985,male,25-34 years,87,703271,12.37,Portugal1985,0.6759999999999999,"27,118,476,174",2912,Boomers
+19361,Portugal,1985,female,55-74 years,98,982911,9.97,Portugal1985,0.6759999999999999,"27,118,476,174",2912,G.I. Generation
+19362,Portugal,1985,male,15-24 years,81,849013,9.54,Portugal1985,0.6759999999999999,"27,118,476,174",2912,Generation X
+19363,Portugal,1985,female,35-54 years,77,1216115,6.33,Portugal1985,0.6759999999999999,"27,118,476,174",2912,Silent
+19364,Portugal,1985,female,15-24 years,41,832177,4.93,Portugal1985,0.6759999999999999,"27,118,476,174",2912,Generation X
+19365,Portugal,1985,female,25-34 years,31,712806,4.35,Portugal1985,0.6759999999999999,"27,118,476,174",2912,Boomers
+19366,Portugal,1985,male,5-14 years,6,846549,0.71,Portugal1985,0.6759999999999999,"27,118,476,174",2912,Generation X
+19367,Portugal,1985,female,5-14 years,4,812968,0.49,Portugal1985,0.6759999999999999,"27,118,476,174",2912,Generation X
+19368,Portugal,1986,male,75+ years,111,167563,66.24,Portugal1986,,"38,749,715,722",4145,G.I. Generation
+19369,Portugal,1986,male,55-74 years,234,815490,28.69,Portugal1986,,"38,749,715,722",4145,G.I. Generation
+19370,Portugal,1986,male,35-54 years,195,1114186,17.5,Portugal1986,,"38,749,715,722",4145,Silent
+19371,Portugal,1986,female,75+ years,36,298812,12.05,Portugal1986,,"38,749,715,722",4145,G.I. Generation
+19372,Portugal,1986,female,55-74 years,93,992408,9.37,Portugal1986,,"38,749,715,722",4145,G.I. Generation
+19373,Portugal,1986,male,25-34 years,65,713499,9.11,Portugal1986,,"38,749,715,722",4145,Boomers
+19374,Portugal,1986,male,15-24 years,61,842205,7.24,Portugal1986,,"38,749,715,722",4145,Generation X
+19375,Portugal,1986,female,35-54 years,74,1221937,6.06,Portugal1986,,"38,749,715,722",4145,Silent
+19376,Portugal,1986,female,25-34 years,32,723861,4.42,Portugal1986,,"38,749,715,722",4145,Boomers
+19377,Portugal,1986,female,15-24 years,31,825030,3.76,Portugal1986,,"38,749,715,722",4145,Generation X
+19378,Portugal,1986,male,5-14 years,6,833510,0.72,Portugal1986,,"38,749,715,722",4145,Generation X
+19379,Portugal,1986,female,5-14 years,3,800747,0.37,Portugal1986,,"38,749,715,722",4145,Generation X
+19380,Portugal,1987,male,75+ years,121,174464,69.36,Portugal1987,,"48,187,667,853",5138,G.I. Generation
+19381,Portugal,1987,male,55-74 years,225,827812,27.18,Portugal1987,,"48,187,667,853",5138,G.I. Generation
+19382,Portugal,1987,male,35-54 years,190,1126680,16.86,Portugal1987,,"48,187,667,853",5138,Silent
+19383,Portugal,1987,female,75+ years,44,308299,14.27,Portugal1987,,"48,187,667,853",5138,G.I. Generation
+19384,Portugal,1987,male,25-34 years,90,719493,12.51,Portugal1987,,"48,187,667,853",5138,Boomers
+19385,Portugal,1987,male,15-24 years,80,833470,9.6,Portugal1987,,"48,187,667,853",5138,Generation X
+19386,Portugal,1987,female,55-74 years,79,1003976,7.87,Portugal1987,,"48,187,667,853",5138,G.I. Generation
+19387,Portugal,1987,female,35-54 years,69,1230247,5.61,Portugal1987,,"48,187,667,853",5138,Silent
+19388,Portugal,1987,female,25-34 years,33,731428,4.51,Portugal1987,,"48,187,667,853",5138,Boomers
+19389,Portugal,1987,female,15-24 years,24,816075,2.94,Portugal1987,,"48,187,667,853",5138,Generation X
+19390,Portugal,1987,male,5-14 years,3,819857,0.37,Portugal1987,,"48,187,667,853",5138,Generation X
+19391,Portugal,1987,female,5-14 years,2,787188,0.25,Portugal1987,,"48,187,667,853",5138,Generation X
+19392,Portugal,1988,male,75+ years,94,181135,51.89,Portugal1988,,"56,352,797,354",5995,G.I. Generation
+19393,Portugal,1988,male,55-74 years,231,841098,27.46,Portugal1988,,"56,352,797,354",5995,G.I. Generation
+19394,Portugal,1988,male,35-54 years,171,1140322,15.0,Portugal1988,,"56,352,797,354",5995,Silent
+19395,Portugal,1988,female,75+ years,31,317051,9.78,Portugal1988,,"56,352,797,354",5995,G.I. Generation
+19396,Portugal,1988,male,25-34 years,67,721919,9.28,Portugal1988,,"56,352,797,354",5995,Boomers
+19397,Portugal,1988,female,55-74 years,77,1016425,7.58,Portugal1988,,"56,352,797,354",5995,G.I. Generation
+19398,Portugal,1988,male,15-24 years,56,825467,6.78,Portugal1988,,"56,352,797,354",5995,Generation X
+19399,Portugal,1988,female,35-54 years,39,1239967,3.15,Portugal1988,,"56,352,797,354",5995,Silent
+19400,Portugal,1988,female,15-24 years,25,807953,3.09,Portugal1988,,"56,352,797,354",5995,Generation X
+19401,Portugal,1988,female,25-34 years,21,735778,2.85,Portugal1988,,"56,352,797,354",5995,Boomers
+19402,Portugal,1988,male,5-14 years,4,803134,0.5,Portugal1988,,"56,352,797,354",5995,Generation X
+19403,Portugal,1988,female,5-14 years,3,770232,0.39,Portugal1988,,"56,352,797,354",5995,Generation X
+19404,Portugal,1989,male,75+ years,95,188250,50.46,Portugal1989,,"60,600,056,659",6436,G.I. Generation
+19405,Portugal,1989,male,55-74 years,207,854371,24.23,Portugal1989,,"60,600,056,659",6436,G.I. Generation
+19406,Portugal,1989,female,75+ years,40,325797,12.28,Portugal1989,,"60,600,056,659",6436,G.I. Generation
+19407,Portugal,1989,male,25-34 years,80,719910,11.11,Portugal1989,,"60,600,056,659",6436,Boomers
+19408,Portugal,1989,male,35-54 years,108,1156015,9.34,Portugal1989,,"60,600,056,659",6436,Silent
+19409,Portugal,1989,female,55-74 years,77,1028424,7.49,Portugal1989,,"60,600,056,659",6436,G.I. Generation
+19410,Portugal,1989,male,15-24 years,58,820559,7.07,Portugal1989,,"60,600,056,659",6436,Generation X
+19411,Portugal,1989,female,35-54 years,46,1251913,3.67,Portugal1989,,"60,600,056,659",6436,Silent
+19412,Portugal,1989,female,15-24 years,18,802614,2.24,Portugal1989,,"60,600,056,659",6436,Generation X
+19413,Portugal,1989,female,25-34 years,14,736665,1.9,Portugal1989,,"60,600,056,659",6436,Boomers
+19414,Portugal,1989,female,5-14 years,3,748772,0.4,Portugal1989,,"60,600,056,659",6436,Generation X
+19415,Portugal,1989,male,5-14 years,1,781980,0.13,Portugal1989,,"60,600,056,659",6436,Generation X
+19416,Portugal,1990,male,75+ years,111,195284,56.84,Portugal1990,0.71,"78,721,607,509",8356,G.I. Generation
+19417,Portugal,1990,male,55-74 years,207,869989,23.79,Portugal1990,0.71,"78,721,607,509",8356,G.I. Generation
+19418,Portugal,1990,female,75+ years,53,332685,15.93,Portugal1990,0.71,"78,721,607,509",8356,G.I. Generation
+19419,Portugal,1990,male,25-34 years,106,712455,14.88,Portugal1990,0.71,"78,721,607,509",8356,Boomers
+19420,Portugal,1990,male,35-54 years,151,1171924,12.88,Portugal1990,0.71,"78,721,607,509",8356,Silent
+19421,Portugal,1990,male,15-24 years,62,821204,7.55,Portugal1990,0.71,"78,721,607,509",8356,Generation X
+19422,Portugal,1990,female,55-74 years,68,1042954,6.52,Portugal1990,0.71,"78,721,607,509",8356,G.I. Generation
+19423,Portugal,1990,female,35-54 years,55,1264949,4.35,Portugal1990,0.71,"78,721,607,509",8356,Silent
+19424,Portugal,1990,female,25-34 years,27,732012,3.69,Portugal1990,0.71,"78,721,607,509",8356,Boomers
+19425,Portugal,1990,female,15-24 years,25,802513,3.12,Portugal1990,0.71,"78,721,607,509",8356,Generation X
+19426,Portugal,1990,male,5-14 years,5,753794,0.66,Portugal1990,0.71,"78,721,607,509",8356,Generation X
+19427,Portugal,1990,female,5-14 years,0,721051,0.0,Portugal1990,0.71,"78,721,607,509",8356,Generation X
+19428,Portugal,1991,male,75+ years,143,200213,71.42,Portugal1991,,"89,242,382,961",9483,G.I. Generation
+19429,Portugal,1991,male,55-74 years,224,883383,25.36,Portugal1991,,"89,242,382,961",9483,Silent
+19430,Portugal,1991,male,25-34 years,126,710104,17.74,Portugal1991,,"89,242,382,961",9483,Boomers
+19431,Portugal,1991,male,35-54 years,156,1181062,13.21,Portugal1991,,"89,242,382,961",9483,Boomers
+19432,Portugal,1991,female,75+ years,36,337928,10.65,Portugal1991,,"89,242,382,961",9483,G.I. Generation
+19433,Portugal,1991,female,55-74 years,86,1057252,8.13,Portugal1991,,"89,242,382,961",9483,Silent
+19434,Portugal,1991,male,15-24 years,58,823743,7.04,Portugal1991,,"89,242,382,961",9483,Generation X
+19435,Portugal,1991,female,35-54 years,63,1272662,4.95,Portugal1991,,"89,242,382,961",9483,Boomers
+19436,Portugal,1991,female,25-34 years,29,729991,3.97,Portugal1991,,"89,242,382,961",9483,Boomers
+19437,Portugal,1991,female,15-24 years,17,804231,2.11,Portugal1991,,"89,242,382,961",9483,Generation X
+19438,Portugal,1991,female,5-14 years,3,689186,0.44,Portugal1991,,"89,242,382,961",9483,Millenials
+19439,Portugal,1991,male,5-14 years,1,720752,0.14,Portugal1991,,"89,242,382,961",9483,Millenials
+19440,Portugal,1992,male,75+ years,126,204104,61.73,Portugal1992,,"107,602,689,041",11445,G.I. Generation
+19441,Portugal,1992,male,55-74 years,214,892967,23.97,Portugal1992,,"107,602,689,041",11445,Silent
+19442,Portugal,1992,male,25-34 years,93,714020,13.02,Portugal1992,,"107,602,689,041",11445,Boomers
+19443,Portugal,1992,male,35-54 years,145,1188870,12.2,Portugal1992,,"107,602,689,041",11445,Boomers
+19444,Portugal,1992,female,75+ years,40,344289,11.62,Portugal1992,,"107,602,689,041",11445,G.I. Generation
+19445,Portugal,1992,female,55-74 years,84,1069050,7.86,Portugal1992,,"107,602,689,041",11445,Silent
+19446,Portugal,1992,male,15-24 years,47,823502,5.71,Portugal1992,,"107,602,689,041",11445,Generation X
+19447,Portugal,1992,female,35-54 years,62,1279526,4.85,Portugal1992,,"107,602,689,041",11445,Boomers
+19448,Portugal,1992,female,25-34 years,33,732876,4.5,Portugal1992,,"107,602,689,041",11445,Boomers
+19449,Portugal,1992,female,15-24 years,17,803379,2.12,Portugal1992,,"107,602,689,041",11445,Generation X
+19450,Portugal,1992,male,5-14 years,5,689877,0.72,Portugal1992,,"107,602,689,041",11445,Millenials
+19451,Portugal,1992,female,5-14 years,0,659097,0.0,Portugal1992,,"107,602,689,041",11445,Millenials
+19452,Portugal,1993,male,75+ years,99,206778,47.88,Portugal1993,,"95,019,103,603",10098,G.I. Generation
+19453,Portugal,1993,male,55-74 years,232,903714,25.67,Portugal1993,,"95,019,103,603",10098,Silent
+19454,Portugal,1993,male,35-54 years,143,1200800,11.91,Portugal1993,,"95,019,103,603",10098,Boomers
+19455,Portugal,1993,male,25-34 years,74,719282,10.29,Portugal1993,,"95,019,103,603",10098,Boomers
+19456,Portugal,1993,female,75+ years,34,349176,9.74,Portugal1993,,"95,019,103,603",10098,G.I. Generation
+19457,Portugal,1993,female,55-74 years,68,1082362,6.28,Portugal1993,,"95,019,103,603",10098,Silent
+19458,Portugal,1993,male,15-24 years,36,820793,4.39,Portugal1993,,"95,019,103,603",10098,Generation X
+19459,Portugal,1993,female,35-54 years,51,1290364,3.95,Portugal1993,,"95,019,103,603",10098,Boomers
+19460,Portugal,1993,female,25-34 years,24,736460,3.26,Portugal1993,,"95,019,103,603",10098,Boomers
+19461,Portugal,1993,female,15-24 years,16,800378,2.0,Portugal1993,,"95,019,103,603",10098,Generation X
+19462,Portugal,1993,male,5-14 years,2,665003,0.3,Portugal1993,,"95,019,103,603",10098,Millenials
+19463,Portugal,1993,female,5-14 years,1,634972,0.16,Portugal1993,,"95,019,103,603",10098,Millenials
+19464,Portugal,1994,male,75+ years,99,210020,47.14,Portugal1994,,"99,698,453,261",10566,G.I. Generation
+19465,Portugal,1994,male,55-74 years,198,914769,21.64,Portugal1994,,"99,698,453,261",10566,Silent
+19466,Portugal,1994,male,35-54 years,159,1215121,13.09,Portugal1994,,"99,698,453,261",10566,Boomers
+19467,Portugal,1994,male,25-34 years,87,726847,11.97,Portugal1994,,"99,698,453,261",10566,Boomers
+19468,Portugal,1994,female,75+ years,41,354798,11.56,Portugal1994,,"99,698,453,261",10566,G.I. Generation
+19469,Portugal,1994,female,55-74 years,62,1095880,5.66,Portugal1994,,"99,698,453,261",10566,Silent
+19470,Portugal,1994,male,15-24 years,40,816152,4.9,Portugal1994,,"99,698,453,261",10566,Generation X
+19471,Portugal,1994,female,35-54 years,40,1303044,3.07,Portugal1994,,"99,698,453,261",10566,Boomers
+19472,Portugal,1994,female,25-34 years,17,741575,2.29,Portugal1994,,"99,698,453,261",10566,Boomers
+19473,Portugal,1994,female,15-24 years,15,795915,1.88,Portugal1994,,"99,698,453,261",10566,Generation X
+19474,Portugal,1994,male,5-14 years,4,645578,0.62,Portugal1994,,"99,698,453,261",10566,Millenials
+19475,Portugal,1994,female,5-14 years,0,616310,0.0,Portugal1994,,"99,698,453,261",10566,Millenials
+19476,Portugal,1995,male,75+ years,105,217126,48.36,Portugal1995,0.759,"118,133,634,072",12469,G.I. Generation
+19477,Portugal,1995,male,55-74 years,205,922012,22.23,Portugal1995,0.759,"118,133,634,072",12469,Silent
+19478,Portugal,1995,female,75+ years,45,365693,12.31,Portugal1995,0.759,"118,133,634,072",12469,G.I. Generation
+19479,Portugal,1995,male,35-54 years,143,1234099,11.59,Portugal1995,0.759,"118,133,634,072",12469,Boomers
+19480,Portugal,1995,male,25-34 years,79,734449,10.76,Portugal1995,0.759,"118,133,634,072",12469,Generation X
+19481,Portugal,1995,female,55-74 years,75,1103607,6.8,Portugal1995,0.759,"118,133,634,072",12469,Silent
+19482,Portugal,1995,male,15-24 years,48,810241,5.92,Portugal1995,0.759,"118,133,634,072",12469,Generation X
+19483,Portugal,1995,female,35-54 years,61,1319819,4.62,Portugal1995,0.759,"118,133,634,072",12469,Boomers
+19484,Portugal,1995,female,15-24 years,24,790668,3.04,Portugal1995,0.759,"118,133,634,072",12469,Generation X
+19485,Portugal,1995,female,25-34 years,21,746855,2.81,Portugal1995,0.759,"118,133,634,072",12469,Generation X
+19486,Portugal,1995,male,5-14 years,2,628984,0.32,Portugal1995,0.759,"118,133,634,072",12469,Millenials
+19487,Portugal,1995,female,5-14 years,1,600291,0.17,Portugal1995,0.759,"118,133,634,072",12469,Millenials
+19488,Portugal,1996,male,75+ years,125,225418,55.45,Portugal1996,,"122,629,812,841",12887,G.I. Generation
+19489,Portugal,1996,male,55-74 years,168,925062,18.16,Portugal1996,,"122,629,812,841",12887,Silent
+19490,Portugal,1996,female,75+ years,39,377816,10.32,Portugal1996,,"122,629,812,841",12887,G.I. Generation
+19491,Portugal,1996,male,35-54 years,112,1257099,8.91,Portugal1996,,"122,629,812,841",12887,Boomers
+19492,Portugal,1996,male,25-34 years,52,742474,7.0,Portugal1996,,"122,629,812,841",12887,Generation X
+19493,Portugal,1996,female,55-74 years,65,1106628,5.87,Portugal1996,,"122,629,812,841",12887,Silent
+19494,Portugal,1996,male,15-24 years,34,802017,4.24,Portugal1996,,"122,629,812,841",12887,Generation X
+19495,Portugal,1996,female,35-54 years,32,1341116,2.39,Portugal1996,,"122,629,812,841",12887,Boomers
+19496,Portugal,1996,female,25-34 years,13,752776,1.73,Portugal1996,,"122,629,812,841",12887,Generation X
+19497,Portugal,1996,female,15-24 years,12,782814,1.53,Portugal1996,,"122,629,812,841",12887,Generation X
+19498,Portugal,1996,female,5-14 years,1,587063,0.17,Portugal1996,,"122,629,812,841",12887,Millenials
+19499,Portugal,1996,male,5-14 years,0,615677,0.0,Portugal1996,,"122,629,812,841",12887,Millenials
+19500,Portugal,1997,male,75+ years,104,233341,44.57,Portugal1997,,"117,046,198,971",12237,G.I. Generation
+19501,Portugal,1997,male,55-74 years,168,928588,18.09,Portugal1997,,"117,046,198,971",12237,Silent
+19502,Portugal,1997,male,25-34 years,66,750974,8.79,Portugal1997,,"117,046,198,971",12237,Generation X
+19503,Portugal,1997,male,35-54 years,110,1281488,8.58,Portugal1997,,"117,046,198,971",12237,Boomers
+19504,Portugal,1997,female,75+ years,26,389094,6.68,Portugal1997,,"117,046,198,971",12237,G.I. Generation
+19505,Portugal,1997,female,55-74 years,56,1110808,5.04,Portugal1997,,"117,046,198,971",12237,Silent
+19506,Portugal,1997,male,15-24 years,34,792256,4.29,Portugal1997,,"117,046,198,971",12237,Generation X
+19507,Portugal,1997,female,35-54 years,40,1364112,2.93,Portugal1997,,"117,046,198,971",12237,Boomers
+19508,Portugal,1997,female,25-34 years,13,759306,1.71,Portugal1997,,"117,046,198,971",12237,Generation X
+19509,Portugal,1997,female,15-24 years,9,772813,1.16,Portugal1997,,"117,046,198,971",12237,Generation X
+19510,Portugal,1997,female,5-14 years,1,576490,0.17,Portugal1997,,"117,046,198,971",12237,Millenials
+19511,Portugal,1997,male,5-14 years,1,605309,0.17,Portugal1997,,"117,046,198,971",12237,Millenials
+19512,Portugal,1998,male,75+ years,84,241639,34.76,Portugal1998,,"123,981,736,420",12892,G.I. Generation
+19513,Portugal,1998,male,55-74 years,153,934335,16.38,Portugal1998,,"123,981,736,420",12892,Silent
+19514,Portugal,1998,female,75+ years,34,401444,8.47,Portugal1998,,"123,981,736,420",12892,G.I. Generation
+19515,Portugal,1998,male,35-54 years,104,1305246,7.97,Portugal1998,,"123,981,736,420",12892,Boomers
+19516,Portugal,1998,male,25-34 years,45,758867,5.93,Portugal1998,,"123,981,736,420",12892,Generation X
+19517,Portugal,1998,female,55-74 years,59,1116623,5.28,Portugal1998,,"123,981,736,420",12892,Silent
+19518,Portugal,1998,male,15-24 years,29,781857,3.71,Portugal1998,,"123,981,736,420",12892,Generation X
+19519,Portugal,1998,female,35-54 years,30,1385950,2.16,Portugal1998,,"123,981,736,420",12892,Boomers
+19520,Portugal,1998,female,25-34 years,11,765333,1.44,Portugal1998,,"123,981,736,420",12892,Generation X
+19521,Portugal,1998,female,15-24 years,6,761601,0.79,Portugal1998,,"123,981,736,420",12892,Generation X
+19522,Portugal,1998,male,5-14 years,1,596248,0.17,Portugal1998,,"123,981,736,420",12892,Millenials
+19523,Portugal,1998,female,5-14 years,0,567967,0.0,Portugal1998,,"123,981,736,420",12892,Millenials
+19524,Portugal,1999,male,75+ years,96,250216,38.37,Portugal1999,,"127,465,545,493",13180,G.I. Generation
+19525,Portugal,1999,male,55-74 years,141,941388,14.98,Portugal1999,,"127,465,545,493",13180,Silent
+19526,Portugal,1999,female,75+ years,45,414314,10.86,Portugal1999,,"127,465,545,493",13180,G.I. Generation
+19527,Portugal,1999,male,35-54 years,108,1329116,8.13,Portugal1999,,"127,465,545,493",13180,Boomers
+19528,Portugal,1999,male,25-34 years,40,767148,5.21,Portugal1999,,"127,465,545,493",13180,Generation X
+19529,Portugal,1999,female,55-74 years,46,1123838,4.09,Portugal1999,,"127,465,545,493",13180,Silent
+19530,Portugal,1999,male,15-24 years,21,769488,2.73,Portugal1999,,"127,465,545,493",13180,Generation X
+19531,Portugal,1999,female,25-34 years,13,771565,1.68,Portugal1999,,"127,465,545,493",13180,Generation X
+19532,Portugal,1999,female,35-54 years,23,1407201,1.63,Portugal1999,,"127,465,545,493",13180,Boomers
+19533,Portugal,1999,female,15-24 years,8,748095,1.07,Portugal1999,,"127,465,545,493",13180,Generation X
+19534,Portugal,1999,female,5-14 years,3,560516,0.54,Portugal1999,,"127,465,545,493",13180,Millenials
+19535,Portugal,1999,male,5-14 years,1,588472,0.17,Portugal1999,,"127,465,545,493",13180,Millenials
+19536,Portugal,2000,male,75+ years,105,260379,40.33,Portugal2000,0.782,"118,358,489,958",12152,G.I. Generation
+19537,Portugal,2000,male,55-74 years,143,951836,15.02,Portugal2000,0.782,"118,358,489,958",12152,Silent
+19538,Portugal,2000,male,35-54 years,101,1354391,7.46,Portugal2000,0.782,"118,358,489,958",12152,Boomers
+19539,Portugal,2000,female,75+ years,31,429204,7.22,Portugal2000,0.782,"118,358,489,958",12152,G.I. Generation
+19540,Portugal,2000,male,25-34 years,40,776214,5.15,Portugal2000,0.782,"118,358,489,958",12152,Generation X
+19541,Portugal,2000,male,15-24 years,28,756755,3.7,Portugal2000,0.782,"118,358,489,958",12152,Generation X
+19542,Portugal,2000,female,55-74 years,38,1134765,3.35,Portugal2000,0.782,"118,358,489,958",12152,Silent
+19543,Portugal,2000,female,35-54 years,22,1428612,1.54,Portugal2000,0.782,"118,358,489,958",12152,Boomers
+19544,Portugal,2000,female,25-34 years,9,778058,1.16,Portugal2000,0.782,"118,358,489,958",12152,Generation X
+19545,Portugal,2000,female,15-24 years,7,734617,0.95,Portugal2000,0.782,"118,358,489,958",12152,Generation X
+19546,Portugal,2000,female,5-14 years,0,553311,0.0,Portugal2000,0.782,"118,358,489,958",12152,Millenials
+19547,Portugal,2000,male,5-14 years,0,581943,0.0,Portugal2000,0.782,"118,358,489,958",12152,Millenials
+19548,Portugal,2001,male,75+ years,132,270471,48.8,Portugal2001,,"121,545,880,984",12391,Silent
+19549,Portugal,2001,male,55-74 years,179,962517,18.6,Portugal2001,,"121,545,880,984",12391,Silent
+19550,Portugal,2001,male,25-34 years,88,788070,11.17,Portugal2001,,"121,545,880,984",12391,Generation X
+19551,Portugal,2001,male,35-54 years,145,1378448,10.52,Portugal2001,,"121,545,880,984",12391,Boomers
+19552,Portugal,2001,female,75+ years,40,444610,9.0,Portugal2001,,"121,545,880,984",12391,Silent
+19553,Portugal,2001,female,55-74 years,65,1145478,5.67,Portugal2001,,"121,545,880,984",12391,Silent
+19554,Portugal,2001,male,15-24 years,41,739952,5.54,Portugal2001,,"121,545,880,984",12391,Millenials
+19555,Portugal,2001,female,35-54 years,48,1448912,3.31,Portugal2001,,"121,545,880,984",12391,Boomers
+19556,Portugal,2001,female,25-34 years,13,787868,1.65,Portugal2001,,"121,545,880,984",12391,Generation X
+19557,Portugal,2001,female,15-24 years,8,717211,1.12,Portugal2001,,"121,545,880,984",12391,Millenials
+19558,Portugal,2001,female,5-14 years,1,547872,0.18,Portugal2001,,"121,545,880,984",12391,Millenials
+19559,Portugal,2001,male,5-14 years,1,578127,0.17,Portugal2001,,"121,545,880,984",12391,Millenials
+19560,Portugal,2002,male,75+ years,188,277989,67.63,Portugal2002,,"134,228,697,534",13614,Silent
+19561,Portugal,2002,male,55-74 years,305,970633,31.42,Portugal2002,,"134,228,697,534",13614,Silent
+19562,Portugal,2002,male,35-54 years,284,1398674,20.3,Portugal2002,,"134,228,697,534",13614,Boomers
+19563,Portugal,2002,male,25-34 years,118,799894,14.75,Portugal2002,,"134,228,697,534",13614,Generation X
+19564,Portugal,2002,female,75+ years,55,457011,12.03,Portugal2002,,"134,228,697,534",13614,Silent
+19565,Portugal,2002,female,55-74 years,87,1154273,7.54,Portugal2002,,"134,228,697,534",13614,Silent
+19566,Portugal,2002,male,15-24 years,50,716414,6.98,Portugal2002,,"134,228,697,534",13614,Millenials
+19567,Portugal,2002,female,35-54 years,81,1468439,5.52,Portugal2002,,"134,228,697,534",13614,Boomers
+19568,Portugal,2002,female,25-34 years,28,800649,3.5,Portugal2002,,"134,228,697,534",13614,Generation X
+19569,Portugal,2002,female,15-24 years,10,694535,1.44,Portugal2002,,"134,228,697,534",13614,Millenials
+19570,Portugal,2002,female,5-14 years,2,545281,0.37,Portugal2002,,"134,228,697,534",13614,Millenials
+19571,Portugal,2002,male,5-14 years,2,576040,0.35,Portugal2002,,"134,228,697,534",13614,Millenials
+19572,Portugal,2003,male,75+ years,197,284603,69.22,Portugal2003,,"164,964,195,260",16671,Silent
+19573,Portugal,2003,male,55-74 years,287,980972,29.26,Portugal2003,,"164,964,195,260",16671,Silent
+19574,Portugal,2003,male,35-54 years,263,1412952,18.61,Portugal2003,,"164,964,195,260",16671,Boomers
+19575,Portugal,2003,male,25-34 years,103,805301,12.79,Portugal2003,,"164,964,195,260",16671,Generation X
+19576,Portugal,2003,female,75+ years,58,468138,12.39,Portugal2003,,"164,964,195,260",16671,Silent
+19577,Portugal,2003,female,55-74 years,101,1165788,8.66,Portugal2003,,"164,964,195,260",16671,Silent
+19578,Portugal,2003,male,15-24 years,39,693733,5.62,Portugal2003,,"164,964,195,260",16671,Millenials
+19579,Portugal,2003,female,35-54 years,66,1483262,4.45,Portugal2003,,"164,964,195,260",16671,Boomers
+19580,Portugal,2003,female,25-34 years,31,809290,3.83,Portugal2003,,"164,964,195,260",16671,Generation X
+19581,Portugal,2003,female,15-24 years,11,672993,1.63,Portugal2003,,"164,964,195,260",16671,Millenials
+19582,Portugal,2003,female,5-14 years,0,544037,0.0,Portugal2003,,"164,964,195,260",16671,Millenials
+19583,Portugal,2003,male,5-14 years,0,573940,0.0,Portugal2003,,"164,964,195,260",16671,Millenials
+19584,Portugal,2007,male,75+ years,202,321263,62.88,Portugal2007,,"240,169,336,162",24003,Silent
+19585,Portugal,2007,male,55-74 years,245,1027686,23.84,Portugal2007,,"240,169,336,162",24003,Silent
+19586,Portugal,2007,male,35-54 years,207,1460075,14.18,Portugal2007,,"240,169,336,162",24003,Boomers
+19587,Portugal,2007,female,75+ years,62,525914,11.79,Portugal2007,,"240,169,336,162",24003,Silent
+19588,Portugal,2007,male,25-34 years,71,786823,9.02,Portugal2007,,"240,169,336,162",24003,Generation X
+19589,Portugal,2007,female,55-74 years,101,1211662,8.34,Portugal2007,,"240,169,336,162",24003,Silent
+19590,Portugal,2007,female,35-54 years,75,1535559,4.88,Portugal2007,,"240,169,336,162",24003,Boomers
+19591,Portugal,2007,male,15-24 years,26,623691,4.17,Portugal2007,,"240,169,336,162",24003,Millenials
+19592,Portugal,2007,female,25-34 years,18,799081,2.25,Portugal2007,,"240,169,336,162",24003,Generation X
+19593,Portugal,2007,female,15-24 years,11,600807,1.83,Portugal2007,,"240,169,336,162",24003,Millenials
+19594,Portugal,2007,female,5-14 years,2,541722,0.37,Portugal2007,,"240,169,336,162",24003,Generation Z
+19595,Portugal,2007,male,5-14 years,0,571430,0.0,Portugal2007,,"240,169,336,162",24003,Generation Z
+19596,Portugal,2008,male,75+ years,198,331536,59.72,Portugal2008,,"262,007,590,450",26121,Silent
+19597,Portugal,2008,male,55-74 years,256,1038777,24.64,Portugal2008,,"262,007,590,450",26121,Silent
+19598,Portugal,2008,male,35-54 years,236,1474833,16.0,Portugal2008,,"262,007,590,450",26121,Boomers
+19599,Portugal,2008,female,75+ years,58,542185,10.7,Portugal2008,,"262,007,590,450",26121,Silent
+19600,Portugal,2008,male,25-34 years,75,772208,9.71,Portugal2008,,"262,007,590,450",26121,Generation X
+19601,Portugal,2008,female,55-74 years,98,1222971,8.01,Portugal2008,,"262,007,590,450",26121,Silent
+19602,Portugal,2008,male,15-24 years,27,610336,4.42,Portugal2008,,"262,007,590,450",26121,Millenials
+19603,Portugal,2008,female,35-54 years,64,1552092,4.12,Portugal2008,,"262,007,590,450",26121,Boomers
+19604,Portugal,2008,female,25-34 years,17,786674,2.16,Portugal2008,,"262,007,590,450",26121,Generation X
+19605,Portugal,2008,female,15-24 years,7,589161,1.19,Portugal2008,,"262,007,590,450",26121,Millenials
+19606,Portugal,2008,male,5-14 years,2,569683,0.35,Portugal2008,,"262,007,590,450",26121,Generation Z
+19607,Portugal,2008,female,5-14 years,0,540184,0.0,Portugal2008,,"262,007,590,450",26121,Generation Z
+19608,Portugal,2009,male,75+ years,202,341119,59.22,Portugal2009,,"243,745,748,819",24254,Silent
+19609,Portugal,2009,male,55-74 years,250,1050939,23.79,Portugal2009,,"243,745,748,819",24254,Silent
+19610,Portugal,2009,male,35-54 years,235,1490036,15.77,Portugal2009,,"243,745,748,819",24254,Boomers
+19611,Portugal,2009,female,75+ years,58,557541,10.4,Portugal2009,,"243,745,748,819",24254,Silent
+19612,Portugal,2009,male,25-34 years,74,752496,9.83,Portugal2009,,"243,745,748,819",24254,Generation X
+19613,Portugal,2009,male,15-24 years,41,597960,6.86,Portugal2009,,"243,745,748,819",24254,Millenials
+19614,Portugal,2009,female,55-74 years,74,1234820,5.99,Portugal2009,,"243,745,748,819",24254,Silent
+19615,Portugal,2009,female,35-54 years,66,1570466,4.2,Portugal2009,,"243,745,748,819",24254,Boomers
+19616,Portugal,2009,female,25-34 years,16,769405,2.08,Portugal2009,,"243,745,748,819",24254,Generation X
+19617,Portugal,2009,female,15-24 years,8,578987,1.38,Portugal2009,,"243,745,748,819",24254,Millenials
+19618,Portugal,2009,male,5-14 years,1,567117,0.18,Portugal2009,,"243,745,748,819",24254,Generation Z
+19619,Portugal,2009,female,5-14 years,0,539032,0.0,Portugal2009,,"243,745,748,819",24254,Generation Z
+19620,Portugal,2010,male,75+ years,233,352383,66.12,Portugal2010,0.8190000000000001,"238,303,443,425",23673,Silent
+19621,Portugal,2010,male,55-74 years,257,1063945,24.16,Portugal2010,0.8190000000000001,"238,303,443,425",23673,Silent
+19622,Portugal,2010,male,35-54 years,258,1505279,17.14,Portugal2010,0.8190000000000001,"238,303,443,425",23673,Generation X
+19623,Portugal,2010,female,75+ years,64,576570,11.1,Portugal2010,0.8190000000000001,"238,303,443,425",23673,Silent
+19624,Portugal,2010,male,25-34 years,58,726634,7.98,Portugal2010,0.8190000000000001,"238,303,443,425",23673,Generation X
+19625,Portugal,2010,female,55-74 years,89,1247958,7.13,Portugal2010,0.8190000000000001,"238,303,443,425",23673,Silent
+19626,Portugal,2010,male,15-24 years,27,587910,4.59,Portugal2010,0.8190000000000001,"238,303,443,425",23673,Millenials
+19627,Portugal,2010,female,35-54 years,72,1588670,4.53,Portugal2010,0.8190000000000001,"238,303,443,425",23673,Generation X
+19628,Portugal,2010,female,25-34 years,27,746475,3.62,Portugal2010,0.8190000000000001,"238,303,443,425",23673,Generation X
+19629,Portugal,2010,female,15-24 years,12,570703,2.1,Portugal2010,0.8190000000000001,"238,303,443,425",23673,Millenials
+19630,Portugal,2010,female,5-14 years,1,536374,0.19,Portugal2010,0.8190000000000001,"238,303,443,425",23673,Generation Z
+19631,Portugal,2010,male,5-14 years,1,563727,0.18,Portugal2010,0.8190000000000001,"238,303,443,425",23673,Generation Z
+19632,Portugal,2011,male,75+ years,189,364718,51.82,Portugal2011,0.825,"244,895,101,712",24337,Silent
+19633,Portugal,2011,male,55-74 years,271,1074797,25.21,Portugal2011,0.825,"244,895,101,712",24337,Boomers
+19634,Portugal,2011,male,35-54 years,253,1514441,16.71,Portugal2011,0.825,"244,895,101,712",24337,Generation X
+19635,Portugal,2011,male,25-34 years,64,696595,9.19,Portugal2011,0.825,"244,895,101,712",24337,Millenials
+19636,Portugal,2011,female,75+ years,43,596657,7.21,Portugal2011,0.825,"244,895,101,712",24337,Silent
+19637,Portugal,2011,female,55-74 years,80,1258617,6.36,Portugal2011,0.825,"244,895,101,712",24337,Boomers
+19638,Portugal,2011,female,35-54 years,76,1603401,4.74,Portugal2011,0.825,"244,895,101,712",24337,Generation X
+19639,Portugal,2011,male,15-24 years,15,580769,2.58,Portugal2011,0.825,"244,895,101,712",24337,Millenials
+19640,Portugal,2011,female,25-34 years,15,719014,2.09,Portugal2011,0.825,"244,895,101,712",24337,Millenials
+19641,Portugal,2011,female,15-24 years,9,564521,1.59,Portugal2011,0.825,"244,895,101,712",24337,Millenials
+19642,Portugal,2011,male,5-14 years,2,558039,0.36,Portugal2011,0.825,"244,895,101,712",24337,Generation Z
+19643,Portugal,2011,female,5-14 years,0,531246,0.0,Portugal2011,0.825,"244,895,101,712",24337,Generation Z
+19644,Portugal,2012,male,75+ years,223,374103,59.61,Portugal2012,0.8270000000000001,"216,368,178,659",21573,Silent
+19645,Portugal,2012,male,55-74 years,270,1085321,24.88,Portugal2012,0.8270000000000001,"216,368,178,659",21573,Boomers
+19646,Portugal,2012,male,35-54 years,280,1515053,18.48,Portugal2012,0.8270000000000001,"216,368,178,659",21573,Generation X
+19647,Portugal,2012,female,75+ years,62,610698,10.15,Portugal2012,0.8270000000000001,"216,368,178,659",21573,Silent
+19648,Portugal,2012,male,25-34 years,59,665893,8.86,Portugal2012,0.8270000000000001,"216,368,178,659",21573,Millenials
+19649,Portugal,2012,female,55-74 years,84,1268923,6.62,Portugal2012,0.8270000000000001,"216,368,178,659",21573,Boomers
+19650,Portugal,2012,male,15-24 years,26,573583,4.53,Portugal2012,0.8270000000000001,"216,368,178,659",21573,Millenials
+19651,Portugal,2012,female,35-54 years,54,1613054,3.35,Portugal2012,0.8270000000000001,"216,368,178,659",21573,Generation X
+19652,Portugal,2012,female,15-24 years,8,557669,1.43,Portugal2012,0.8270000000000001,"216,368,178,659",21573,Millenials
+19653,Portugal,2012,female,25-34 years,9,689005,1.31,Portugal2012,0.8270000000000001,"216,368,178,659",21573,Millenials
+19654,Portugal,2012,male,5-14 years,1,551120,0.18,Portugal2012,0.8270000000000001,"216,368,178,659",21573,Generation Z
+19655,Portugal,2012,female,5-14 years,0,524974,0.0,Portugal2012,0.8270000000000001,"216,368,178,659",21573,Generation Z
+19656,Portugal,2013,male,75+ years,203,381802,53.17,Portugal2013,0.828,"226,073,492,966",22641,Silent
+19657,Portugal,2013,male,55-74 years,275,1096265,25.09,Portugal2013,0.828,"226,073,492,966",22641,Boomers
+19658,Portugal,2013,male,35-54 years,251,1507001,16.66,Portugal2013,0.828,"226,073,492,966",22641,Generation X
+19659,Portugal,2013,male,25-34 years,62,638768,9.71,Portugal2013,0.828,"226,073,492,966",22641,Millenials
+19660,Portugal,2013,female,75+ years,58,622105,9.32,Portugal2013,0.828,"226,073,492,966",22641,Silent
+19661,Portugal,2013,female,55-74 years,95,1281422,7.41,Portugal2013,0.828,"226,073,492,966",22641,Boomers
+19662,Portugal,2013,female,35-54 years,63,1615851,3.9,Portugal2013,0.828,"226,073,492,966",22641,Generation X
+19663,Portugal,2013,male,15-24 years,20,566585,3.53,Portugal2013,0.828,"226,073,492,966",22641,Millenials
+19664,Portugal,2013,female,25-34 years,20,661074,3.03,Portugal2013,0.828,"226,073,492,966",22641,Millenials
+19665,Portugal,2013,female,15-24 years,5,550397,0.91,Portugal2013,0.828,"226,073,492,966",22641,Millenials
+19666,Portugal,2013,female,5-14 years,0,518597,0.0,Portugal2013,0.828,"226,073,492,966",22641,Generation Z
+19667,Portugal,2013,male,5-14 years,0,545207,0.0,Portugal2013,0.828,"226,073,492,966",22641,Generation Z
+19668,Portugal,2014,male,75+ years,244,389841,62.59,Portugal2014,0.83,"229,629,822,122",23091,Silent
+19669,Portugal,2014,male,55-74 years,289,1106750,26.11,Portugal2014,0.83,"229,629,822,122",23091,Boomers
+19670,Portugal,2014,male,35-54 years,298,1492604,19.97,Portugal2014,0.83,"229,629,822,122",23091,Generation X
+19671,Portugal,2014,female,75+ years,67,633908,10.57,Portugal2014,0.83,"229,629,822,122",23091,Silent
+19672,Portugal,2014,male,25-34 years,65,617765,10.52,Portugal2014,0.83,"229,629,822,122",23091,Millenials
+19673,Portugal,2014,female,55-74 years,105,1294186,8.11,Portugal2014,0.83,"229,629,822,122",23091,Boomers
+19674,Portugal,2014,female,35-54 years,95,1613721,5.89,Portugal2014,0.83,"229,629,822,122",23091,Generation X
+19675,Portugal,2014,male,15-24 years,28,562495,4.98,Portugal2014,0.83,"229,629,822,122",23091,Millenials
+19676,Portugal,2014,female,25-34 years,21,638072,3.29,Portugal2014,0.83,"229,629,822,122",23091,Millenials
+19677,Portugal,2014,female,15-24 years,8,545684,1.47,Portugal2014,0.83,"229,629,822,122",23091,Millenials
+19678,Portugal,2014,female,5-14 years,2,511478,0.39,Portugal2014,0.83,"229,629,822,122",23091,Generation Z
+19679,Portugal,2014,male,5-14 years,0,537929,0.0,Portugal2014,0.83,"229,629,822,122",23091,Generation Z

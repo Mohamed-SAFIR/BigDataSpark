@@ -1,0 +1,325 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+264,Antigua and Barbuda,1985,female,15-24 years,0,7709,0.0,Antigua and Barbuda1985,,"240,923,926",3850,Generation X
+265,Antigua and Barbuda,1985,female,25-34 years,0,6344,0.0,Antigua and Barbuda1985,,"240,923,926",3850,Boomers
+266,Antigua and Barbuda,1985,female,35-54 years,0,6173,0.0,Antigua and Barbuda1985,,"240,923,926",3850,Silent
+267,Antigua and Barbuda,1985,female,5-14 years,0,7339,0.0,Antigua and Barbuda1985,,"240,923,926",3850,Generation X
+268,Antigua and Barbuda,1985,female,55-74 years,0,3778,0.0,Antigua and Barbuda1985,,"240,923,926",3850,G.I. Generation
+269,Antigua and Barbuda,1985,female,75+ years,0,949,0.0,Antigua and Barbuda1985,,"240,923,926",3850,G.I. Generation
+270,Antigua and Barbuda,1985,male,15-24 years,0,7667,0.0,Antigua and Barbuda1985,,"240,923,926",3850,Generation X
+271,Antigua and Barbuda,1985,male,25-34 years,0,6194,0.0,Antigua and Barbuda1985,,"240,923,926",3850,Boomers
+272,Antigua and Barbuda,1985,male,35-54 years,0,5970,0.0,Antigua and Barbuda1985,,"240,923,926",3850,Silent
+273,Antigua and Barbuda,1985,male,5-14 years,0,7304,0.0,Antigua and Barbuda1985,,"240,923,926",3850,Generation X
+274,Antigua and Barbuda,1985,male,55-74 years,0,2723,0.0,Antigua and Barbuda1985,,"240,923,926",3850,G.I. Generation
+275,Antigua and Barbuda,1985,male,75+ years,0,424,0.0,Antigua and Barbuda1985,,"240,923,926",3850,G.I. Generation
+276,Antigua and Barbuda,1986,female,15-24 years,0,7668,0.0,Antigua and Barbuda1986,,"290,440,148",4740,Generation X
+277,Antigua and Barbuda,1986,female,25-34 years,0,6209,0.0,Antigua and Barbuda1986,,"290,440,148",4740,Boomers
+278,Antigua and Barbuda,1986,female,35-54 years,0,6101,0.0,Antigua and Barbuda1986,,"290,440,148",4740,Silent
+279,Antigua and Barbuda,1986,female,5-14 years,0,6907,0.0,Antigua and Barbuda1986,,"290,440,148",4740,Generation X
+280,Antigua and Barbuda,1986,female,55-74 years,0,3764,0.0,Antigua and Barbuda1986,,"290,440,148",4740,G.I. Generation
+281,Antigua and Barbuda,1986,female,75+ years,0,1014,0.0,Antigua and Barbuda1986,,"290,440,148",4740,G.I. Generation
+282,Antigua and Barbuda,1986,male,15-24 years,0,7563,0.0,Antigua and Barbuda1986,,"290,440,148",4740,Generation X
+283,Antigua and Barbuda,1986,male,25-34 years,0,6023,0.0,Antigua and Barbuda1986,,"290,440,148",4740,Boomers
+284,Antigua and Barbuda,1986,male,35-54 years,0,5947,0.0,Antigua and Barbuda1986,,"290,440,148",4740,Silent
+285,Antigua and Barbuda,1986,male,5-14 years,0,6827,0.0,Antigua and Barbuda1986,,"290,440,148",4740,Generation X
+286,Antigua and Barbuda,1986,male,55-74 years,0,2771,0.0,Antigua and Barbuda1986,,"290,440,148",4740,G.I. Generation
+287,Antigua and Barbuda,1986,male,75+ years,0,476,0.0,Antigua and Barbuda1986,,"290,440,148",4740,G.I. Generation
+288,Antigua and Barbuda,1987,female,15-24 years,0,7583,0.0,Antigua and Barbuda1987,,"337,174,852",5595,Generation X
+289,Antigua and Barbuda,1987,female,25-34 years,0,6101,0.0,Antigua and Barbuda1987,,"337,174,852",5595,Boomers
+290,Antigua and Barbuda,1987,female,35-54 years,0,6059,0.0,Antigua and Barbuda1987,,"337,174,852",5595,Silent
+291,Antigua and Barbuda,1987,female,5-14 years,0,6623,0.0,Antigua and Barbuda1987,,"337,174,852",5595,Generation X
+292,Antigua and Barbuda,1987,female,55-74 years,0,3738,0.0,Antigua and Barbuda1987,,"337,174,852",5595,G.I. Generation
+293,Antigua and Barbuda,1987,female,75+ years,0,1081,0.0,Antigua and Barbuda1987,,"337,174,852",5595,G.I. Generation
+294,Antigua and Barbuda,1987,male,15-24 years,0,7421,0.0,Antigua and Barbuda1987,,"337,174,852",5595,Generation X
+295,Antigua and Barbuda,1987,male,25-34 years,0,5893,0.0,Antigua and Barbuda1987,,"337,174,852",5595,Boomers
+296,Antigua and Barbuda,1987,male,35-54 years,0,5927,0.0,Antigua and Barbuda1987,,"337,174,852",5595,Silent
+297,Antigua and Barbuda,1987,male,5-14 years,0,6499,0.0,Antigua and Barbuda1987,,"337,174,852",5595,Generation X
+298,Antigua and Barbuda,1987,male,55-74 years,0,2798,0.0,Antigua and Barbuda1987,,"337,174,852",5595,G.I. Generation
+299,Antigua and Barbuda,1987,male,75+ years,0,538,0.0,Antigua and Barbuda1987,,"337,174,852",5595,G.I. Generation
+300,Antigua and Barbuda,1988,female,15-24 years,0,7413,0.0,Antigua and Barbuda1988,,"398,637,741",6693,Generation X
+301,Antigua and Barbuda,1988,female,25-34 years,0,6041,0.0,Antigua and Barbuda1988,,"398,637,741",6693,Boomers
+302,Antigua and Barbuda,1988,female,35-54 years,0,6021,0.0,Antigua and Barbuda1988,,"398,637,741",6693,Silent
+303,Antigua and Barbuda,1988,female,5-14 years,0,6527,0.0,Antigua and Barbuda1988,,"398,637,741",6693,Generation X
+304,Antigua and Barbuda,1988,female,55-74 years,0,3708,0.0,Antigua and Barbuda1988,,"398,637,741",6693,G.I. Generation
+305,Antigua and Barbuda,1988,female,75+ years,0,1141,0.0,Antigua and Barbuda1988,,"398,637,741",6693,G.I. Generation
+306,Antigua and Barbuda,1988,male,15-24 years,0,7209,0.0,Antigua and Barbuda1988,,"398,637,741",6693,Generation X
+307,Antigua and Barbuda,1988,male,25-34 years,0,5826,0.0,Antigua and Barbuda1988,,"398,637,741",6693,Boomers
+308,Antigua and Barbuda,1988,male,35-54 years,0,5907,0.0,Antigua and Barbuda1988,,"398,637,741",6693,Silent
+309,Antigua and Barbuda,1988,male,5-14 years,0,6355,0.0,Antigua and Barbuda1988,,"398,637,741",6693,Generation X
+310,Antigua and Barbuda,1988,male,55-74 years,0,2813,0.0,Antigua and Barbuda1988,,"398,637,741",6693,G.I. Generation
+311,Antigua and Barbuda,1988,male,75+ years,0,603,0.0,Antigua and Barbuda1988,,"398,637,741",6693,G.I. Generation
+312,Antigua and Barbuda,1989,female,15-24 years,0,7152,0.0,Antigua and Barbuda1989,,"438,794,778",7407,Generation X
+313,Antigua and Barbuda,1989,female,25-34 years,0,6059,0.0,Antigua and Barbuda1989,,"438,794,778",7407,Boomers
+314,Antigua and Barbuda,1989,female,35-54 years,0,5969,0.0,Antigua and Barbuda1989,,"438,794,778",7407,Silent
+315,Antigua and Barbuda,1989,female,5-14 years,0,6621,0.0,Antigua and Barbuda1989,,"438,794,778",7407,Generation X
+316,Antigua and Barbuda,1989,female,55-74 years,0,3696,0.0,Antigua and Barbuda1989,,"438,794,778",7407,G.I. Generation
+317,Antigua and Barbuda,1989,female,75+ years,0,1195,0.0,Antigua and Barbuda1989,,"438,794,778",7407,G.I. Generation
+318,Antigua and Barbuda,1989,male,15-24 years,0,6927,0.0,Antigua and Barbuda1989,,"438,794,778",7407,Generation X
+319,Antigua and Barbuda,1989,male,25-34 years,0,5835,0.0,Antigua and Barbuda1989,,"438,794,778",7407,Boomers
+320,Antigua and Barbuda,1989,male,35-54 years,0,5862,0.0,Antigua and Barbuda1989,,"438,794,778",7407,Silent
+321,Antigua and Barbuda,1989,male,5-14 years,0,6403,0.0,Antigua and Barbuda1989,,"438,794,778",7407,Generation X
+322,Antigua and Barbuda,1989,male,55-74 years,0,2843,0.0,Antigua and Barbuda1989,,"438,794,778",7407,G.I. Generation
+323,Antigua and Barbuda,1989,male,75+ years,0,676,0.0,Antigua and Barbuda1989,,"438,794,778",7407,G.I. Generation
+324,Antigua and Barbuda,1990,male,35-54 years,1,5799,17.24,Antigua and Barbuda1990,,"459,469,074",7744,Silent
+325,Antigua and Barbuda,1990,female,15-24 years,0,6827,0.0,Antigua and Barbuda1990,,"459,469,074",7744,Generation X
+326,Antigua and Barbuda,1990,female,25-34 years,0,6172,0.0,Antigua and Barbuda1990,,"459,469,074",7744,Boomers
+327,Antigua and Barbuda,1990,female,35-54 years,0,5895,0.0,Antigua and Barbuda1990,,"459,469,074",7744,Silent
+328,Antigua and Barbuda,1990,female,5-14 years,0,6877,0.0,Antigua and Barbuda1990,,"459,469,074",7744,Generation X
+329,Antigua and Barbuda,1990,female,55-74 years,0,3706,0.0,Antigua and Barbuda1990,,"459,469,074",7744,G.I. Generation
+330,Antigua and Barbuda,1990,female,75+ years,0,1252,0.0,Antigua and Barbuda1990,,"459,469,074",7744,G.I. Generation
+331,Antigua and Barbuda,1990,male,15-24 years,0,6598,0.0,Antigua and Barbuda1990,,"459,469,074",7744,Generation X
+332,Antigua and Barbuda,1990,male,25-34 years,0,5937,0.0,Antigua and Barbuda1990,,"459,469,074",7744,Boomers
+333,Antigua and Barbuda,1990,male,5-14 years,0,6611,0.0,Antigua and Barbuda1990,,"459,469,074",7744,Generation X
+334,Antigua and Barbuda,1990,male,55-74 years,0,2902,0.0,Antigua and Barbuda1990,,"459,469,074",7744,G.I. Generation
+335,Antigua and Barbuda,1990,male,75+ years,0,758,0.0,Antigua and Barbuda1990,,"459,469,074",7744,G.I. Generation
+336,Antigua and Barbuda,1991,female,15-24 years,0,6595,0.0,Antigua and Barbuda1991,,"481,706,333",7976,Generation X
+337,Antigua and Barbuda,1991,female,25-34 years,0,6396,0.0,Antigua and Barbuda1991,,"481,706,333",7976,Boomers
+338,Antigua and Barbuda,1991,female,35-54 years,0,6198,0.0,Antigua and Barbuda1991,,"481,706,333",7976,Boomers
+339,Antigua and Barbuda,1991,female,5-14 years,0,7089,0.0,Antigua and Barbuda1991,,"481,706,333",7976,Millenials
+340,Antigua and Barbuda,1991,female,55-74 years,0,3665,0.0,Antigua and Barbuda1991,,"481,706,333",7976,Silent
+341,Antigua and Barbuda,1991,female,75+ years,0,1293,0.0,Antigua and Barbuda1991,,"481,706,333",7976,G.I. Generation
+342,Antigua and Barbuda,1991,male,15-24 years,0,6401,0.0,Antigua and Barbuda1991,,"481,706,333",7976,Generation X
+343,Antigua and Barbuda,1991,male,25-34 years,0,6156,0.0,Antigua and Barbuda1991,,"481,706,333",7976,Boomers
+344,Antigua and Barbuda,1991,male,35-54 years,0,6122,0.0,Antigua and Barbuda1991,,"481,706,333",7976,Boomers
+345,Antigua and Barbuda,1991,male,5-14 years,0,6818,0.0,Antigua and Barbuda1991,,"481,706,333",7976,Millenials
+346,Antigua and Barbuda,1991,male,55-74 years,0,2857,0.0,Antigua and Barbuda1991,,"481,706,333",7976,Silent
+347,Antigua and Barbuda,1991,male,75+ years,0,804,0.0,Antigua and Barbuda1991,,"481,706,333",7976,G.I. Generation
+348,Antigua and Barbuda,1992,female,15-24 years,0,6369,0.0,Antigua and Barbuda1992,,"499,281,148",8087,Generation X
+349,Antigua and Barbuda,1992,female,25-34 years,0,6650,0.0,Antigua and Barbuda1992,,"499,281,148",8087,Boomers
+350,Antigua and Barbuda,1992,female,35-54 years,0,6534,0.0,Antigua and Barbuda1992,,"499,281,148",8087,Boomers
+351,Antigua and Barbuda,1992,female,5-14 years,0,7311,0.0,Antigua and Barbuda1992,,"499,281,148",8087,Millenials
+352,Antigua and Barbuda,1992,female,55-74 years,0,3648,0.0,Antigua and Barbuda1992,,"499,281,148",8087,Silent
+353,Antigua and Barbuda,1992,female,75+ years,0,1339,0.0,Antigua and Barbuda1992,,"499,281,148",8087,G.I. Generation
+354,Antigua and Barbuda,1992,male,15-24 years,0,6221,0.0,Antigua and Barbuda1992,,"499,281,148",8087,Generation X
+355,Antigua and Barbuda,1992,male,25-34 years,0,6409,0.0,Antigua and Barbuda1992,,"499,281,148",8087,Boomers
+356,Antigua and Barbuda,1992,male,35-54 years,0,6497,0.0,Antigua and Barbuda1992,,"499,281,148",8087,Boomers
+357,Antigua and Barbuda,1992,male,5-14 years,0,7059,0.0,Antigua and Barbuda1992,,"499,281,148",8087,Millenials
+358,Antigua and Barbuda,1992,male,55-74 years,0,2851,0.0,Antigua and Barbuda1992,,"499,281,148",8087,Silent
+359,Antigua and Barbuda,1992,male,75+ years,0,853,0.0,Antigua and Barbuda1992,,"499,281,148",8087,G.I. Generation
+360,Antigua and Barbuda,1993,male,25-34 years,1,6668,15.0,Antigua and Barbuda1993,,"535,172,778",8453,Boomers
+361,Antigua and Barbuda,1993,female,15-24 years,0,6182,0.0,Antigua and Barbuda1993,,"535,172,778",8453,Generation X
+362,Antigua and Barbuda,1993,female,25-34 years,0,6914,0.0,Antigua and Barbuda1993,,"535,172,778",8453,Boomers
+363,Antigua and Barbuda,1993,female,35-54 years,0,6917,0.0,Antigua and Barbuda1993,,"535,172,778",8453,Boomers
+364,Antigua and Barbuda,1993,female,5-14 years,0,7529,0.0,Antigua and Barbuda1993,,"535,172,778",8453,Millenials
+365,Antigua and Barbuda,1993,female,55-74 years,0,3662,0.0,Antigua and Barbuda1993,,"535,172,778",8453,Silent
+366,Antigua and Barbuda,1993,female,75+ years,0,1386,0.0,Antigua and Barbuda1993,,"535,172,778",8453,G.I. Generation
+367,Antigua and Barbuda,1993,male,15-24 years,0,6069,0.0,Antigua and Barbuda1993,,"535,172,778",8453,Generation X
+368,Antigua and Barbuda,1993,male,35-54 years,0,6915,0.0,Antigua and Barbuda1993,,"535,172,778",8453,Boomers
+369,Antigua and Barbuda,1993,male,5-14 years,0,7298,0.0,Antigua and Barbuda1993,,"535,172,778",8453,Millenials
+370,Antigua and Barbuda,1993,male,55-74 years,0,2879,0.0,Antigua and Barbuda1993,,"535,172,778",8453,Silent
+371,Antigua and Barbuda,1993,male,75+ years,0,896,0.0,Antigua and Barbuda1993,,"535,172,778",8453,G.I. Generation
+372,Antigua and Barbuda,1994,female,15-24 years,0,6083,0.0,Antigua and Barbuda1994,,"589,429,593",9062,Generation X
+373,Antigua and Barbuda,1994,female,25-34 years,0,7151,0.0,Antigua and Barbuda1994,,"589,429,593",9062,Boomers
+374,Antigua and Barbuda,1994,female,35-54 years,0,7357,0.0,Antigua and Barbuda1994,,"589,429,593",9062,Boomers
+375,Antigua and Barbuda,1994,female,5-14 years,0,7722,0.0,Antigua and Barbuda1994,,"589,429,593",9062,Millenials
+376,Antigua and Barbuda,1994,female,55-74 years,0,3715,0.0,Antigua and Barbuda1994,,"589,429,593",9062,Silent
+377,Antigua and Barbuda,1994,female,75+ years,0,1437,0.0,Antigua and Barbuda1994,,"589,429,593",9062,G.I. Generation
+378,Antigua and Barbuda,1994,male,15-24 years,0,5976,0.0,Antigua and Barbuda1994,,"589,429,593",9062,Generation X
+379,Antigua and Barbuda,1994,male,25-34 years,0,6886,0.0,Antigua and Barbuda1994,,"589,429,593",9062,Boomers
+380,Antigua and Barbuda,1994,male,35-54 years,0,7359,0.0,Antigua and Barbuda1994,,"589,429,593",9062,Boomers
+381,Antigua and Barbuda,1994,male,5-14 years,0,7494,0.0,Antigua and Barbuda1994,,"589,429,593",9062,Millenials
+382,Antigua and Barbuda,1994,male,55-74 years,0,2935,0.0,Antigua and Barbuda1994,,"589,429,593",9062,Silent
+383,Antigua and Barbuda,1994,male,75+ years,0,929,0.0,Antigua and Barbuda1994,,"589,429,593",9062,G.I. Generation
+384,Antigua and Barbuda,1995,female,15-24 years,0,6099,0.0,Antigua and Barbuda1995,,"577,280,741",8636,Generation X
+385,Antigua and Barbuda,1995,female,25-34 years,0,7333,0.0,Antigua and Barbuda1995,,"577,280,741",8636,Generation X
+386,Antigua and Barbuda,1995,female,35-54 years,0,7851,0.0,Antigua and Barbuda1995,,"577,280,741",8636,Boomers
+387,Antigua and Barbuda,1995,female,5-14 years,0,7885,0.0,Antigua and Barbuda1995,,"577,280,741",8636,Millenials
+388,Antigua and Barbuda,1995,female,55-74 years,0,3808,0.0,Antigua and Barbuda1995,,"577,280,741",8636,Silent
+389,Antigua and Barbuda,1995,female,75+ years,0,1488,0.0,Antigua and Barbuda1995,,"577,280,741",8636,G.I. Generation
+390,Antigua and Barbuda,1995,male,15-24 years,0,5953,0.0,Antigua and Barbuda1995,,"577,280,741",8636,Generation X
+391,Antigua and Barbuda,1995,male,25-34 years,0,7023,0.0,Antigua and Barbuda1995,,"577,280,741",8636,Generation X
+392,Antigua and Barbuda,1995,male,35-54 years,0,7809,0.0,Antigua and Barbuda1995,,"577,280,741",8636,Boomers
+393,Antigua and Barbuda,1995,male,5-14 years,0,7632,0.0,Antigua and Barbuda1995,,"577,280,741",8636,Millenials
+394,Antigua and Barbuda,1995,male,55-74 years,0,3021,0.0,Antigua and Barbuda1995,,"577,280,741",8636,Silent
+395,Antigua and Barbuda,1995,male,75+ years,0,944,0.0,Antigua and Barbuda1995,,"577,280,741",8636,G.I. Generation
+396,Antigua and Barbuda,1998,female,15-24 years,0,6529,0.0,Antigua and Barbuda1998,,"727,860,593",10078,Generation X
+397,Antigua and Barbuda,1998,female,25-34 years,0,8332,0.0,Antigua and Barbuda1998,,"727,860,593",10078,Generation X
+398,Antigua and Barbuda,1998,female,35-54 years,0,9615,0.0,Antigua and Barbuda1998,,"727,860,593",10078,Boomers
+399,Antigua and Barbuda,1998,female,5-14 years,0,8183,0.0,Antigua and Barbuda1998,,"727,860,593",10078,Millenials
+400,Antigua and Barbuda,1998,female,55-74 years,0,3921,0.0,Antigua and Barbuda1998,,"727,860,593",10078,Silent
+401,Antigua and Barbuda,1998,female,75+ years,0,1476,0.0,Antigua and Barbuda1998,,"727,860,593",10078,G.I. Generation
+402,Antigua and Barbuda,1998,male,15-24 years,0,5916,0.0,Antigua and Barbuda1998,,"727,860,593",10078,Generation X
+403,Antigua and Barbuda,1998,male,25-34 years,0,7294,0.0,Antigua and Barbuda1998,,"727,860,593",10078,Generation X
+404,Antigua and Barbuda,1998,male,35-54 years,0,9086,0.0,Antigua and Barbuda1998,,"727,860,593",10078,Boomers
+405,Antigua and Barbuda,1998,male,5-14 years,0,7706,0.0,Antigua and Barbuda1998,,"727,860,593",10078,Millenials
+406,Antigua and Barbuda,1998,male,55-74 years,0,3213,0.0,Antigua and Barbuda1998,,"727,860,593",10078,Silent
+407,Antigua and Barbuda,1998,male,75+ years,0,954,0.0,Antigua and Barbuda1998,,"727,860,593",10078,G.I. Generation
+408,Antigua and Barbuda,1999,female,15-24 years,0,6589,0.0,Antigua and Barbuda1999,,"766,198,926",10378,Generation X
+409,Antigua and Barbuda,1999,female,25-34 years,0,8526,0.0,Antigua and Barbuda1999,,"766,198,926",10378,Generation X
+410,Antigua and Barbuda,1999,female,35-54 years,0,10311,0.0,Antigua and Barbuda1999,,"766,198,926",10378,Boomers
+411,Antigua and Barbuda,1999,female,5-14 years,0,8314,0.0,Antigua and Barbuda1999,,"766,198,926",10378,Millenials
+412,Antigua and Barbuda,1999,female,55-74 years,0,3968,0.0,Antigua and Barbuda1999,,"766,198,926",10378,Silent
+413,Antigua and Barbuda,1999,female,75+ years,0,1451,0.0,Antigua and Barbuda1999,,"766,198,926",10378,G.I. Generation
+414,Antigua and Barbuda,1999,male,15-24 years,0,5845,0.0,Antigua and Barbuda1999,,"766,198,926",10378,Generation X
+415,Antigua and Barbuda,1999,male,25-34 years,0,7263,0.0,Antigua and Barbuda1999,,"766,198,926",10378,Generation X
+416,Antigua and Barbuda,1999,male,35-54 years,0,9537,0.0,Antigua and Barbuda1999,,"766,198,926",10378,Boomers
+417,Antigua and Barbuda,1999,male,5-14 years,0,7805,0.0,Antigua and Barbuda1999,,"766,198,926",10378,Millenials
+418,Antigua and Barbuda,1999,male,55-74 years,0,3276,0.0,Antigua and Barbuda1999,,"766,198,926",10378,Silent
+419,Antigua and Barbuda,1999,male,75+ years,0,947,0.0,Antigua and Barbuda1999,,"766,198,926",10378,G.I. Generation
+420,Antigua and Barbuda,2000,male,55-74 years,1,3333,30.0,Antigua and Barbuda2000,,"830,158,778",11021,Silent
+421,Antigua and Barbuda,2000,male,35-54 years,1,10033,9.97,Antigua and Barbuda2000,,"830,158,778",11021,Boomers
+422,Antigua and Barbuda,2000,female,15-24 years,0,6616,0.0,Antigua and Barbuda2000,,"830,158,778",11021,Generation X
+423,Antigua and Barbuda,2000,female,25-34 years,0,8595,0.0,Antigua and Barbuda2000,,"830,158,778",11021,Generation X
+424,Antigua and Barbuda,2000,female,35-54 years,0,11040,0.0,Antigua and Barbuda2000,,"830,158,778",11021,Boomers
+425,Antigua and Barbuda,2000,female,5-14 years,0,8439,0.0,Antigua and Barbuda2000,,"830,158,778",11021,Millenials
+426,Antigua and Barbuda,2000,female,55-74 years,0,3986,0.0,Antigua and Barbuda2000,,"830,158,778",11021,Silent
+427,Antigua and Barbuda,2000,female,75+ years,0,1413,0.0,Antigua and Barbuda2000,,"830,158,778",11021,G.I. Generation
+428,Antigua and Barbuda,2000,male,15-24 years,0,5783,0.0,Antigua and Barbuda2000,,"830,158,778",11021,Generation X
+429,Antigua and Barbuda,2000,male,25-34 years,0,7177,0.0,Antigua and Barbuda2000,,"830,158,778",11021,Generation X
+430,Antigua and Barbuda,2000,male,5-14 years,0,7973,0.0,Antigua and Barbuda2000,,"830,158,778",11021,Millenials
+431,Antigua and Barbuda,2000,male,75+ years,0,938,0.0,Antigua and Barbuda2000,,"830,158,778",11021,G.I. Generation
+432,Antigua and Barbuda,2001,male,35-54 years,2,10281,19.45,Antigua and Barbuda2001,,"800,740,259",10468,Boomers
+433,Antigua and Barbuda,2001,female,15-24 years,0,6902,0.0,Antigua and Barbuda2001,,"800,740,259",10468,Millenials
+434,Antigua and Barbuda,2001,female,25-34 years,0,8425,0.0,Antigua and Barbuda2001,,"800,740,259",10468,Generation X
+435,Antigua and Barbuda,2001,female,35-54 years,0,11402,0.0,Antigua and Barbuda2001,,"800,740,259",10468,Boomers
+436,Antigua and Barbuda,2001,female,5-14 years,0,8428,0.0,Antigua and Barbuda2001,,"800,740,259",10468,Millenials
+437,Antigua and Barbuda,2001,female,55-74 years,0,4037,0.0,Antigua and Barbuda2001,,"800,740,259",10468,Silent
+438,Antigua and Barbuda,2001,female,75+ years,0,1487,0.0,Antigua and Barbuda2001,,"800,740,259",10468,Silent
+439,Antigua and Barbuda,2001,male,15-24 years,0,6084,0.0,Antigua and Barbuda2001,,"800,740,259",10468,Millenials
+440,Antigua and Barbuda,2001,male,25-34 years,0,7071,0.0,Antigua and Barbuda2001,,"800,740,259",10468,Generation X
+441,Antigua and Barbuda,2001,male,5-14 years,0,7958,0.0,Antigua and Barbuda2001,,"800,740,259",10468,Millenials
+442,Antigua and Barbuda,2001,male,55-74 years,0,3442,0.0,Antigua and Barbuda2001,,"800,740,259",10468,Silent
+443,Antigua and Barbuda,2001,male,75+ years,0,980,0.0,Antigua and Barbuda2001,,"800,740,259",10468,Silent
+444,Antigua and Barbuda,2002,female,15-24 years,0,7196,0.0,Antigua and Barbuda2002,,"814,615,333",10499,Millenials
+445,Antigua and Barbuda,2002,female,25-34 years,0,8155,0.0,Antigua and Barbuda2002,,"814,615,333",10499,Generation X
+446,Antigua and Barbuda,2002,female,35-54 years,0,11760,0.0,Antigua and Barbuda2002,,"814,615,333",10499,Boomers
+447,Antigua and Barbuda,2002,female,5-14 years,0,8408,0.0,Antigua and Barbuda2002,,"814,615,333",10499,Millenials
+448,Antigua and Barbuda,2002,female,55-74 years,0,4050,0.0,Antigua and Barbuda2002,,"814,615,333",10499,Silent
+449,Antigua and Barbuda,2002,female,75+ years,0,1547,0.0,Antigua and Barbuda2002,,"814,615,333",10499,Silent
+450,Antigua and Barbuda,2002,male,15-24 years,0,6416,0.0,Antigua and Barbuda2002,,"814,615,333",10499,Millenials
+451,Antigua and Barbuda,2002,male,25-34 years,0,6921,0.0,Antigua and Barbuda2002,,"814,615,333",10499,Generation X
+452,Antigua and Barbuda,2002,male,35-54 years,0,10604,0.0,Antigua and Barbuda2002,,"814,615,333",10499,Boomers
+453,Antigua and Barbuda,2002,male,5-14 years,0,7980,0.0,Antigua and Barbuda2002,,"814,615,333",10499,Millenials
+454,Antigua and Barbuda,2002,male,55-74 years,0,3527,0.0,Antigua and Barbuda2002,,"814,615,333",10499,Silent
+455,Antigua and Barbuda,2002,male,75+ years,0,1024,0.0,Antigua and Barbuda2002,,"814,615,333",10499,Silent
+456,Antigua and Barbuda,2003,male,55-74 years,1,3594,27.82,Antigua and Barbuda2003,,"855,643,111",10878,Silent
+457,Antigua and Barbuda,2003,female,15-24 years,0,7454,0.0,Antigua and Barbuda2003,,"855,643,111",10878,Millenials
+458,Antigua and Barbuda,2003,female,25-34 years,0,7831,0.0,Antigua and Barbuda2003,,"855,643,111",10878,Generation X
+459,Antigua and Barbuda,2003,female,35-54 years,0,12129,0.0,Antigua and Barbuda2003,,"855,643,111",10878,Boomers
+460,Antigua and Barbuda,2003,female,5-14 years,0,8423,0.0,Antigua and Barbuda2003,,"855,643,111",10878,Millenials
+461,Antigua and Barbuda,2003,female,55-74 years,0,4054,0.0,Antigua and Barbuda2003,,"855,643,111",10878,Silent
+462,Antigua and Barbuda,2003,female,75+ years,0,1583,0.0,Antigua and Barbuda2003,,"855,643,111",10878,Silent
+463,Antigua and Barbuda,2003,male,15-24 years,0,6730,0.0,Antigua and Barbuda2003,,"855,643,111",10878,Millenials
+464,Antigua and Barbuda,2003,male,25-34 years,0,6734,0.0,Antigua and Barbuda2003,,"855,643,111",10878,Generation X
+465,Antigua and Barbuda,2003,male,35-54 years,0,10997,0.0,Antigua and Barbuda2003,,"855,643,111",10878,Boomers
+466,Antigua and Barbuda,2003,male,5-14 years,0,8061,0.0,Antigua and Barbuda2003,,"855,643,111",10878,Millenials
+467,Antigua and Barbuda,2003,male,75+ years,0,1068,0.0,Antigua and Barbuda2003,,"855,643,111",10878,Silent
+468,Antigua and Barbuda,2004,male,55-74 years,1,3665,27.29,Antigua and Barbuda2004,,"919,577,148",11535,Silent
+469,Antigua and Barbuda,2004,male,35-54 years,1,11406,8.77,Antigua and Barbuda2004,,"919,577,148",11535,Boomers
+470,Antigua and Barbuda,2004,female,15-24 years,0,7648,0.0,Antigua and Barbuda2004,,"919,577,148",11535,Millenials
+471,Antigua and Barbuda,2004,female,25-34 years,0,7531,0.0,Antigua and Barbuda2004,,"919,577,148",11535,Generation X
+472,Antigua and Barbuda,2004,female,35-54 years,0,12492,0.0,Antigua and Barbuda2004,,"919,577,148",11535,Boomers
+473,Antigua and Barbuda,2004,female,5-14 years,0,8488,0.0,Antigua and Barbuda2004,,"919,577,148",11535,Millenials
+474,Antigua and Barbuda,2004,female,55-74 years,0,4088,0.0,Antigua and Barbuda2004,,"919,577,148",11535,Silent
+475,Antigua and Barbuda,2004,female,75+ years,0,1590,0.0,Antigua and Barbuda2004,,"919,577,148",11535,Silent
+476,Antigua and Barbuda,2004,male,15-24 years,0,6968,0.0,Antigua and Barbuda2004,,"919,577,148",11535,Millenials
+477,Antigua and Barbuda,2004,male,25-34 years,0,6556,0.0,Antigua and Barbuda2004,,"919,577,148",11535,Generation X
+478,Antigua and Barbuda,2004,male,5-14 years,0,8196,0.0,Antigua and Barbuda2004,,"919,577,148",11535,Millenials
+479,Antigua and Barbuda,2004,male,75+ years,0,1094,0.0,Antigua and Barbuda2004,,"919,577,148",11535,Silent
+480,Antigua and Barbuda,2005,female,15-24 years,0,7780,0.0,Antigua and Barbuda2005,,"1,022,191,296",12649,Millenials
+481,Antigua and Barbuda,2005,female,25-34 years,0,7327,0.0,Antigua and Barbuda2005,,"1,022,191,296",12649,Generation X
+482,Antigua and Barbuda,2005,female,35-54 years,0,12835,0.0,Antigua and Barbuda2005,,"1,022,191,296",12649,Boomers
+483,Antigua and Barbuda,2005,female,5-14 years,0,8584,0.0,Antigua and Barbuda2005,,"1,022,191,296",12649,Millenials
+484,Antigua and Barbuda,2005,female,55-74 years,0,4157,0.0,Antigua and Barbuda2005,,"1,022,191,296",12649,Silent
+485,Antigua and Barbuda,2005,female,75+ years,0,1575,0.0,Antigua and Barbuda2005,,"1,022,191,296",12649,Silent
+486,Antigua and Barbuda,2005,male,15-24 years,0,7113,0.0,Antigua and Barbuda2005,,"1,022,191,296",12649,Millenials
+487,Antigua and Barbuda,2005,male,25-34 years,0,6444,0.0,Antigua and Barbuda2005,,"1,022,191,296",12649,Generation X
+488,Antigua and Barbuda,2005,male,35-54 years,0,11778,0.0,Antigua and Barbuda2005,,"1,022,191,296",12649,Boomers
+489,Antigua and Barbuda,2005,male,5-14 years,0,8358,0.0,Antigua and Barbuda2005,,"1,022,191,296",12649,Millenials
+490,Antigua and Barbuda,2005,male,55-74 years,0,3748,0.0,Antigua and Barbuda2005,,"1,022,191,296",12649,Silent
+491,Antigua and Barbuda,2005,male,75+ years,0,1110,0.0,Antigua and Barbuda2005,,"1,022,191,296",12649,Silent
+492,Antigua and Barbuda,2006,female,15-24 years,0,7902,0.0,Antigua and Barbuda2006,,"1,157,005,444",14114,Millenials
+493,Antigua and Barbuda,2006,female,25-34 years,0,7098,0.0,Antigua and Barbuda2006,,"1,157,005,444",14114,Generation X
+494,Antigua and Barbuda,2006,female,35-54 years,0,13374,0.0,Antigua and Barbuda2006,,"1,157,005,444",14114,Boomers
+495,Antigua and Barbuda,2006,female,5-14 years,0,8571,0.0,Antigua and Barbuda2006,,"1,157,005,444",14114,Millenials
+496,Antigua and Barbuda,2006,female,55-74 years,0,4256,0.0,Antigua and Barbuda2006,,"1,157,005,444",14114,Silent
+497,Antigua and Barbuda,2006,female,75+ years,0,1573,0.0,Antigua and Barbuda2006,,"1,157,005,444",14114,Silent
+498,Antigua and Barbuda,2006,male,15-24 years,0,7239,0.0,Antigua and Barbuda2006,,"1,157,005,444",14114,Millenials
+499,Antigua and Barbuda,2006,male,25-34 years,0,6319,0.0,Antigua and Barbuda2006,,"1,157,005,444",14114,Generation X
+500,Antigua and Barbuda,2006,male,35-54 years,0,12202,0.0,Antigua and Barbuda2006,,"1,157,005,444",14114,Boomers
+501,Antigua and Barbuda,2006,male,5-14 years,0,8485,0.0,Antigua and Barbuda2006,,"1,157,005,444",14114,Millenials
+502,Antigua and Barbuda,2006,male,55-74 years,0,3847,0.0,Antigua and Barbuda2006,,"1,157,005,444",14114,Silent
+503,Antigua and Barbuda,2006,male,75+ years,0,1107,0.0,Antigua and Barbuda2006,,"1,157,005,444",14114,Silent
+504,Antigua and Barbuda,2007,male,35-54 years,1,12530,7.98,Antigua and Barbuda2007,,"1,311,401,333",15775,Boomers
+505,Antigua and Barbuda,2007,female,15-24 years,0,8013,0.0,Antigua and Barbuda2007,,"1,311,401,333",15775,Millenials
+506,Antigua and Barbuda,2007,female,25-34 years,0,6962,0.0,Antigua and Barbuda2007,,"1,311,401,333",15775,Generation X
+507,Antigua and Barbuda,2007,female,35-54 years,0,13860,0.0,Antigua and Barbuda2007,,"1,311,401,333",15775,Boomers
+508,Antigua and Barbuda,2007,female,5-14 years,0,8555,0.0,Antigua and Barbuda2007,,"1,311,401,333",15775,Generation Z
+509,Antigua and Barbuda,2007,female,55-74 years,0,4400,0.0,Antigua and Barbuda2007,,"1,311,401,333",15775,Silent
+510,Antigua and Barbuda,2007,female,75+ years,0,1568,0.0,Antigua and Barbuda2007,,"1,311,401,333",15775,Silent
+511,Antigua and Barbuda,2007,male,15-24 years,0,7330,0.0,Antigua and Barbuda2007,,"1,311,401,333",15775,Millenials
+512,Antigua and Barbuda,2007,male,25-34 years,0,6267,0.0,Antigua and Barbuda2007,,"1,311,401,333",15775,Generation X
+513,Antigua and Barbuda,2007,male,5-14 years,0,8564,0.0,Antigua and Barbuda2007,,"1,311,401,333",15775,Generation Z
+514,Antigua and Barbuda,2007,male,55-74 years,0,3988,0.0,Antigua and Barbuda2007,,"1,311,401,333",15775,Silent
+515,Antigua and Barbuda,2007,male,75+ years,0,1094,0.0,Antigua and Barbuda2007,,"1,311,401,333",15775,Silent
+516,Antigua and Barbuda,2008,female,15-24 years,0,8108,0.0,Antigua and Barbuda2008,,"1,368,431,037",16238,Millenials
+517,Antigua and Barbuda,2008,female,25-34 years,0,6910,0.0,Antigua and Barbuda2008,,"1,368,431,037",16238,Generation X
+518,Antigua and Barbuda,2008,female,35-54 years,0,14278,0.0,Antigua and Barbuda2008,,"1,368,431,037",16238,Boomers
+519,Antigua and Barbuda,2008,female,5-14 years,0,8537,0.0,Antigua and Barbuda2008,,"1,368,431,037",16238,Generation Z
+520,Antigua and Barbuda,2008,female,55-74 years,0,4587,0.0,Antigua and Barbuda2008,,"1,368,431,037",16238,Silent
+521,Antigua and Barbuda,2008,female,75+ years,0,1567,0.0,Antigua and Barbuda2008,,"1,368,431,037",16238,Silent
+522,Antigua and Barbuda,2008,male,15-24 years,0,7404,0.0,Antigua and Barbuda2008,,"1,368,431,037",16238,Millenials
+523,Antigua and Barbuda,2008,male,25-34 years,0,6274,0.0,Antigua and Barbuda2008,,"1,368,431,037",16238,Generation X
+524,Antigua and Barbuda,2008,male,35-54 years,0,12782,0.0,Antigua and Barbuda2008,,"1,368,431,037",16238,Boomers
+525,Antigua and Barbuda,2008,male,5-14 years,0,8599,0.0,Antigua and Barbuda2008,,"1,368,431,037",16238,Generation Z
+526,Antigua and Barbuda,2008,male,55-74 years,0,4158,0.0,Antigua and Barbuda2008,,"1,368,431,037",16238,Silent
+527,Antigua and Barbuda,2008,male,75+ years,0,1069,0.0,Antigua and Barbuda2008,,"1,368,431,037",16238,Silent
+528,Antigua and Barbuda,2009,female,15-24 years,0,8199,0.0,Antigua and Barbuda2009,,"1,224,253,000",14335,Millenials
+529,Antigua and Barbuda,2009,female,25-34 years,0,6917,0.0,Antigua and Barbuda2009,,"1,224,253,000",14335,Generation X
+530,Antigua and Barbuda,2009,female,35-54 years,0,14629,0.0,Antigua and Barbuda2009,,"1,224,253,000",14335,Boomers
+531,Antigua and Barbuda,2009,female,5-14 years,0,8514,0.0,Antigua and Barbuda2009,,"1,224,253,000",14335,Generation Z
+532,Antigua and Barbuda,2009,female,55-74 years,0,4793,0.0,Antigua and Barbuda2009,,"1,224,253,000",14335,Silent
+533,Antigua and Barbuda,2009,female,75+ years,0,1571,0.0,Antigua and Barbuda2009,,"1,224,253,000",14335,Silent
+534,Antigua and Barbuda,2009,male,15-24 years,0,7489,0.0,Antigua and Barbuda2009,,"1,224,253,000",14335,Millenials
+535,Antigua and Barbuda,2009,male,25-34 years,0,6325,0.0,Antigua and Barbuda2009,,"1,224,253,000",14335,Generation X
+536,Antigua and Barbuda,2009,male,35-54 years,0,12978,0.0,Antigua and Barbuda2009,,"1,224,253,000",14335,Boomers
+537,Antigua and Barbuda,2009,male,5-14 years,0,8599,0.0,Antigua and Barbuda2009,,"1,224,253,000",14335,Generation Z
+538,Antigua and Barbuda,2009,male,55-74 years,0,4349,0.0,Antigua and Barbuda2009,,"1,224,253,000",14335,Silent
+539,Antigua and Barbuda,2009,male,75+ years,0,1042,0.0,Antigua and Barbuda2009,,"1,224,253,000",14335,Silent
+540,Antigua and Barbuda,2012,female,15-24 years,0,8435,0.0,Antigua and Barbuda2012,0.7809999999999999,"1,211,411,704",13657,Millenials
+541,Antigua and Barbuda,2012,female,25-34 years,0,7215,0.0,Antigua and Barbuda2012,0.7809999999999999,"1,211,411,704",13657,Millenials
+542,Antigua and Barbuda,2012,female,35-54 years,0,15193,0.0,Antigua and Barbuda2012,0.7809999999999999,"1,211,411,704",13657,Generation X
+543,Antigua and Barbuda,2012,female,5-14 years,0,8401,0.0,Antigua and Barbuda2012,0.7809999999999999,"1,211,411,704",13657,Generation Z
+544,Antigua and Barbuda,2012,female,55-74 years,0,5512,0.0,Antigua and Barbuda2012,0.7809999999999999,"1,211,411,704",13657,Boomers
+545,Antigua and Barbuda,2012,female,75+ years,0,1625,0.0,Antigua and Barbuda2012,0.7809999999999999,"1,211,411,704",13657,Silent
+546,Antigua and Barbuda,2012,male,15-24 years,0,7893,0.0,Antigua and Barbuda2012,0.7809999999999999,"1,211,411,704",13657,Millenials
+547,Antigua and Barbuda,2012,male,25-34 years,0,6629,0.0,Antigua and Barbuda2012,0.7809999999999999,"1,211,411,704",13657,Millenials
+548,Antigua and Barbuda,2012,male,35-54 years,0,13280,0.0,Antigua and Barbuda2012,0.7809999999999999,"1,211,411,704",13657,Generation X
+549,Antigua and Barbuda,2012,male,5-14 years,0,8475,0.0,Antigua and Barbuda2012,0.7809999999999999,"1,211,411,704",13657,Generation Z
+550,Antigua and Barbuda,2012,male,55-74 years,0,4994,0.0,Antigua and Barbuda2012,0.7809999999999999,"1,211,411,704",13657,Boomers
+551,Antigua and Barbuda,2012,male,75+ years,0,1051,0.0,Antigua and Barbuda2012,0.7809999999999999,"1,211,411,704",13657,Silent
+552,Antigua and Barbuda,2013,female,15-24 years,0,8494,0.0,Antigua and Barbuda2013,0.7809999999999999,"1,192,925,407",13287,Millenials
+553,Antigua and Barbuda,2013,female,25-34 years,0,7397,0.0,Antigua and Barbuda2013,0.7809999999999999,"1,192,925,407",13287,Millenials
+554,Antigua and Barbuda,2013,female,35-54 years,0,15236,0.0,Antigua and Barbuda2013,0.7809999999999999,"1,192,925,407",13287,Generation X
+555,Antigua and Barbuda,2013,female,5-14 years,0,8353,0.0,Antigua and Barbuda2013,0.7809999999999999,"1,192,925,407",13287,Generation Z
+556,Antigua and Barbuda,2013,female,55-74 years,0,5787,0.0,Antigua and Barbuda2013,0.7809999999999999,"1,192,925,407",13287,Boomers
+557,Antigua and Barbuda,2013,female,75+ years,0,1652,0.0,Antigua and Barbuda2013,0.7809999999999999,"1,192,925,407",13287,Silent
+558,Antigua and Barbuda,2013,male,15-24 years,0,8061,0.0,Antigua and Barbuda2013,0.7809999999999999,"1,192,925,407",13287,Millenials
+559,Antigua and Barbuda,2013,male,25-34 years,0,6782,0.0,Antigua and Barbuda2013,0.7809999999999999,"1,192,925,407",13287,Millenials
+560,Antigua and Barbuda,2013,male,35-54 years,0,13302,0.0,Antigua and Barbuda2013,0.7809999999999999,"1,192,925,407",13287,Generation X
+561,Antigua and Barbuda,2013,male,5-14 years,0,8405,0.0,Antigua and Barbuda2013,0.7809999999999999,"1,192,925,407",13287,Generation Z
+562,Antigua and Barbuda,2013,male,55-74 years,0,5238,0.0,Antigua and Barbuda2013,0.7809999999999999,"1,192,925,407",13287,Boomers
+563,Antigua and Barbuda,2013,male,75+ years,0,1072,0.0,Antigua and Barbuda2013,0.7809999999999999,"1,192,925,407",13287,Silent
+564,Antigua and Barbuda,2014,female,15-24 years,0,8537,0.0,Antigua and Barbuda2014,0.7829999999999999,"1,280,133,333",14093,Millenials
+565,Antigua and Barbuda,2014,female,25-34 years,0,7578,0.0,Antigua and Barbuda2014,0.7829999999999999,"1,280,133,333",14093,Millenials
+566,Antigua and Barbuda,2014,female,35-54 years,0,15273,0.0,Antigua and Barbuda2014,0.7829999999999999,"1,280,133,333",14093,Generation X
+567,Antigua and Barbuda,2014,female,5-14 years,0,8296,0.0,Antigua and Barbuda2014,0.7829999999999999,"1,280,133,333",14093,Generation Z
+568,Antigua and Barbuda,2014,female,55-74 years,0,6085,0.0,Antigua and Barbuda2014,0.7829999999999999,"1,280,133,333",14093,Boomers
+569,Antigua and Barbuda,2014,female,75+ years,0,1686,0.0,Antigua and Barbuda2014,0.7829999999999999,"1,280,133,333",14093,Silent
+570,Antigua and Barbuda,2014,male,15-24 years,0,8208,0.0,Antigua and Barbuda2014,0.7829999999999999,"1,280,133,333",14093,Millenials
+571,Antigua and Barbuda,2014,male,25-34 years,0,6928,0.0,Antigua and Barbuda2014,0.7829999999999999,"1,280,133,333",14093,Millenials
+572,Antigua and Barbuda,2014,male,35-54 years,0,13325,0.0,Antigua and Barbuda2014,0.7829999999999999,"1,280,133,333",14093,Generation X
+573,Antigua and Barbuda,2014,male,5-14 years,0,8335,0.0,Antigua and Barbuda2014,0.7829999999999999,"1,280,133,333",14093,Generation Z
+574,Antigua and Barbuda,2014,male,55-74 years,0,5503,0.0,Antigua and Barbuda2014,0.7829999999999999,"1,280,133,333",14093,Boomers
+575,Antigua and Barbuda,2014,male,75+ years,0,1083,0.0,Antigua and Barbuda2014,0.7829999999999999,"1,280,133,333",14093,Silent
+576,Antigua and Barbuda,2015,female,55-74 years,1,6403,15.62,Antigua and Barbuda2015,,"1,364,863,037",14853,Boomers
+577,Antigua and Barbuda,2015,female,15-24 years,0,8561,0.0,Antigua and Barbuda2015,,"1,364,863,037",14853,Millenials
+578,Antigua and Barbuda,2015,female,25-34 years,0,7740,0.0,Antigua and Barbuda2015,,"1,364,863,037",14853,Millenials
+579,Antigua and Barbuda,2015,female,35-54 years,0,15323,0.0,Antigua and Barbuda2015,,"1,364,863,037",14853,Generation X
+580,Antigua and Barbuda,2015,female,5-14 years,0,8239,0.0,Antigua and Barbuda2015,,"1,364,863,037",14853,Generation Z
+581,Antigua and Barbuda,2015,female,75+ years,0,1724,0.0,Antigua and Barbuda2015,,"1,364,863,037",14853,Silent
+582,Antigua and Barbuda,2015,male,15-24 years,0,8331,0.0,Antigua and Barbuda2015,,"1,364,863,037",14853,Millenials
+583,Antigua and Barbuda,2015,male,25-34 years,0,7059,0.0,Antigua and Barbuda2015,,"1,364,863,037",14853,Millenials
+584,Antigua and Barbuda,2015,male,35-54 years,0,13370,0.0,Antigua and Barbuda2015,,"1,364,863,037",14853,Generation X
+585,Antigua and Barbuda,2015,male,5-14 years,0,8268,0.0,Antigua and Barbuda2015,,"1,364,863,037",14853,Generation Z
+586,Antigua and Barbuda,2015,male,55-74 years,0,5784,0.0,Antigua and Barbuda2015,,"1,364,863,037",14853,Boomers
+587,Antigua and Barbuda,2015,male,75+ years,0,1087,0.0,Antigua and Barbuda2015,,"1,364,863,037",14853,Silent

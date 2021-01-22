@@ -1,0 +1,299 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+960,Armenia,1990,male,35-54 years,25,332700,7.51,Armenia1990,0.632,"2,256,838,858",756,Silent
+961,Armenia,1990,male,75+ years,2,26900,7.43,Armenia1990,0.632,"2,256,838,858",756,G.I. Generation
+962,Armenia,1990,male,55-74 years,11,183800,5.98,Armenia1990,0.632,"2,256,838,858",756,G.I. Generation
+963,Armenia,1990,male,25-34 years,16,307100,5.21,Armenia1990,0.632,"2,256,838,858",756,Boomers
+964,Armenia,1990,female,35-54 years,15,358000,4.19,Armenia1990,0.632,"2,256,838,858",756,Silent
+965,Armenia,1990,male,15-24 years,10,272500,3.67,Armenia1990,0.632,"2,256,838,858",756,Generation X
+966,Armenia,1990,female,55-74 years,6,224100,2.68,Armenia1990,0.632,"2,256,838,858",756,G.I. Generation
+967,Armenia,1990,female,75+ years,1,48900,2.04,Armenia1990,0.632,"2,256,838,858",756,G.I. Generation
+968,Armenia,1990,female,25-34 years,4,320700,1.25,Armenia1990,0.632,"2,256,838,858",756,Boomers
+969,Armenia,1990,female,15-24 years,3,258500,1.16,Armenia1990,0.632,"2,256,838,858",756,Generation X
+970,Armenia,1990,female,5-14 years,0,316900,0.0,Armenia1990,0.632,"2,256,838,858",756,Generation X
+971,Armenia,1990,male,5-14 years,0,333600,0.0,Armenia1990,0.632,"2,256,838,858",756,Generation X
+972,Armenia,1991,male,75+ years,5,28800,17.36,Armenia1991,,"2,068,526,522",640,G.I. Generation
+973,Armenia,1991,male,25-34 years,20,313800,6.37,Armenia1991,,"2,068,526,522",640,Boomers
+974,Armenia,1991,female,55-74 years,11,247900,4.44,Armenia1991,,"2,068,526,522",640,Silent
+975,Armenia,1991,male,55-74 years,9,203100,4.43,Armenia1991,,"2,068,526,522",640,Silent
+976,Armenia,1991,male,35-54 years,14,348500,4.02,Armenia1991,,"2,068,526,522",640,Boomers
+977,Armenia,1991,female,75+ years,2,52900,3.78,Armenia1991,,"2,068,526,522",640,G.I. Generation
+978,Armenia,1991,female,35-54 years,9,396300,2.27,Armenia1991,,"2,068,526,522",640,Boomers
+979,Armenia,1991,male,15-24 years,6,295300,2.03,Armenia1991,,"2,068,526,522",640,Generation X
+980,Armenia,1991,female,25-34 years,4,342100,1.17,Armenia1991,,"2,068,526,522",640,Boomers
+981,Armenia,1991,female,15-24 years,0,286400,0.0,Armenia1991,,"2,068,526,522",640,Generation X
+982,Armenia,1991,female,5-14 years,0,349500,0.0,Armenia1991,,"2,068,526,522",640,Millenials
+983,Armenia,1991,male,5-14 years,0,366200,0.0,Armenia1991,,"2,068,526,522",640,Millenials
+984,Armenia,1992,male,75+ years,3,28200,10.64,Armenia1992,,"1,272,577,456",385,G.I. Generation
+985,Armenia,1992,male,55-74 years,15,215100,6.97,Armenia1992,,"1,272,577,456",385,Silent
+986,Armenia,1992,male,35-54 years,22,360400,6.1,Armenia1992,,"1,272,577,456",385,Boomers
+987,Armenia,1992,male,25-34 years,15,312600,4.8,Armenia1992,,"1,272,577,456",385,Boomers
+988,Armenia,1992,female,55-74 years,10,263400,3.8,Armenia1992,,"1,272,577,456",385,Silent
+989,Armenia,1992,female,75+ years,2,53400,3.75,Armenia1992,,"1,272,577,456",385,G.I. Generation
+990,Armenia,1992,male,15-24 years,9,300300,3.0,Armenia1992,,"1,272,577,456",385,Generation X
+991,Armenia,1992,female,35-54 years,6,410800,1.46,Armenia1992,,"1,272,577,456",385,Boomers
+992,Armenia,1992,female,15-24 years,1,290100,0.34,Armenia1992,,"1,272,577,456",385,Generation X
+993,Armenia,1992,female,25-34 years,0,340900,0.0,Armenia1992,,"1,272,577,456",385,Boomers
+994,Armenia,1992,female,5-14 years,0,358200,0.0,Armenia1992,,"1,272,577,456",385,Millenials
+995,Armenia,1992,male,5-14 years,0,375300,0.0,Armenia1992,,"1,272,577,456",385,Millenials
+996,Armenia,1993,female,75+ years,6,53100,11.3,Armenia1993,,"1,201,313,201",357,G.I. Generation
+997,Armenia,1993,male,55-74 years,20,226400,8.83,Armenia1993,,"1,201,313,201",357,Silent
+998,Armenia,1993,male,75+ years,2,28400,7.04,Armenia1993,,"1,201,313,201",357,G.I. Generation
+999,Armenia,1993,male,35-54 years,25,371900,6.72,Armenia1993,,"1,201,313,201",357,Boomers
+1000,Armenia,1993,male,25-34 years,17,305600,5.56,Armenia1993,,"1,201,313,201",357,Boomers
+1001,Armenia,1993,female,55-74 years,14,276100,5.07,Armenia1993,,"1,201,313,201",357,Silent
+1002,Armenia,1993,male,15-24 years,7,304800,2.3,Armenia1993,,"1,201,313,201",357,Generation X
+1003,Armenia,1993,female,25-34 years,6,335900,1.79,Armenia1993,,"1,201,313,201",357,Boomers
+1004,Armenia,1993,female,35-54 years,6,424000,1.42,Armenia1993,,"1,201,313,201",357,Boomers
+1005,Armenia,1993,female,15-24 years,3,293900,1.02,Armenia1993,,"1,201,313,201",357,Generation X
+1006,Armenia,1993,female,5-14 years,0,364200,0.0,Armenia1993,,"1,201,313,201",357,Millenials
+1007,Armenia,1993,male,5-14 years,0,382300,0.0,Armenia1993,,"1,201,313,201",357,Millenials
+1008,Armenia,1994,male,75+ years,7,28200,24.82,Armenia1994,,"1,315,158,670",387,G.I. Generation
+1009,Armenia,1994,female,75+ years,5,51700,9.67,Armenia1994,,"1,315,158,670",387,G.I. Generation
+1010,Armenia,1994,male,55-74 years,20,235500,8.49,Armenia1994,,"1,315,158,670",387,Silent
+1011,Armenia,1994,male,35-54 years,31,382500,8.1,Armenia1994,,"1,315,158,670",387,Boomers
+1012,Armenia,1994,female,55-74 years,18,286000,6.29,Armenia1994,,"1,315,158,670",387,Silent
+1013,Armenia,1994,male,25-34 years,10,297000,3.37,Armenia1994,,"1,315,158,670",387,Boomers
+1014,Armenia,1994,male,15-24 years,6,308300,1.95,Armenia1994,,"1,315,158,670",387,Generation X
+1015,Armenia,1994,female,35-54 years,7,437100,1.6,Armenia1994,,"1,315,158,670",387,Boomers
+1016,Armenia,1994,female,15-24 years,4,297600,1.34,Armenia1994,,"1,315,158,670",387,Generation X
+1017,Armenia,1994,male,5-14 years,2,385400,0.52,Armenia1994,,"1,315,158,670",387,Millenials
+1018,Armenia,1994,female,25-34 years,1,326200,0.31,Armenia1994,,"1,315,158,670",387,Boomers
+1019,Armenia,1994,female,5-14 years,1,367000,0.27,Armenia1994,,"1,315,158,670",387,Millenials
+1020,Armenia,1995,male,55-74 years,29,242300,11.97,Armenia1995,0.605,"1,468,317,350",426,Silent
+1021,Armenia,1995,male,35-54 years,32,395200,8.1,Armenia1995,0.605,"1,468,317,350",426,Boomers
+1022,Armenia,1995,male,25-34 years,21,289500,7.25,Armenia1995,0.605,"1,468,317,350",426,Generation X
+1023,Armenia,1995,male,75+ years,2,28000,7.14,Armenia1995,0.605,"1,468,317,350",426,G.I. Generation
+1024,Armenia,1995,female,75+ years,2,51400,3.89,Armenia1995,0.605,"1,468,317,350",426,G.I. Generation
+1025,Armenia,1995,female,55-74 years,11,295200,3.73,Armenia1995,0.605,"1,468,317,350",426,Silent
+1026,Armenia,1995,female,25-34 years,11,313300,3.51,Armenia1995,0.605,"1,468,317,350",426,Generation X
+1027,Armenia,1995,male,15-24 years,10,313600,3.19,Armenia1995,0.605,"1,468,317,350",426,Generation X
+1028,Armenia,1995,female,35-54 years,8,453600,1.76,Armenia1995,0.605,"1,468,317,350",426,Boomers
+1029,Armenia,1995,female,15-24 years,3,303200,0.99,Armenia1995,0.605,"1,468,317,350",426,Generation X
+1030,Armenia,1995,male,5-14 years,1,388200,0.26,Armenia1995,0.605,"1,468,317,350",426,Millenials
+1031,Armenia,1995,female,5-14 years,0,369700,0.0,Armenia1995,0.605,"1,468,317,350",426,Millenials
+1032,Armenia,1996,male,75+ years,3,27900,10.75,Armenia1996,,"1,596,968,913",458,G.I. Generation
+1033,Armenia,1996,male,55-74 years,18,246200,7.31,Armenia1996,,"1,596,968,913",458,Silent
+1034,Armenia,1996,male,35-54 years,24,409800,5.86,Armenia1996,,"1,596,968,913",458,Boomers
+1035,Armenia,1996,male,25-34 years,13,284300,4.57,Armenia1996,,"1,596,968,913",458,Generation X
+1036,Armenia,1996,female,55-74 years,12,301900,3.97,Armenia1996,,"1,596,968,913",458,Silent
+1037,Armenia,1996,female,35-54 years,7,471200,1.49,Armenia1996,,"1,596,968,913",458,Boomers
+1038,Armenia,1996,male,15-24 years,4,320000,1.25,Armenia1996,,"1,596,968,913",458,Generation X
+1039,Armenia,1996,female,25-34 years,3,301500,1.0,Armenia1996,,"1,596,968,913",458,Generation X
+1040,Armenia,1996,female,15-24 years,1,310200,0.32,Armenia1996,,"1,596,968,913",458,Generation X
+1041,Armenia,1996,female,5-14 years,1,371900,0.27,Armenia1996,,"1,596,968,913",458,Millenials
+1042,Armenia,1996,male,5-14 years,1,390300,0.26,Armenia1996,,"1,596,968,913",458,Millenials
+1043,Armenia,1996,female,75+ years,0,51100,0.0,Armenia1996,,"1,596,968,913",458,G.I. Generation
+1044,Armenia,1997,male,55-74 years,21,246200,8.53,Armenia1997,,"1,639,492,424",465,Silent
+1045,Armenia,1997,male,35-54 years,26,426000,6.1,Armenia1997,,"1,639,492,424",465,Boomers
+1046,Armenia,1997,female,75+ years,3,51400,5.84,Armenia1997,,"1,639,492,424",465,G.I. Generation
+1047,Armenia,1997,male,75+ years,1,28500,3.51,Armenia1997,,"1,639,492,424",465,G.I. Generation
+1048,Armenia,1997,male,25-34 years,9,282000,3.19,Armenia1997,,"1,639,492,424",465,Generation X
+1049,Armenia,1997,female,55-74 years,8,304400,2.63,Armenia1997,,"1,639,492,424",465,Silent
+1050,Armenia,1997,male,15-24 years,4,327300,1.22,Armenia1997,,"1,639,492,424",465,Generation X
+1051,Armenia,1997,female,35-54 years,3,489900,0.61,Armenia1997,,"1,639,492,424",465,Boomers
+1052,Armenia,1997,female,25-34 years,1,294200,0.34,Armenia1997,,"1,639,492,424",465,Generation X
+1053,Armenia,1997,male,5-14 years,1,389500,0.26,Armenia1997,,"1,639,492,424",465,Millenials
+1054,Armenia,1997,female,15-24 years,0,316500,0.0,Armenia1997,,"1,639,492,424",465,Generation X
+1055,Armenia,1997,female,5-14 years,0,370800,0.0,Armenia1997,,"1,639,492,424",465,Millenials
+1056,Armenia,1998,male,75+ years,2,29600,6.76,Armenia1998,,"1,893,726,437",532,G.I. Generation
+1057,Armenia,1998,male,55-74 years,16,243300,6.58,Armenia1998,,"1,893,726,437",532,Silent
+1058,Armenia,1998,male,35-54 years,20,445000,4.49,Armenia1998,,"1,893,726,437",532,Boomers
+1059,Armenia,1998,male,25-34 years,6,280200,2.14,Armenia1998,,"1,893,726,437",532,Generation X
+1060,Armenia,1998,female,55-74 years,6,302000,1.99,Armenia1998,,"1,893,726,437",532,Silent
+1061,Armenia,1998,female,75+ years,1,53100,1.88,Armenia1998,,"1,893,726,437",532,G.I. Generation
+1062,Armenia,1998,female,35-54 years,9,509800,1.77,Armenia1998,,"1,893,726,437",532,Boomers
+1063,Armenia,1998,male,15-24 years,4,335100,1.19,Armenia1998,,"1,893,726,437",532,Generation X
+1064,Armenia,1998,female,25-34 years,1,289300,0.35,Armenia1998,,"1,893,726,437",532,Generation X
+1065,Armenia,1998,female,5-14 years,1,364600,0.27,Armenia1998,,"1,893,726,437",532,Millenials
+1066,Armenia,1998,female,15-24 years,0,322300,0.0,Armenia1998,,"1,893,726,437",532,Generation X
+1067,Armenia,1998,male,5-14 years,0,383700,0.0,Armenia1998,,"1,893,726,437",532,Millenials
+1068,Armenia,1999,male,55-74 years,15,238100,6.3,Armenia1999,,"1,845,482,181",515,Silent
+1069,Armenia,1999,female,75+ years,3,56800,5.28,Armenia1999,,"1,845,482,181",515,G.I. Generation
+1070,Armenia,1999,male,35-54 years,22,464300,4.74,Armenia1999,,"1,845,482,181",515,Boomers
+1071,Armenia,1999,female,55-74 years,9,296800,3.03,Armenia1999,,"1,845,482,181",515,Silent
+1072,Armenia,1999,male,25-34 years,6,279800,2.14,Armenia1999,,"1,845,482,181",515,Generation X
+1073,Armenia,1999,male,15-24 years,6,344000,1.74,Armenia1999,,"1,845,482,181",515,Generation X
+1074,Armenia,1999,female,35-54 years,4,530700,0.75,Armenia1999,,"1,845,482,181",515,Boomers
+1075,Armenia,1999,female,25-34 years,2,284300,0.7,Armenia1999,,"1,845,482,181",515,Generation X
+1076,Armenia,1999,female,15-24 years,0,329700,0.0,Armenia1999,,"1,845,482,181",515,Generation X
+1077,Armenia,1999,female,5-14 years,0,352300,0.0,Armenia1999,,"1,845,482,181",515,Millenials
+1078,Armenia,1999,male,5-14 years,0,371600,0.0,Armenia1999,,"1,845,482,181",515,Millenials
+1079,Armenia,1999,male,75+ years,0,32300,0.0,Armenia1999,,"1,845,482,181",515,G.I. Generation
+1080,Armenia,2000,male,75+ years,4,37600,10.64,Armenia2000,0.648,"1,911,563,665",530,G.I. Generation
+1081,Armenia,2000,female,75+ years,5,66500,7.52,Armenia2000,0.648,"1,911,563,665",530,G.I. Generation
+1082,Armenia,2000,male,55-74 years,14,234300,5.98,Armenia2000,0.648,"1,911,563,665",530,Silent
+1083,Armenia,2000,male,35-54 years,18,481100,3.74,Armenia2000,0.648,"1,911,563,665",530,Boomers
+1084,Armenia,2000,male,25-34 years,5,283300,1.76,Armenia2000,0.648,"1,911,563,665",530,Generation X
+1085,Armenia,2000,male,15-24 years,6,358000,1.68,Armenia2000,0.648,"1,911,563,665",530,Generation X
+1086,Armenia,2000,female,25-34 years,4,280400,1.43,Armenia2000,0.648,"1,911,563,665",530,Generation X
+1087,Armenia,2000,female,55-74 years,4,292700,1.37,Armenia2000,0.648,"1,911,563,665",530,Silent
+1088,Armenia,2000,female,35-54 years,1,555300,0.18,Armenia2000,0.648,"1,911,563,665",530,Boomers
+1089,Armenia,2000,female,15-24 years,0,341100,0.0,Armenia2000,0.648,"1,911,563,665",530,Generation X
+1090,Armenia,2000,female,5-14 years,0,328000,0.0,Armenia2000,0.648,"1,911,563,665",530,Millenials
+1091,Armenia,2000,male,5-14 years,0,348200,0.0,Armenia2000,0.648,"1,911,563,665",530,Millenials
+1092,Armenia,2001,male,55-74 years,17,227605,7.47,Armenia2001,,"2,118,467,913",587,Silent
+1093,Armenia,2001,male,75+ years,3,40190,7.46,Armenia2001,,"2,118,467,913",587,Silent
+1094,Armenia,2001,female,75+ years,4,66283,6.03,Armenia2001,,"2,118,467,913",587,Silent
+1095,Armenia,2001,male,35-54 years,19,493922,3.85,Armenia2001,,"2,118,467,913",587,Boomers
+1096,Armenia,2001,female,55-74 years,4,289601,1.38,Armenia2001,,"2,118,467,913",587,Silent
+1097,Armenia,2001,male,15-24 years,4,361248,1.11,Armenia2001,,"2,118,467,913",587,Millenials
+1098,Armenia,2001,male,5-14 years,3,337767,0.89,Armenia2001,,"2,118,467,913",587,Millenials
+1099,Armenia,2001,male,25-34 years,2,284346,0.7,Armenia2001,,"2,118,467,913",587,Generation X
+1100,Armenia,2001,female,35-54 years,3,563626,0.53,Armenia2001,,"2,118,467,913",587,Boomers
+1101,Armenia,2001,female,25-34 years,1,279953,0.36,Armenia2001,,"2,118,467,913",587,Generation X
+1102,Armenia,2001,female,15-24 years,0,346468,0.0,Armenia2001,,"2,118,467,913",587,Millenials
+1103,Armenia,2001,female,5-14 years,0,319507,0.0,Armenia2001,,"2,118,467,913",587,Millenials
+1104,Armenia,2002,male,75+ years,3,29067,10.32,Armenia2002,,"2,376,335,048",788,Silent
+1105,Armenia,2002,male,55-74 years,19,196525,9.67,Armenia2002,,"2,376,335,048",788,Silent
+1106,Armenia,2002,male,25-34 years,12,206403,5.81,Armenia2002,,"2,376,335,048",788,Generation X
+1107,Armenia,2002,male,35-54 years,22,418464,5.26,Armenia2002,,"2,376,335,048",788,Boomers
+1108,Armenia,2002,female,75+ years,1,58553,1.71,Armenia2002,,"2,376,335,048",788,Silent
+1109,Armenia,2002,male,15-24 years,5,293350,1.7,Armenia2002,,"2,376,335,048",788,Millenials
+1110,Armenia,2002,female,35-54 years,6,469992,1.28,Armenia2002,,"2,376,335,048",788,Boomers
+1111,Armenia,2002,female,55-74 years,3,251856,1.19,Armenia2002,,"2,376,335,048",788,Silent
+1112,Armenia,2002,female,25-34 years,1,222943,0.45,Armenia2002,,"2,376,335,048",788,Generation X
+1113,Armenia,2002,male,5-14 years,1,294209,0.34,Armenia2002,,"2,376,335,048",788,Millenials
+1114,Armenia,2002,female,15-24 years,1,294739,0.34,Armenia2002,,"2,376,335,048",788,Millenials
+1115,Armenia,2002,female,5-14 years,0,278743,0.0,Armenia2002,,"2,376,335,048",788,Millenials
+1116,Armenia,2003,male,75+ years,3,32495,9.23,Armenia2003,,"2,807,061,009",928,Silent
+1117,Armenia,2003,male,55-74 years,14,194165,7.21,Armenia2003,,"2,807,061,009",928,Silent
+1118,Armenia,2003,male,35-54 years,21,423001,4.96,Armenia2003,,"2,807,061,009",928,Boomers
+1119,Armenia,2003,female,75+ years,3,62935,4.77,Armenia2003,,"2,807,061,009",928,Silent
+1120,Armenia,2003,male,25-34 years,10,210715,4.75,Armenia2003,,"2,807,061,009",928,Generation X
+1121,Armenia,2003,female,55-74 years,3,249909,1.2,Armenia2003,,"2,807,061,009",928,Silent
+1122,Armenia,2003,female,35-54 years,3,473959,0.63,Armenia2003,,"2,807,061,009",928,Boomers
+1123,Armenia,2003,male,5-14 years,1,283952,0.35,Armenia2003,,"2,807,061,009",928,Millenials
+1124,Armenia,2003,male,15-24 years,1,300902,0.33,Armenia2003,,"2,807,061,009",928,Millenials
+1125,Armenia,2003,female,15-24 years,0,300080,0.0,Armenia2003,,"2,807,061,009",928,Millenials
+1126,Armenia,2003,female,25-34 years,0,225313,0.0,Armenia2003,,"2,807,061,009",928,Generation X
+1127,Armenia,2003,female,5-14 years,0,266940,0.0,Armenia2003,,"2,807,061,009",928,Millenials
+1128,Armenia,2006,male,75+ years,6,48123,12.47,Armenia2006,,"6,384,451,606",2310,Silent
+1129,Armenia,2006,male,55-74 years,21,184526,11.38,Armenia2006,,"6,384,451,606",2310,Silent
+1130,Armenia,2006,male,35-54 years,17,367346,4.63,Armenia2006,,"6,384,451,606",2310,Boomers
+1131,Armenia,2006,male,15-24 years,10,276127,3.62,Armenia2006,,"6,384,451,606",2310,Millenials
+1132,Armenia,2006,female,55-74 years,8,238745,3.35,Armenia2006,,"6,384,451,606",2310,Silent
+1133,Armenia,2006,male,25-34 years,6,188382,3.19,Armenia2006,,"6,384,451,606",2310,Generation X
+1134,Armenia,2006,female,75+ years,2,78684,2.54,Armenia2006,,"6,384,451,606",2310,Silent
+1135,Armenia,2006,female,35-54 years,5,450477,1.11,Armenia2006,,"6,384,451,606",2310,Boomers
+1136,Armenia,2006,female,25-34 years,2,215884,0.93,Armenia2006,,"6,384,451,606",2310,Generation X
+1137,Armenia,2006,male,5-14 years,1,221941,0.45,Armenia2006,,"6,384,451,606",2310,Millenials
+1138,Armenia,2006,female,15-24 years,0,290966,0.0,Armenia2006,,"6,384,451,606",2310,Millenials
+1139,Armenia,2006,female,5-14 years,0,203195,0.0,Armenia2006,,"6,384,451,606",2310,Millenials
+1140,Armenia,2007,male,75+ years,7,49296,14.2,Armenia2007,,"9,206,301,700",3366,Silent
+1141,Armenia,2007,male,55-74 years,13,185290,7.02,Armenia2007,,"9,206,301,700",3366,Silent
+1142,Armenia,2007,male,35-54 years,19,362189,5.25,Armenia2007,,"9,206,301,700",3366,Boomers
+1143,Armenia,2007,female,55-74 years,8,240998,3.32,Armenia2007,,"9,206,301,700",3366,Silent
+1144,Armenia,2007,male,15-24 years,7,272188,2.57,Armenia2007,,"9,206,301,700",3366,Millenials
+1145,Armenia,2007,male,25-34 years,4,191561,2.09,Armenia2007,,"9,206,301,700",3366,Generation X
+1146,Armenia,2007,female,35-54 years,8,444817,1.8,Armenia2007,,"9,206,301,700",3366,Boomers
+1147,Armenia,2007,female,75+ years,1,79210,1.26,Armenia2007,,"9,206,301,700",3366,Silent
+1148,Armenia,2007,female,15-24 years,3,288510,1.04,Armenia2007,,"9,206,301,700",3366,Millenials
+1149,Armenia,2007,male,5-14 years,1,210620,0.47,Armenia2007,,"9,206,301,700",3366,Generation Z
+1150,Armenia,2007,female,25-34 years,0,220144,0.0,Armenia2007,,"9,206,301,700",3366,Generation X
+1151,Armenia,2007,female,5-14 years,0,190490,0.0,Armenia2007,,"9,206,301,700",3366,Generation Z
+1152,Armenia,2008,male,75+ years,7,46886,14.93,Armenia2008,,"11,662,040,714",3829,Silent
+1153,Armenia,2008,male,55-74 years,18,198978,9.05,Armenia2008,,"11,662,040,714",3829,Silent
+1154,Armenia,2008,male,35-54 years,11,429649,2.56,Armenia2008,,"11,662,040,714",3829,Boomers
+1155,Armenia,2008,female,35-54 years,10,477501,2.09,Armenia2008,,"11,662,040,714",3829,Boomers
+1156,Armenia,2008,female,55-74 years,5,260264,1.92,Armenia2008,,"11,662,040,714",3829,Silent
+1157,Armenia,2008,male,25-34 years,4,250190,1.6,Armenia2008,,"11,662,040,714",3829,Generation X
+1158,Armenia,2008,male,15-24 years,3,317794,0.94,Armenia2008,,"11,662,040,714",3829,Millenials
+1159,Armenia,2008,female,25-34 years,2,254728,0.79,Armenia2008,,"11,662,040,714",3829,Generation X
+1160,Armenia,2008,female,5-14 years,1,198065,0.5,Armenia2008,,"11,662,040,714",3829,Generation Z
+1161,Armenia,2008,male,5-14 years,1,220896,0.45,Armenia2008,,"11,662,040,714",3829,Generation Z
+1162,Armenia,2008,female,15-24 years,1,309009,0.32,Armenia2008,,"11,662,040,714",3829,Millenials
+1163,Armenia,2008,female,75+ years,0,81431,0.0,Armenia2008,,"11,662,040,714",3829,Silent
+1164,Armenia,2009,male,75+ years,8,50759,15.76,Armenia2009,,"8,647,936,748",3215,Silent
+1165,Armenia,2009,male,55-74 years,11,189632,5.8,Armenia2009,,"8,647,936,748",3215,Silent
+1166,Armenia,2009,male,35-54 years,17,351694,4.83,Armenia2009,,"8,647,936,748",3215,Boomers
+1167,Armenia,2009,male,15-24 years,5,259772,1.92,Armenia2009,,"8,647,936,748",3215,Millenials
+1168,Armenia,2009,female,75+ years,1,79728,1.25,Armenia2009,,"8,647,936,748",3215,Silent
+1169,Armenia,2009,female,55-74 years,3,248767,1.21,Armenia2009,,"8,647,936,748",3215,Silent
+1170,Armenia,2009,male,25-34 years,2,198646,1.01,Armenia2009,,"8,647,936,748",3215,Generation X
+1171,Armenia,2009,female,25-34 years,2,230582,0.87,Armenia2009,,"8,647,936,748",3215,Generation X
+1172,Armenia,2009,female,35-54 years,3,433390,0.69,Armenia2009,,"8,647,936,748",3215,Boomers
+1173,Armenia,2009,female,15-24 years,1,278535,0.36,Armenia2009,,"8,647,936,748",3215,Millenials
+1174,Armenia,2009,female,5-14 years,0,172560,0.0,Armenia2009,,"8,647,936,748",3215,Generation Z
+1175,Armenia,2009,male,5-14 years,0,195630,0.0,Armenia2009,,"8,647,936,748",3215,Generation Z
+1176,Armenia,2010,male,75+ years,6,52333,11.47,Armenia2010,0.721,"9,260,284,938",3460,Silent
+1177,Armenia,2010,male,55-74 years,13,193100,6.73,Armenia2010,0.721,"9,260,284,938",3460,Silent
+1178,Armenia,2010,male,25-34 years,10,202936,4.93,Armenia2010,0.721,"9,260,284,938",3460,Generation X
+1179,Armenia,2010,male,35-54 years,15,346739,4.33,Armenia2010,0.721,"9,260,284,938",3460,Generation X
+1180,Armenia,2010,male,15-24 years,8,252152,3.17,Armenia2010,0.721,"9,260,284,938",3460,Millenials
+1181,Armenia,2010,female,55-74 years,7,253182,2.76,Armenia2010,0.721,"9,260,284,938",3460,Silent
+1182,Armenia,2010,female,75+ years,2,81770,2.45,Armenia2010,0.721,"9,260,284,938",3460,Silent
+1183,Armenia,2010,female,5-14 years,2,167142,1.2,Armenia2010,0.721,"9,260,284,938",3460,Generation Z
+1184,Armenia,2010,female,35-54 years,5,427571,1.17,Armenia2010,0.721,"9,260,284,938",3460,Generation X
+1185,Armenia,2010,male,5-14 years,2,191722,1.04,Armenia2010,0.721,"9,260,284,938",3460,Generation Z
+1186,Armenia,2010,female,15-24 years,2,270727,0.74,Armenia2010,0.721,"9,260,284,938",3460,Millenials
+1187,Armenia,2010,female,25-34 years,1,236851,0.42,Armenia2010,0.721,"9,260,284,938",3460,Generation X
+1188,Armenia,2011,female,75+ years,6,86643,6.92,Armenia2011,0.723,"10,142,111,334",3798,Silent
+1189,Armenia,2011,male,35-54 years,23,341199,6.74,Armenia2011,0.723,"10,142,111,334",3798,Generation X
+1190,Armenia,2011,male,55-74 years,11,194982,5.64,Armenia2011,0.723,"10,142,111,334",3798,Boomers
+1191,Armenia,2011,male,25-34 years,8,209914,3.81,Armenia2011,0.723,"10,142,111,334",3798,Millenials
+1192,Armenia,2011,male,75+ years,2,55565,3.6,Armenia2011,0.723,"10,142,111,334",3798,Silent
+1193,Armenia,2011,male,15-24 years,7,245227,2.85,Armenia2011,0.723,"10,142,111,334",3798,Millenials
+1194,Armenia,2011,female,15-24 years,4,259823,1.54,Armenia2011,0.723,"10,142,111,334",3798,Millenials
+1195,Armenia,2011,female,55-74 years,3,256541,1.17,Armenia2011,0.723,"10,142,111,334",3798,Boomers
+1196,Armenia,2011,female,35-54 years,3,422179,0.71,Armenia2011,0.723,"10,142,111,334",3798,Generation X
+1197,Armenia,2011,female,25-34 years,0,244912,0.0,Armenia2011,0.723,"10,142,111,334",3798,Millenials
+1198,Armenia,2011,female,5-14 years,0,164004,0.0,Armenia2011,0.723,"10,142,111,334",3798,Generation Z
+1199,Armenia,2011,male,5-14 years,0,189377,0.0,Armenia2011,0.723,"10,142,111,334",3798,Generation Z
+1200,Armenia,2012,male,75+ years,5,56598,8.83,Armenia2012,0.728,"10,619,320,049",3773,Silent
+1201,Armenia,2012,male,35-54 years,26,376743,6.9,Armenia2012,0.728,"10,619,320,049",3773,Generation X
+1202,Armenia,2012,male,55-74 years,11,212482,5.18,Armenia2012,0.728,"10,619,320,049",3773,Boomers
+1203,Armenia,2012,male,25-34 years,11,245443,4.48,Armenia2012,0.728,"10,619,320,049",3773,Millenials
+1204,Armenia,2012,female,75+ years,3,91237,3.29,Armenia2012,0.728,"10,619,320,049",3773,Silent
+1205,Armenia,2012,male,15-24 years,5,255119,1.96,Armenia2012,0.728,"10,619,320,049",3773,Millenials
+1206,Armenia,2012,female,35-54 years,7,428953,1.63,Armenia2012,0.728,"10,619,320,049",3773,Generation X
+1207,Armenia,2012,female,25-34 years,4,259768,1.54,Armenia2012,0.728,"10,619,320,049",3773,Millenials
+1208,Armenia,2012,female,55-74 years,4,273394,1.46,Armenia2012,0.728,"10,619,320,049",3773,Boomers
+1209,Armenia,2012,female,15-24 years,2,255088,0.78,Armenia2012,0.728,"10,619,320,049",3773,Millenials
+1210,Armenia,2012,male,5-14 years,1,192409,0.52,Armenia2012,0.728,"10,619,320,049",3773,Generation Z
+1211,Armenia,2012,female,5-14 years,0,167066,0.0,Armenia2012,0.728,"10,619,320,049",3773,Generation Z
+1212,Armenia,2013,male,75+ years,7,58640,11.94,Armenia2013,0.731,"11,121,465,767",3957,Silent
+1213,Armenia,2013,female,75+ years,6,95093,6.31,Armenia2013,0.731,"11,121,465,767",3957,Silent
+1214,Armenia,2013,male,55-74 years,11,218063,5.04,Armenia2013,0.731,"11,121,465,767",3957,Boomers
+1215,Armenia,2013,female,55-74 years,11,280566,3.92,Armenia2013,0.731,"11,121,465,767",3957,Boomers
+1216,Armenia,2013,male,25-34 years,9,250487,3.59,Armenia2013,0.731,"11,121,465,767",3957,Millenials
+1217,Armenia,2013,male,35-54 years,13,370440,3.51,Armenia2013,0.731,"11,121,465,767",3957,Generation X
+1218,Armenia,2013,female,35-54 years,6,423841,1.42,Armenia2013,0.731,"11,121,465,767",3957,Generation X
+1219,Armenia,2013,male,15-24 years,2,243687,0.82,Armenia2013,0.731,"11,121,465,767",3957,Millenials
+1220,Armenia,2013,male,5-14 years,1,193754,0.52,Armenia2013,0.731,"11,121,465,767",3957,Generation Z
+1221,Armenia,2013,female,15-24 years,1,242386,0.41,Armenia2013,0.731,"11,121,465,767",3957,Millenials
+1222,Armenia,2013,female,25-34 years,0,265616,0.0,Armenia2013,0.731,"11,121,465,767",3957,Millenials
+1223,Armenia,2013,female,5-14 years,0,168091,0.0,Armenia2013,0.731,"11,121,465,767",3957,Generation Z
+1224,Armenia,2014,male,75+ years,9,60108,14.97,Armenia2014,0.733,"11,609,512,940",4142,Silent
+1225,Armenia,2014,female,75+ years,6,98118,6.12,Armenia2014,0.733,"11,609,512,940",4142,Silent
+1226,Armenia,2014,male,55-74 years,12,224430,5.35,Armenia2014,0.733,"11,609,512,940",4142,Boomers
+1227,Armenia,2014,male,35-54 years,13,363362,3.58,Armenia2014,0.733,"11,609,512,940",4142,Generation X
+1228,Armenia,2014,male,25-34 years,6,253461,2.37,Armenia2014,0.733,"11,609,512,940",4142,Millenials
+1229,Armenia,2014,female,55-74 years,4,288822,1.38,Armenia2014,0.733,"11,609,512,940",4142,Boomers
+1230,Armenia,2014,male,15-24 years,3,230760,1.3,Armenia2014,0.733,"11,609,512,940",4142,Millenials
+1231,Armenia,2014,female,15-24 years,2,227895,0.88,Armenia2014,0.733,"11,609,512,940",4142,Millenials
+1232,Armenia,2014,female,5-14 years,1,171332,0.58,Armenia2014,0.733,"11,609,512,940",4142,Generation Z
+1233,Armenia,2014,female,35-54 years,2,417829,0.48,Armenia2014,0.733,"11,609,512,940",4142,Generation X
+1234,Armenia,2014,female,25-34 years,0,269937,0.0,Armenia2014,0.733,"11,609,512,940",4142,Millenials
+1235,Armenia,2014,male,5-14 years,0,196975,0.0,Armenia2014,0.733,"11,609,512,940",4142,Generation Z
+1236,Armenia,2015,male,75+ years,12,61355,19.56,Armenia2015,,"10,553,337,673",3775,Silent
+1237,Armenia,2015,male,55-74 years,16,231213,6.92,Armenia2015,,"10,553,337,673",3775,Boomers
+1238,Armenia,2015,female,75+ years,5,100754,4.96,Armenia2015,,"10,553,337,673",3775,Silent
+1239,Armenia,2015,male,35-54 years,15,356715,4.21,Armenia2015,,"10,553,337,673",3775,Generation X
+1240,Armenia,2015,male,25-34 years,10,255540,3.91,Armenia2015,,"10,553,337,673",3775,Millenials
+1241,Armenia,2015,female,55-74 years,5,297936,1.68,Armenia2015,,"10,553,337,673",3775,Boomers
+1242,Armenia,2015,female,15-24 years,3,212010,1.42,Armenia2015,,"10,553,337,673",3775,Millenials
+1243,Armenia,2015,female,35-54 years,4,412360,0.97,Armenia2015,,"10,553,337,673",3775,Generation X
+1244,Armenia,2015,male,15-24 years,2,216876,0.92,Armenia2015,,"10,553,337,673",3775,Millenials
+1245,Armenia,2015,female,25-34 years,2,274108,0.73,Armenia2015,,"10,553,337,673",3775,Millenials
+1246,Armenia,2015,female,5-14 years,0,175417,0.0,Armenia2015,,"10,553,337,673",3775,Generation Z
+1247,Armenia,2015,male,5-14 years,0,201051,0.0,Armenia2015,,"10,553,337,673",3775,Generation Z
+1248,Armenia,2016,male,75+ years,12,61956,19.37,Armenia2016,,"10,546,135,160",3788,Silent
+1249,Armenia,2016,male,55-74 years,16,237813,6.73,Armenia2016,,"10,546,135,160",3788,Boomers
+1250,Armenia,2016,male,35-54 years,16,350633,4.56,Armenia2016,,"10,546,135,160",3788,Generation X
+1251,Armenia,2016,male,15-24 years,5,202220,2.47,Armenia2016,,"10,546,135,160",3788,Millenials
+1252,Armenia,2016,female,75+ years,2,102414,1.95,Armenia2016,,"10,546,135,160",3788,Silent
+1253,Armenia,2016,female,55-74 years,6,308349,1.95,Armenia2016,,"10,546,135,160",3788,Boomers
+1254,Armenia,2016,male,25-34 years,4,255665,1.56,Armenia2016,,"10,546,135,160",3788,Millenials
+1255,Armenia,2016,female,35-54 years,3,408109,0.74,Armenia2016,,"10,546,135,160",3788,Generation X
+1256,Armenia,2016,female,25-34 years,2,277452,0.72,Armenia2016,,"10,546,135,160",3788,Millenials
+1257,Armenia,2016,female,15-24 years,1,195422,0.51,Armenia2016,,"10,546,135,160",3788,Millenials

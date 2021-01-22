@@ -1,0 +1,265 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+27556,Uzbekistan,1990,male,35-54 years,343,1491700,22.99,Uzbekistan1990,,"13,360,607,918",778,Silent
+27557,Uzbekistan,1990,male,55-74 years,129,660200,19.54,Uzbekistan1990,,"13,360,607,918",778,G.I. Generation
+27558,Uzbekistan,1990,male,25-34 years,283,1638100,17.28,Uzbekistan1990,,"13,360,607,918",778,Boomers
+27559,Uzbekistan,1990,male,75+ years,20,118300,16.91,Uzbekistan1990,,"13,360,607,918",778,G.I. Generation
+27560,Uzbekistan,1990,female,75+ years,27,218400,12.36,Uzbekistan1990,,"13,360,607,918",778,G.I. Generation
+27561,Uzbekistan,1990,male,15-24 years,191,1955700,9.77,Uzbekistan1990,,"13,360,607,918",778,Generation X
+27562,Uzbekistan,1990,female,55-74 years,77,856800,8.99,Uzbekistan1990,,"13,360,607,918",778,G.I. Generation
+27563,Uzbekistan,1990,female,35-54 years,105,1507400,6.97,Uzbekistan1990,,"13,360,607,918",778,Silent
+27564,Uzbekistan,1990,female,15-24 years,135,1956300,6.9,Uzbekistan1990,,"13,360,607,918",778,Generation X
+27565,Uzbekistan,1990,female,25-34 years,87,1664200,5.23,Uzbekistan1990,,"13,360,607,918",778,Boomers
+27566,Uzbekistan,1990,male,5-14 years,42,2574400,1.63,Uzbekistan1990,,"13,360,607,918",778,Generation X
+27567,Uzbekistan,1990,female,5-14 years,20,2524200,0.79,Uzbekistan1990,,"13,360,607,918",778,Generation X
+27568,Uzbekistan,1991,male,35-54 years,353,1510300,23.37,Uzbekistan1991,,"13,677,622,222",788,Boomers
+27569,Uzbekistan,1991,male,55-74 years,119,668000,17.81,Uzbekistan1991,,"13,677,622,222",788,Silent
+27570,Uzbekistan,1991,male,25-34 years,289,1648400,17.53,Uzbekistan1991,,"13,677,622,222",788,Boomers
+27571,Uzbekistan,1991,male,75+ years,20,115500,17.32,Uzbekistan1991,,"13,677,622,222",788,G.I. Generation
+27572,Uzbekistan,1991,female,75+ years,30,216200,13.88,Uzbekistan1991,,"13,677,622,222",788,G.I. Generation
+27573,Uzbekistan,1991,male,15-24 years,209,1970700,10.61,Uzbekistan1991,,"13,677,622,222",788,Generation X
+27574,Uzbekistan,1991,female,55-74 years,57,856200,6.66,Uzbekistan1991,,"13,677,622,222",788,Silent
+27575,Uzbekistan,1991,female,15-24 years,117,1965200,5.95,Uzbekistan1991,,"13,677,622,222",788,Generation X
+27576,Uzbekistan,1991,female,35-54 years,71,1531100,4.64,Uzbekistan1991,,"13,677,622,222",788,Boomers
+27577,Uzbekistan,1991,female,25-34 years,72,1684500,4.27,Uzbekistan1991,,"13,677,622,222",788,Boomers
+27578,Uzbekistan,1991,male,5-14 years,49,2615200,1.87,Uzbekistan1991,,"13,677,622,222",788,Millenials
+27579,Uzbekistan,1991,female,5-14 years,7,2566500,0.27,Uzbekistan1991,,"13,677,622,222",788,Millenials
+27580,Uzbekistan,1992,male,35-54 years,308,1586100,19.42,Uzbekistan1992,,"12,941,297,376",709,Boomers
+27581,Uzbekistan,1992,male,75+ years,19,125500,15.14,Uzbekistan1992,,"12,941,297,376",709,G.I. Generation
+27582,Uzbekistan,1992,male,55-74 years,105,701800,14.96,Uzbekistan1992,,"12,941,297,376",709,Silent
+27583,Uzbekistan,1992,male,25-34 years,258,1741600,14.81,Uzbekistan1992,,"12,941,297,376",709,Boomers
+27584,Uzbekistan,1992,female,75+ years,29,232900,12.45,Uzbekistan1992,,"12,941,297,376",709,G.I. Generation
+27585,Uzbekistan,1992,male,15-24 years,257,2079600,12.36,Uzbekistan1992,,"12,941,297,376",709,Generation X
+27586,Uzbekistan,1992,female,55-74 years,57,912800,6.24,Uzbekistan1992,,"12,941,297,376",709,Silent
+27587,Uzbekistan,1992,female,15-24 years,108,2081800,5.19,Uzbekistan1992,,"12,941,297,376",709,Generation X
+27588,Uzbekistan,1992,female,25-34 years,81,1769700,4.58,Uzbekistan1992,,"12,941,297,376",709,Boomers
+27589,Uzbekistan,1992,female,35-54 years,65,1603900,4.05,Uzbekistan1992,,"12,941,297,376",709,Boomers
+27590,Uzbekistan,1992,male,5-14 years,49,2737500,1.79,Uzbekistan1992,,"12,941,297,376",709,Millenials
+27591,Uzbekistan,1992,female,5-14 years,8,2683800,0.3,Uzbekistan1992,,"12,941,297,376",709,Millenials
+27592,Uzbekistan,1993,male,35-54 years,332,1635000,20.31,Uzbekistan1993,,"13,099,013,836",708,Boomers
+27593,Uzbekistan,1993,male,75+ years,19,113000,16.81,Uzbekistan1993,,"13,099,013,836",708,G.I. Generation
+27594,Uzbekistan,1993,male,25-34 years,278,1714500,16.21,Uzbekistan1993,,"13,099,013,836",708,Boomers
+27595,Uzbekistan,1993,male,55-74 years,111,730700,15.19,Uzbekistan1993,,"13,099,013,836",708,Silent
+27596,Uzbekistan,1993,female,75+ years,23,220200,10.45,Uzbekistan1993,,"13,099,013,836",708,G.I. Generation
+27597,Uzbekistan,1993,male,15-24 years,218,2098300,10.39,Uzbekistan1993,,"13,099,013,836",708,Generation X
+27598,Uzbekistan,1993,female,55-74 years,60,917800,6.54,Uzbekistan1993,,"13,099,013,836",708,Silent
+27599,Uzbekistan,1993,female,15-24 years,117,2084700,5.61,Uzbekistan1993,,"13,099,013,836",708,Generation X
+27600,Uzbekistan,1993,female,25-34 years,83,1763900,4.71,Uzbekistan1993,,"13,099,013,836",708,Boomers
+27601,Uzbekistan,1993,female,35-54 years,60,1656100,3.62,Uzbekistan1993,,"13,099,013,836",708,Boomers
+27602,Uzbekistan,1993,male,5-14 years,47,2817200,1.67,Uzbekistan1993,,"13,099,013,836",708,Millenials
+27603,Uzbekistan,1993,female,5-14 years,7,2757900,0.25,Uzbekistan1993,,"13,099,013,836",708,Millenials
+27604,Uzbekistan,1994,male,35-54 years,374,1737700,21.52,Uzbekistan1994,,"12,899,156,991",674,Boomers
+27605,Uzbekistan,1994,male,55-74 years,151,786400,19.2,Uzbekistan1994,,"12,899,156,991",674,Silent
+27606,Uzbekistan,1994,male,25-34 years,264,1703700,15.5,Uzbekistan1994,,"12,899,156,991",674,Boomers
+27607,Uzbekistan,1994,female,75+ years,25,204700,12.21,Uzbekistan1994,,"12,899,156,991",674,G.I. Generation
+27608,Uzbekistan,1994,male,15-24 years,246,2158200,11.4,Uzbekistan1994,,"12,899,156,991",674,Generation X
+27609,Uzbekistan,1994,male,75+ years,10,95300,10.49,Uzbekistan1994,,"12,899,156,991",674,G.I. Generation
+27610,Uzbekistan,1994,female,55-74 years,53,940400,5.64,Uzbekistan1994,,"12,899,156,991",674,Silent
+27611,Uzbekistan,1994,female,15-24 years,110,2132800,5.16,Uzbekistan1994,,"12,899,156,991",674,Generation X
+27612,Uzbekistan,1994,female,25-34 years,77,1759900,4.38,Uzbekistan1994,,"12,899,156,991",674,Boomers
+27613,Uzbekistan,1994,female,35-54 years,74,1774300,4.17,Uzbekistan1994,,"12,899,156,991",674,Boomers
+27614,Uzbekistan,1994,male,5-14 years,32,2960900,1.08,Uzbekistan1994,,"12,899,156,991",674,Millenials
+27615,Uzbekistan,1994,female,5-14 years,3,2890400,0.1,Uzbekistan1994,,"12,899,156,991",674,Millenials
+27616,Uzbekistan,1995,male,35-54 years,423,1817200,23.28,Uzbekistan1995,,"13,350,468,917",681,Boomers
+27617,Uzbekistan,1995,male,55-74 years,171,811900,21.06,Uzbekistan1995,,"13,350,468,917",681,Silent
+27618,Uzbekistan,1995,male,25-34 years,275,1714800,16.04,Uzbekistan1995,,"13,350,468,917",681,Generation X
+27619,Uzbekistan,1995,male,75+ years,11,92900,11.84,Uzbekistan1995,,"13,350,468,917",681,G.I. Generation
+27620,Uzbekistan,1995,male,15-24 years,236,2206700,10.69,Uzbekistan1995,,"13,350,468,917",681,Generation X
+27621,Uzbekistan,1995,female,75+ years,15,199900,7.5,Uzbekistan1995,,"13,350,468,917",681,G.I. Generation
+27622,Uzbekistan,1995,female,55-74 years,64,957100,6.69,Uzbekistan1995,,"13,350,468,917",681,Silent
+27623,Uzbekistan,1995,female,25-34 years,80,1772700,4.51,Uzbekistan1995,,"13,350,468,917",681,Generation X
+27624,Uzbekistan,1995,female,35-54 years,77,1856300,4.15,Uzbekistan1995,,"13,350,468,917",681,Boomers
+27625,Uzbekistan,1995,female,15-24 years,88,2170200,4.05,Uzbekistan1995,,"13,350,468,917",681,Generation X
+27626,Uzbekistan,1995,male,5-14 years,38,3038700,1.25,Uzbekistan1995,,"13,350,468,917",681,Millenials
+27627,Uzbekistan,1995,female,5-14 years,7,2960600,0.24,Uzbekistan1995,,"13,350,468,917",681,Millenials
+27628,Uzbekistan,1996,male,35-54 years,496,1864100,26.61,Uzbekistan1996,,"13,948,892,216",703,Boomers
+27629,Uzbekistan,1996,male,55-74 years,195,819300,23.8,Uzbekistan1996,,"13,948,892,216",703,Silent
+27630,Uzbekistan,1996,male,25-34 years,334,1725200,19.36,Uzbekistan1996,,"13,948,892,216",703,Generation X
+27631,Uzbekistan,1996,male,75+ years,12,92400,12.99,Uzbekistan1996,,"13,948,892,216",703,G.I. Generation
+27632,Uzbekistan,1996,male,15-24 years,255,2231200,11.43,Uzbekistan1996,,"13,948,892,216",703,Generation X
+27633,Uzbekistan,1996,female,75+ years,18,199600,9.02,Uzbekistan1996,,"13,948,892,216",703,G.I. Generation
+27634,Uzbekistan,1996,female,55-74 years,55,959900,5.73,Uzbekistan1996,,"13,948,892,216",703,Silent
+27635,Uzbekistan,1996,female,25-34 years,99,1783300,5.55,Uzbekistan1996,,"13,948,892,216",703,Generation X
+27636,Uzbekistan,1996,female,15-24 years,111,2192000,5.06,Uzbekistan1996,,"13,948,892,216",703,Generation X
+27637,Uzbekistan,1996,female,35-54 years,74,1906900,3.88,Uzbekistan1996,,"13,948,892,216",703,Boomers
+27638,Uzbekistan,1996,male,5-14 years,40,3080500,1.3,Uzbekistan1996,,"13,948,892,216",703,Millenials
+27639,Uzbekistan,1996,female,5-14 years,10,3000100,0.33,Uzbekistan1996,,"13,948,892,216",703,Millenials
+27640,Uzbekistan,1997,male,35-54 years,415,1958400,21.19,Uzbekistan1997,,"14,744,603,774",724,Boomers
+27641,Uzbekistan,1997,male,55-74 years,165,832200,19.83,Uzbekistan1997,,"14,744,603,774",724,Silent
+27642,Uzbekistan,1997,male,25-34 years,298,1751200,17.02,Uzbekistan1997,,"14,744,603,774",724,Generation X
+27643,Uzbekistan,1997,male,75+ years,13,93200,13.95,Uzbekistan1997,,"14,744,603,774",724,G.I. Generation
+27644,Uzbekistan,1997,male,15-24 years,278,2279700,12.19,Uzbekistan1997,,"14,744,603,774",724,Generation X
+27645,Uzbekistan,1997,female,75+ years,13,202000,6.44,Uzbekistan1997,,"14,744,603,774",724,G.I. Generation
+27646,Uzbekistan,1997,female,15-24 years,120,2240100,5.36,Uzbekistan1997,,"14,744,603,774",724,Generation X
+27647,Uzbekistan,1997,female,25-34 years,88,1803700,4.88,Uzbekistan1997,,"14,744,603,774",724,Generation X
+27648,Uzbekistan,1997,female,55-74 years,44,961600,4.58,Uzbekistan1997,,"14,744,603,774",724,Silent
+27649,Uzbekistan,1997,female,35-54 years,74,2011500,3.68,Uzbekistan1997,,"14,744,603,774",724,Boomers
+27650,Uzbekistan,1997,male,5-14 years,37,3159000,1.17,Uzbekistan1997,,"14,744,603,774",724,Millenials
+27651,Uzbekistan,1997,female,5-14 years,9,3071700,0.29,Uzbekistan1997,,"14,744,603,774",724,Millenials
+27652,Uzbekistan,1998,male,35-54 years,460,2062500,22.3,Uzbekistan1998,,"14,988,971,211",719,Boomers
+27653,Uzbekistan,1998,male,55-74 years,160,832800,19.21,Uzbekistan1998,,"14,988,971,211",719,Silent
+27654,Uzbekistan,1998,male,25-34 years,302,1782600,16.94,Uzbekistan1998,,"14,988,971,211",719,Generation X
+27655,Uzbekistan,1998,male,75+ years,11,94200,11.68,Uzbekistan1998,,"14,988,971,211",719,G.I. Generation
+27656,Uzbekistan,1998,male,15-24 years,266,2334400,11.39,Uzbekistan1998,,"14,988,971,211",719,Generation X
+27657,Uzbekistan,1998,female,15-24 years,152,2298600,6.61,Uzbekistan1998,,"14,988,971,211",719,Generation X
+27658,Uzbekistan,1998,female,75+ years,12,204400,5.87,Uzbekistan1998,,"14,988,971,211",719,G.I. Generation
+27659,Uzbekistan,1998,female,25-34 years,94,1823300,5.16,Uzbekistan1998,,"14,988,971,211",719,Generation X
+27660,Uzbekistan,1998,female,55-74 years,42,950300,4.42,Uzbekistan1998,,"14,988,971,211",719,Silent
+27661,Uzbekistan,1998,female,35-54 years,61,2129600,2.86,Uzbekistan1998,,"14,988,971,211",719,Boomers
+27662,Uzbekistan,1998,male,5-14 years,53,3222800,1.64,Uzbekistan1998,,"14,988,971,211",719,Millenials
+27663,Uzbekistan,1998,female,5-14 years,7,3125700,0.22,Uzbekistan1998,,"14,988,971,211",719,Millenials
+27664,Uzbekistan,1999,male,35-54 years,491,2177216,22.55,Uzbekistan1999,,"17,078,465,982",801,Boomers
+27665,Uzbekistan,1999,male,25-34 years,361,1811725,19.93,Uzbekistan1999,,"17,078,465,982",801,Generation X
+27666,Uzbekistan,1999,male,55-74 years,123,818124,15.03,Uzbekistan1999,,"17,078,465,982",801,Silent
+27667,Uzbekistan,1999,male,15-24 years,328,2406752,13.63,Uzbekistan1999,,"17,078,465,982",801,Generation X
+27668,Uzbekistan,1999,male,75+ years,13,98024,13.26,Uzbekistan1999,,"17,078,465,982",801,G.I. Generation
+27669,Uzbekistan,1999,female,15-24 years,163,2369338,6.88,Uzbekistan1999,,"17,078,465,982",801,Generation X
+27670,Uzbekistan,1999,female,75+ years,13,209948,6.19,Uzbekistan1999,,"17,078,465,982",801,G.I. Generation
+27671,Uzbekistan,1999,female,25-34 years,98,1842587,5.32,Uzbekistan1999,,"17,078,465,982",801,Generation X
+27672,Uzbekistan,1999,female,55-74 years,39,923365,4.22,Uzbekistan1999,,"17,078,465,982",801,Silent
+27673,Uzbekistan,1999,female,35-54 years,89,2257145,3.94,Uzbekistan1999,,"17,078,465,982",801,Boomers
+27674,Uzbekistan,1999,male,5-14 years,59,3260451,1.81,Uzbekistan1999,,"17,078,465,982",801,Millenials
+27675,Uzbekistan,1999,female,5-14 years,18,3155241,0.57,Uzbekistan1999,,"17,078,465,982",801,Millenials
+27676,Uzbekistan,2000,male,35-54 years,528,2289656,23.06,Uzbekistan2000,0.594,"13,760,374,488",632,Boomers
+27677,Uzbekistan,2000,male,25-34 years,355,1843476,19.26,Uzbekistan2000,0.594,"13,760,374,488",632,Generation X
+27678,Uzbekistan,2000,male,55-74 years,153,802122,19.07,Uzbekistan2000,0.594,"13,760,374,488",632,Silent
+27679,Uzbekistan,2000,male,15-24 years,350,2492264,14.04,Uzbekistan2000,0.594,"13,760,374,488",632,Generation X
+27680,Uzbekistan,2000,male,75+ years,12,104358,11.5,Uzbekistan2000,0.594,"13,760,374,488",632,G.I. Generation
+27681,Uzbekistan,2000,female,75+ years,19,217711,8.73,Uzbekistan2000,0.594,"13,760,374,488",632,G.I. Generation
+27682,Uzbekistan,2000,female,15-24 years,180,2451893,7.34,Uzbekistan2000,0.594,"13,760,374,488",632,Generation X
+27683,Uzbekistan,2000,female,25-34 years,106,1864696,5.68,Uzbekistan2000,0.594,"13,760,374,488",632,Generation X
+27684,Uzbekistan,2000,female,55-74 years,48,896059,5.36,Uzbekistan2000,0.594,"13,760,374,488",632,Silent
+27685,Uzbekistan,2000,female,35-54 years,98,2381166,4.12,Uzbekistan2000,0.594,"13,760,374,488",632,Boomers
+27686,Uzbekistan,2000,male,5-14 years,57,3279407,1.74,Uzbekistan2000,0.594,"13,760,374,488",632,Millenials
+27687,Uzbekistan,2000,female,5-14 years,13,3166259,0.41,Uzbekistan2000,0.594,"13,760,374,488",632,Millenials
+27688,Uzbekistan,2001,male,35-54 years,513,2389813,21.47,Uzbekistan2001,,"11,401,351,420",513,Boomers
+27689,Uzbekistan,2001,male,25-34 years,377,1884542,20.0,Uzbekistan2001,,"11,401,351,420",513,Generation X
+27690,Uzbekistan,2001,male,55-74 years,130,792247,16.41,Uzbekistan2001,,"11,401,351,420",513,Silent
+27691,Uzbekistan,2001,male,15-24 years,363,2580294,14.07,Uzbekistan2001,,"11,401,351,420",513,Millenials
+27692,Uzbekistan,2001,male,75+ years,15,112545,13.33,Uzbekistan2001,,"11,401,351,420",513,Silent
+27693,Uzbekistan,2001,female,75+ years,16,223250,7.17,Uzbekistan2001,,"11,401,351,420",513,Silent
+27694,Uzbekistan,2001,female,15-24 years,176,2538466,6.93,Uzbekistan2001,,"11,401,351,420",513,Millenials
+27695,Uzbekistan,2001,female,25-34 years,109,1895215,5.75,Uzbekistan2001,,"11,401,351,420",513,Generation X
+27696,Uzbekistan,2001,female,55-74 years,40,881227,4.54,Uzbekistan2001,,"11,401,351,420",513,Silent
+27697,Uzbekistan,2001,female,35-54 years,93,2492917,3.73,Uzbekistan2001,,"11,401,351,420",513,Boomers
+27698,Uzbekistan,2001,male,5-14 years,64,3281449,1.95,Uzbekistan2001,,"11,401,351,420",513,Millenials
+27699,Uzbekistan,2001,female,5-14 years,18,3159562,0.57,Uzbekistan2001,,"11,401,351,420",513,Millenials
+27700,Uzbekistan,2002,male,35-54 years,398,2474921,16.08,Uzbekistan2002,,"9,687,951,055",428,Boomers
+27701,Uzbekistan,2002,male,25-34 years,288,1927000,14.95,Uzbekistan2002,,"9,687,951,055",428,Generation X
+27702,Uzbekistan,2002,male,75+ years,17,123916,13.72,Uzbekistan2002,,"9,687,951,055",428,Silent
+27703,Uzbekistan,2002,male,55-74 years,100,789412,12.67,Uzbekistan2002,,"9,687,951,055",428,Silent
+27704,Uzbekistan,2002,male,15-24 years,325,2672936,12.16,Uzbekistan2002,,"9,687,951,055",428,Millenials
+27705,Uzbekistan,2002,female,75+ years,14,230394,6.08,Uzbekistan2002,,"9,687,951,055",428,Silent
+27706,Uzbekistan,2002,female,25-34 years,107,1930142,5.54,Uzbekistan2002,,"9,687,951,055",428,Generation X
+27707,Uzbekistan,2002,female,15-24 years,141,2627925,5.37,Uzbekistan2002,,"9,687,951,055",428,Millenials
+27708,Uzbekistan,2002,female,35-54 years,91,2586025,3.52,Uzbekistan2002,,"9,687,951,055",428,Boomers
+27709,Uzbekistan,2002,female,55-74 years,27,877155,3.08,Uzbekistan2002,,"9,687,951,055",428,Silent
+27710,Uzbekistan,2002,male,5-14 years,49,3260824,1.5,Uzbekistan2002,,"9,687,951,055",428,Millenials
+27711,Uzbekistan,2002,female,5-14 years,19,3131606,0.61,Uzbekistan2002,,"9,687,951,055",428,Millenials
+27712,Uzbekistan,2003,male,35-54 years,385,2557625,15.05,Uzbekistan2003,,"10,128,112,401",441,Boomers
+27713,Uzbekistan,2003,male,25-34 years,259,1966790,13.17,Uzbekistan2003,,"10,128,112,401",441,Generation X
+27714,Uzbekistan,2003,male,55-74 years,100,790059,12.66,Uzbekistan2003,,"10,128,112,401",441,Silent
+27715,Uzbekistan,2003,male,75+ years,13,134173,9.69,Uzbekistan2003,,"10,128,112,401",441,Silent
+27716,Uzbekistan,2003,male,15-24 years,235,2762675,8.51,Uzbekistan2003,,"10,128,112,401",441,Millenials
+27717,Uzbekistan,2003,female,15-24 years,151,2713618,5.56,Uzbekistan2003,,"10,128,112,401",441,Millenials
+27718,Uzbekistan,2003,female,25-34 years,99,1962726,5.04,Uzbekistan2003,,"10,128,112,401",441,Generation X
+27719,Uzbekistan,2003,female,75+ years,10,237495,4.21,Uzbekistan2003,,"10,128,112,401",441,Silent
+27720,Uzbekistan,2003,female,55-74 years,31,877339,3.53,Uzbekistan2003,,"10,128,112,401",441,Silent
+27721,Uzbekistan,2003,female,35-54 years,77,2675118,2.88,Uzbekistan2003,,"10,128,112,401",441,Boomers
+27722,Uzbekistan,2003,male,5-14 years,45,3219722,1.4,Uzbekistan2003,,"10,128,112,401",441,Millenials
+27723,Uzbekistan,2003,female,5-14 years,11,3085543,0.36,Uzbekistan2003,,"10,128,112,401",441,Millenials
+27724,Uzbekistan,2004,male,35-54 years,350,2639741,13.26,Uzbekistan2004,,"12,030,023,548",516,Boomers
+27725,Uzbekistan,2004,male,25-34 years,234,2012929,11.62,Uzbekistan2004,,"12,030,023,548",516,Generation X
+27726,Uzbekistan,2004,male,55-74 years,84,792630,10.6,Uzbekistan2004,,"12,030,023,548",516,Silent
+27727,Uzbekistan,2004,male,15-24 years,237,2836903,8.35,Uzbekistan2004,,"12,030,023,548",516,Millenials
+27728,Uzbekistan,2004,male,75+ years,9,145877,6.17,Uzbekistan2004,,"12,030,023,548",516,Silent
+27729,Uzbekistan,2004,female,15-24 years,137,2782222,4.92,Uzbekistan2004,,"12,030,023,548",516,Millenials
+27730,Uzbekistan,2004,female,75+ years,10,247300,4.04,Uzbekistan2004,,"12,030,023,548",516,Silent
+27731,Uzbekistan,2004,female,25-34 years,69,2003119,3.44,Uzbekistan2004,,"12,030,023,548",516,Generation X
+27732,Uzbekistan,2004,female,35-54 years,70,2761019,2.54,Uzbekistan2004,,"12,030,023,548",516,Boomers
+27733,Uzbekistan,2004,female,55-74 years,18,880059,2.05,Uzbekistan2004,,"12,030,023,548",516,Silent
+27734,Uzbekistan,2004,male,5-14 years,29,3167129,0.92,Uzbekistan2004,,"12,030,023,548",516,Millenials
+27735,Uzbekistan,2004,female,5-14 years,4,3031913,0.13,Uzbekistan2004,,"12,030,023,548",516,Millenials
+27736,Uzbekistan,2005,male,35-54 years,362,2712283,13.35,Uzbekistan2005,0.625,"14,307,509,839",606,Boomers
+27737,Uzbekistan,2005,male,55-74 years,94,808793,11.62,Uzbekistan2005,0.625,"14,307,509,839",606,Silent
+27738,Uzbekistan,2005,male,25-34 years,238,2060925,11.55,Uzbekistan2005,0.625,"14,307,509,839",606,Generation X
+27739,Uzbekistan,2005,male,75+ years,13,154634,8.41,Uzbekistan2005,0.625,"14,307,509,839",606,Silent
+27740,Uzbekistan,2005,male,15-24 years,184,2907415,6.33,Uzbekistan2005,0.625,"14,307,509,839",606,Millenials
+27741,Uzbekistan,2005,female,15-24 years,114,2846661,4.0,Uzbekistan2005,0.625,"14,307,509,839",606,Millenials
+27742,Uzbekistan,2005,female,25-34 years,69,2045225,3.37,Uzbekistan2005,0.625,"14,307,509,839",606,Generation X
+27743,Uzbekistan,2005,female,35-54 years,79,2836489,2.79,Uzbekistan2005,0.625,"14,307,509,839",606,Boomers
+27744,Uzbekistan,2005,female,75+ years,7,255163,2.74,Uzbekistan2005,0.625,"14,307,509,839",606,Silent
+27745,Uzbekistan,2005,female,55-74 years,21,896756,2.34,Uzbekistan2005,0.625,"14,307,509,839",606,Silent
+27746,Uzbekistan,2005,male,5-14 years,30,3105255,0.97,Uzbekistan2005,0.625,"14,307,509,839",606,Millenials
+27747,Uzbekistan,2005,female,5-14 years,10,2970748,0.34,Uzbekistan2005,0.625,"14,307,509,839",606,Millenials
+27748,Uzbekistan,2009,male,35-54 years,404,3072025,13.15,Uzbekistan2009,,"33,689,223,673",1332,Boomers
+27749,Uzbekistan,2009,male,25-34 years,252,2295850,10.98,Uzbekistan2009,,"33,689,223,673",1332,Generation X
+27750,Uzbekistan,2009,male,55-74 years,81,985960,8.22,Uzbekistan2009,,"33,689,223,673",1332,Silent
+27751,Uzbekistan,2009,male,15-24 years,242,3176656,7.62,Uzbekistan2009,,"33,689,223,673",1332,Millenials
+27752,Uzbekistan,2009,female,15-24 years,186,3079271,6.04,Uzbekistan2009,,"33,689,223,673",1332,Millenials
+27753,Uzbekistan,2009,female,25-34 years,85,2313972,3.67,Uzbekistan2009,,"33,689,223,673",1332,Generation X
+27754,Uzbekistan,2009,male,75+ years,7,192006,3.65,Uzbekistan2009,,"33,689,223,673",1332,Silent
+27755,Uzbekistan,2009,female,75+ years,7,318983,2.19,Uzbekistan2009,,"33,689,223,673",1332,Silent
+27756,Uzbekistan,2009,female,35-54 years,65,3263931,1.99,Uzbekistan2009,,"33,689,223,673",1332,Boomers
+27757,Uzbekistan,2009,female,55-74 years,15,1105076,1.36,Uzbekistan2009,,"33,689,223,673",1332,Silent
+27758,Uzbekistan,2009,male,5-14 years,37,2805898,1.32,Uzbekistan2009,,"33,689,223,673",1332,Generation Z
+27759,Uzbekistan,2009,female,5-14 years,18,2678474,0.67,Uzbekistan2009,,"33,689,223,673",1332,Generation Z
+27760,Uzbekistan,2010,male,35-54 years,371,3142694,11.81,Uzbekistan2010,0.655,"39,332,770,929",1533,Generation X
+27761,Uzbekistan,2010,male,25-34 years,235,2375259,9.89,Uzbekistan2010,0.655,"39,332,770,929",1533,Generation X
+27762,Uzbekistan,2010,male,55-74 years,102,1036963,9.84,Uzbekistan2010,0.655,"39,332,770,929",1533,Silent
+27763,Uzbekistan,2010,male,15-24 years,246,3208299,7.67,Uzbekistan2010,0.655,"39,332,770,929",1533,Millenials
+27764,Uzbekistan,2010,female,15-24 years,208,3098743,6.71,Uzbekistan2010,0.655,"39,332,770,929",1533,Millenials
+27765,Uzbekistan,2010,male,75+ years,9,196160,4.59,Uzbekistan2010,0.655,"39,332,770,929",1533,Silent
+27766,Uzbekistan,2010,female,25-34 years,93,2391172,3.89,Uzbekistan2010,0.655,"39,332,770,929",1533,Generation X
+27767,Uzbekistan,2010,female,35-54 years,101,3339076,3.02,Uzbekistan2010,0.655,"39,332,770,929",1533,Generation X
+27768,Uzbekistan,2010,male,5-14 years,48,2751752,1.74,Uzbekistan2010,0.655,"39,332,770,929",1533,Generation Z
+27769,Uzbekistan,2010,female,75+ years,5,322899,1.55,Uzbekistan2010,0.655,"39,332,770,929",1533,Silent
+27770,Uzbekistan,2010,female,55-74 years,16,1161422,1.38,Uzbekistan2010,0.655,"39,332,770,929",1533,Silent
+27771,Uzbekistan,2010,female,5-14 years,30,2627344,1.14,Uzbekistan2010,0.655,"39,332,770,929",1533,Generation Z
+27772,Uzbekistan,2011,male,35-54 years,457,3204569,14.26,Uzbekistan2011,0.6609999999999999,"45,915,191,189",1767,Generation X
+27773,Uzbekistan,2011,male,25-34 years,271,2457050,11.03,Uzbekistan2011,0.6609999999999999,"45,915,191,189",1767,Millenials
+27774,Uzbekistan,2011,male,15-24 years,264,3211080,8.22,Uzbekistan2011,0.6609999999999999,"45,915,191,189",1767,Millenials
+27775,Uzbekistan,2011,female,15-24 years,248,3092119,8.02,Uzbekistan2011,0.6609999999999999,"45,915,191,189",1767,Millenials
+27776,Uzbekistan,2011,male,55-74 years,76,1086405,7.0,Uzbekistan2011,0.6609999999999999,"45,915,191,189",1767,Boomers
+27777,Uzbekistan,2011,female,25-34 years,139,2469295,5.63,Uzbekistan2011,0.6609999999999999,"45,915,191,189",1767,Millenials
+27778,Uzbekistan,2011,male,75+ years,10,204956,4.88,Uzbekistan2011,0.6609999999999999,"45,915,191,189",1767,Silent
+27779,Uzbekistan,2011,female,35-54 years,78,3404363,2.29,Uzbekistan2011,0.6609999999999999,"45,915,191,189",1767,Generation X
+27780,Uzbekistan,2011,male,5-14 years,45,2710780,1.66,Uzbekistan2011,0.6609999999999999,"45,915,191,189",1767,Generation Z
+27781,Uzbekistan,2011,female,55-74 years,19,1218296,1.56,Uzbekistan2011,0.6609999999999999,"45,915,191,189",1767,Boomers
+27782,Uzbekistan,2011,female,75+ years,5,330662,1.51,Uzbekistan2011,0.6609999999999999,"45,915,191,189",1767,Silent
+27783,Uzbekistan,2011,female,5-14 years,28,2588474,1.08,Uzbekistan2011,0.6609999999999999,"45,915,191,189",1767,Generation Z
+27784,Uzbekistan,2012,male,35-54 years,404,3273281,12.34,Uzbekistan2012,0.6679999999999999,"51,821,573,338",1964,Generation X
+27785,Uzbekistan,2012,male,55-74 years,133,1141487,11.65,Uzbekistan2012,0.6679999999999999,"51,821,573,338",1964,Boomers
+27786,Uzbekistan,2012,male,25-34 years,290,2548472,11.38,Uzbekistan2012,0.6679999999999999,"51,821,573,338",1964,Millenials
+27787,Uzbekistan,2012,female,15-24 years,333,3072826,10.84,Uzbekistan2012,0.6679999999999999,"51,821,573,338",1964,Millenials
+27788,Uzbekistan,2012,male,15-24 years,311,3199204,9.72,Uzbekistan2012,0.6679999999999999,"51,821,573,338",1964,Millenials
+27789,Uzbekistan,2012,male,75+ years,15,213713,7.02,Uzbekistan2012,0.6679999999999999,"51,821,573,338",1964,Silent
+27790,Uzbekistan,2012,female,25-34 years,148,2556673,5.79,Uzbekistan2012,0.6679999999999999,"51,821,573,338",1964,Millenials
+27791,Uzbekistan,2012,female,35-54 years,89,3474788,2.56,Uzbekistan2012,0.6679999999999999,"51,821,573,338",1964,Generation X
+27792,Uzbekistan,2012,male,5-14 years,67,2701361,2.48,Uzbekistan2012,0.6679999999999999,"51,821,573,338",1964,Generation Z
+27793,Uzbekistan,2012,female,55-74 years,25,1283060,1.95,Uzbekistan2012,0.6679999999999999,"51,821,573,338",1964,Boomers
+27794,Uzbekistan,2012,female,75+ years,4,338557,1.18,Uzbekistan2012,0.6679999999999999,"51,821,573,338",1964,Silent
+27795,Uzbekistan,2012,female,5-14 years,16,2578408,0.62,Uzbekistan2012,0.6679999999999999,"51,821,573,338",1964,Generation Z
+27796,Uzbekistan,2013,male,35-54 years,481,3346411,14.37,Uzbekistan2013,0.672,"57,690,453,461",2150,Generation X
+27797,Uzbekistan,2013,male,25-34 years,328,2644648,12.4,Uzbekistan2013,0.672,"57,690,453,461",2150,Millenials
+27798,Uzbekistan,2013,female,15-24 years,323,3039740,10.63,Uzbekistan2013,0.672,"57,690,453,461",2150,Millenials
+27799,Uzbekistan,2013,male,15-24 years,320,3171202,10.09,Uzbekistan2013,0.672,"57,690,453,461",2150,Millenials
+27800,Uzbekistan,2013,male,55-74 years,119,1202790,9.89,Uzbekistan2013,0.672,"57,690,453,461",2150,Boomers
+27801,Uzbekistan,2013,male,75+ years,13,221002,5.88,Uzbekistan2013,0.672,"57,690,453,461",2150,Silent
+27802,Uzbekistan,2013,female,25-34 years,146,2647820,5.51,Uzbekistan2013,0.672,"57,690,453,461",2150,Millenials
+27803,Uzbekistan,2013,female,35-54 years,99,3547895,2.79,Uzbekistan2013,0.672,"57,690,453,461",2150,Generation X
+27804,Uzbekistan,2013,female,75+ years,8,345180,2.32,Uzbekistan2013,0.672,"57,690,453,461",2150,Silent
+27805,Uzbekistan,2013,male,5-14 years,61,2720938,2.24,Uzbekistan2013,0.672,"57,690,453,461",2150,Generation Z
+27806,Uzbekistan,2013,female,55-74 years,21,1356298,1.55,Uzbekistan2013,0.672,"57,690,453,461",2150,Boomers
+27807,Uzbekistan,2013,female,5-14 years,31,2595000,1.19,Uzbekistan2013,0.672,"57,690,453,461",2150,Generation Z
+27808,Uzbekistan,2014,male,35-54 years,519,3421300,15.17,Uzbekistan2014,0.675,"63,067,077,179",2309,Generation X
+27809,Uzbekistan,2014,male,25-34 years,318,2739150,11.61,Uzbekistan2014,0.675,"63,067,077,179",2309,Millenials
+27810,Uzbekistan,2014,female,15-24 years,347,2992817,11.59,Uzbekistan2014,0.675,"63,067,077,179",2309,Millenials
+27811,Uzbekistan,2014,male,55-74 years,144,1271111,11.33,Uzbekistan2014,0.675,"63,067,077,179",2309,Boomers
+27812,Uzbekistan,2014,male,15-24 years,347,3126905,11.1,Uzbekistan2014,0.675,"63,067,077,179",2309,Millenials
+27813,Uzbekistan,2014,male,75+ years,17,224995,7.56,Uzbekistan2014,0.675,"63,067,077,179",2309,Silent
+27814,Uzbekistan,2014,female,25-34 years,162,2735238,5.92,Uzbekistan2014,0.675,"63,067,077,179",2309,Millenials
+27815,Uzbekistan,2014,female,35-54 years,107,3620833,2.96,Uzbekistan2014,0.675,"63,067,077,179",2309,Generation X
+27816,Uzbekistan,2014,female,75+ years,9,348465,2.58,Uzbekistan2014,0.675,"63,067,077,179",2309,Silent
+27817,Uzbekistan,2014,male,5-14 years,60,2762158,2.17,Uzbekistan2014,0.675,"63,067,077,179",2309,Generation Z
+27818,Uzbekistan,2014,female,5-14 years,44,2631600,1.67,Uzbekistan2014,0.675,"63,067,077,179",2309,Generation Z
+27819,Uzbekistan,2014,female,55-74 years,21,1438935,1.46,Uzbekistan2014,0.675,"63,067,077,179",2309,Boomers

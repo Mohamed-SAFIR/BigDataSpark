@@ -1,0 +1,133 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+14048,Kiribati,1991,male,15-24 years,5,6789,73.65,Kiribati1991,,"47,515,189",768,Generation X
+14049,Kiribati,1991,male,55-74 years,1,2345,42.64,Kiribati1991,,"47,515,189",768,Silent
+14050,Kiribati,1991,male,25-34 years,1,5615,17.81,Kiribati1991,,"47,515,189",768,Boomers
+14051,Kiribati,1991,male,35-54 years,1,6101,16.39,Kiribati1991,,"47,515,189",768,Boomers
+14052,Kiribati,1991,female,25-34 years,1,6105,16.38,Kiribati1991,,"47,515,189",768,Boomers
+14053,Kiribati,1991,female,15-24 years,1,6818,14.67,Kiribati1991,,"47,515,189",768,Generation X
+14054,Kiribati,1991,female,35-54 years,0,6440,0.0,Kiribati1991,,"47,515,189",768,Boomers
+14055,Kiribati,1991,female,5-14 years,0,8932,0.0,Kiribati1991,,"47,515,189",768,Millenials
+14056,Kiribati,1991,female,55-74 years,0,2759,0.0,Kiribati1991,,"47,515,189",768,Silent
+14057,Kiribati,1991,female,75+ years,0,460,0.0,Kiribati1991,,"47,515,189",768,G.I. Generation
+14058,Kiribati,1991,male,5-14 years,0,9213,0.0,Kiribati1991,,"47,515,189",768,Millenials
+14059,Kiribati,1991,male,75+ years,0,278,0.0,Kiribati1991,,"47,515,189",768,G.I. Generation
+14060,Kiribati,1992,female,55-74 years,1,2799,35.73,Kiribati1992,,"47,737,955",759,Silent
+14061,Kiribati,1992,male,15-24 years,2,6669,29.99,Kiribati1992,,"47,737,955",759,Generation X
+14062,Kiribati,1992,male,35-54 years,1,6226,16.06,Kiribati1992,,"47,737,955",759,Boomers
+14063,Kiribati,1992,female,15-24 years,0,6692,0.0,Kiribati1992,,"47,737,955",759,Generation X
+14064,Kiribati,1992,female,25-34 years,0,6273,0.0,Kiribati1992,,"47,737,955",759,Boomers
+14065,Kiribati,1992,female,35-54 years,0,6581,0.0,Kiribati1992,,"47,737,955",759,Boomers
+14066,Kiribati,1992,female,5-14 years,0,9190,0.0,Kiribati1992,,"47,737,955",759,Millenials
+14067,Kiribati,1992,female,75+ years,0,474,0.0,Kiribati1992,,"47,737,955",759,G.I. Generation
+14068,Kiribati,1992,male,25-34 years,0,5802,0.0,Kiribati1992,,"47,737,955",759,Boomers
+14069,Kiribati,1992,male,5-14 years,0,9496,0.0,Kiribati1992,,"47,737,955",759,Millenials
+14070,Kiribati,1992,male,55-74 years,0,2368,0.0,Kiribati1992,,"47,737,955",759,Silent
+14071,Kiribati,1992,male,75+ years,0,286,0.0,Kiribati1992,,"47,737,955",759,G.I. Generation
+14072,Kiribati,1993,male,35-54 years,3,6370,47.1,Kiribati1993,,"46,919,625",735,Boomers
+14073,Kiribati,1993,male,15-24 years,3,6585,45.56,Kiribati1993,,"46,919,625",735,Generation X
+14074,Kiribati,1993,male,55-74 years,1,2384,41.95,Kiribati1993,,"46,919,625",735,Silent
+14075,Kiribati,1993,male,25-34 years,2,5958,33.57,Kiribati1993,,"46,919,625",735,Boomers
+14076,Kiribati,1993,female,15-24 years,1,6579,15.2,Kiribati1993,,"46,919,625",735,Generation X
+14077,Kiribati,1993,female,5-14 years,1,9415,10.62,Kiribati1993,,"46,919,625",735,Millenials
+14078,Kiribati,1993,male,5-14 years,1,9780,10.22,Kiribati1993,,"46,919,625",735,Millenials
+14079,Kiribati,1993,female,25-34 years,0,6436,0.0,Kiribati1993,,"46,919,625",735,Boomers
+14080,Kiribati,1993,female,35-54 years,0,6730,0.0,Kiribati1993,,"46,919,625",735,Boomers
+14081,Kiribati,1993,female,55-74 years,0,2840,0.0,Kiribati1993,,"46,919,625",735,Silent
+14082,Kiribati,1993,female,75+ years,0,481,0.0,Kiribati1993,,"46,919,625",735,G.I. Generation
+14083,Kiribati,1993,male,75+ years,0,290,0.0,Kiribati1993,,"46,919,625",735,G.I. Generation
+14084,Kiribati,1994,male,35-54 years,3,6529,45.95,Kiribati1994,,"54,832,578",845,Boomers
+14085,Kiribati,1994,male,15-24 years,3,6566,45.69,Kiribati1994,,"54,832,578",845,Generation X
+14086,Kiribati,1994,male,25-34 years,2,6053,33.04,Kiribati1994,,"54,832,578",845,Boomers
+14087,Kiribati,1994,female,15-24 years,1,6528,15.32,Kiribati1994,,"54,832,578",845,Generation X
+14088,Kiribati,1994,female,5-14 years,1,9619,10.4,Kiribati1994,,"54,832,578",845,Millenials
+14089,Kiribati,1994,female,25-34 years,0,6565,0.0,Kiribati1994,,"54,832,578",845,Boomers
+14090,Kiribati,1994,female,35-54 years,0,6893,0.0,Kiribati1994,,"54,832,578",845,Boomers
+14091,Kiribati,1994,female,55-74 years,0,2878,0.0,Kiribati1994,,"54,832,578",845,Silent
+14092,Kiribati,1994,female,75+ years,0,481,0.0,Kiribati1994,,"54,832,578",845,G.I. Generation
+14093,Kiribati,1994,male,5-14 years,0,10069,0.0,Kiribati1994,,"54,832,578",845,Millenials
+14094,Kiribati,1994,male,55-74 years,0,2399,0.0,Kiribati1994,,"54,832,578",845,Silent
+14095,Kiribati,1994,male,75+ years,0,291,0.0,Kiribati1994,,"54,832,578",845,G.I. Generation
+14096,Kiribati,1995,male,55-74 years,1,2402,41.63,Kiribati1995,,"56,338,028",855,Silent
+14097,Kiribati,1995,male,15-24 years,1,6630,15.08,Kiribati1995,,"56,338,028",855,Generation X
+14098,Kiribati,1995,female,15-24 years,0,6571,0.0,Kiribati1995,,"56,338,028",855,Generation X
+14099,Kiribati,1995,female,25-34 years,0,6640,0.0,Kiribati1995,,"56,338,028",855,Generation X
+14100,Kiribati,1995,female,35-54 years,0,7072,0.0,Kiribati1995,,"56,338,028",855,Boomers
+14101,Kiribati,1995,female,5-14 years,0,9815,0.0,Kiribati1995,,"56,338,028",855,Millenials
+14102,Kiribati,1995,female,55-74 years,0,2912,0.0,Kiribati1995,,"56,338,028",855,Silent
+14103,Kiribati,1995,female,75+ years,0,479,0.0,Kiribati1995,,"56,338,028",855,G.I. Generation
+14104,Kiribati,1995,male,25-34 years,0,6064,0.0,Kiribati1995,,"56,338,028",855,Generation X
+14105,Kiribati,1995,male,35-54 years,0,6710,0.0,Kiribati1995,,"56,338,028",855,Boomers
+14106,Kiribati,1995,male,5-14 years,0,10341,0.0,Kiribati1995,,"56,338,028",855,Millenials
+14107,Kiribati,1995,male,75+ years,0,287,0.0,Kiribati1995,,"56,338,028",855,G.I. Generation
+14108,Kiribati,1996,male,5-14 years,2,10569,18.92,Kiribati1996,,"66,515,377",991,Millenials
+14109,Kiribati,1996,female,25-34 years,1,6635,15.07,Kiribati1996,,"66,515,377",991,Generation X
+14110,Kiribati,1996,female,15-24 years,1,6716,14.89,Kiribati1996,,"66,515,377",991,Generation X
+14111,Kiribati,1996,male,15-24 years,1,6768,14.78,Kiribati1996,,"66,515,377",991,Generation X
+14112,Kiribati,1996,female,35-54 years,1,7304,13.69,Kiribati1996,,"66,515,377",991,Boomers
+14113,Kiribati,1996,female,5-14 years,0,10009,0.0,Kiribati1996,,"66,515,377",991,Millenials
+14114,Kiribati,1996,female,55-74 years,0,2947,0.0,Kiribati1996,,"66,515,377",991,Silent
+14115,Kiribati,1996,female,75+ years,0,497,0.0,Kiribati1996,,"66,515,377",991,G.I. Generation
+14116,Kiribati,1996,male,25-34 years,0,6063,0.0,Kiribati1996,,"66,515,377",991,Generation X
+14117,Kiribati,1996,male,35-54 years,0,6914,0.0,Kiribati1996,,"66,515,377",991,Boomers
+14118,Kiribati,1996,male,55-74 years,0,2407,0.0,Kiribati1996,,"66,515,377",991,Silent
+14119,Kiribati,1996,male,75+ years,0,297,0.0,Kiribati1996,,"66,515,377",991,G.I. Generation
+14120,Kiribati,1997,male,25-34 years,2,6005,33.31,Kiribati1997,,"67,537,480",988,Generation X
+14121,Kiribati,1997,male,15-24 years,2,6964,28.72,Kiribati1997,,"67,537,480",988,Generation X
+14122,Kiribati,1997,male,35-54 years,1,7127,14.03,Kiribati1997,,"67,537,480",988,Boomers
+14123,Kiribati,1997,female,15-24 years,0,6944,0.0,Kiribati1997,,"67,537,480",988,Generation X
+14124,Kiribati,1997,female,25-34 years,0,6591,0.0,Kiribati1997,,"67,537,480",988,Generation X
+14125,Kiribati,1997,female,35-54 years,0,7543,0.0,Kiribati1997,,"67,537,480",988,Boomers
+14126,Kiribati,1997,female,5-14 years,0,10166,0.0,Kiribati1997,,"67,537,480",988,Millenials
+14127,Kiribati,1997,female,55-74 years,0,2985,0.0,Kiribati1997,,"67,537,480",988,Silent
+14128,Kiribati,1997,female,75+ years,0,509,0.0,Kiribati1997,,"67,537,480",988,G.I. Generation
+14129,Kiribati,1997,male,5-14 years,0,10775,0.0,Kiribati1997,,"67,537,480",988,Millenials
+14130,Kiribati,1997,male,55-74 years,0,2417,0.0,Kiribati1997,,"67,537,480",988,Silent
+14131,Kiribati,1997,male,75+ years,0,302,0.0,Kiribati1997,,"67,537,480",988,G.I. Generation
+14132,Kiribati,1998,male,15-24 years,2,7215,27.72,Kiribati1998,,"65,334,841",939,Generation X
+14133,Kiribati,1998,male,35-54 years,1,7353,13.6,Kiribati1998,,"65,334,841",939,Boomers
+14134,Kiribati,1998,male,5-14 years,1,10956,9.13,Kiribati1998,,"65,334,841",939,Millenials
+14135,Kiribati,1998,female,15-24 years,0,7231,0.0,Kiribati1998,,"65,334,841",939,Generation X
+14136,Kiribati,1998,female,25-34 years,0,6532,0.0,Kiribati1998,,"65,334,841",939,Generation X
+14137,Kiribati,1998,female,35-54 years,0,7809,0.0,Kiribati1998,,"65,334,841",939,Boomers
+14138,Kiribati,1998,female,5-14 years,0,10285,0.0,Kiribati1998,,"65,334,841",939,Millenials
+14139,Kiribati,1998,female,55-74 years,0,3029,0.0,Kiribati1998,,"65,334,841",939,Silent
+14140,Kiribati,1998,female,75+ years,0,516,0.0,Kiribati1998,,"65,334,841",939,G.I. Generation
+14141,Kiribati,1998,male,25-34 years,0,5909,0.0,Kiribati1998,,"65,334,841",939,Generation X
+14142,Kiribati,1998,male,55-74 years,0,2431,0.0,Kiribati1998,,"65,334,841",939,Silent
+14143,Kiribati,1998,male,75+ years,0,304,0.0,Kiribati1998,,"65,334,841",939,G.I. Generation
+14144,Kiribati,1999,female,15-24 years,0,7547,0.0,Kiribati1999,,"69,032,258",973,Generation X
+14145,Kiribati,1999,female,25-34 years,0,6481,0.0,Kiribati1999,,"69,032,258",973,Generation X
+14146,Kiribati,1999,female,35-54 years,0,8111,0.0,Kiribati1999,,"69,032,258",973,Boomers
+14147,Kiribati,1999,female,5-14 years,0,10385,0.0,Kiribati1999,,"69,032,258",973,Millenials
+14148,Kiribati,1999,female,55-74 years,0,3089,0.0,Kiribati1999,,"69,032,258",973,Silent
+14149,Kiribati,1999,female,75+ years,0,521,0.0,Kiribati1999,,"69,032,258",973,G.I. Generation
+14150,Kiribati,1999,male,15-24 years,0,7503,0.0,Kiribati1999,,"69,032,258",973,Generation X
+14151,Kiribati,1999,male,25-34 years,0,5815,0.0,Kiribati1999,,"69,032,258",973,Generation X
+14152,Kiribati,1999,male,35-54 years,0,7604,0.0,Kiribati1999,,"69,032,258",973,Boomers
+14153,Kiribati,1999,male,5-14 years,0,11126,0.0,Kiribati1999,,"69,032,258",973,Millenials
+14154,Kiribati,1999,male,55-74 years,0,2463,0.0,Kiribati1999,,"69,032,258",973,Silent
+14155,Kiribati,1999,male,75+ years,0,293,0.0,Kiribati1999,,"69,032,258",973,G.I. Generation
+14156,Kiribati,2000,female,15-24 years,0,7870,0.0,Kiribati2000,,"67,254,174",928,Generation X
+14157,Kiribati,2000,female,25-34 years,0,6442,0.0,Kiribati2000,,"67,254,174",928,Generation X
+14158,Kiribati,2000,female,35-54 years,0,8455,0.0,Kiribati2000,,"67,254,174",928,Boomers
+14159,Kiribati,2000,female,5-14 years,0,10475,0.0,Kiribati2000,,"67,254,174",928,Millenials
+14160,Kiribati,2000,female,55-74 years,0,3159,0.0,Kiribati2000,,"67,254,174",928,Silent
+14161,Kiribati,2000,female,75+ years,0,522,0.0,Kiribati2000,,"67,254,174",928,G.I. Generation
+14162,Kiribati,2000,male,15-24 years,0,7812,0.0,Kiribati2000,,"67,254,174",928,Generation X
+14163,Kiribati,2000,male,25-34 years,0,5737,0.0,Kiribati2000,,"67,254,174",928,Generation X
+14164,Kiribati,2000,male,35-54 years,0,7888,0.0,Kiribati2000,,"67,254,174",928,Boomers
+14165,Kiribati,2000,male,5-14 years,0,11289,0.0,Kiribati2000,,"67,254,174",928,Millenials
+14166,Kiribati,2000,male,55-74 years,0,2513,0.0,Kiribati2000,,"67,254,174",928,Silent
+14167,Kiribati,2000,male,75+ years,0,278,0.0,Kiribati2000,,"67,254,174",928,G.I. Generation
+14168,Kiribati,2001,female,15-24 years,0,8197,0.0,Kiribati2001,,"63,101,272",854,Millenials
+14169,Kiribati,2001,female,25-34 years,0,6348,0.0,Kiribati2001,,"63,101,272",854,Generation X
+14170,Kiribati,2001,female,35-54 years,0,8720,0.0,Kiribati2001,,"63,101,272",854,Boomers
+14171,Kiribati,2001,female,5-14 years,0,10585,0.0,Kiribati2001,,"63,101,272",854,Millenials
+14172,Kiribati,2001,female,55-74 years,0,3228,0.0,Kiribati2001,,"63,101,272",854,Silent
+14173,Kiribati,2001,female,75+ years,0,539,0.0,Kiribati2001,,"63,101,272",854,Silent
+14174,Kiribati,2001,male,15-24 years,0,8151,0.0,Kiribati2001,,"63,101,272",854,Millenials
+14175,Kiribati,2001,male,25-34 years,0,5692,0.0,Kiribati2001,,"63,101,272",854,Generation X
+14176,Kiribati,2001,male,35-54 years,0,8117,0.0,Kiribati2001,,"63,101,272",854,Boomers
+14177,Kiribati,2001,male,5-14 years,0,11403,0.0,Kiribati2001,,"63,101,272",854,Millenials
+14178,Kiribati,2001,male,55-74 years,0,2577,0.0,Kiribati2001,,"63,101,272",854,Silent
+14179,Kiribati,2001,male,75+ years,0,294,0.0,Kiribati2001,,"63,101,272",854,Silent

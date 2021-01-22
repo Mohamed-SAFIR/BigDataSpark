@@ -1,0 +1,253 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+8354,Estonia,1995,male,35-54 years,227,180939,125.46,Estonia1995,0.7190000000000001,"4,373,665,146",3224,Boomers
+8355,Estonia,1995,male,75+ years,20,17701,112.99,Estonia1995,0.7190000000000001,"4,373,665,146",3224,G.I. Generation
+8356,Estonia,1995,male,55-74 years,119,117994,100.85,Estonia1995,0.7190000000000001,"4,373,665,146",3224,Silent
+8357,Estonia,1995,male,25-34 years,66,95952,68.78,Estonia1995,0.7190000000000001,"4,373,665,146",3224,Generation X
+8358,Estonia,1995,female,75+ years,18,50860,35.39,Estonia1995,0.7190000000000001,"4,373,665,146",3224,G.I. Generation
+8359,Estonia,1995,female,55-74 years,53,178879,29.63,Estonia1995,0.7190000000000001,"4,373,665,146",3224,Silent
+8360,Estonia,1995,male,15-24 years,29,100625,28.82,Estonia1995,0.7190000000000001,"4,373,665,146",3224,Generation X
+8361,Estonia,1995,female,35-54 years,41,200427,20.46,Estonia1995,0.7190000000000001,"4,373,665,146",3224,Boomers
+8362,Estonia,1995,female,25-34 years,9,98531,9.13,Estonia1995,0.7190000000000001,"4,373,665,146",3224,Generation X
+8363,Estonia,1995,female,15-24 years,7,97494,7.18,Estonia1995,0.7190000000000001,"4,373,665,146",3224,Generation X
+8364,Estonia,1995,male,5-14 years,5,111035,4.5,Estonia1995,0.7190000000000001,"4,373,665,146",3224,Millenials
+8365,Estonia,1995,female,5-14 years,0,106214,0.0,Estonia1995,0.7190000000000001,"4,373,665,146",3224,Millenials
+8366,Estonia,1996,male,75+ years,22,17605,124.96,Estonia1996,,"4,746,109,767",3536,G.I. Generation
+8367,Estonia,1996,male,35-54 years,217,178056,121.87,Estonia1996,,"4,746,109,767",3536,Boomers
+8368,Estonia,1996,male,55-74 years,100,118715,84.24,Estonia1996,,"4,746,109,767",3536,Silent
+8369,Estonia,1996,male,25-34 years,53,93866,56.46,Estonia1996,,"4,746,109,767",3536,Generation X
+8370,Estonia,1996,female,75+ years,25,50849,49.17,Estonia1996,,"4,746,109,767",3536,G.I. Generation
+8371,Estonia,1996,male,15-24 years,37,99540,37.17,Estonia1996,,"4,746,109,767",3536,Generation X
+8372,Estonia,1996,female,55-74 years,37,179534,20.61,Estonia1996,,"4,746,109,767",3536,Silent
+8373,Estonia,1996,female,35-54 years,40,198315,20.17,Estonia1996,,"4,746,109,767",3536,Boomers
+8374,Estonia,1996,female,15-24 years,8,96173,8.32,Estonia1996,,"4,746,109,767",3536,Generation X
+8375,Estonia,1996,male,5-14 years,4,109002,3.67,Estonia1996,,"4,746,109,767",3536,Millenials
+8376,Estonia,1996,female,25-34 years,2,96311,2.08,Estonia1996,,"4,746,109,767",3536,Generation X
+8377,Estonia,1996,female,5-14 years,0,104236,0.0,Estonia1996,,"4,746,109,767",3536,Millenials
+8378,Estonia,1997,male,75+ years,20,17817,112.25,Estonia1997,,"5,066,240,419",3806,G.I. Generation
+8379,Estonia,1997,male,35-54 years,193,176261,109.5,Estonia1997,,"5,066,240,419",3806,Boomers
+8380,Estonia,1997,male,55-74 years,117,119232,98.13,Estonia1997,,"5,066,240,419",3806,Silent
+8381,Estonia,1997,male,25-34 years,60,92544,64.83,Estonia1997,,"5,066,240,419",3806,Generation X
+8382,Estonia,1997,male,15-24 years,36,98971,36.37,Estonia1997,,"5,066,240,419",3806,Generation X
+8383,Estonia,1997,female,75+ years,15,51893,28.91,Estonia1997,,"5,066,240,419",3806,G.I. Generation
+8384,Estonia,1997,female,55-74 years,34,179234,18.97,Estonia1997,,"5,066,240,419",3806,Silent
+8385,Estonia,1997,female,35-54 years,29,196914,14.73,Estonia1997,,"5,066,240,419",3806,Boomers
+8386,Estonia,1997,female,25-34 years,7,94741,7.39,Estonia1997,,"5,066,240,419",3806,Generation X
+8387,Estonia,1997,female,15-24 years,6,95553,6.28,Estonia1997,,"5,066,240,419",3806,Generation X
+8388,Estonia,1997,male,5-14 years,5,106361,4.7,Estonia1997,,"5,066,240,419",3806,Millenials
+8389,Estonia,1997,female,5-14 years,0,101713,0.0,Estonia1997,,"5,066,240,419",3806,Millenials
+8390,Estonia,1998,male,55-74 years,123,118242,104.02,Estonia1998,,"5,617,109,245",4250,Silent
+8391,Estonia,1998,male,35-54 years,166,176185,94.22,Estonia1998,,"5,617,109,245",4250,Boomers
+8392,Estonia,1998,male,75+ years,11,18044,60.96,Estonia1998,,"5,617,109,245",4250,G.I. Generation
+8393,Estonia,1998,male,25-34 years,55,91671,60.0,Estonia1998,,"5,617,109,245",4250,Generation X
+8394,Estonia,1998,male,15-24 years,36,99239,36.28,Estonia1998,,"5,617,109,245",4250,Generation X
+8395,Estonia,1998,female,75+ years,14,53166,26.33,Estonia1998,,"5,617,109,245",4250,G.I. Generation
+8396,Estonia,1998,female,35-54 years,32,197231,16.22,Estonia1998,,"5,617,109,245",4250,Boomers
+8397,Estonia,1998,female,55-74 years,25,176820,14.14,Estonia1998,,"5,617,109,245",4250,Silent
+8398,Estonia,1998,female,15-24 years,5,95878,5.21,Estonia1998,,"5,617,109,245",4250,Generation X
+8399,Estonia,1998,male,5-14 years,5,103157,4.85,Estonia1998,,"5,617,109,245",4250,Millenials
+8400,Estonia,1998,female,25-34 years,4,93664,4.27,Estonia1998,,"5,617,109,245",4250,Generation X
+8401,Estonia,1998,female,5-14 years,1,98422,1.02,Estonia1998,,"5,617,109,245",4250,Millenials
+8402,Estonia,1999,male,75+ years,23,18414,124.9,Estonia1999,,"5,726,897,998",4361,G.I. Generation
+8403,Estonia,1999,male,55-74 years,101,116703,86.54,Estonia1999,,"5,726,897,998",4361,Silent
+8404,Estonia,1999,male,35-54 years,148,176841,83.69,Estonia1999,,"5,726,897,998",4361,Boomers
+8405,Estonia,1999,male,25-34 years,54,91164,59.23,Estonia1999,,"5,726,897,998",4361,Generation X
+8406,Estonia,1999,male,15-24 years,47,100216,46.9,Estonia1999,,"5,726,897,998",4361,Generation X
+8407,Estonia,1999,female,75+ years,22,54852,40.11,Estonia1999,,"5,726,897,998",4361,G.I. Generation
+8408,Estonia,1999,female,35-54 years,35,198278,17.65,Estonia1999,,"5,726,897,998",4361,Boomers
+8409,Estonia,1999,female,55-74 years,26,173742,14.96,Estonia1999,,"5,726,897,998",4361,Silent
+8410,Estonia,1999,female,15-24 years,7,96708,7.24,Estonia1999,,"5,726,897,998",4361,Generation X
+8411,Estonia,1999,female,25-34 years,3,92980,3.23,Estonia1999,,"5,726,897,998",4361,Generation X
+8412,Estonia,1999,male,5-14 years,2,99045,2.02,Estonia1999,,"5,726,897,998",4361,Millenials
+8413,Estonia,1999,female,5-14 years,0,94255,0.0,Estonia1999,,"5,726,897,998",4361,Millenials
+8414,Estonia,2000,male,75+ years,19,19265,98.62,Estonia2000,0.78,"5,685,774,809",4262,G.I. Generation
+8415,Estonia,2000,male,35-54 years,136,185960,73.13,Estonia2000,0.78,"5,685,774,809",4262,Boomers
+8416,Estonia,2000,male,55-74 years,66,118085,55.89,Estonia2000,0.78,"5,685,774,809",4262,Silent
+8417,Estonia,2000,male,25-34 years,38,97425,39.0,Estonia2000,0.78,"5,685,774,809",4262,Generation X
+8418,Estonia,2000,male,15-24 years,30,103020,29.12,Estonia2000,0.78,"5,685,774,809",4262,Generation X
+8419,Estonia,2000,female,55-74 years,38,173775,21.87,Estonia2000,0.78,"5,685,774,809",4262,Silent
+8420,Estonia,2000,female,75+ years,10,57680,17.34,Estonia2000,0.78,"5,685,774,809",4262,G.I. Generation
+8421,Estonia,2000,female,25-34 years,11,95540,11.51,Estonia2000,0.78,"5,685,774,809",4262,Generation X
+8422,Estonia,2000,female,35-54 years,22,202765,10.85,Estonia2000,0.78,"5,685,774,809",4262,Boomers
+8423,Estonia,2000,female,15-24 years,6,97165,6.18,Estonia2000,0.78,"5,685,774,809",4262,Generation X
+8424,Estonia,2000,female,5-14 years,1,88530,1.13,Estonia2000,0.78,"5,685,774,809",4262,Millenials
+8425,Estonia,2000,male,5-14 years,0,94965,0.0,Estonia2000,0.78,"5,685,774,809",4262,Millenials
+8426,Estonia,2001,male,35-54 years,135,185880,72.63,Estonia2001,,"6,245,069,734",4711,Boomers
+8427,Estonia,2001,male,55-74 years,84,117120,71.72,Estonia2001,,"6,245,069,734",4711,Silent
+8428,Estonia,2001,male,75+ years,12,19975,60.08,Estonia2001,,"6,245,069,734",4711,Silent
+8429,Estonia,2001,male,25-34 years,44,97810,44.99,Estonia2001,,"6,245,069,734",4711,Generation X
+8430,Estonia,2001,female,75+ years,26,59580,43.64,Estonia2001,,"6,245,069,734",4711,Silent
+8431,Estonia,2001,male,15-24 years,36,102895,34.99,Estonia2001,,"6,245,069,734",4711,Millenials
+8432,Estonia,2001,female,55-74 years,22,171675,12.81,Estonia2001,,"6,245,069,734",4711,Silent
+8433,Estonia,2001,female,35-54 years,24,202560,11.85,Estonia2001,,"6,245,069,734",4711,Boomers
+8434,Estonia,2001,female,25-34 years,8,95505,8.38,Estonia2001,,"6,245,069,734",4711,Generation X
+8435,Estonia,2001,female,15-24 years,6,97020,6.18,Estonia2001,,"6,245,069,734",4711,Millenials
+8436,Estonia,2001,male,5-14 years,4,90730,4.41,Estonia2001,,"6,245,069,734",4711,Millenials
+8437,Estonia,2001,female,5-14 years,0,84860,0.0,Estonia2001,,"6,245,069,734",4711,Millenials
+8438,Estonia,2002,male,75+ years,17,21135,80.44,Estonia2002,,"7,322,069,511",5561,Silent
+8439,Estonia,2002,male,55-74 years,74,116560,63.49,Estonia2002,,"7,322,069,511",5561,Silent
+8440,Estonia,2002,male,35-54 years,117,184685,63.35,Estonia2002,,"7,322,069,511",5561,Boomers
+8441,Estonia,2002,male,25-34 years,53,98385,53.87,Estonia2002,,"7,322,069,511",5561,Generation X
+8442,Estonia,2002,male,15-24 years,34,102950,33.03,Estonia2002,,"7,322,069,511",5561,Millenials
+8443,Estonia,2002,female,75+ years,14,61415,22.8,Estonia2002,,"7,322,069,511",5561,Silent
+8444,Estonia,2002,female,35-54 years,28,201060,13.93,Estonia2002,,"7,322,069,511",5561,Boomers
+8445,Estonia,2002,female,55-74 years,19,170805,11.12,Estonia2002,,"7,322,069,511",5561,Silent
+8446,Estonia,2002,female,25-34 years,6,95715,6.27,Estonia2002,,"7,322,069,511",5561,Generation X
+8447,Estonia,2002,male,5-14 years,4,86140,4.64,Estonia2002,,"7,322,069,511",5561,Millenials
+8448,Estonia,2002,female,15-24 years,4,97020,4.12,Estonia2002,,"7,322,069,511",5561,Millenials
+8449,Estonia,2002,female,5-14 years,1,80820,1.24,Estonia2002,,"7,322,069,511",5561,Millenials
+8450,Estonia,2003,male,75+ years,19,22380,84.9,Estonia2003,,"9,833,870,709",7523,Silent
+8451,Estonia,2003,male,35-54 years,116,183410,63.25,Estonia2003,,"9,833,870,709",7523,Boomers
+8452,Estonia,2003,male,55-74 years,69,116230,59.37,Estonia2003,,"9,833,870,709",7523,Silent
+8453,Estonia,2003,male,25-34 years,38,98640,38.52,Estonia2003,,"9,833,870,709",7523,Generation X
+8454,Estonia,2003,male,15-24 years,31,103335,30.0,Estonia2003,,"9,833,870,709",7523,Millenials
+8455,Estonia,2003,female,75+ years,16,63315,25.27,Estonia2003,,"9,833,870,709",7523,Silent
+8456,Estonia,2003,female,35-54 years,21,199315,10.54,Estonia2003,,"9,833,870,709",7523,Boomers
+8457,Estonia,2003,female,55-74 years,17,170190,9.99,Estonia2003,,"9,833,870,709",7523,Silent
+8458,Estonia,2003,female,15-24 years,6,97400,6.16,Estonia2003,,"9,833,870,709",7523,Millenials
+8459,Estonia,2003,female,25-34 years,5,95605,5.23,Estonia2003,,"9,833,870,709",7523,Generation X
+8460,Estonia,2003,male,5-14 years,3,81105,3.7,Estonia2003,,"9,833,870,709",7523,Millenials
+8461,Estonia,2003,female,5-14 years,1,76235,1.31,Estonia2003,,"9,833,870,709",7523,Millenials
+8462,Estonia,2004,male,55-74 years,73,116415,62.71,Estonia2004,,"12,059,201,242",9293,Silent
+8463,Estonia,2004,male,35-54 years,104,182275,57.06,Estonia2004,,"12,059,201,242",9293,Boomers
+8464,Estonia,2004,male,75+ years,13,23510,55.3,Estonia2004,,"12,059,201,242",9293,Silent
+8465,Estonia,2004,male,25-34 years,43,98265,43.76,Estonia2004,,"12,059,201,242",9293,Generation X
+8466,Estonia,2004,male,15-24 years,31,103745,29.88,Estonia2004,,"12,059,201,242",9293,Millenials
+8467,Estonia,2004,female,75+ years,11,65370,16.83,Estonia2004,,"12,059,201,242",9293,Silent
+8468,Estonia,2004,female,55-74 years,22,170025,12.94,Estonia2004,,"12,059,201,242",9293,Silent
+8469,Estonia,2004,female,25-34 years,7,94990,7.37,Estonia2004,,"12,059,201,242",9293,Generation X
+8470,Estonia,2004,female,15-24 years,6,97765,6.14,Estonia2004,,"12,059,201,242",9293,Millenials
+8471,Estonia,2004,female,35-54 years,12,197475,6.08,Estonia2004,,"12,059,201,242",9293,Boomers
+8472,Estonia,2004,female,5-14 years,1,71710,1.39,Estonia2004,,"12,059,201,242",9293,Millenials
+8473,Estonia,2004,male,5-14 years,0,76105,0.0,Estonia2004,,"12,059,201,242",9293,Millenials
+8474,Estonia,2005,male,35-54 years,97,181315,53.5,Estonia2005,0.8240000000000001,"14,006,088,297",10870,Boomers
+8475,Estonia,2005,male,75+ years,13,24740,52.55,Estonia2005,0.8240000000000001,"14,006,088,297",10870,Silent
+8476,Estonia,2005,male,55-74 years,50,116665,42.86,Estonia2005,0.8240000000000001,"14,006,088,297",10870,Silent
+8477,Estonia,2005,male,25-34 years,32,97650,32.77,Estonia2005,0.8240000000000001,"14,006,088,297",10870,Generation X
+8478,Estonia,2005,male,15-24 years,27,103575,26.07,Estonia2005,0.8240000000000001,"14,006,088,297",10870,Millenials
+8479,Estonia,2005,female,75+ years,15,67375,22.26,Estonia2005,0.8240000000000001,"14,006,088,297",10870,Silent
+8480,Estonia,2005,female,55-74 years,18,170115,10.58,Estonia2005,0.8240000000000001,"14,006,088,297",10870,Silent
+8481,Estonia,2005,female,35-54 years,12,195835,6.13,Estonia2005,0.8240000000000001,"14,006,088,297",10870,Boomers
+8482,Estonia,2005,female,15-24 years,5,97515,5.13,Estonia2005,0.8240000000000001,"14,006,088,297",10870,Millenials
+8483,Estonia,2005,female,25-34 years,3,93980,3.19,Estonia2005,0.8240000000000001,"14,006,088,297",10870,Generation X
+8484,Estonia,2005,male,5-14 years,1,71890,1.39,Estonia2005,0.8240000000000001,"14,006,088,297",10870,Millenials
+8485,Estonia,2005,female,5-14 years,0,67840,0.0,Estonia2005,0.8240000000000001,"14,006,088,297",10870,Millenials
+8486,Estonia,2006,male,75+ years,14,25870,54.12,Estonia2006,,"16,963,625,016",13264,Silent
+8487,Estonia,2006,male,55-74 years,56,116790,47.95,Estonia2006,,"16,963,625,016",13264,Silent
+8488,Estonia,2006,male,35-54 years,73,180705,40.4,Estonia2006,,"16,963,625,016",13264,Boomers
+8489,Estonia,2006,female,75+ years,18,69410,25.93,Estonia2006,,"16,963,625,016",13264,Silent
+8490,Estonia,2006,male,15-24 years,26,102295,25.42,Estonia2006,,"16,963,625,016",13264,Millenials
+8491,Estonia,2006,male,25-34 years,21,96850,21.68,Estonia2006,,"16,963,625,016",13264,Generation X
+8492,Estonia,2006,female,55-74 years,17,170020,10.0,Estonia2006,,"16,963,625,016",13264,Silent
+8493,Estonia,2006,female,35-54 years,12,194260,6.18,Estonia2006,,"16,963,625,016",13264,Boomers
+8494,Estonia,2006,female,15-24 years,5,96385,5.19,Estonia2006,,"16,963,625,016",13264,Millenials
+8495,Estonia,2006,female,25-34 years,4,92765,4.31,Estonia2006,,"16,963,625,016",13264,Generation X
+8496,Estonia,2006,male,5-14 years,1,68740,1.45,Estonia2006,,"16,963,625,016",13264,Millenials
+8497,Estonia,2006,female,5-14 years,0,64825,0.0,Estonia2006,,"16,963,625,016",13264,Millenials
+8498,Estonia,2007,male,75+ years,21,26860,78.18,Estonia2007,,"22,237,061,730",17504,Silent
+8499,Estonia,2007,male,55-74 years,58,117125,49.52,Estonia2007,,"22,237,061,730",17504,Silent
+8500,Estonia,2007,male,25-34 years,39,96140,40.57,Estonia2007,,"22,237,061,730",17504,Generation X
+8501,Estonia,2007,male,35-54 years,66,180160,36.63,Estonia2007,,"22,237,061,730",17504,Boomers
+8502,Estonia,2007,male,15-24 years,21,100450,20.91,Estonia2007,,"22,237,061,730",17504,Millenials
+8503,Estonia,2007,female,75+ years,13,71525,18.18,Estonia2007,,"22,237,061,730",17504,Silent
+8504,Estonia,2007,female,55-74 years,17,170045,10.0,Estonia2007,,"22,237,061,730",17504,Silent
+8505,Estonia,2007,female,35-54 years,11,192585,5.71,Estonia2007,,"22,237,061,730",17504,Boomers
+8506,Estonia,2007,female,15-24 years,3,94785,3.17,Estonia2007,,"22,237,061,730",17504,Millenials
+8507,Estonia,2007,female,25-34 years,2,91870,2.18,Estonia2007,,"22,237,061,730",17504,Generation X
+8508,Estonia,2007,female,5-14 years,0,62580,0.0,Estonia2007,,"22,237,061,730",17504,Generation Z
+8509,Estonia,2007,male,5-14 years,0,66290,0.0,Estonia2007,,"22,237,061,730",17504,Generation Z
+8510,Estonia,2008,male,75+ years,18,27640,65.12,Estonia2008,,"24,194,039,256",19141,Silent
+8511,Estonia,2008,male,55-74 years,47,117750,39.92,Estonia2008,,"24,194,039,256",19141,Silent
+8512,Estonia,2008,male,35-54 years,71,179930,39.46,Estonia2008,,"24,194,039,256",19141,Boomers
+8513,Estonia,2008,male,15-24 years,29,98030,29.58,Estonia2008,,"24,194,039,256",19141,Millenials
+8514,Estonia,2008,male,25-34 years,23,95990,23.96,Estonia2008,,"24,194,039,256",19141,Generation X
+8515,Estonia,2008,female,75+ years,12,73185,16.4,Estonia2008,,"24,194,039,256",19141,Silent
+8516,Estonia,2008,female,55-74 years,15,170375,8.8,Estonia2008,,"24,194,039,256",19141,Silent
+8517,Estonia,2008,female,35-54 years,16,191130,8.37,Estonia2008,,"24,194,039,256",19141,Boomers
+8518,Estonia,2008,female,15-24 years,5,92410,5.41,Estonia2008,,"24,194,039,256",19141,Millenials
+8519,Estonia,2008,female,25-34 years,4,91600,4.37,Estonia2008,,"24,194,039,256",19141,Generation X
+8520,Estonia,2008,female,5-14 years,1,61285,1.63,Estonia2008,,"24,194,039,256",19141,Generation Z
+8521,Estonia,2008,male,5-14 years,1,64680,1.55,Estonia2008,,"24,194,039,256",19141,Generation Z
+8522,Estonia,2009,male,55-74 years,66,118960,55.48,Estonia2009,,"19,652,492,637",15609,Silent
+8523,Estonia,2009,male,35-54 years,88,179820,48.94,Estonia2009,,"19,652,492,637",15609,Boomers
+8524,Estonia,2009,male,75+ years,13,28150,46.18,Estonia2009,,"19,652,492,637",15609,Silent
+8525,Estonia,2009,male,25-34 years,30,96260,31.17,Estonia2009,,"19,652,492,637",15609,Generation X
+8526,Estonia,2009,male,15-24 years,23,94705,24.29,Estonia2009,,"19,652,492,637",15609,Millenials
+8527,Estonia,2009,female,75+ years,16,74300,21.53,Estonia2009,,"19,652,492,637",15609,Silent
+8528,Estonia,2009,female,55-74 years,14,171340,8.17,Estonia2009,,"19,652,492,637",15609,Silent
+8529,Estonia,2009,female,35-54 years,14,189570,7.39,Estonia2009,,"19,652,492,637",15609,Boomers
+8530,Estonia,2009,female,25-34 years,3,91560,3.28,Estonia2009,,"19,652,492,637",15609,Generation X
+8531,Estonia,2009,female,15-24 years,2,89195,2.24,Estonia2009,,"19,652,492,637",15609,Millenials
+8532,Estonia,2009,female,5-14 years,0,60910,0.0,Estonia2009,,"19,652,492,637",15609,Generation Z
+8533,Estonia,2009,male,5-14 years,0,64240,0.0,Estonia2009,,"19,652,492,637",15609,Generation Z
+8534,Estonia,2010,male,75+ years,18,28755,62.6,Estonia2010,0.838,"19,490,936,349",15540,Silent
+8535,Estonia,2010,male,55-74 years,54,120465,44.83,Estonia2010,0.838,"19,490,936,349",15540,Silent
+8536,Estonia,2010,male,35-54 years,61,179395,34.0,Estonia2010,0.838,"19,490,936,349",15540,Generation X
+8537,Estonia,2010,male,25-34 years,28,96230,29.1,Estonia2010,0.838,"19,490,936,349",15540,Generation X
+8538,Estonia,2010,male,15-24 years,20,91065,21.96,Estonia2010,0.838,"19,490,936,349",15540,Millenials
+8539,Estonia,2010,female,75+ years,12,75665,15.86,Estonia2010,0.838,"19,490,936,349",15540,Silent
+8540,Estonia,2010,female,55-74 years,14,172395,8.12,Estonia2010,0.838,"19,490,936,349",15540,Silent
+8541,Estonia,2010,female,25-34 years,5,91330,5.47,Estonia2010,0.838,"19,490,936,349",15540,Generation X
+8542,Estonia,2010,female,35-54 years,9,187560,4.8,Estonia2010,0.838,"19,490,936,349",15540,Generation X
+8543,Estonia,2010,female,15-24 years,2,85755,2.33,Estonia2010,0.838,"19,490,936,349",15540,Millenials
+8544,Estonia,2010,female,5-14 years,0,61030,0.0,Estonia2010,0.838,"19,490,936,349",15540,Generation Z
+8545,Estonia,2010,male,5-14 years,0,64580,0.0,Estonia2010,0.838,"19,490,936,349",15540,Generation Z
+8546,Estonia,2011,male,75+ years,21,29683,70.75,Estonia2011,0.8490000000000001,"23,170,239,901",18545,Silent
+8547,Estonia,2011,male,55-74 years,57,121737,46.82,Estonia2011,0.8490000000000001,"23,170,239,901",18545,Boomers
+8548,Estonia,2011,male,35-54 years,58,178933,32.41,Estonia2011,0.8490000000000001,"23,170,239,901",18545,Generation X
+8549,Estonia,2011,male,25-34 years,23,95987,23.96,Estonia2011,0.8490000000000001,"23,170,239,901",18545,Millenials
+8550,Estonia,2011,male,15-24 years,19,87167,21.8,Estonia2011,0.8490000000000001,"23,170,239,901",18545,Millenials
+8551,Estonia,2011,female,75+ years,12,77543,15.48,Estonia2011,0.8490000000000001,"23,170,239,901",18545,Silent
+8552,Estonia,2011,female,35-54 years,15,185535,8.08,Estonia2011,0.8490000000000001,"23,170,239,901",18545,Generation X
+8553,Estonia,2011,female,55-74 years,9,172988,5.2,Estonia2011,0.8490000000000001,"23,170,239,901",18545,Boomers
+8554,Estonia,2011,female,15-24 years,3,82075,3.66,Estonia2011,0.8490000000000001,"23,170,239,901",18545,Millenials
+8555,Estonia,2011,female,25-34 years,1,90940,1.1,Estonia2011,0.8490000000000001,"23,170,239,901",18545,Millenials
+8556,Estonia,2011,female,5-14 years,0,61510,0.0,Estonia2011,0.8490000000000001,"23,170,239,901",18545,Generation Z
+8557,Estonia,2011,male,5-14 years,0,65329,0.0,Estonia2011,0.8490000000000001,"23,170,239,901",18545,Generation Z
+8558,Estonia,2012,male,75+ years,20,30891,64.74,Estonia2012,0.855,"23,043,864,510",18411,Silent
+8559,Estonia,2012,male,55-74 years,59,122960,47.98,Estonia2012,0.855,"23,043,864,510",18411,Boomers
+8560,Estonia,2012,male,35-54 years,65,179456,36.22,Estonia2012,0.855,"23,043,864,510",18411,Generation X
+8561,Estonia,2012,male,25-34 years,30,96938,30.95,Estonia2012,0.855,"23,043,864,510",18411,Millenials
+8562,Estonia,2012,female,75+ years,18,80117,22.47,Estonia2012,0.855,"23,043,864,510",18411,Silent
+8563,Estonia,2012,male,15-24 years,14,83194,16.83,Estonia2012,0.855,"23,043,864,510",18411,Millenials
+8564,Estonia,2012,female,55-74 years,17,172977,9.83,Estonia2012,0.855,"23,043,864,510",18411,Boomers
+8565,Estonia,2012,female,35-54 years,7,184354,3.8,Estonia2012,0.855,"23,043,864,510",18411,Generation X
+8566,Estonia,2012,female,25-34 years,3,91727,3.27,Estonia2012,0.855,"23,043,864,510",18411,Millenials
+8567,Estonia,2012,male,5-14 years,2,67323,2.97,Estonia2012,0.855,"23,043,864,510",18411,Generation Z
+8568,Estonia,2012,female,15-24 years,2,78364,2.55,Estonia2012,0.855,"23,043,864,510",18411,Millenials
+8569,Estonia,2012,female,5-14 years,0,63330,0.0,Estonia2012,0.855,"23,043,864,510",18411,Generation Z
+8570,Estonia,2013,male,75+ years,23,32101,71.65,Estonia2013,0.8590000000000001,"25,137,153,149",20221,Silent
+8571,Estonia,2013,male,55-74 years,58,123698,46.89,Estonia2013,0.8590000000000001,"25,137,153,149",20221,Boomers
+8572,Estonia,2013,male,35-54 years,52,178072,29.2,Estonia2013,0.8590000000000001,"25,137,153,149",20221,Generation X
+8573,Estonia,2013,male,25-34 years,22,96869,22.71,Estonia2013,0.8590000000000001,"25,137,153,149",20221,Millenials
+8574,Estonia,2013,female,75+ years,18,82614,21.79,Estonia2013,0.8590000000000001,"25,137,153,149",20221,Silent
+8575,Estonia,2013,male,15-24 years,15,78163,19.19,Estonia2013,0.8590000000000001,"25,137,153,149",20221,Millenials
+8576,Estonia,2013,female,35-54 years,13,181855,7.15,Estonia2013,0.8590000000000001,"25,137,153,149",20221,Generation X
+8577,Estonia,2013,female,55-74 years,12,172334,6.96,Estonia2013,0.8590000000000001,"25,137,153,149",20221,Boomers
+8578,Estonia,2013,female,15-24 years,2,73430,2.72,Estonia2013,0.8590000000000001,"25,137,153,149",20221,Millenials
+8579,Estonia,2013,female,25-34 years,2,91438,2.19,Estonia2013,0.8590000000000001,"25,137,153,149",20221,Millenials
+8580,Estonia,2013,male,5-14 years,1,68210,1.47,Estonia2013,0.8590000000000001,"25,137,153,149",20221,Generation Z
+8581,Estonia,2013,female,5-14 years,0,64312,0.0,Estonia2013,0.8590000000000001,"25,137,153,149",20221,Generation Z
+8582,Estonia,2014,male,75+ years,26,33259,78.17,Estonia2014,0.861,"26,224,622,451",21117,Silent
+8583,Estonia,2014,male,55-74 years,50,124940,40.02,Estonia2014,0.861,"26,224,622,451",21117,Boomers
+8584,Estonia,2014,male,25-34 years,39,97957,39.81,Estonia2014,0.861,"26,224,622,451",21117,Millenials
+8585,Estonia,2014,male,35-54 years,57,177676,32.08,Estonia2014,0.861,"26,224,622,451",21117,Generation X
+8586,Estonia,2014,male,15-24 years,19,73521,25.84,Estonia2014,0.861,"26,224,622,451",21117,Millenials
+8587,Estonia,2014,female,75+ years,13,84886,15.31,Estonia2014,0.861,"26,224,622,451",21117,Silent
+8588,Estonia,2014,female,35-54 years,16,180093,8.88,Estonia2014,0.861,"26,224,622,451",21117,Generation X
+8589,Estonia,2014,female,25-34 years,8,92159,8.68,Estonia2014,0.861,"26,224,622,451",21117,Millenials
+8590,Estonia,2014,female,55-74 years,10,172116,5.81,Estonia2014,0.861,"26,224,622,451",21117,Boomers
+8591,Estonia,2014,male,5-14 years,2,69999,2.86,Estonia2014,0.861,"26,224,622,451",21117,Generation Z
+8592,Estonia,2014,female,15-24 years,1,69127,1.45,Estonia2014,0.861,"26,224,622,451",21117,Millenials
+8593,Estonia,2014,female,5-14 years,0,66119,0.0,Estonia2014,0.861,"26,224,622,451",21117,Generation Z
+8594,Estonia,2015,male,75+ years,20,34253,58.39,Estonia2015,,"22,566,956,982",18149,Silent
+8595,Estonia,2015,male,55-74 years,44,126556,34.77,Estonia2015,,"22,566,956,982",18149,Boomers
+8596,Estonia,2015,male,15-24 years,21,70165,29.93,Estonia2015,,"22,566,956,982",18149,Millenials
+8597,Estonia,2015,male,35-54 years,48,177053,27.11,Estonia2015,,"22,566,956,982",18149,Generation X
+8598,Estonia,2015,male,25-34 years,25,99448,25.14,Estonia2015,,"22,566,956,982",18149,Millenials
+8599,Estonia,2015,female,75+ years,9,86804,10.37,Estonia2015,,"22,566,956,982",18149,Silent
+8600,Estonia,2015,female,55-74 years,12,172429,6.96,Estonia2015,,"22,566,956,982",18149,Boomers
+8601,Estonia,2015,female,35-54 years,11,178380,6.17,Estonia2015,,"22,566,956,982",18149,Generation X
+8602,Estonia,2015,female,25-34 years,2,92783,2.16,Estonia2015,,"22,566,956,982",18149,Millenials
+8603,Estonia,2015,female,15-24 years,1,66216,1.51,Estonia2015,,"22,566,956,982",18149,Millenials
+8604,Estonia,2015,female,5-14 years,1,67802,1.47,Estonia2015,,"22,566,956,982",18149,Generation Z
+8605,Estonia,2015,male,5-14 years,1,71561,1.4,Estonia2015,,"22,566,956,982",18149,Generation Z

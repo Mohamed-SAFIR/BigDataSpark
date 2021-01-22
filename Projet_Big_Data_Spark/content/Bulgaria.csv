@@ -1,0 +1,361 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+4544,Bulgaria,1985,male,75+ years,218,166200,131.17,Bulgaria1985,0.6859999999999999,"17,155,421,053",2044,G.I. Generation
+4545,Bulgaria,1985,female,75+ years,94,222700,42.21,Bulgaria1985,0.6859999999999999,"17,155,421,053",2044,G.I. Generation
+4546,Bulgaria,1985,male,55-74 years,345,881600,39.13,Bulgaria1985,0.6859999999999999,"17,155,421,053",2044,G.I. Generation
+4547,Bulgaria,1985,male,35-54 years,278,1217500,22.83,Bulgaria1985,0.6859999999999999,"17,155,421,053",2044,Silent
+4548,Bulgaria,1985,female,55-74 years,168,952200,17.64,Bulgaria1985,0.6859999999999999,"17,155,421,053",2044,G.I. Generation
+4549,Bulgaria,1985,male,25-34 years,105,624800,16.81,Bulgaria1985,0.6859999999999999,"17,155,421,053",2044,Boomers
+4550,Bulgaria,1985,male,15-24 years,77,603600,12.76,Bulgaria1985,0.6859999999999999,"17,155,421,053",2044,Generation X
+4551,Bulgaria,1985,female,35-54 years,91,1228400,7.41,Bulgaria1985,0.6859999999999999,"17,155,421,053",2044,Silent
+4552,Bulgaria,1985,female,25-34 years,36,619200,5.81,Bulgaria1985,0.6859999999999999,"17,155,421,053",2044,Boomers
+4553,Bulgaria,1985,female,15-24 years,31,575700,5.38,Bulgaria1985,0.6859999999999999,"17,155,421,053",2044,Generation X
+4554,Bulgaria,1985,male,5-14 years,11,667800,1.65,Bulgaria1985,0.6859999999999999,"17,155,421,053",2044,Generation X
+4555,Bulgaria,1985,female,5-14 years,2,632800,0.32,Bulgaria1985,0.6859999999999999,"17,155,421,053",2044,Generation X
+4556,Bulgaria,1986,male,75+ years,172,165700,103.8,Bulgaria1986,,"20,249,294,118",2413,G.I. Generation
+4557,Bulgaria,1986,female,75+ years,96,223100,43.03,Bulgaria1986,,"20,249,294,118",2413,G.I. Generation
+4558,Bulgaria,1986,male,55-74 years,314,881400,35.63,Bulgaria1986,,"20,249,294,118",2413,G.I. Generation
+4559,Bulgaria,1986,male,35-54 years,290,1217600,23.82,Bulgaria1986,,"20,249,294,118",2413,Silent
+4560,Bulgaria,1986,male,25-34 years,123,624900,19.68,Bulgaria1986,,"20,249,294,118",2413,Boomers
+4561,Bulgaria,1986,female,55-74 years,184,951900,19.33,Bulgaria1986,,"20,249,294,118",2413,G.I. Generation
+4562,Bulgaria,1986,male,15-24 years,64,603700,10.6,Bulgaria1986,,"20,249,294,118",2413,Generation X
+4563,Bulgaria,1986,female,35-54 years,92,1228100,7.49,Bulgaria1986,,"20,249,294,118",2413,Silent
+4564,Bulgaria,1986,female,15-24 years,38,575900,6.6,Bulgaria1986,,"20,249,294,118",2413,Generation X
+4565,Bulgaria,1986,female,25-34 years,20,618800,3.23,Bulgaria1986,,"20,249,294,118",2413,Boomers
+4566,Bulgaria,1986,male,5-14 years,12,667500,1.8,Bulgaria1986,,"20,249,294,118",2413,Generation X
+4567,Bulgaria,1986,female,5-14 years,3,632900,0.47,Bulgaria1986,,"20,249,294,118",2413,Generation X
+4568,Bulgaria,1987,male,75+ years,228,172900,131.87,Bulgaria1987,,"28,101,000,000",3355,G.I. Generation
+4569,Bulgaria,1987,female,75+ years,101,238800,42.29,Bulgaria1987,,"28,101,000,000",3355,G.I. Generation
+4570,Bulgaria,1987,male,55-74 years,346,849500,40.73,Bulgaria1987,,"28,101,000,000",3355,G.I. Generation
+4571,Bulgaria,1987,male,35-54 years,283,1181700,23.95,Bulgaria1987,,"28,101,000,000",3355,Silent
+4572,Bulgaria,1987,female,55-74 years,177,946200,18.71,Bulgaria1987,,"28,101,000,000",3355,G.I. Generation
+4573,Bulgaria,1987,male,25-34 years,110,634200,17.34,Bulgaria1987,,"28,101,000,000",3355,Boomers
+4574,Bulgaria,1987,male,15-24 years,81,619800,13.07,Bulgaria1987,,"28,101,000,000",3355,Generation X
+4575,Bulgaria,1987,female,35-54 years,81,1197400,6.76,Bulgaria1987,,"28,101,000,000",3355,Silent
+4576,Bulgaria,1987,female,15-24 years,35,595300,5.88,Bulgaria1987,,"28,101,000,000",3355,Generation X
+4577,Bulgaria,1987,female,25-34 years,28,625200,4.48,Bulgaria1987,,"28,101,000,000",3355,Boomers
+4578,Bulgaria,1987,male,5-14 years,15,674100,2.23,Bulgaria1987,,"28,101,000,000",3355,Generation X
+4579,Bulgaria,1987,female,5-14 years,7,640300,1.09,Bulgaria1987,,"28,101,000,000",3355,Generation X
+4580,Bulgaria,1988,male,75+ years,204,172700,118.12,Bulgaria1988,,"22,555,941,176",2688,G.I. Generation
+4581,Bulgaria,1988,female,75+ years,102,241000,42.32,Bulgaria1988,,"22,555,941,176",2688,G.I. Generation
+4582,Bulgaria,1988,male,55-74 years,345,860200,40.11,Bulgaria1988,,"22,555,941,176",2688,G.I. Generation
+4583,Bulgaria,1988,male,35-54 years,278,1180000,23.56,Bulgaria1988,,"22,555,941,176",2688,Silent
+4584,Bulgaria,1988,female,55-74 years,165,962400,17.14,Bulgaria1988,,"22,555,941,176",2688,G.I. Generation
+4585,Bulgaria,1988,male,25-34 years,99,629400,15.73,Bulgaria1988,,"22,555,941,176",2688,Boomers
+4586,Bulgaria,1988,male,15-24 years,78,624000,12.5,Bulgaria1988,,"22,555,941,176",2688,Generation X
+4587,Bulgaria,1988,female,35-54 years,79,1197300,6.6,Bulgaria1988,,"22,555,941,176",2688,Silent
+4588,Bulgaria,1988,female,25-34 years,39,620000,6.29,Bulgaria1988,,"22,555,941,176",2688,Boomers
+4589,Bulgaria,1988,female,15-24 years,37,598100,6.19,Bulgaria1988,,"22,555,941,176",2688,Generation X
+4590,Bulgaria,1988,male,5-14 years,21,669200,3.14,Bulgaria1988,,"22,555,941,176",2688,Generation X
+4591,Bulgaria,1988,female,5-14 years,5,635500,0.79,Bulgaria1988,,"22,555,941,176",2688,Generation X
+4592,Bulgaria,1989,male,75+ years,213,174000,122.41,Bulgaria1989,,"21,988,444,444",2617,G.I. Generation
+4593,Bulgaria,1989,male,55-74 years,345,869600,39.67,Bulgaria1989,,"21,988,444,444",2617,G.I. Generation
+4594,Bulgaria,1989,female,75+ years,95,244200,38.9,Bulgaria1989,,"21,988,444,444",2617,G.I. Generation
+4595,Bulgaria,1989,male,35-54 years,289,1177800,24.54,Bulgaria1989,,"21,988,444,444",2617,Silent
+4596,Bulgaria,1989,female,55-74 years,171,977600,17.49,Bulgaria1989,,"21,988,444,444",2617,G.I. Generation
+4597,Bulgaria,1989,male,25-34 years,107,623900,17.15,Bulgaria1989,,"21,988,444,444",2617,Boomers
+4598,Bulgaria,1989,male,15-24 years,69,633700,10.89,Bulgaria1989,,"21,988,444,444",2617,Generation X
+4599,Bulgaria,1989,female,35-54 years,83,1196400,6.94,Bulgaria1989,,"21,988,444,444",2617,Silent
+4600,Bulgaria,1989,female,15-24 years,39,606700,6.43,Bulgaria1989,,"21,988,444,444",2617,Generation X
+4601,Bulgaria,1989,female,25-34 years,28,614200,4.56,Bulgaria1989,,"21,988,444,444",2617,Boomers
+4602,Bulgaria,1989,male,5-14 years,18,659300,2.73,Bulgaria1989,,"21,988,444,444",2617,Generation X
+4603,Bulgaria,1989,female,5-14 years,3,625800,0.48,Bulgaria1989,,"21,988,444,444",2617,Generation X
+4604,Bulgaria,1990,male,75+ years,174,179200,97.1,Bulgaria1990,0.695,"20,632,090,909",2451,G.I. Generation
+4605,Bulgaria,1990,female,75+ years,98,252100,38.87,Bulgaria1990,0.695,"20,632,090,909",2451,G.I. Generation
+4606,Bulgaria,1990,male,55-74 years,294,873400,33.66,Bulgaria1990,0.695,"20,632,090,909",2451,G.I. Generation
+4607,Bulgaria,1990,male,35-54 years,242,1177100,20.56,Bulgaria1990,0.695,"20,632,090,909",2451,Silent
+4608,Bulgaria,1990,male,25-34 years,106,617000,17.18,Bulgaria1990,0.695,"20,632,090,909",2451,Boomers
+4609,Bulgaria,1990,female,55-74 years,161,986100,16.33,Bulgaria1990,0.695,"20,632,090,909",2451,G.I. Generation
+4610,Bulgaria,1990,male,15-24 years,90,646500,13.92,Bulgaria1990,0.695,"20,632,090,909",2451,Generation X
+4611,Bulgaria,1990,female,35-54 years,86,1197400,7.18,Bulgaria1990,0.695,"20,632,090,909",2451,Silent
+4612,Bulgaria,1990,female,25-34 years,30,606700,4.94,Bulgaria1990,0.695,"20,632,090,909",2451,Boomers
+4613,Bulgaria,1990,female,15-24 years,26,618000,4.21,Bulgaria1990,0.695,"20,632,090,909",2451,Generation X
+4614,Bulgaria,1990,male,5-14 years,14,649200,2.16,Bulgaria1990,0.695,"20,632,090,909",2451,Generation X
+4615,Bulgaria,1990,female,5-14 years,2,615800,0.32,Bulgaria1990,0.695,"20,632,090,909",2451,Generation X
+4616,Bulgaria,1991,male,75+ years,203,176700,114.88,Bulgaria1991,,"10,943,548,387",1298,G.I. Generation
+4617,Bulgaria,1991,male,55-74 years,306,880600,34.75,Bulgaria1991,,"10,943,548,387",1298,Silent
+4618,Bulgaria,1991,female,75+ years,74,250600,29.53,Bulgaria1991,,"10,943,548,387",1298,G.I. Generation
+4619,Bulgaria,1991,male,35-54 years,289,1180500,24.48,Bulgaria1991,,"10,943,548,387",1298,Boomers
+4620,Bulgaria,1991,female,55-74 years,188,999700,18.81,Bulgaria1991,,"10,943,548,387",1298,Silent
+4621,Bulgaria,1991,male,25-34 years,111,608100,18.25,Bulgaria1991,,"10,943,548,387",1298,Boomers
+4622,Bulgaria,1991,male,15-24 years,80,659600,12.13,Bulgaria1991,,"10,943,548,387",1298,Generation X
+4623,Bulgaria,1991,female,35-54 years,69,1202100,5.74,Bulgaria1991,,"10,943,548,387",1298,Boomers
+4624,Bulgaria,1991,female,25-34 years,23,596900,3.85,Bulgaria1991,,"10,943,548,387",1298,Boomers
+4625,Bulgaria,1991,female,15-24 years,23,630000,3.65,Bulgaria1991,,"10,943,548,387",1298,Generation X
+4626,Bulgaria,1991,male,5-14 years,12,639800,1.88,Bulgaria1991,,"10,943,548,387",1298,Millenials
+4627,Bulgaria,1991,female,5-14 years,6,607300,0.99,Bulgaria1991,,"10,943,548,387",1298,Millenials
+4628,Bulgaria,1992,male,75+ years,206,164500,125.23,Bulgaria1992,,"10,350,515,464",1287,G.I. Generation
+4629,Bulgaria,1992,female,75+ years,104,234600,44.33,Bulgaria1992,,"10,350,515,464",1287,G.I. Generation
+4630,Bulgaria,1992,male,55-74 years,367,874400,41.97,Bulgaria1992,,"10,350,515,464",1287,Silent
+4631,Bulgaria,1992,male,35-54 years,319,1126700,28.31,Bulgaria1992,,"10,350,515,464",1287,Boomers
+4632,Bulgaria,1992,male,25-34 years,112,560600,19.98,Bulgaria1992,,"10,350,515,464",1287,Boomers
+4633,Bulgaria,1992,female,55-74 years,166,995100,16.68,Bulgaria1992,,"10,350,515,464",1287,Silent
+4634,Bulgaria,1992,male,15-24 years,98,626200,15.65,Bulgaria1992,,"10,350,515,464",1287,Generation X
+4635,Bulgaria,1992,female,35-54 years,81,1154800,7.01,Bulgaria1992,,"10,350,515,464",1287,Boomers
+4636,Bulgaria,1992,female,25-34 years,27,552500,4.89,Bulgaria1992,,"10,350,515,464",1287,Boomers
+4637,Bulgaria,1992,female,15-24 years,29,601100,4.82,Bulgaria1992,,"10,350,515,464",1287,Generation X
+4638,Bulgaria,1992,male,5-14 years,6,591000,1.02,Bulgaria1992,,"10,350,515,464",1287,Millenials
+4639,Bulgaria,1992,female,5-14 years,4,560000,0.71,Bulgaria1992,,"10,350,515,464",1287,Millenials
+4640,Bulgaria,1993,male,75+ years,141,156400,90.15,Bulgaria1993,,"10,829,710,145",1354,G.I. Generation
+4641,Bulgaria,1993,female,75+ years,96,225400,42.59,Bulgaria1993,,"10,829,710,145",1354,G.I. Generation
+4642,Bulgaria,1993,male,55-74 years,351,879900,39.89,Bulgaria1993,,"10,829,710,145",1354,Silent
+4643,Bulgaria,1993,male,35-54 years,308,1122800,27.43,Bulgaria1993,,"10,829,710,145",1354,Boomers
+4644,Bulgaria,1993,male,25-34 years,116,554600,20.92,Bulgaria1993,,"10,829,710,145",1354,Boomers
+4645,Bulgaria,1993,female,55-74 years,197,1008800,19.53,Bulgaria1993,,"10,829,710,145",1354,Silent
+4646,Bulgaria,1993,male,15-24 years,97,628100,15.44,Bulgaria1993,,"10,829,710,145",1354,Generation X
+4647,Bulgaria,1993,female,25-34 years,45,545500,8.25,Bulgaria1993,,"10,829,710,145",1354,Boomers
+4648,Bulgaria,1993,female,35-54 years,72,1154100,6.24,Bulgaria1993,,"10,829,710,145",1354,Boomers
+4649,Bulgaria,1993,female,15-24 years,34,602700,5.64,Bulgaria1993,,"10,829,710,145",1354,Generation X
+4650,Bulgaria,1993,male,5-14 years,10,576500,1.73,Bulgaria1993,,"10,829,710,145",1354,Millenials
+4651,Bulgaria,1993,female,5-14 years,3,546200,0.55,Bulgaria1993,,"10,829,710,145",1354,Millenials
+4652,Bulgaria,1994,male,75+ years,175,155600,112.47,Bulgaria1994,,"9,697,416,974",1213,G.I. Generation
+4653,Bulgaria,1994,male,55-74 years,364,876800,41.51,Bulgaria1994,,"9,697,416,974",1213,Silent
+4654,Bulgaria,1994,female,75+ years,86,225000,38.22,Bulgaria1994,,"9,697,416,974",1213,G.I. Generation
+4655,Bulgaria,1994,male,35-54 years,329,1125000,29.24,Bulgaria1994,,"9,697,416,974",1213,Boomers
+4656,Bulgaria,1994,female,55-74 years,160,1013800,15.78,Bulgaria1994,,"9,697,416,974",1213,Silent
+4657,Bulgaria,1994,male,25-34 years,87,558000,15.59,Bulgaria1994,,"9,697,416,974",1213,Boomers
+4658,Bulgaria,1994,male,15-24 years,84,629400,13.35,Bulgaria1994,,"9,697,416,974",1213,Generation X
+4659,Bulgaria,1994,female,35-54 years,103,1158400,8.89,Bulgaria1994,,"9,697,416,974",1213,Boomers
+4660,Bulgaria,1994,female,25-34 years,33,547900,6.02,Bulgaria1994,,"9,697,416,974",1213,Boomers
+4661,Bulgaria,1994,female,15-24 years,30,602800,4.98,Bulgaria1994,,"9,697,416,974",1213,Generation X
+4662,Bulgaria,1994,male,5-14 years,9,566000,1.59,Bulgaria1994,,"9,697,416,974",1213,Millenials
+4663,Bulgaria,1994,female,5-14 years,4,536800,0.75,Bulgaria1994,,"9,697,416,974",1213,Millenials
+4664,Bulgaria,1995,male,75+ years,169,161300,104.77,Bulgaria1995,0.696,"13,063,422,619",1636,G.I. Generation
+4665,Bulgaria,1995,male,55-74 years,349,866200,40.29,Bulgaria1995,0.696,"13,063,422,619",1636,Silent
+4666,Bulgaria,1995,female,75+ years,83,233300,35.58,Bulgaria1995,0.696,"13,063,422,619",1636,G.I. Generation
+4667,Bulgaria,1995,male,35-54 years,307,1127000,27.24,Bulgaria1995,0.696,"13,063,422,619",1636,Boomers
+4668,Bulgaria,1995,female,55-74 years,184,1009300,18.23,Bulgaria1995,0.696,"13,063,422,619",1636,Silent
+4669,Bulgaria,1995,male,25-34 years,101,562200,17.97,Bulgaria1995,0.696,"13,063,422,619",1636,Generation X
+4670,Bulgaria,1995,male,15-24 years,87,627900,13.86,Bulgaria1995,0.696,"13,063,422,619",1636,Generation X
+4671,Bulgaria,1995,female,35-54 years,79,1162300,6.8,Bulgaria1995,0.696,"13,063,422,619",1636,Boomers
+4672,Bulgaria,1995,female,25-34 years,37,550300,6.72,Bulgaria1995,0.696,"13,063,422,619",1636,Generation X
+4673,Bulgaria,1995,female,15-24 years,24,601300,3.99,Bulgaria1995,0.696,"13,063,422,619",1636,Generation X
+4674,Bulgaria,1995,male,5-14 years,7,555500,1.26,Bulgaria1995,0.696,"13,063,422,619",1636,Millenials
+4675,Bulgaria,1995,female,5-14 years,6,527300,1.14,Bulgaria1995,0.696,"13,063,422,619",1636,Millenials
+4676,Bulgaria,1996,male,75+ years,191,166200,114.92,Bulgaria1996,,"10,109,612,142",1270,G.I. Generation
+4677,Bulgaria,1996,male,55-74 years,351,855500,41.03,Bulgaria1996,,"10,109,612,142",1270,Silent
+4678,Bulgaria,1996,female,75+ years,94,242600,38.75,Bulgaria1996,,"10,109,612,142",1270,G.I. Generation
+4679,Bulgaria,1996,male,35-54 years,376,1129300,33.29,Bulgaria1996,,"10,109,612,142",1270,Boomers
+4680,Bulgaria,1996,female,55-74 years,168,1002600,16.76,Bulgaria1996,,"10,109,612,142",1270,Silent
+4681,Bulgaria,1996,male,25-34 years,91,564800,16.11,Bulgaria1996,,"10,109,612,142",1270,Generation X
+4682,Bulgaria,1996,male,15-24 years,95,626300,15.17,Bulgaria1996,,"10,109,612,142",1270,Generation X
+4683,Bulgaria,1996,female,35-54 years,90,1165500,7.72,Bulgaria1996,,"10,109,612,142",1270,Boomers
+4684,Bulgaria,1996,female,25-34 years,31,551000,5.63,Bulgaria1996,,"10,109,612,142",1270,Generation X
+4685,Bulgaria,1996,female,15-24 years,25,599600,4.17,Bulgaria1996,,"10,109,612,142",1270,Generation X
+4686,Bulgaria,1996,female,5-14 years,7,516300,1.36,Bulgaria1996,,"10,109,612,142",1270,Millenials
+4687,Bulgaria,1996,male,5-14 years,7,543600,1.29,Bulgaria1996,,"10,109,612,142",1270,Millenials
+4688,Bulgaria,1997,male,75+ years,168,170100,98.77,Bulgaria1997,,"11,195,612,105",1411,G.I. Generation
+4689,Bulgaria,1997,male,55-74 years,348,844400,41.21,Bulgaria1997,,"11,195,612,105",1411,Silent
+4690,Bulgaria,1997,female,75+ years,95,251000,37.85,Bulgaria1997,,"11,195,612,105",1411,G.I. Generation
+4691,Bulgaria,1997,male,35-54 years,301,1130700,26.62,Bulgaria1997,,"11,195,612,105",1411,Boomers
+4692,Bulgaria,1997,female,55-74 years,198,994900,19.9,Bulgaria1997,,"11,195,612,105",1411,Silent
+4693,Bulgaria,1997,male,25-34 years,87,566600,15.35,Bulgaria1997,,"11,195,612,105",1411,Generation X
+4694,Bulgaria,1997,male,15-24 years,88,625200,14.08,Bulgaria1997,,"11,195,612,105",1411,Generation X
+4695,Bulgaria,1997,female,35-54 years,103,1168000,8.82,Bulgaria1997,,"11,195,612,105",1411,Boomers
+4696,Bulgaria,1997,female,25-34 years,31,550900,5.63,Bulgaria1997,,"11,195,612,105",1411,Generation X
+4697,Bulgaria,1997,female,15-24 years,29,598000,4.85,Bulgaria1997,,"11,195,612,105",1411,Generation X
+4698,Bulgaria,1997,male,5-14 years,10,530100,1.89,Bulgaria1997,,"11,195,612,105",1411,Millenials
+4699,Bulgaria,1997,female,5-14 years,7,504000,1.39,Bulgaria1997,,"11,195,612,105",1411,Millenials
+4700,Bulgaria,1998,male,75+ years,201,174000,115.52,Bulgaria1998,,"14,630,992,956",1852,G.I. Generation
+4701,Bulgaria,1998,female,75+ years,131,260000,50.38,Bulgaria1998,,"14,630,992,956",1852,G.I. Generation
+4702,Bulgaria,1998,male,55-74 years,359,833300,43.08,Bulgaria1998,,"14,630,992,956",1852,Silent
+4703,Bulgaria,1998,male,35-54 years,299,1130500,26.45,Bulgaria1998,,"14,630,992,956",1852,Boomers
+4704,Bulgaria,1998,male,25-34 years,95,568800,16.7,Bulgaria1998,,"14,630,992,956",1852,Generation X
+4705,Bulgaria,1998,female,55-74 years,156,986700,15.81,Bulgaria1998,,"14,630,992,956",1852,Silent
+4706,Bulgaria,1998,male,15-24 years,92,623300,14.76,Bulgaria1998,,"14,630,992,956",1852,Generation X
+4707,Bulgaria,1998,female,35-54 years,90,1168900,7.7,Bulgaria1998,,"14,630,992,956",1852,Boomers
+4708,Bulgaria,1998,female,25-34 years,33,552600,5.97,Bulgaria1998,,"14,630,992,956",1852,Generation X
+4709,Bulgaria,1998,female,15-24 years,35,594600,5.89,Bulgaria1998,,"14,630,992,956",1852,Generation X
+4710,Bulgaria,1998,male,5-14 years,9,516100,1.74,Bulgaria1998,,"14,630,992,956",1852,Millenials
+4711,Bulgaria,1998,female,5-14 years,3,490700,0.61,Bulgaria1998,,"14,630,992,956",1852,Millenials
+4712,Bulgaria,1999,male,75+ years,178,179600,99.11,Bulgaria1999,,"13,495,075,366",1715,G.I. Generation
+4713,Bulgaria,1999,male,55-74 years,318,822900,38.64,Bulgaria1999,,"13,495,075,366",1715,Silent
+4714,Bulgaria,1999,female,75+ years,76,270700,28.08,Bulgaria1999,,"13,495,075,366",1715,G.I. Generation
+4715,Bulgaria,1999,male,35-54 years,301,1130200,26.63,Bulgaria1999,,"13,495,075,366",1715,Boomers
+4716,Bulgaria,1999,male,25-34 years,87,576100,15.1,Bulgaria1999,,"13,495,075,366",1715,Generation X
+4717,Bulgaria,1999,female,55-74 years,134,978500,13.69,Bulgaria1999,,"13,495,075,366",1715,Silent
+4718,Bulgaria,1999,male,15-24 years,74,616600,12.0,Bulgaria1999,,"13,495,075,366",1715,Generation X
+4719,Bulgaria,1999,female,35-54 years,80,1168900,6.84,Bulgaria1999,,"13,495,075,366",1715,Boomers
+4720,Bulgaria,1999,female,25-34 years,29,560000,5.18,Bulgaria1999,,"13,495,075,366",1715,Generation X
+4721,Bulgaria,1999,female,15-24 years,20,586400,3.41,Bulgaria1999,,"13,495,075,366",1715,Generation X
+4722,Bulgaria,1999,male,5-14 years,7,500600,1.4,Bulgaria1999,,"13,495,075,366",1715,Millenials
+4723,Bulgaria,1999,female,5-14 years,3,476100,0.63,Bulgaria1999,,"13,495,075,366",1715,Millenials
+4724,Bulgaria,2000,male,75+ years,180,186383,96.58,Bulgaria2000,0.713,"13,153,016,531",1680,G.I. Generation
+4725,Bulgaria,2000,male,55-74 years,289,813692,35.52,Bulgaria2000,0.713,"13,153,016,531",1680,Silent
+4726,Bulgaria,2000,female,75+ years,100,282130,35.44,Bulgaria2000,0.713,"13,153,016,531",1680,G.I. Generation
+4727,Bulgaria,2000,male,35-54 years,371,1127394,32.91,Bulgaria2000,0.713,"13,153,016,531",1680,Boomers
+4728,Bulgaria,2000,male,25-34 years,102,587705,17.36,Bulgaria2000,0.713,"13,153,016,531",1680,Generation X
+4729,Bulgaria,2000,female,55-74 years,128,971686,13.17,Bulgaria2000,0.713,"13,153,016,531",1680,Silent
+4730,Bulgaria,2000,male,15-24 years,54,605944,8.91,Bulgaria2000,0.713,"13,153,016,531",1680,Generation X
+4731,Bulgaria,2000,female,35-54 years,97,1165489,8.32,Bulgaria2000,0.713,"13,153,016,531",1680,Boomers
+4732,Bulgaria,2000,female,25-34 years,37,570536,6.49,Bulgaria2000,0.713,"13,153,016,531",1680,Generation X
+4733,Bulgaria,2000,female,15-24 years,20,575493,3.48,Bulgaria2000,0.713,"13,153,016,531",1680,Generation X
+4734,Bulgaria,2000,male,5-14 years,5,482907,1.04,Bulgaria2000,0.713,"13,153,016,531",1680,Millenials
+4735,Bulgaria,2000,female,5-14 years,0,459736,0.0,Bulgaria2000,0.713,"13,153,016,531",1680,Millenials
+4736,Bulgaria,2001,male,75+ years,162,192843,84.01,Bulgaria2001,,"14,075,616,789",1854,Silent
+4737,Bulgaria,2001,male,55-74 years,321,805300,39.86,Bulgaria2001,,"14,075,616,789",1854,Silent
+4738,Bulgaria,2001,female,75+ years,101,298153,33.88,Bulgaria2001,,"14,075,616,789",1854,Silent
+4739,Bulgaria,2001,male,35-54 years,301,1099625,27.37,Bulgaria2001,,"14,075,616,789",1854,Boomers
+4740,Bulgaria,2001,male,25-34 years,100,569711,17.55,Bulgaria2001,,"14,075,616,789",1854,Generation X
+4741,Bulgaria,2001,female,55-74 years,118,963174,12.25,Bulgaria2001,,"14,075,616,789",1854,Silent
+4742,Bulgaria,2001,male,15-24 years,63,569649,11.06,Bulgaria2001,,"14,075,616,789",1854,Millenials
+4743,Bulgaria,2001,female,35-54 years,94,1123319,8.37,Bulgaria2001,,"14,075,616,789",1854,Boomers
+4744,Bulgaria,2001,female,15-24 years,25,539883,4.63,Bulgaria2001,,"14,075,616,789",1854,Millenials
+4745,Bulgaria,2001,female,25-34 years,21,549756,3.82,Bulgaria2001,,"14,075,616,789",1854,Generation X
+4746,Bulgaria,2001,female,5-14 years,4,429090,0.93,Bulgaria2001,,"14,075,616,789",1854,Millenials
+4747,Bulgaria,2001,male,5-14 years,4,451423,0.89,Bulgaria2001,,"14,075,616,789",1854,Millenials
+4748,Bulgaria,2002,male,75+ years,181,198560,91.16,Bulgaria2002,,"16,276,456,428",2157,Silent
+4749,Bulgaria,2002,male,55-74 years,328,804080,40.79,Bulgaria2002,,"16,276,456,428",2157,Silent
+4750,Bulgaria,2002,female,75+ years,95,308008,30.84,Bulgaria2002,,"16,276,456,428",2157,Silent
+4751,Bulgaria,2002,male,35-54 years,315,1087841,28.96,Bulgaria2002,,"16,276,456,428",2157,Boomers
+4752,Bulgaria,2002,male,25-34 years,100,579234,17.26,Bulgaria2002,,"16,276,456,428",2157,Generation X
+4753,Bulgaria,2002,female,55-74 years,117,964392,12.13,Bulgaria2002,,"16,276,456,428",2157,Silent
+4754,Bulgaria,2002,male,15-24 years,51,562398,9.07,Bulgaria2002,,"16,276,456,428",2157,Millenials
+4755,Bulgaria,2002,female,35-54 years,77,1110364,6.93,Bulgaria2002,,"16,276,456,428",2157,Boomers
+4756,Bulgaria,2002,female,15-24 years,23,533586,4.31,Bulgaria2002,,"16,276,456,428",2157,Millenials
+4757,Bulgaria,2002,female,25-34 years,21,557945,3.76,Bulgaria2002,,"16,276,456,428",2157,Generation X
+4758,Bulgaria,2002,male,5-14 years,6,429978,1.4,Bulgaria2002,,"16,276,456,428",2157,Millenials
+4759,Bulgaria,2002,female,5-14 years,3,408024,0.74,Bulgaria2002,,"16,276,456,428",2157,Millenials
+4760,Bulgaria,2003,male,75+ years,164,202364,81.04,Bulgaria2003,,"20,982,685,981",2800,Silent
+4761,Bulgaria,2003,male,55-74 years,251,803660,31.23,Bulgaria2003,,"20,982,685,981",2800,Silent
+4762,Bulgaria,2003,male,35-54 years,261,1080294,24.16,Bulgaria2003,,"20,982,685,981",2800,Boomers
+4763,Bulgaria,2003,female,75+ years,75,315963,23.74,Bulgaria2003,,"20,982,685,981",2800,Silent
+4764,Bulgaria,2003,male,25-34 years,69,583953,11.82,Bulgaria2003,,"20,982,685,981",2800,Generation X
+4765,Bulgaria,2003,female,55-74 years,108,966825,11.17,Bulgaria2003,,"20,982,685,981",2800,Silent
+4766,Bulgaria,2003,male,15-24 years,49,555686,8.82,Bulgaria2003,,"20,982,685,981",2800,Millenials
+4767,Bulgaria,2003,female,35-54 years,67,1101408,6.08,Bulgaria2003,,"20,982,685,981",2800,Boomers
+4768,Bulgaria,2003,female,25-34 years,23,561600,4.1,Bulgaria2003,,"20,982,685,981",2800,Generation X
+4769,Bulgaria,2003,female,15-24 years,13,527203,2.47,Bulgaria2003,,"20,982,685,981",2800,Millenials
+4770,Bulgaria,2003,female,5-14 years,6,386539,1.55,Bulgaria2003,,"20,982,685,981",2800,Millenials
+4771,Bulgaria,2003,male,5-14 years,6,407671,1.47,Bulgaria2003,,"20,982,685,981",2800,Millenials
+4772,Bulgaria,2004,male,75+ years,142,206158,68.88,Bulgaria2004,,"25,957,970,922",3485,Silent
+4773,Bulgaria,2004,male,55-74 years,247,805166,30.68,Bulgaria2004,,"25,957,970,922",3485,Silent
+4774,Bulgaria,2004,male,35-54 years,238,1075305,22.13,Bulgaria2004,,"25,957,970,922",3485,Boomers
+4775,Bulgaria,2004,female,75+ years,58,323883,17.91,Bulgaria2004,,"25,957,970,922",3485,Silent
+4776,Bulgaria,2004,male,25-34 years,74,584214,12.67,Bulgaria2004,,"25,957,970,922",3485,Generation X
+4777,Bulgaria,2004,female,55-74 years,105,971907,10.8,Bulgaria2004,,"25,957,970,922",3485,Silent
+4778,Bulgaria,2004,male,15-24 years,40,548773,7.29,Bulgaria2004,,"25,957,970,922",3485,Millenials
+4779,Bulgaria,2004,female,35-54 years,75,1094568,6.85,Bulgaria2004,,"25,957,970,922",3485,Boomers
+4780,Bulgaria,2004,female,25-34 years,14,560854,2.5,Bulgaria2004,,"25,957,970,922",3485,Generation X
+4781,Bulgaria,2004,female,15-24 years,12,520846,2.3,Bulgaria2004,,"25,957,970,922",3485,Millenials
+4782,Bulgaria,2004,male,5-14 years,5,387953,1.29,Bulgaria2004,,"25,957,970,922",3485,Millenials
+4783,Bulgaria,2004,female,5-14 years,3,367936,0.82,Bulgaria2004,,"25,957,970,922",3485,Millenials
+4784,Bulgaria,2005,male,75+ years,126,209811,60.05,Bulgaria2005,0.7490000000000001,"29,636,617,750",4003,Silent
+4785,Bulgaria,2005,male,55-74 years,269,807787,33.3,Bulgaria2005,0.7490000000000001,"29,636,617,750",4003,Silent
+4786,Bulgaria,2005,female,75+ years,71,331686,21.41,Bulgaria2005,0.7490000000000001,"29,636,617,750",4003,Silent
+4787,Bulgaria,2005,male,35-54 years,214,1068843,20.02,Bulgaria2005,0.7490000000000001,"29,636,617,750",4003,Boomers
+4788,Bulgaria,2005,male,25-34 years,76,583573,13.02,Bulgaria2005,0.7490000000000001,"29,636,617,750",4003,Generation X
+4789,Bulgaria,2005,female,55-74 years,84,978437,8.59,Bulgaria2005,0.7490000000000001,"29,636,617,750",4003,Silent
+4790,Bulgaria,2005,male,15-24 years,39,540814,7.21,Bulgaria2005,0.7490000000000001,"29,636,617,750",4003,Millenials
+4791,Bulgaria,2005,female,35-54 years,56,1085400,5.16,Bulgaria2005,0.7490000000000001,"29,636,617,750",4003,Boomers
+4792,Bulgaria,2005,female,15-24 years,20,513893,3.89,Bulgaria2005,0.7490000000000001,"29,636,617,750",4003,Millenials
+4793,Bulgaria,2005,female,25-34 years,21,559525,3.75,Bulgaria2005,0.7490000000000001,"29,636,617,750",4003,Generation X
+4794,Bulgaria,2005,female,5-14 years,3,352518,0.85,Bulgaria2005,0.7490000000000001,"29,636,617,750",4003,Millenials
+4795,Bulgaria,2005,male,5-14 years,3,371764,0.81,Bulgaria2005,0.7490000000000001,"29,636,617,750",4003,Millenials
+4796,Bulgaria,2006,male,75+ years,154,212480,72.48,Bulgaria2006,,"34,130,122,491",4638,Silent
+4797,Bulgaria,2006,male,55-74 years,274,807552,33.93,Bulgaria2006,,"34,130,122,491",4638,Silent
+4798,Bulgaria,2006,female,75+ years,71,338232,20.99,Bulgaria2006,,"34,130,122,491",4638,Silent
+4799,Bulgaria,2006,male,35-54 years,196,1063959,18.42,Bulgaria2006,,"34,130,122,491",4638,Boomers
+4800,Bulgaria,2006,male,25-34 years,79,582969,13.55,Bulgaria2006,,"34,130,122,491",4638,Generation X
+4801,Bulgaria,2006,male,15-24 years,45,531167,8.47,Bulgaria2006,,"34,130,122,491",4638,Millenials
+4802,Bulgaria,2006,female,55-74 years,73,981962,7.43,Bulgaria2006,,"34,130,122,491",4638,Silent
+4803,Bulgaria,2006,female,35-54 years,53,1077713,4.92,Bulgaria2006,,"34,130,122,491",4638,Boomers
+4804,Bulgaria,2006,female,25-34 years,17,558543,3.04,Bulgaria2006,,"34,130,122,491",4638,Generation X
+4805,Bulgaria,2006,female,15-24 years,11,504961,2.18,Bulgaria2006,,"34,130,122,491",4638,Millenials
+4806,Bulgaria,2006,male,5-14 years,4,358730,1.12,Bulgaria2006,,"34,130,122,491",4638,Millenials
+4807,Bulgaria,2006,female,5-14 years,0,340240,0.0,Bulgaria2006,,"34,130,122,491",4638,Millenials
+4808,Bulgaria,2007,male,75+ years,151,215225,70.16,Bulgaria2007,,"44,411,476,557",6073,Silent
+4809,Bulgaria,2007,male,55-74 years,238,804233,29.59,Bulgaria2007,,"44,411,476,557",6073,Silent
+4810,Bulgaria,2007,female,75+ years,70,344739,20.31,Bulgaria2007,,"44,411,476,557",6073,Silent
+4811,Bulgaria,2007,male,35-54 years,180,1061001,16.97,Bulgaria2007,,"44,411,476,557",6073,Boomers
+4812,Bulgaria,2007,male,25-34 years,55,583293,9.43,Bulgaria2007,,"44,411,476,557",6073,Generation X
+4813,Bulgaria,2007,female,55-74 years,82,981661,8.35,Bulgaria2007,,"44,411,476,557",6073,Silent
+4814,Bulgaria,2007,male,15-24 years,39,518624,7.52,Bulgaria2007,,"44,411,476,557",6073,Millenials
+4815,Bulgaria,2007,female,35-54 years,58,1072051,5.41,Bulgaria2007,,"44,411,476,557",6073,Boomers
+4816,Bulgaria,2007,female,25-34 years,15,558209,2.69,Bulgaria2007,,"44,411,476,557",6073,Generation X
+4817,Bulgaria,2007,female,15-24 years,9,493056,1.83,Bulgaria2007,,"44,411,476,557",6073,Millenials
+4818,Bulgaria,2007,female,5-14 years,5,331138,1.51,Bulgaria2007,,"44,411,476,557",6073,Generation Z
+4819,Bulgaria,2007,male,5-14 years,0,349244,0.0,Bulgaria2007,,"44,411,476,557",6073,Generation Z
+4820,Bulgaria,2008,male,75+ years,132,218689,60.36,Bulgaria2008,,"54,409,138,498",7487,Silent
+4821,Bulgaria,2008,male,55-74 years,248,801793,30.93,Bulgaria2008,,"54,409,138,498",7487,Silent
+4822,Bulgaria,2008,male,35-54 years,205,1058360,19.37,Bulgaria2008,,"54,409,138,498",7487,Boomers
+4823,Bulgaria,2008,female,75+ years,66,352453,18.73,Bulgaria2008,,"54,409,138,498",7487,Silent
+4824,Bulgaria,2008,female,55-74 years,106,980953,10.81,Bulgaria2008,,"54,409,138,498",7487,Silent
+4825,Bulgaria,2008,male,25-34 years,60,581969,10.31,Bulgaria2008,,"54,409,138,498",7487,Generation X
+4826,Bulgaria,2008,male,15-24 years,48,504391,9.52,Bulgaria2008,,"54,409,138,498",7487,Millenials
+4827,Bulgaria,2008,female,35-54 years,41,1066979,3.84,Bulgaria2008,,"54,409,138,498",7487,Boomers
+4828,Bulgaria,2008,female,25-34 years,21,555973,3.78,Bulgaria2008,,"54,409,138,498",7487,Generation X
+4829,Bulgaria,2008,female,15-24 years,10,479334,2.09,Bulgaria2008,,"54,409,138,498",7487,Millenials
+4830,Bulgaria,2008,female,5-14 years,1,324354,0.31,Bulgaria2008,,"54,409,138,498",7487,Generation Z
+4831,Bulgaria,2008,male,5-14 years,1,342263,0.29,Bulgaria2008,,"54,409,138,498",7487,Generation Z
+4832,Bulgaria,2009,male,75+ years,120,222390,53.96,Bulgaria2009,,"51,884,481,410",7186,Silent
+4833,Bulgaria,2009,male,55-74 years,241,799938,30.13,Bulgaria2009,,"51,884,481,410",7186,Silent
+4834,Bulgaria,2009,male,35-54 years,211,1058524,19.93,Bulgaria2009,,"51,884,481,410",7186,Boomers
+4835,Bulgaria,2009,female,75+ years,63,360613,17.47,Bulgaria2009,,"51,884,481,410",7186,Silent
+4836,Bulgaria,2009,male,25-34 years,60,575940,10.42,Bulgaria2009,,"51,884,481,410",7186,Generation X
+4837,Bulgaria,2009,female,55-74 years,72,979605,7.35,Bulgaria2009,,"51,884,481,410",7186,Silent
+4838,Bulgaria,2009,male,15-24 years,29,487528,5.95,Bulgaria2009,,"51,884,481,410",7186,Millenials
+4839,Bulgaria,2009,female,35-54 years,49,1064955,4.6,Bulgaria2009,,"51,884,481,410",7186,Boomers
+4840,Bulgaria,2009,female,25-34 years,13,548235,2.37,Bulgaria2009,,"51,884,481,410",7186,Generation X
+4841,Bulgaria,2009,female,15-24 years,9,463505,1.94,Bulgaria2009,,"51,884,481,410",7186,Millenials
+4842,Bulgaria,2009,male,5-14 years,1,338266,0.3,Bulgaria2009,,"51,884,481,410",7186,Generation Z
+4843,Bulgaria,2009,female,5-14 years,0,320318,0.0,Bulgaria2009,,"51,884,481,410",7186,Generation Z
+4844,Bulgaria,2010,male,75+ years,137,224566,61.01,Bulgaria2010,0.773,"50,610,058,210",7066,Silent
+4845,Bulgaria,2010,male,55-74 years,217,799085,27.16,Bulgaria2010,0.773,"50,610,058,210",7066,Silent
+4846,Bulgaria,2010,male,35-54 years,202,1058086,19.09,Bulgaria2010,0.773,"50,610,058,210",7066,Generation X
+4847,Bulgaria,2010,female,75+ years,60,366672,16.36,Bulgaria2010,0.773,"50,610,058,210",7066,Silent
+4848,Bulgaria,2010,male,25-34 years,57,566462,10.06,Bulgaria2010,0.773,"50,610,058,210",7066,Generation X
+4849,Bulgaria,2010,female,55-74 years,74,979427,7.56,Bulgaria2010,0.773,"50,610,058,210",7066,Silent
+4850,Bulgaria,2010,male,15-24 years,35,467481,7.49,Bulgaria2010,0.773,"50,610,058,210",7066,Millenials
+4851,Bulgaria,2010,female,35-54 years,57,1061049,5.37,Bulgaria2010,0.773,"50,610,058,210",7066,Generation X
+4852,Bulgaria,2010,female,25-34 years,11,537199,2.05,Bulgaria2010,0.773,"50,610,058,210",7066,Generation X
+4853,Bulgaria,2010,female,15-24 years,8,444943,1.8,Bulgaria2010,0.773,"50,610,058,210",7066,Millenials
+4854,Bulgaria,2010,male,5-14 years,1,338094,0.3,Bulgaria2010,0.773,"50,610,058,210",7066,Generation Z
+4855,Bulgaria,2010,female,5-14 years,0,319676,0.0,Bulgaria2010,0.773,"50,610,058,210",7066,Generation Z
+4856,Bulgaria,2011,male,75+ years,98,226843,43.2,Bulgaria2011,0.775,"57,418,414,504",8137,Silent
+4857,Bulgaria,2011,male,55-74 years,209,813732,25.68,Bulgaria2011,0.775,"57,418,414,504",8137,Boomers
+4858,Bulgaria,2011,male,35-54 years,201,1054285,19.07,Bulgaria2011,0.775,"57,418,414,504",8137,Generation X
+4859,Bulgaria,2011,female,75+ years,48,372993,12.87,Bulgaria2011,0.775,"57,418,414,504",8137,Silent
+4860,Bulgaria,2011,male,25-34 years,59,543115,10.86,Bulgaria2011,0.775,"57,418,414,504",8137,Millenials
+4861,Bulgaria,2011,male,15-24 years,36,442991,8.13,Bulgaria2011,0.775,"57,418,414,504",8137,Millenials
+4862,Bulgaria,2011,female,55-74 years,51,990352,5.15,Bulgaria2011,0.775,"57,418,414,504",8137,Boomers
+4863,Bulgaria,2011,female,35-54 years,41,1036483,3.96,Bulgaria2011,0.775,"57,418,414,504",8137,Generation X
+4864,Bulgaria,2011,female,15-24 years,11,419980,2.62,Bulgaria2011,0.775,"57,418,414,504",8137,Millenials
+4865,Bulgaria,2011,female,25-34 years,7,509076,1.38,Bulgaria2011,0.775,"57,418,414,504",8137,Millenials
+4866,Bulgaria,2011,male,5-14 years,2,332601,0.6,Bulgaria2011,0.775,"57,418,414,504",8137,Generation Z
+4867,Bulgaria,2011,female,5-14 years,0,314076,0.0,Bulgaria2011,0.775,"57,418,414,504",8137,Generation Z
+4868,Bulgaria,2012,male,75+ years,140,228793,61.19,Bulgaria2012,0.778,"53,903,022,339",7745,Silent
+4869,Bulgaria,2012,male,55-74 years,244,828882,29.44,Bulgaria2012,0.778,"53,903,022,339",7745,Boomers
+4870,Bulgaria,2012,male,35-54 years,181,1052298,17.2,Bulgaria2012,0.778,"53,903,022,339",7745,Generation X
+4871,Bulgaria,2012,female,75+ years,61,378562,16.11,Bulgaria2012,0.778,"53,903,022,339",7745,Silent
+4872,Bulgaria,2012,male,25-34 years,62,520738,11.91,Bulgaria2012,0.778,"53,903,022,339",7745,Millenials
+4873,Bulgaria,2012,male,15-24 years,45,418715,10.75,Bulgaria2012,0.778,"53,903,022,339",7745,Millenials
+4874,Bulgaria,2012,female,55-74 years,65,1000743,6.5,Bulgaria2012,0.778,"53,903,022,339",7745,Boomers
+4875,Bulgaria,2012,female,35-54 years,46,1014327,4.54,Bulgaria2012,0.778,"53,903,022,339",7745,Generation X
+4876,Bulgaria,2012,female,15-24 years,14,394971,3.54,Bulgaria2012,0.778,"53,903,022,339",7745,Millenials
+4877,Bulgaria,2012,female,25-34 years,13,482889,2.69,Bulgaria2012,0.778,"53,903,022,339",7745,Millenials
+4878,Bulgaria,2012,male,5-14 years,1,328547,0.3,Bulgaria2012,0.778,"53,903,022,339",7745,Generation Z
+4879,Bulgaria,2012,female,5-14 years,0,310187,0.0,Bulgaria2012,0.778,"53,903,022,339",7745,Generation Z
+4880,Bulgaria,2013,male,75+ years,113,228209,49.52,Bulgaria2013,0.779,"55,758,754,072",8057,Silent
+4881,Bulgaria,2013,male,55-74 years,207,831118,24.91,Bulgaria2013,0.779,"55,758,754,072",8057,Boomers
+4882,Bulgaria,2013,male,35-54 years,164,1052928,15.58,Bulgaria2013,0.779,"55,758,754,072",8057,Generation X
+4883,Bulgaria,2013,female,75+ years,47,380633,12.35,Bulgaria2013,0.779,"55,758,754,072",8057,Silent
+4884,Bulgaria,2013,male,25-34 years,56,514523,10.88,Bulgaria2013,0.779,"55,758,754,072",8057,Millenials
+4885,Bulgaria,2013,male,15-24 years,32,397784,8.04,Bulgaria2013,0.779,"55,758,754,072",8057,Millenials
+4886,Bulgaria,2013,female,55-74 years,41,1002925,4.09,Bulgaria2013,0.779,"55,758,754,072",8057,Boomers
+4887,Bulgaria,2013,female,35-54 years,41,1012070,4.05,Bulgaria2013,0.779,"55,758,754,072",8057,Generation X
+4888,Bulgaria,2013,female,25-34 years,12,477076,2.52,Bulgaria2013,0.779,"55,758,754,072",8057,Millenials
+4889,Bulgaria,2013,female,15-24 years,6,374785,1.6,Bulgaria2013,0.779,"55,758,754,072",8057,Millenials
+4890,Bulgaria,2013,female,5-14 years,1,315034,0.32,Bulgaria2013,0.779,"55,758,754,072",8057,Generation Z
+4891,Bulgaria,2013,male,5-14 years,1,333559,0.3,Bulgaria2013,0.779,"55,758,754,072",8057,Generation Z
+4892,Bulgaria,2014,male,75+ years,120,227129,52.83,Bulgaria2014,0.782,"56,731,990,232",8241,Silent
+4893,Bulgaria,2014,male,55-74 years,194,833666,23.27,Bulgaria2014,0.782,"56,731,990,232",8241,Boomers
+4894,Bulgaria,2014,female,75+ years,67,382347,17.52,Bulgaria2014,0.782,"56,731,990,232",8241,Silent
+4895,Bulgaria,2014,male,35-54 years,156,1052572,14.82,Bulgaria2014,0.782,"56,731,990,232",8241,Generation X
+4896,Bulgaria,2014,male,25-34 years,47,508827,9.24,Bulgaria2014,0.782,"56,731,990,232",8241,Millenials
+4897,Bulgaria,2014,male,15-24 years,33,378681,8.71,Bulgaria2014,0.782,"56,731,990,232",8241,Millenials
+4898,Bulgaria,2014,female,55-74 years,54,1005439,5.37,Bulgaria2014,0.782,"56,731,990,232",8241,Boomers
+4899,Bulgaria,2014,female,35-54 years,33,1009528,3.27,Bulgaria2014,0.782,"56,731,990,232",8241,Generation X
+4900,Bulgaria,2014,female,25-34 years,13,472176,2.75,Bulgaria2014,0.782,"56,731,990,232",8241,Millenials
+4901,Bulgaria,2014,female,15-24 years,5,356406,1.4,Bulgaria2014,0.782,"56,731,990,232",8241,Millenials
+4902,Bulgaria,2014,male,5-14 years,2,337969,0.59,Bulgaria2014,0.782,"56,731,990,232",8241,Generation Z
+4903,Bulgaria,2014,female,5-14 years,0,319134,0.0,Bulgaria2014,0.782,"56,731,990,232",8241,Generation Z

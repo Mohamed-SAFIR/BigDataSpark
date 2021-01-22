@@ -1,0 +1,11 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+16936,Mongolia,2016,male,25-34 years,127,290660,43.69,Mongolia2016,,"11,183,458,131",4145,Millenials
+16937,Mongolia,2016,male,35-54 years,127,375631,33.81,Mongolia2016,,"11,183,458,131",4145,Generation X
+16938,Mongolia,2016,male,15-24 years,85,252851,33.62,Mongolia2016,,"11,183,458,131",4145,Millenials
+16939,Mongolia,2016,male,55-74 years,29,113527,25.54,Mongolia2016,,"11,183,458,131",4145,Boomers
+16940,Mongolia,2016,male,75+ years,3,15349,19.55,Mongolia2016,,"11,183,458,131",4145,Silent
+16941,Mongolia,2016,female,75+ years,3,26305,11.4,Mongolia2016,,"11,183,458,131",4145,Silent
+16942,Mongolia,2016,female,15-24 years,18,246805,7.29,Mongolia2016,,"11,183,458,131",4145,Millenials
+16943,Mongolia,2016,female,25-34 years,15,292237,5.13,Mongolia2016,,"11,183,458,131",4145,Millenials
+16944,Mongolia,2016,female,35-54 years,15,406028,3.69,Mongolia2016,,"11,183,458,131",4145,Generation X
+16945,Mongolia,2016,female,55-74 years,1,148196,0.67,Mongolia2016,,"11,183,458,131",4145,Boomers

@@ -1,0 +1,337 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+21296,Saint Lucia,1986,male,35-54 years,3,8300,36.14,Saint Lucia1986,,"289,689,704",2634,Silent
+21297,Saint Lucia,1986,male,25-34 years,2,8400,23.81,Saint Lucia1986,,"289,689,704",2634,Boomers
+21298,Saint Lucia,1986,female,15-24 years,0,14800,0.0,Saint Lucia1986,,"289,689,704",2634,Generation X
+21299,Saint Lucia,1986,female,25-34 years,0,9700,0.0,Saint Lucia1986,,"289,689,704",2634,Boomers
+21300,Saint Lucia,1986,female,35-54 years,0,9800,0.0,Saint Lucia1986,,"289,689,704",2634,Silent
+21301,Saint Lucia,1986,female,5-14 years,0,15200,0.0,Saint Lucia1986,,"289,689,704",2634,Generation X
+21302,Saint Lucia,1986,female,55-74 years,0,6300,0.0,Saint Lucia1986,,"289,689,704",2634,G.I. Generation
+21303,Saint Lucia,1986,female,75+ years,0,1600,0.0,Saint Lucia1986,,"289,689,704",2634,G.I. Generation
+21304,Saint Lucia,1986,male,15-24 years,0,14600,0.0,Saint Lucia1986,,"289,689,704",2634,Generation X
+21305,Saint Lucia,1986,male,5-14 years,0,15400,0.0,Saint Lucia1986,,"289,689,704",2634,Generation X
+21306,Saint Lucia,1986,male,55-74 years,0,4900,0.0,Saint Lucia1986,,"289,689,704",2634,G.I. Generation
+21307,Saint Lucia,1986,male,75+ years,0,1000,0.0,Saint Lucia1986,,"289,689,704",2634,G.I. Generation
+21308,Saint Lucia,1987,male,55-74 years,3,4900,61.22,Saint Lucia1987,,"319,998,987",2875,G.I. Generation
+21309,Saint Lucia,1987,male,25-34 years,3,8900,33.71,Saint Lucia1987,,"319,998,987",2875,Boomers
+21310,Saint Lucia,1987,male,35-54 years,2,8700,22.99,Saint Lucia1987,,"319,998,987",2875,Silent
+21311,Saint Lucia,1987,male,15-24 years,2,14600,13.7,Saint Lucia1987,,"319,998,987",2875,Generation X
+21312,Saint Lucia,1987,female,25-34 years,1,10200,9.8,Saint Lucia1987,,"319,998,987",2875,Boomers
+21313,Saint Lucia,1987,female,15-24 years,0,14800,0.0,Saint Lucia1987,,"319,998,987",2875,Generation X
+21314,Saint Lucia,1987,female,35-54 years,0,10000,0.0,Saint Lucia1987,,"319,998,987",2875,Silent
+21315,Saint Lucia,1987,female,5-14 years,0,15000,0.0,Saint Lucia1987,,"319,998,987",2875,Generation X
+21316,Saint Lucia,1987,female,55-74 years,0,6300,0.0,Saint Lucia1987,,"319,998,987",2875,G.I. Generation
+21317,Saint Lucia,1987,female,75+ years,0,1600,0.0,Saint Lucia1987,,"319,998,987",2875,G.I. Generation
+21318,Saint Lucia,1987,male,5-14 years,0,15300,0.0,Saint Lucia1987,,"319,998,987",2875,Generation X
+21319,Saint Lucia,1987,male,75+ years,0,1000,0.0,Saint Lucia1987,,"319,998,987",2875,G.I. Generation
+21320,Saint Lucia,1988,female,75+ years,1,1600,62.5,Saint Lucia1988,,"366,541,091",3244,G.I. Generation
+21321,Saint Lucia,1988,male,55-74 years,2,4900,40.82,Saint Lucia1988,,"366,541,091",3244,G.I. Generation
+21322,Saint Lucia,1988,female,55-74 years,2,6300,31.75,Saint Lucia1988,,"366,541,091",3244,G.I. Generation
+21323,Saint Lucia,1988,male,35-54 years,2,8800,22.73,Saint Lucia1988,,"366,541,091",3244,Silent
+21324,Saint Lucia,1988,male,25-34 years,1,9000,11.11,Saint Lucia1988,,"366,541,091",3244,Boomers
+21325,Saint Lucia,1988,male,15-24 years,1,14800,6.76,Saint Lucia1988,,"366,541,091",3244,Generation X
+21326,Saint Lucia,1988,female,5-14 years,1,15300,6.54,Saint Lucia1988,,"366,541,091",3244,Generation X
+21327,Saint Lucia,1988,female,15-24 years,0,15000,0.0,Saint Lucia1988,,"366,541,091",3244,Generation X
+21328,Saint Lucia,1988,female,25-34 years,0,10400,0.0,Saint Lucia1988,,"366,541,091",3244,Boomers
+21329,Saint Lucia,1988,female,35-54 years,0,10200,0.0,Saint Lucia1988,,"366,541,091",3244,Silent
+21330,Saint Lucia,1988,male,5-14 years,0,15700,0.0,Saint Lucia1988,,"366,541,091",3244,Generation X
+21331,Saint Lucia,1988,male,75+ years,0,1000,0.0,Saint Lucia1988,,"366,541,091",3244,G.I. Generation
+21332,Saint Lucia,1989,male,55-74 years,2,6532,30.62,Saint Lucia1989,,"415,518,112",3505,G.I. Generation
+21333,Saint Lucia,1989,female,55-74 years,1,7188,13.91,Saint Lucia1989,,"415,518,112",3505,G.I. Generation
+21334,Saint Lucia,1989,male,25-34 years,1,9610,10.41,Saint Lucia1989,,"415,518,112",3505,Boomers
+21335,Saint Lucia,1989,female,25-34 years,1,10069,9.93,Saint Lucia1989,,"415,518,112",3505,Boomers
+21336,Saint Lucia,1989,male,35-54 years,1,10292,9.72,Saint Lucia1989,,"415,518,112",3505,Silent
+21337,Saint Lucia,1989,male,15-24 years,1,13777,7.26,Saint Lucia1989,,"415,518,112",3505,Generation X
+21338,Saint Lucia,1989,female,15-24 years,1,14172,7.06,Saint Lucia1989,,"415,518,112",3505,Generation X
+21339,Saint Lucia,1989,female,35-54 years,0,10657,0.0,Saint Lucia1989,,"415,518,112",3505,Silent
+21340,Saint Lucia,1989,female,5-14 years,0,16416,0.0,Saint Lucia1989,,"415,518,112",3505,Generation X
+21341,Saint Lucia,1989,female,75+ years,0,1924,0.0,Saint Lucia1989,,"415,518,112",3505,G.I. Generation
+21342,Saint Lucia,1989,male,5-14 years,0,16552,0.0,Saint Lucia1989,,"415,518,112",3505,Generation X
+21343,Saint Lucia,1989,male,75+ years,0,1377,0.0,Saint Lucia1989,,"415,518,112",3505,G.I. Generation
+21344,Saint Lucia,1990,male,25-34 years,1,9974,10.03,Saint Lucia1990,,"483,962,431",4015,Boomers
+21345,Saint Lucia,1990,female,25-34 years,1,10489,9.53,Saint Lucia1990,,"483,962,431",4015,Boomers
+21346,Saint Lucia,1990,male,15-24 years,1,13592,7.36,Saint Lucia1990,,"483,962,431",4015,Generation X
+21347,Saint Lucia,1990,female,15-24 years,0,14116,0.0,Saint Lucia1990,,"483,962,431",4015,Generation X
+21348,Saint Lucia,1990,female,35-54 years,0,10814,0.0,Saint Lucia1990,,"483,962,431",4015,Silent
+21349,Saint Lucia,1990,female,5-14 years,0,16405,0.0,Saint Lucia1990,,"483,962,431",4015,Generation X
+21350,Saint Lucia,1990,female,55-74 years,0,7433,0.0,Saint Lucia1990,,"483,962,431",4015,G.I. Generation
+21351,Saint Lucia,1990,female,75+ years,0,2160,0.0,Saint Lucia1990,,"483,962,431",4015,G.I. Generation
+21352,Saint Lucia,1990,male,35-54 years,0,10663,0.0,Saint Lucia1990,,"483,962,431",4015,Silent
+21353,Saint Lucia,1990,male,5-14 years,0,16448,0.0,Saint Lucia1990,,"483,962,431",4015,Generation X
+21354,Saint Lucia,1990,male,55-74 years,0,6879,0.0,Saint Lucia1990,,"483,962,431",4015,G.I. Generation
+21355,Saint Lucia,1990,male,75+ years,0,1564,0.0,Saint Lucia1990,,"483,962,431",4015,G.I. Generation
+21356,Saint Lucia,1991,male,75+ years,1,1687,59.28,Saint Lucia1991,,"513,753,818",4194,G.I. Generation
+21357,Saint Lucia,1991,male,25-34 years,2,10359,19.31,Saint Lucia1991,,"513,753,818",4194,Boomers
+21358,Saint Lucia,1991,male,35-54 years,2,11009,18.17,Saint Lucia1991,,"513,753,818",4194,Boomers
+21359,Saint Lucia,1991,male,15-24 years,1,13648,7.33,Saint Lucia1991,,"513,753,818",4194,Generation X
+21360,Saint Lucia,1991,female,15-24 years,0,14156,0.0,Saint Lucia1991,,"513,753,818",4194,Generation X
+21361,Saint Lucia,1991,female,25-34 years,0,10923,0.0,Saint Lucia1991,,"513,753,818",4194,Boomers
+21362,Saint Lucia,1991,female,35-54 years,0,11148,0.0,Saint Lucia1991,,"513,753,818",4194,Boomers
+21363,Saint Lucia,1991,female,5-14 years,0,16468,0.0,Saint Lucia1991,,"513,753,818",4194,Millenials
+21364,Saint Lucia,1991,female,55-74 years,0,7433,0.0,Saint Lucia1991,,"513,753,818",4194,Silent
+21365,Saint Lucia,1991,female,75+ years,0,2309,0.0,Saint Lucia1991,,"513,753,818",4194,G.I. Generation
+21366,Saint Lucia,1991,male,5-14 years,0,16437,0.0,Saint Lucia1991,,"513,753,818",4194,Millenials
+21367,Saint Lucia,1991,male,55-74 years,0,6919,0.0,Saint Lucia1991,,"513,753,818",4194,Silent
+21368,Saint Lucia,1992,male,35-54 years,7,11354,61.65,Saint Lucia1992,,"566,894,749",4564,Boomers
+21369,Saint Lucia,1992,male,15-24 years,3,13607,22.05,Saint Lucia1992,,"566,894,749",4564,Generation X
+21370,Saint Lucia,1992,male,55-74 years,1,6939,14.41,Saint Lucia1992,,"566,894,749",4564,Silent
+21371,Saint Lucia,1992,female,15-24 years,0,14112,0.0,Saint Lucia1992,,"566,894,749",4564,Generation X
+21372,Saint Lucia,1992,female,25-34 years,0,11288,0.0,Saint Lucia1992,,"566,894,749",4564,Boomers
+21373,Saint Lucia,1992,female,35-54 years,0,11519,0.0,Saint Lucia1992,,"566,894,749",4564,Boomers
+21374,Saint Lucia,1992,female,5-14 years,0,16583,0.0,Saint Lucia1992,,"566,894,749",4564,Millenials
+21375,Saint Lucia,1992,female,55-74 years,0,7421,0.0,Saint Lucia1992,,"566,894,749",4564,Silent
+21376,Saint Lucia,1992,female,75+ years,0,2460,0.0,Saint Lucia1992,,"566,894,749",4564,G.I. Generation
+21377,Saint Lucia,1992,male,25-34 years,0,10682,0.0,Saint Lucia1992,,"566,894,749",4564,Boomers
+21378,Saint Lucia,1992,male,5-14 years,0,16444,0.0,Saint Lucia1992,,"566,894,749",4564,Millenials
+21379,Saint Lucia,1992,male,75+ years,0,1814,0.0,Saint Lucia1992,,"566,894,749",4564,G.I. Generation
+21380,Saint Lucia,1993,male,35-54 years,5,11725,42.64,Saint Lucia1993,,"574,870,405",4568,Boomers
+21381,Saint Lucia,1993,male,25-34 years,2,10951,18.26,Saint Lucia1993,,"574,870,405",4568,Boomers
+21382,Saint Lucia,1993,male,55-74 years,1,6955,14.38,Saint Lucia1993,,"574,870,405",4568,Silent
+21383,Saint Lucia,1993,female,15-24 years,0,14011,0.0,Saint Lucia1993,,"574,870,405",4568,Generation X
+21384,Saint Lucia,1993,female,25-34 years,0,11591,0.0,Saint Lucia1993,,"574,870,405",4568,Boomers
+21385,Saint Lucia,1993,female,35-54 years,0,11946,0.0,Saint Lucia1993,,"574,870,405",4568,Boomers
+21386,Saint Lucia,1993,female,5-14 years,0,16743,0.0,Saint Lucia1993,,"574,870,405",4568,Millenials
+21387,Saint Lucia,1993,female,55-74 years,0,7403,0.0,Saint Lucia1993,,"574,870,405",4568,Silent
+21388,Saint Lucia,1993,female,75+ years,0,2603,0.0,Saint Lucia1993,,"574,870,405",4568,G.I. Generation
+21389,Saint Lucia,1993,male,15-24 years,0,13501,0.0,Saint Lucia1993,,"574,870,405",4568,Generation X
+21390,Saint Lucia,1993,male,5-14 years,0,16487,0.0,Saint Lucia1993,,"574,870,405",4568,Millenials
+21391,Saint Lucia,1993,male,75+ years,0,1930,0.0,Saint Lucia1993,,"574,870,405",4568,G.I. Generation
+21392,Saint Lucia,1994,male,35-54 years,2,12160,16.45,Saint Lucia1994,,"600,005,564",4704,Boomers
+21393,Saint Lucia,1994,male,15-24 years,2,13371,14.96,Saint Lucia1994,,"600,005,564",4704,Generation X
+21394,Saint Lucia,1994,female,15-24 years,2,13897,14.39,Saint Lucia1994,,"600,005,564",4704,Generation X
+21395,Saint Lucia,1994,female,25-34 years,0,11849,0.0,Saint Lucia1994,,"600,005,564",4704,Boomers
+21396,Saint Lucia,1994,female,35-54 years,0,12434,0.0,Saint Lucia1994,,"600,005,564",4704,Boomers
+21397,Saint Lucia,1994,female,5-14 years,0,16932,0.0,Saint Lucia1994,,"600,005,564",4704,Millenials
+21398,Saint Lucia,1994,female,55-74 years,0,7403,0.0,Saint Lucia1994,,"600,005,564",4704,Silent
+21399,Saint Lucia,1994,female,75+ years,0,2738,0.0,Saint Lucia1994,,"600,005,564",4704,G.I. Generation
+21400,Saint Lucia,1994,male,25-34 years,0,11172,0.0,Saint Lucia1994,,"600,005,564",4704,Boomers
+21401,Saint Lucia,1994,male,5-14 years,0,16577,0.0,Saint Lucia1994,,"600,005,564",4704,Millenials
+21402,Saint Lucia,1994,male,55-74 years,0,6985,0.0,Saint Lucia1994,,"600,005,564",4704,Silent
+21403,Saint Lucia,1994,male,75+ years,0,2039,0.0,Saint Lucia1994,,"600,005,564",4704,G.I. Generation
+21404,Saint Lucia,1995,male,25-34 years,4,11345,35.26,Saint Lucia1995,,"640,449,501",4947,Generation X
+21405,Saint Lucia,1995,male,35-54 years,3,12673,23.67,Saint Lucia1995,,"640,449,501",4947,Boomers
+21406,Saint Lucia,1995,male,15-24 years,2,13265,15.08,Saint Lucia1995,,"640,449,501",4947,Generation X
+21407,Saint Lucia,1995,female,35-54 years,1,12984,7.7,Saint Lucia1995,,"640,449,501",4947,Boomers
+21408,Saint Lucia,1995,female,15-24 years,0,13807,0.0,Saint Lucia1995,,"640,449,501",4947,Generation X
+21409,Saint Lucia,1995,female,25-34 years,0,12065,0.0,Saint Lucia1995,,"640,449,501",4947,Generation X
+21410,Saint Lucia,1995,female,5-14 years,0,17137,0.0,Saint Lucia1995,,"640,449,501",4947,Millenials
+21411,Saint Lucia,1995,female,55-74 years,0,7428,0.0,Saint Lucia1995,,"640,449,501",4947,Silent
+21412,Saint Lucia,1995,female,75+ years,0,2867,0.0,Saint Lucia1995,,"640,449,501",4947,G.I. Generation
+21413,Saint Lucia,1995,male,5-14 years,0,16723,0.0,Saint Lucia1995,,"640,449,501",4947,Millenials
+21414,Saint Lucia,1995,male,55-74 years,0,7035,0.0,Saint Lucia1995,,"640,449,501",4947,Silent
+21415,Saint Lucia,1995,male,75+ years,0,2137,0.0,Saint Lucia1995,,"640,449,501",4947,G.I. Generation
+21416,Saint Lucia,1996,male,25-34 years,2,11467,17.44,Saint Lucia1996,,"662,196,185",5031,Generation X
+21417,Saint Lucia,1996,male,35-54 years,2,13179,15.18,Saint Lucia1996,,"662,196,185",5031,Boomers
+21418,Saint Lucia,1996,male,15-24 years,2,13444,14.88,Saint Lucia1996,,"662,196,185",5031,Generation X
+21419,Saint Lucia,1996,female,55-74 years,1,7391,13.53,Saint Lucia1996,,"662,196,185",5031,Silent
+21420,Saint Lucia,1996,female,15-24 years,0,13973,0.0,Saint Lucia1996,,"662,196,185",5031,Generation X
+21421,Saint Lucia,1996,female,25-34 years,0,12240,0.0,Saint Lucia1996,,"662,196,185",5031,Generation X
+21422,Saint Lucia,1996,female,35-54 years,0,13551,0.0,Saint Lucia1996,,"662,196,185",5031,Boomers
+21423,Saint Lucia,1996,female,5-14 years,0,17327,0.0,Saint Lucia1996,,"662,196,185",5031,Millenials
+21424,Saint Lucia,1996,female,75+ years,0,2971,0.0,Saint Lucia1996,,"662,196,185",5031,G.I. Generation
+21425,Saint Lucia,1996,male,5-14 years,0,16888,0.0,Saint Lucia1996,,"662,196,185",5031,Millenials
+21426,Saint Lucia,1996,male,55-74 years,0,6966,0.0,Saint Lucia1996,,"662,196,185",5031,Silent
+21427,Saint Lucia,1996,male,75+ years,0,2224,0.0,Saint Lucia1996,,"662,196,185",5031,G.I. Generation
+21428,Saint Lucia,1997,male,75+ years,1,2293,43.61,Saint Lucia1997,,"676,949,594",5053,G.I. Generation
+21429,Saint Lucia,1997,male,55-74 years,2,6918,28.91,Saint Lucia1997,,"676,949,594",5053,Silent
+21430,Saint Lucia,1997,male,35-54 years,3,13783,21.77,Saint Lucia1997,,"676,949,594",5053,Boomers
+21431,Saint Lucia,1997,male,15-24 years,2,13692,14.61,Saint Lucia1997,,"676,949,594",5053,Generation X
+21432,Saint Lucia,1997,male,25-34 years,1,11568,8.64,Saint Lucia1997,,"676,949,594",5053,Generation X
+21433,Saint Lucia,1997,female,15-24 years,0,14193,0.0,Saint Lucia1997,,"676,949,594",5053,Generation X
+21434,Saint Lucia,1997,female,25-34 years,0,12385,0.0,Saint Lucia1997,,"676,949,594",5053,Generation X
+21435,Saint Lucia,1997,female,35-54 years,0,14183,0.0,Saint Lucia1997,,"676,949,594",5053,Boomers
+21436,Saint Lucia,1997,female,5-14 years,0,17456,0.0,Saint Lucia1997,,"676,949,594",5053,Millenials
+21437,Saint Lucia,1997,female,55-74 years,0,7376,0.0,Saint Lucia1997,,"676,949,594",5053,Silent
+21438,Saint Lucia,1997,female,75+ years,0,3067,0.0,Saint Lucia1997,,"676,949,594",5053,G.I. Generation
+21439,Saint Lucia,1997,male,5-14 years,0,17053,0.0,Saint Lucia1997,,"676,949,594",5053,Millenials
+21440,Saint Lucia,1998,male,75+ years,1,2345,42.64,Saint Lucia1998,,"737,554,872",5407,G.I. Generation
+21441,Saint Lucia,1998,female,75+ years,1,3134,31.91,Saint Lucia1998,,"737,554,872",5407,G.I. Generation
+21442,Saint Lucia,1998,male,25-34 years,2,11650,17.17,Saint Lucia1998,,"737,554,872",5407,Generation X
+21443,Saint Lucia,1998,male,35-54 years,2,14443,13.85,Saint Lucia1998,,"737,554,872",5407,Boomers
+21444,Saint Lucia,1998,female,35-54 years,2,14857,13.46,Saint Lucia1998,,"737,554,872",5407,Boomers
+21445,Saint Lucia,1998,female,15-24 years,0,14463,0.0,Saint Lucia1998,,"737,554,872",5407,Generation X
+21446,Saint Lucia,1998,female,25-34 years,0,12506,0.0,Saint Lucia1998,,"737,554,872",5407,Generation X
+21447,Saint Lucia,1998,female,5-14 years,0,17514,0.0,Saint Lucia1998,,"737,554,872",5407,Millenials
+21448,Saint Lucia,1998,female,55-74 years,0,7399,0.0,Saint Lucia1998,,"737,554,872",5407,Silent
+21449,Saint Lucia,1998,male,15-24 years,0,13997,0.0,Saint Lucia1998,,"737,554,872",5407,Generation X
+21450,Saint Lucia,1998,male,5-14 years,0,17192,0.0,Saint Lucia1998,,"737,554,872",5407,Millenials
+21451,Saint Lucia,1998,male,55-74 years,0,6900,0.0,Saint Lucia1998,,"737,554,872",5407,Silent
+21452,Saint Lucia,1999,male,55-74 years,2,6904,28.97,Saint Lucia1999,,"775,934,813",5590,Silent
+21453,Saint Lucia,1999,male,25-34 years,3,11720,25.6,Saint Lucia1999,,"775,934,813",5590,Generation X
+21454,Saint Lucia,1999,male,15-24 years,1,14330,6.98,Saint Lucia1999,,"775,934,813",5590,Generation X
+21455,Saint Lucia,1999,female,15-24 years,1,14777,6.77,Saint Lucia1999,,"775,934,813",5590,Generation X
+21456,Saint Lucia,1999,male,35-54 years,1,15112,6.62,Saint Lucia1999,,"775,934,813",5590,Boomers
+21457,Saint Lucia,1999,female,25-34 years,0,12606,0.0,Saint Lucia1999,,"775,934,813",5590,Generation X
+21458,Saint Lucia,1999,female,35-54 years,0,15542,0.0,Saint Lucia1999,,"775,934,813",5590,Boomers
+21459,Saint Lucia,1999,female,5-14 years,0,17512,0.0,Saint Lucia1999,,"775,934,813",5590,Millenials
+21460,Saint Lucia,1999,female,55-74 years,0,7454,0.0,Saint Lucia1999,,"775,934,813",5590,Silent
+21461,Saint Lucia,1999,female,75+ years,0,3184,0.0,Saint Lucia1999,,"775,934,813",5590,G.I. Generation
+21462,Saint Lucia,1999,male,5-14 years,0,17291,0.0,Saint Lucia1999,,"775,934,813",5590,Millenials
+21463,Saint Lucia,1999,male,75+ years,0,2381,0.0,Saint Lucia1999,,"775,934,813",5590,G.I. Generation
+21464,Saint Lucia,2000,male,75+ years,2,2398,83.4,Saint Lucia2000,0.6829999999999999,"784,159,229",5557,G.I. Generation
+21465,Saint Lucia,2000,male,55-74 years,3,6940,43.23,Saint Lucia2000,0.6829999999999999,"784,159,229",5557,Silent
+21466,Saint Lucia,2000,male,25-34 years,3,11783,25.46,Saint Lucia2000,0.6829999999999999,"784,159,229",5557,Generation X
+21467,Saint Lucia,2000,female,55-74 years,1,7546,13.25,Saint Lucia2000,0.6829999999999999,"784,159,229",5557,Silent
+21468,Saint Lucia,2000,male,35-54 years,2,15752,12.7,Saint Lucia2000,0.6829999999999999,"784,159,229",5557,Boomers
+21469,Saint Lucia,2000,female,25-34 years,1,12690,7.88,Saint Lucia2000,0.6829999999999999,"784,159,229",5557,Generation X
+21470,Saint Lucia,2000,female,35-54 years,1,16209,6.17,Saint Lucia2000,0.6829999999999999,"784,159,229",5557,Boomers
+21471,Saint Lucia,2000,male,5-14 years,1,17324,5.77,Saint Lucia2000,0.6829999999999999,"784,159,229",5557,Millenials
+21472,Saint Lucia,2000,female,15-24 years,0,15127,0.0,Saint Lucia2000,0.6829999999999999,"784,159,229",5557,Generation X
+21473,Saint Lucia,2000,female,5-14 years,0,17444,0.0,Saint Lucia2000,0.6829999999999999,"784,159,229",5557,Millenials
+21474,Saint Lucia,2000,female,75+ years,0,3209,0.0,Saint Lucia2000,0.6829999999999999,"784,159,229",5557,G.I. Generation
+21475,Saint Lucia,2000,male,15-24 years,0,14678,0.0,Saint Lucia2000,0.6829999999999999,"784,159,229",5557,Generation X
+21476,Saint Lucia,2001,male,25-34 years,3,11897,25.22,Saint Lucia2001,,"743,808,076",5195,Generation X
+21477,Saint Lucia,2001,male,55-74 years,1,6930,14.43,Saint Lucia2001,,"743,808,076",5195,Silent
+21478,Saint Lucia,2001,male,15-24 years,2,15031,13.31,Saint Lucia2001,,"743,808,076",5195,Millenials
+21479,Saint Lucia,2001,male,35-54 years,1,16328,6.12,Saint Lucia2001,,"743,808,076",5195,Boomers
+21480,Saint Lucia,2001,female,15-24 years,0,15489,0.0,Saint Lucia2001,,"743,808,076",5195,Millenials
+21481,Saint Lucia,2001,female,25-34 years,0,12789,0.0,Saint Lucia2001,,"743,808,076",5195,Generation X
+21482,Saint Lucia,2001,female,35-54 years,0,16825,0.0,Saint Lucia2001,,"743,808,076",5195,Boomers
+21483,Saint Lucia,2001,female,5-14 years,0,17304,0.0,Saint Lucia2001,,"743,808,076",5195,Millenials
+21484,Saint Lucia,2001,female,55-74 years,0,7625,0.0,Saint Lucia2001,,"743,808,076",5195,Silent
+21485,Saint Lucia,2001,female,75+ years,0,3227,0.0,Saint Lucia2001,,"743,808,076",5195,Silent
+21486,Saint Lucia,2001,male,5-14 years,0,17284,0.0,Saint Lucia2001,,"743,808,076",5195,Millenials
+21487,Saint Lucia,2001,male,75+ years,0,2437,0.0,Saint Lucia2001,,"743,808,076",5195,Silent
+21488,Saint Lucia,2002,male,75+ years,2,2451,81.6,Saint Lucia2002,,"748,346,606",5155,Silent
+21489,Saint Lucia,2002,female,75+ years,1,3217,31.08,Saint Lucia2002,,"748,346,606",5155,Silent
+21490,Saint Lucia,2002,male,25-34 years,2,12017,16.64,Saint Lucia2002,,"748,346,606",5155,Generation X
+21491,Saint Lucia,2002,male,55-74 years,1,6972,14.34,Saint Lucia2002,,"748,346,606",5155,Silent
+21492,Saint Lucia,2002,male,15-24 years,2,15388,13.0,Saint Lucia2002,,"748,346,606",5155,Millenials
+21493,Saint Lucia,2002,female,55-74 years,1,7756,12.89,Saint Lucia2002,,"748,346,606",5155,Silent
+21494,Saint Lucia,2002,female,15-24 years,1,15885,6.3,Saint Lucia2002,,"748,346,606",5155,Millenials
+21495,Saint Lucia,2002,male,35-54 years,1,16874,5.93,Saint Lucia2002,,"748,346,606",5155,Boomers
+21496,Saint Lucia,2002,female,35-54 years,1,17427,5.74,Saint Lucia2002,,"748,346,606",5155,Boomers
+21497,Saint Lucia,2002,female,25-34 years,0,12889,0.0,Saint Lucia2002,,"748,346,606",5155,Generation X
+21498,Saint Lucia,2002,female,5-14 years,0,17117,0.0,Saint Lucia2002,,"748,346,606",5155,Millenials
+21499,Saint Lucia,2002,male,5-14 years,0,17175,0.0,Saint Lucia2002,,"748,346,606",5155,Millenials
+21500,Saint Lucia,2003,male,75+ years,1,2427,41.2,Saint Lucia2003,,"823,837,141",5599,Silent
+21501,Saint Lucia,2003,female,75+ years,1,3171,31.54,Saint Lucia2003,,"823,837,141",5599,Silent
+21502,Saint Lucia,2003,male,25-34 years,2,12157,16.45,Saint Lucia2003,,"823,837,141",5599,Generation X
+21503,Saint Lucia,2003,male,55-74 years,1,7068,14.15,Saint Lucia2003,,"823,837,141",5599,Silent
+21504,Saint Lucia,2003,female,15-24 years,2,16282,12.28,Saint Lucia2003,,"823,837,141",5599,Millenials
+21505,Saint Lucia,2003,male,15-24 years,1,15746,6.35,Saint Lucia2003,,"823,837,141",5599,Millenials
+21506,Saint Lucia,2003,male,35-54 years,1,17412,5.74,Saint Lucia2003,,"823,837,141",5599,Boomers
+21507,Saint Lucia,2003,female,35-54 years,1,18027,5.55,Saint Lucia2003,,"823,837,141",5599,Boomers
+21508,Saint Lucia,2003,female,25-34 years,0,13004,0.0,Saint Lucia2003,,"823,837,141",5599,Generation X
+21509,Saint Lucia,2003,female,5-14 years,0,16898,0.0,Saint Lucia2003,,"823,837,141",5599,Millenials
+21510,Saint Lucia,2003,female,55-74 years,0,7937,0.0,Saint Lucia2003,,"823,837,141",5599,Silent
+21511,Saint Lucia,2003,male,5-14 years,0,16998,0.0,Saint Lucia2003,,"823,837,141",5599,Millenials
+21512,Saint Lucia,2004,male,55-74 years,2,7220,27.7,Saint Lucia2004,,"893,107,211",5989,Silent
+21513,Saint Lucia,2004,male,35-54 years,4,17965,22.27,Saint Lucia2004,,"893,107,211",5989,Boomers
+21514,Saint Lucia,2004,male,25-34 years,2,12342,16.2,Saint Lucia2004,,"893,107,211",5989,Generation X
+21515,Saint Lucia,2004,female,15-24 years,0,16645,0.0,Saint Lucia2004,,"893,107,211",5989,Millenials
+21516,Saint Lucia,2004,female,25-34 years,0,13158,0.0,Saint Lucia2004,,"893,107,211",5989,Generation X
+21517,Saint Lucia,2004,female,35-54 years,0,18642,0.0,Saint Lucia2004,,"893,107,211",5989,Boomers
+21518,Saint Lucia,2004,female,5-14 years,0,16645,0.0,Saint Lucia2004,,"893,107,211",5989,Millenials
+21519,Saint Lucia,2004,female,55-74 years,0,8141,0.0,Saint Lucia2004,,"893,107,211",5989,Silent
+21520,Saint Lucia,2004,female,75+ years,0,3117,0.0,Saint Lucia2004,,"893,107,211",5989,Silent
+21521,Saint Lucia,2004,male,15-24 years,0,16100,0.0,Saint Lucia2004,,"893,107,211",5989,Millenials
+21522,Saint Lucia,2004,male,5-14 years,0,16765,0.0,Saint Lucia2004,,"893,107,211",5989,Millenials
+21523,Saint Lucia,2004,male,75+ years,0,2381,0.0,Saint Lucia2004,,"893,107,211",5989,Silent
+21524,Saint Lucia,2005,male,35-54 years,2,18544,10.79,Saint Lucia2005,0.691,"951,207,366",6292,Boomers
+21525,Saint Lucia,2005,male,25-34 years,1,12581,7.95,Saint Lucia2005,0.691,"951,207,366",6292,Generation X
+21526,Saint Lucia,2005,male,15-24 years,1,16438,6.08,Saint Lucia2005,0.691,"951,207,366",6292,Millenials
+21527,Saint Lucia,2005,female,15-24 years,0,16946,0.0,Saint Lucia2005,0.691,"951,207,366",6292,Millenials
+21528,Saint Lucia,2005,female,25-34 years,0,13364,0.0,Saint Lucia2005,0.691,"951,207,366",6292,Generation X
+21529,Saint Lucia,2005,female,35-54 years,0,19296,0.0,Saint Lucia2005,0.691,"951,207,366",6292,Boomers
+21530,Saint Lucia,2005,female,5-14 years,0,16357,0.0,Saint Lucia2005,0.691,"951,207,366",6292,Millenials
+21531,Saint Lucia,2005,female,55-74 years,0,8353,0.0,Saint Lucia2005,0.691,"951,207,366",6292,Silent
+21532,Saint Lucia,2005,female,75+ years,0,3072,0.0,Saint Lucia2005,0.691,"951,207,366",6292,Silent
+21533,Saint Lucia,2005,male,5-14 years,0,16477,0.0,Saint Lucia2005,0.691,"951,207,366",6292,Millenials
+21534,Saint Lucia,2005,male,55-74 years,0,7412,0.0,Saint Lucia2005,0.691,"951,207,366",6292,Silent
+21535,Saint Lucia,2005,male,75+ years,0,2329,0.0,Saint Lucia2005,0.691,"951,207,366",6292,Silent
+21536,Saint Lucia,2006,male,55-74 years,1,7889,12.68,Saint Lucia2006,,"1,134,193,630",7391,Silent
+21537,Saint Lucia,2006,male,35-54 years,1,19427,5.15,Saint Lucia2006,,"1,134,193,630",7391,Boomers
+21538,Saint Lucia,2006,female,15-24 years,0,16697,0.0,Saint Lucia2006,,"1,134,193,630",7391,Millenials
+21539,Saint Lucia,2006,female,25-34 years,0,13567,0.0,Saint Lucia2006,,"1,134,193,630",7391,Generation X
+21540,Saint Lucia,2006,female,35-54 years,0,20254,0.0,Saint Lucia2006,,"1,134,193,630",7391,Boomers
+21541,Saint Lucia,2006,female,5-14 years,0,16046,0.0,Saint Lucia2006,,"1,134,193,630",7391,Millenials
+21542,Saint Lucia,2006,female,55-74 years,0,8775,0.0,Saint Lucia2006,,"1,134,193,630",7391,Silent
+21543,Saint Lucia,2006,female,75+ years,0,3200,0.0,Saint Lucia2006,,"1,134,193,630",7391,Silent
+21544,Saint Lucia,2006,male,15-24 years,0,16212,0.0,Saint Lucia2006,,"1,134,193,630",7391,Millenials
+21545,Saint Lucia,2006,male,25-34 years,0,12829,0.0,Saint Lucia2006,,"1,134,193,630",7391,Generation X
+21546,Saint Lucia,2006,male,5-14 years,0,16150,0.0,Saint Lucia2006,,"1,134,193,630",7391,Millenials
+21547,Saint Lucia,2006,male,75+ years,0,2414,0.0,Saint Lucia2006,,"1,134,193,630",7391,Silent
+21548,Saint Lucia,2008,female,15-24 years,0,16103,0.0,Saint Lucia2008,,"1,282,215,407",8122,Millenials
+21549,Saint Lucia,2008,female,25-34 years,0,13877,0.0,Saint Lucia2008,,"1,282,215,407",8122,Generation X
+21550,Saint Lucia,2008,female,35-54 years,0,22170,0.0,Saint Lucia2008,,"1,282,215,407",8122,Boomers
+21551,Saint Lucia,2008,female,5-14 years,0,15326,0.0,Saint Lucia2008,,"1,282,215,407",8122,Generation Z
+21552,Saint Lucia,2008,female,55-74 years,0,9683,0.0,Saint Lucia2008,,"1,282,215,407",8122,Silent
+21553,Saint Lucia,2008,female,75+ years,0,3511,0.0,Saint Lucia2008,,"1,282,215,407",8122,Silent
+21554,Saint Lucia,2008,male,15-24 years,0,15783,0.0,Saint Lucia2008,,"1,282,215,407",8122,Millenials
+21555,Saint Lucia,2008,male,25-34 years,0,13242,0.0,Saint Lucia2008,,"1,282,215,407",8122,Generation X
+21556,Saint Lucia,2008,male,35-54 years,0,21171,0.0,Saint Lucia2008,,"1,282,215,407",8122,Boomers
+21557,Saint Lucia,2008,male,5-14 years,0,15412,0.0,Saint Lucia2008,,"1,282,215,407",8122,Generation Z
+21558,Saint Lucia,2008,male,55-74 years,0,8987,0.0,Saint Lucia2008,,"1,282,215,407",8122,Silent
+21559,Saint Lucia,2008,male,75+ years,0,2611,0.0,Saint Lucia2008,,"1,282,215,407",8122,Silent
+21560,Saint Lucia,2009,male,35-54 years,6,21964,27.32,Saint Lucia2009,,"1,262,973,407",7902,Boomers
+21561,Saint Lucia,2009,male,55-74 years,2,9605,20.82,Saint Lucia2009,,"1,262,973,407",7902,Silent
+21562,Saint Lucia,2009,male,15-24 years,3,15639,19.18,Saint Lucia2009,,"1,262,973,407",7902,Millenials
+21563,Saint Lucia,2009,male,25-34 years,2,13332,15.0,Saint Lucia2009,,"1,262,973,407",7902,Generation X
+21564,Saint Lucia,2009,female,15-24 years,0,15855,0.0,Saint Lucia2009,,"1,262,973,407",7902,Millenials
+21565,Saint Lucia,2009,female,25-34 years,0,13937,0.0,Saint Lucia2009,,"1,262,973,407",7902,Generation X
+21566,Saint Lucia,2009,female,35-54 years,0,23037,0.0,Saint Lucia2009,,"1,262,973,407",7902,Boomers
+21567,Saint Lucia,2009,female,5-14 years,0,14879,0.0,Saint Lucia2009,,"1,262,973,407",7902,Generation Z
+21568,Saint Lucia,2009,female,55-74 years,0,10217,0.0,Saint Lucia2009,,"1,262,973,407",7902,Silent
+21569,Saint Lucia,2009,female,75+ years,0,3676,0.0,Saint Lucia2009,,"1,262,973,407",7902,Silent
+21570,Saint Lucia,2009,male,5-14 years,0,14963,0.0,Saint Lucia2009,,"1,262,973,407",7902,Generation Z
+21571,Saint Lucia,2009,male,75+ years,0,2716,0.0,Saint Lucia2009,,"1,262,973,407",7902,Silent
+21572,Saint Lucia,2010,male,55-74 years,2,10246,19.52,Saint Lucia2010,0.73,"1,381,968,259",8557,Silent
+21573,Saint Lucia,2010,female,15-24 years,1,15678,6.38,Saint Lucia2010,0.73,"1,381,968,259",8557,Millenials
+21574,Saint Lucia,2010,male,35-54 years,1,22681,4.41,Saint Lucia2010,0.73,"1,381,968,259",8557,Generation X
+21575,Saint Lucia,2010,female,25-34 years,0,13885,0.0,Saint Lucia2010,0.73,"1,381,968,259",8557,Generation X
+21576,Saint Lucia,2010,female,35-54 years,0,23787,0.0,Saint Lucia2010,0.73,"1,381,968,259",8557,Generation X
+21577,Saint Lucia,2010,female,5-14 years,0,14411,0.0,Saint Lucia2010,0.73,"1,381,968,259",8557,Generation Z
+21578,Saint Lucia,2010,female,55-74 years,0,10814,0.0,Saint Lucia2010,0.73,"1,381,968,259",8557,Silent
+21579,Saint Lucia,2010,female,75+ years,0,3852,0.0,Saint Lucia2010,0.73,"1,381,968,259",8557,Silent
+21580,Saint Lucia,2010,male,15-24 years,0,15545,0.0,Saint Lucia2010,0.73,"1,381,968,259",8557,Millenials
+21581,Saint Lucia,2010,male,25-34 years,0,13280,0.0,Saint Lucia2010,0.73,"1,381,968,259",8557,Generation X
+21582,Saint Lucia,2010,male,5-14 years,0,14494,0.0,Saint Lucia2010,0.73,"1,381,968,259",8557,Generation Z
+21583,Saint Lucia,2010,male,75+ years,0,2830,0.0,Saint Lucia2010,0.73,"1,381,968,259",8557,Silent
+21584,Saint Lucia,2011,male,55-74 years,3,10517,28.53,Saint Lucia2011,0.73,"1,437,684,815",8826,Boomers
+21585,Saint Lucia,2011,male,35-54 years,4,23081,17.33,Saint Lucia2011,0.73,"1,437,684,815",8826,Generation X
+21586,Saint Lucia,2011,male,25-34 years,1,13402,7.46,Saint Lucia2011,0.73,"1,437,684,815",8826,Millenials
+21587,Saint Lucia,2011,female,15-24 years,0,15844,0.0,Saint Lucia2011,0.73,"1,437,684,815",8826,Millenials
+21588,Saint Lucia,2011,female,25-34 years,0,14012,0.0,Saint Lucia2011,0.73,"1,437,684,815",8826,Millenials
+21589,Saint Lucia,2011,female,35-54 years,0,24250,0.0,Saint Lucia2011,0.73,"1,437,684,815",8826,Generation X
+21590,Saint Lucia,2011,female,5-14 years,0,13949,0.0,Saint Lucia2011,0.73,"1,437,684,815",8826,Generation Z
+21591,Saint Lucia,2011,female,55-74 years,0,11141,0.0,Saint Lucia2011,0.73,"1,437,684,815",8826,Boomers
+21592,Saint Lucia,2011,female,75+ years,0,3936,0.0,Saint Lucia2011,0.73,"1,437,684,815",8826,Silent
+21593,Saint Lucia,2011,male,15-24 years,0,15798,0.0,Saint Lucia2011,0.73,"1,437,684,815",8826,Millenials
+21594,Saint Lucia,2011,male,5-14 years,0,14055,0.0,Saint Lucia2011,0.73,"1,437,684,815",8826,Generation Z
+21595,Saint Lucia,2011,male,75+ years,0,2907,0.0,Saint Lucia2011,0.73,"1,437,684,815",8826,Silent
+21596,Saint Lucia,2012,male,75+ years,1,2977,33.59,Saint Lucia2012,0.73,"1,436,803,333",8764,Silent
+21597,Saint Lucia,2012,male,35-54 years,4,23432,17.07,Saint Lucia2012,0.73,"1,436,803,333",8764,Generation X
+21598,Saint Lucia,2012,male,55-74 years,1,10788,9.27,Saint Lucia2012,0.73,"1,436,803,333",8764,Boomers
+21599,Saint Lucia,2012,male,25-34 years,1,13446,7.44,Saint Lucia2012,0.73,"1,436,803,333",8764,Millenials
+21600,Saint Lucia,2012,male,5-14 years,1,13592,7.36,Saint Lucia2012,0.73,"1,436,803,333",8764,Generation Z
+21601,Saint Lucia,2012,male,15-24 years,1,16016,6.24,Saint Lucia2012,0.73,"1,436,803,333",8764,Millenials
+21602,Saint Lucia,2012,female,35-54 years,1,24624,4.06,Saint Lucia2012,0.73,"1,436,803,333",8764,Generation X
+21603,Saint Lucia,2012,female,15-24 years,0,16001,0.0,Saint Lucia2012,0.73,"1,436,803,333",8764,Millenials
+21604,Saint Lucia,2012,female,25-34 years,0,14085,0.0,Saint Lucia2012,0.73,"1,436,803,333",8764,Millenials
+21605,Saint Lucia,2012,female,5-14 years,0,13460,0.0,Saint Lucia2012,0.73,"1,436,803,333",8764,Generation Z
+21606,Saint Lucia,2012,female,55-74 years,0,11502,0.0,Saint Lucia2012,0.73,"1,436,803,333",8764,Boomers
+21607,Saint Lucia,2012,female,75+ years,0,4017,0.0,Saint Lucia2012,0.73,"1,436,803,333",8764,Silent
+21608,Saint Lucia,2013,male,75+ years,1,3037,32.93,Saint Lucia2013,0.7290000000000001,"1,489,928,889",9041,Silent
+21609,Saint Lucia,2013,male,25-34 years,3,13451,22.3,Saint Lucia2013,0.7290000000000001,"1,489,928,889",9041,Millenials
+21610,Saint Lucia,2013,male,55-74 years,2,11088,18.04,Saint Lucia2013,0.7290000000000001,"1,489,928,889",9041,Boomers
+21611,Saint Lucia,2013,male,35-54 years,4,23758,16.84,Saint Lucia2013,0.7290000000000001,"1,489,928,889",9041,Generation X
+21612,Saint Lucia,2013,male,15-24 years,2,16184,12.36,Saint Lucia2013,0.7290000000000001,"1,489,928,889",9041,Millenials
+21613,Saint Lucia,2013,male,5-14 years,1,13116,7.62,Saint Lucia2013,0.7290000000000001,"1,489,928,889",9041,Generation Z
+21614,Saint Lucia,2013,female,35-54 years,1,24949,4.01,Saint Lucia2013,0.7290000000000001,"1,489,928,889",9041,Generation X
+21615,Saint Lucia,2013,female,15-24 years,0,16134,0.0,Saint Lucia2013,0.7290000000000001,"1,489,928,889",9041,Millenials
+21616,Saint Lucia,2013,female,25-34 years,0,14124,0.0,Saint Lucia2013,0.7290000000000001,"1,489,928,889",9041,Millenials
+21617,Saint Lucia,2013,female,5-14 years,0,12956,0.0,Saint Lucia2013,0.7290000000000001,"1,489,928,889",9041,Generation Z
+21618,Saint Lucia,2013,female,55-74 years,0,11907,0.0,Saint Lucia2013,0.7290000000000001,"1,489,928,889",9041,Boomers
+21619,Saint Lucia,2013,female,75+ years,0,4086,0.0,Saint Lucia2013,0.7290000000000001,"1,489,928,889",9041,Silent
+21620,Saint Lucia,2014,male,55-74 years,3,11439,26.23,Saint Lucia2014,0.7290000000000001,"1,551,921,037",9372,Boomers
+21621,Saint Lucia,2014,male,25-34 years,3,13477,22.26,Saint Lucia2014,0.7290000000000001,"1,551,921,037",9372,Millenials
+21622,Saint Lucia,2014,male,35-54 years,4,24066,16.62,Saint Lucia2014,0.7290000000000001,"1,551,921,037",9372,Generation X
+21623,Saint Lucia,2014,female,25-34 years,2,14165,14.12,Saint Lucia2014,0.7290000000000001,"1,551,921,037",9372,Millenials
+21624,Saint Lucia,2014,female,15-24 years,1,16194,6.18,Saint Lucia2014,0.7290000000000001,"1,551,921,037",9372,Millenials
+21625,Saint Lucia,2014,male,15-24 years,1,16267,6.15,Saint Lucia2014,0.7290000000000001,"1,551,921,037",9372,Millenials
+21626,Saint Lucia,2014,female,35-54 years,0,25264,0.0,Saint Lucia2014,0.7290000000000001,"1,551,921,037",9372,Generation X
+21627,Saint Lucia,2014,female,5-14 years,0,12464,0.0,Saint Lucia2014,0.7290000000000001,"1,551,921,037",9372,Generation Z
+21628,Saint Lucia,2014,female,55-74 years,0,12366,0.0,Saint Lucia2014,0.7290000000000001,"1,551,921,037",9372,Boomers
+21629,Saint Lucia,2014,female,75+ years,0,4163,0.0,Saint Lucia2014,0.7290000000000001,"1,551,921,037",9372,Silent
+21630,Saint Lucia,2014,male,5-14 years,0,12649,0.0,Saint Lucia2014,0.7290000000000001,"1,551,921,037",9372,Generation Z
+21631,Saint Lucia,2014,male,75+ years,0,3082,0.0,Saint Lucia2014,0.7290000000000001,"1,551,921,037",9372,Silent

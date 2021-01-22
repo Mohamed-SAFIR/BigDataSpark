@@ -1,0 +1,217 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+22184,Seychelles,1985,male,35-54 years,3,4400,68.18,Seychelles1985,,"168,887,539",2947,Silent
+22185,Seychelles,1985,male,15-24 years,3,7700,38.96,Seychelles1985,,"168,887,539",2947,Generation X
+22186,Seychelles,1985,male,55-74 years,1,2800,35.71,Seychelles1985,,"168,887,539",2947,G.I. Generation
+22187,Seychelles,1985,female,15-24 years,1,7500,13.33,Seychelles1985,,"168,887,539",2947,Generation X
+22188,Seychelles,1985,female,25-34 years,0,4200,0.0,Seychelles1985,,"168,887,539",2947,Boomers
+22189,Seychelles,1985,female,35-54 years,0,4800,0.0,Seychelles1985,,"168,887,539",2947,Silent
+22190,Seychelles,1985,female,5-14 years,0,7700,0.0,Seychelles1985,,"168,887,539",2947,Generation X
+22191,Seychelles,1985,female,55-74 years,0,3500,0.0,Seychelles1985,,"168,887,539",2947,G.I. Generation
+22192,Seychelles,1985,female,75+ years,0,1000,0.0,Seychelles1985,,"168,887,539",2947,G.I. Generation
+22193,Seychelles,1985,male,25-34 years,0,5200,0.0,Seychelles1985,,"168,887,539",2947,Boomers
+22194,Seychelles,1985,male,5-14 years,0,7900,0.0,Seychelles1985,,"168,887,539",2947,Generation X
+22195,Seychelles,1985,male,75+ years,0,600,0.0,Seychelles1985,,"168,887,539",2947,G.I. Generation
+22196,Seychelles,1986,male,35-54 years,1,4300,23.26,Seychelles1986,,"207,850,624",3621,Silent
+22197,Seychelles,1986,female,15-24 years,0,7500,0.0,Seychelles1986,,"207,850,624",3621,Generation X
+22198,Seychelles,1986,female,25-34 years,0,4500,0.0,Seychelles1986,,"207,850,624",3621,Boomers
+22199,Seychelles,1986,female,35-54 years,0,4700,0.0,Seychelles1986,,"207,850,624",3621,Silent
+22200,Seychelles,1986,female,5-14 years,0,7700,0.0,Seychelles1986,,"207,850,624",3621,Generation X
+22201,Seychelles,1986,female,55-74 years,0,3500,0.0,Seychelles1986,,"207,850,624",3621,G.I. Generation
+22202,Seychelles,1986,female,75+ years,0,1000,0.0,Seychelles1986,,"207,850,624",3621,G.I. Generation
+22203,Seychelles,1986,male,15-24 years,0,7500,0.0,Seychelles1986,,"207,850,624",3621,Generation X
+22204,Seychelles,1986,male,25-34 years,0,5500,0.0,Seychelles1986,,"207,850,624",3621,Boomers
+22205,Seychelles,1986,male,5-14 years,0,8000,0.0,Seychelles1986,,"207,850,624",3621,Generation X
+22206,Seychelles,1986,male,55-74 years,0,2700,0.0,Seychelles1986,,"207,850,624",3621,G.I. Generation
+22207,Seychelles,1986,male,75+ years,0,500,0.0,Seychelles1986,,"207,850,624",3621,G.I. Generation
+22208,Seychelles,1987,male,35-54 years,2,4600,43.48,Seychelles1987,,"249,267,040",4276,Silent
+22209,Seychelles,1987,male,25-34 years,1,5800,17.24,Seychelles1987,,"249,267,040",4276,Boomers
+22210,Seychelles,1987,female,15-24 years,0,7400,0.0,Seychelles1987,,"249,267,040",4276,Generation X
+22211,Seychelles,1987,female,25-34 years,0,4800,0.0,Seychelles1987,,"249,267,040",4276,Boomers
+22212,Seychelles,1987,female,35-54 years,0,4700,0.0,Seychelles1987,,"249,267,040",4276,Silent
+22213,Seychelles,1987,female,5-14 years,0,7700,0.0,Seychelles1987,,"249,267,040",4276,Generation X
+22214,Seychelles,1987,female,55-74 years,0,3600,0.0,Seychelles1987,,"249,267,040",4276,G.I. Generation
+22215,Seychelles,1987,female,75+ years,0,1200,0.0,Seychelles1987,,"249,267,040",4276,G.I. Generation
+22216,Seychelles,1987,male,15-24 years,0,7400,0.0,Seychelles1987,,"249,267,040",4276,Generation X
+22217,Seychelles,1987,male,5-14 years,0,7900,0.0,Seychelles1987,,"249,267,040",4276,Generation X
+22218,Seychelles,1987,male,55-74 years,0,2700,0.0,Seychelles1987,,"249,267,040",4276,G.I. Generation
+22219,Seychelles,1987,male,75+ years,0,500,0.0,Seychelles1987,,"249,267,040",4276,G.I. Generation
+22220,Seychelles,2001,male,25-34 years,2,7008,28.54,Seychelles2001,,"622,262,057",8257,Generation X
+22221,Seychelles,2001,male,55-74 years,1,3520,28.41,Seychelles2001,,"622,262,057",8257,Silent
+22222,Seychelles,2001,male,35-54 years,2,9888,20.23,Seychelles2001,,"622,262,057",8257,Boomers
+22223,Seychelles,2001,female,35-54 years,1,9621,10.39,Seychelles2001,,"622,262,057",8257,Boomers
+22224,Seychelles,2001,female,15-24 years,0,7832,0.0,Seychelles2001,,"622,262,057",8257,Millenials
+22225,Seychelles,2001,female,25-34 years,0,7003,0.0,Seychelles2001,,"622,262,057",8257,Generation X
+22226,Seychelles,2001,female,5-14 years,0,7585,0.0,Seychelles2001,,"622,262,057",8257,Millenials
+22227,Seychelles,2001,female,55-74 years,0,4245,0.0,Seychelles2001,,"622,262,057",8257,Silent
+22228,Seychelles,2001,female,75+ years,0,1679,0.0,Seychelles2001,,"622,262,057",8257,Silent
+22229,Seychelles,2001,male,15-24 years,0,8053,0.0,Seychelles2001,,"622,262,057",8257,Millenials
+22230,Seychelles,2001,male,5-14 years,0,7979,0.0,Seychelles2001,,"622,262,057",8257,Millenials
+22231,Seychelles,2001,male,75+ years,0,950,0.0,Seychelles2001,,"622,262,057",8257,Silent
+22232,Seychelles,2002,male,75+ years,1,953,104.93,Seychelles2002,,"697,518,248",9070,Silent
+22233,Seychelles,2002,male,25-34 years,2,7309,27.36,Seychelles2002,,"697,518,248",9070,Generation X
+22234,Seychelles,2002,male,15-24 years,1,8158,12.26,Seychelles2002,,"697,518,248",9070,Millenials
+22235,Seychelles,2002,male,35-54 years,1,10446,9.57,Seychelles2002,,"697,518,248",9070,Boomers
+22236,Seychelles,2002,female,15-24 years,0,7901,0.0,Seychelles2002,,"697,518,248",9070,Millenials
+22237,Seychelles,2002,female,25-34 years,0,7300,0.0,Seychelles2002,,"697,518,248",9070,Generation X
+22238,Seychelles,2002,female,35-54 years,0,10257,0.0,Seychelles2002,,"697,518,248",9070,Boomers
+22239,Seychelles,2002,female,5-14 years,0,7443,0.0,Seychelles2002,,"697,518,248",9070,Millenials
+22240,Seychelles,2002,female,55-74 years,0,4170,0.0,Seychelles2002,,"697,518,248",9070,Silent
+22241,Seychelles,2002,female,75+ years,0,1707,0.0,Seychelles2002,,"697,518,248",9070,Silent
+22242,Seychelles,2002,male,5-14 years,0,7799,0.0,Seychelles2002,,"697,518,248",9070,Millenials
+22243,Seychelles,2002,male,55-74 years,0,3461,0.0,Seychelles2002,,"697,518,248",9070,Silent
+22244,Seychelles,2003,male,55-74 years,1,3425,29.2,Seychelles2003,,"705,704,816",9001,Silent
+22245,Seychelles,2003,male,35-54 years,3,11050,27.15,Seychelles2003,,"705,704,816",9001,Boomers
+22246,Seychelles,2003,female,35-54 years,2,10925,18.31,Seychelles2003,,"705,704,816",9001,Boomers
+22247,Seychelles,2003,male,25-34 years,1,7606,13.15,Seychelles2003,,"705,704,816",9001,Generation X
+22248,Seychelles,2003,male,15-24 years,1,8201,12.19,Seychelles2003,,"705,704,816",9001,Millenials
+22249,Seychelles,2003,female,15-24 years,0,7890,0.0,Seychelles2003,,"705,704,816",9001,Millenials
+22250,Seychelles,2003,female,25-34 years,0,7588,0.0,Seychelles2003,,"705,704,816",9001,Generation X
+22251,Seychelles,2003,female,5-14 years,0,7304,0.0,Seychelles2003,,"705,704,816",9001,Millenials
+22252,Seychelles,2003,female,55-74 years,0,4102,0.0,Seychelles2003,,"705,704,816",9001,Silent
+22253,Seychelles,2003,female,75+ years,0,1735,0.0,Seychelles2003,,"705,704,816",9001,Silent
+22254,Seychelles,2003,male,5-14 years,0,7622,0.0,Seychelles2003,,"705,704,816",9001,Millenials
+22255,Seychelles,2003,male,75+ years,0,954,0.0,Seychelles2003,,"705,704,816",9001,Silent
+22256,Seychelles,2004,male,35-54 years,3,11676,25.69,Seychelles2004,,"839,319,927",10526,Boomers
+22257,Seychelles,2004,male,25-34 years,2,7889,25.35,Seychelles2004,,"839,319,927",10526,Generation X
+22258,Seychelles,2004,male,15-24 years,1,8174,12.23,Seychelles2004,,"839,319,927",10526,Millenials
+22259,Seychelles,2004,female,15-24 years,0,7790,0.0,Seychelles2004,,"839,319,927",10526,Millenials
+22260,Seychelles,2004,female,25-34 years,0,7836,0.0,Seychelles2004,,"839,319,927",10526,Generation X
+22261,Seychelles,2004,female,35-54 years,0,11572,0.0,Seychelles2004,,"839,319,927",10526,Boomers
+22262,Seychelles,2004,female,5-14 years,0,7148,0.0,Seychelles2004,,"839,319,927",10526,Millenials
+22263,Seychelles,2004,female,55-74 years,0,4059,0.0,Seychelles2004,,"839,319,927",10526,Silent
+22264,Seychelles,2004,female,75+ years,0,1752,0.0,Seychelles2004,,"839,319,927",10526,Silent
+22265,Seychelles,2004,male,5-14 years,0,7457,0.0,Seychelles2004,,"839,319,927",10526,Millenials
+22266,Seychelles,2004,male,55-74 years,0,3430,0.0,Seychelles2004,,"839,319,927",10526,Silent
+22267,Seychelles,2004,male,75+ years,0,952,0.0,Seychelles2004,,"839,319,927",10526,Silent
+22268,Seychelles,2005,male,55-74 years,1,3501,28.56,Seychelles2005,0.736,"919,103,255",11361,Silent
+22269,Seychelles,2005,male,35-54 years,2,12304,16.25,Seychelles2005,0.736,"919,103,255",11361,Boomers
+22270,Seychelles,2005,female,5-14 years,1,6977,14.33,Seychelles2005,0.736,"919,103,255",11361,Millenials
+22271,Seychelles,2005,male,15-24 years,1,8093,12.36,Seychelles2005,0.736,"919,103,255",11361,Millenials
+22272,Seychelles,2005,female,15-24 years,0,7610,0.0,Seychelles2005,0.736,"919,103,255",11361,Millenials
+22273,Seychelles,2005,female,25-34 years,0,8022,0.0,Seychelles2005,0.736,"919,103,255",11361,Generation X
+22274,Seychelles,2005,female,35-54 years,0,12160,0.0,Seychelles2005,0.736,"919,103,255",11361,Boomers
+22275,Seychelles,2005,female,55-74 years,0,4065,0.0,Seychelles2005,0.736,"919,103,255",11361,Silent
+22276,Seychelles,2005,female,75+ years,0,1759,0.0,Seychelles2005,0.736,"919,103,255",11361,Silent
+22277,Seychelles,2005,male,25-34 years,0,8151,0.0,Seychelles2005,0.736,"919,103,255",11361,Generation X
+22278,Seychelles,2005,male,5-14 years,0,7316,0.0,Seychelles2005,0.736,"919,103,255",11361,Millenials
+22279,Seychelles,2005,male,75+ years,0,942,0.0,Seychelles2005,0.736,"919,103,255",11361,Silent
+22280,Seychelles,2006,male,75+ years,2,976,204.92,Seychelles2006,,"1,016,418,229",12442,Silent
+22281,Seychelles,2006,male,35-54 years,4,12663,31.59,Seychelles2006,,"1,016,418,229",12442,Boomers
+22282,Seychelles,2006,male,55-74 years,1,3722,26.87,Seychelles2006,,"1,016,418,229",12442,Silent
+22283,Seychelles,2006,male,15-24 years,1,8084,12.37,Seychelles2006,,"1,016,418,229",12442,Millenials
+22284,Seychelles,2006,female,15-24 years,0,7400,0.0,Seychelles2006,,"1,016,418,229",12442,Millenials
+22285,Seychelles,2006,female,25-34 years,0,7902,0.0,Seychelles2006,,"1,016,418,229",12442,Generation X
+22286,Seychelles,2006,female,35-54 years,0,12435,0.0,Seychelles2006,,"1,016,418,229",12442,Boomers
+22287,Seychelles,2006,female,5-14 years,0,6921,0.0,Seychelles2006,,"1,016,418,229",12442,Millenials
+22288,Seychelles,2006,female,55-74 years,0,4210,0.0,Seychelles2006,,"1,016,418,229",12442,Silent
+22289,Seychelles,2006,female,75+ years,0,1820,0.0,Seychelles2006,,"1,016,418,229",12442,Silent
+22290,Seychelles,2006,male,25-34 years,0,8262,0.0,Seychelles2006,,"1,016,418,229",12442,Generation X
+22291,Seychelles,2006,male,5-14 years,0,7296,0.0,Seychelles2006,,"1,016,418,229",12442,Millenials
+22292,Seychelles,2007,male,75+ years,1,1003,99.7,Seychelles2007,,"1,033,561,654",12554,Silent
+22293,Seychelles,2007,male,35-54 years,3,13027,23.03,Seychelles2007,,"1,033,561,654",12554,Boomers
+22294,Seychelles,2007,female,25-34 years,1,7714,12.96,Seychelles2007,,"1,033,561,654",12554,Generation X
+22295,Seychelles,2007,male,25-34 years,1,8368,11.95,Seychelles2007,,"1,033,561,654",12554,Generation X
+22296,Seychelles,2007,female,15-24 years,0,7216,0.0,Seychelles2007,,"1,033,561,654",12554,Millenials
+22297,Seychelles,2007,female,35-54 years,0,12617,0.0,Seychelles2007,,"1,033,561,654",12554,Boomers
+22298,Seychelles,2007,female,5-14 years,0,6826,0.0,Seychelles2007,,"1,033,561,654",12554,Generation Z
+22299,Seychelles,2007,female,55-74 years,0,4383,0.0,Seychelles2007,,"1,033,561,654",12554,Silent
+22300,Seychelles,2007,female,75+ years,0,1859,0.0,Seychelles2007,,"1,033,561,654",12554,Silent
+22301,Seychelles,2007,male,15-24 years,0,8095,0.0,Seychelles2007,,"1,033,561,654",12554,Millenials
+22302,Seychelles,2007,male,5-14 years,0,7246,0.0,Seychelles2007,,"1,033,561,654",12554,Generation Z
+22303,Seychelles,2007,male,55-74 years,0,3977,0.0,Seychelles2007,,"1,033,561,654",12554,Silent
+22304,Seychelles,2008,male,35-54 years,2,13402,14.92,Seychelles2008,,"967,199,594",11667,Boomers
+22305,Seychelles,2008,male,15-24 years,1,8117,12.32,Seychelles2008,,"967,199,594",11667,Millenials
+22306,Seychelles,2008,male,25-34 years,1,8453,11.83,Seychelles2008,,"967,199,594",11667,Generation X
+22307,Seychelles,2008,female,15-24 years,0,7078,0.0,Seychelles2008,,"967,199,594",11667,Millenials
+22308,Seychelles,2008,female,25-34 years,0,7481,0.0,Seychelles2008,,"967,199,594",11667,Generation X
+22309,Seychelles,2008,female,35-54 years,0,12759,0.0,Seychelles2008,,"967,199,594",11667,Boomers
+22310,Seychelles,2008,female,5-14 years,0,6710,0.0,Seychelles2008,,"967,199,594",11667,Generation Z
+22311,Seychelles,2008,female,55-74 years,0,4575,0.0,Seychelles2008,,"967,199,594",11667,Silent
+22312,Seychelles,2008,female,75+ years,0,1893,0.0,Seychelles2008,,"967,199,594",11667,Silent
+22313,Seychelles,2008,male,5-14 years,0,7156,0.0,Seychelles2008,,"967,199,594",11667,Generation Z
+22314,Seychelles,2008,male,55-74 years,0,4257,0.0,Seychelles2008,,"967,199,594",11667,Silent
+22315,Seychelles,2008,male,75+ years,0,1019,0.0,Seychelles2008,,"967,199,594",11667,Silent
+22316,Seychelles,2009,male,55-74 years,1,4543,22.01,Seychelles2009,,"847,397,850",10157,Silent
+22317,Seychelles,2009,male,35-54 years,3,13762,21.8,Seychelles2009,,"847,397,850",10157,Boomers
+22318,Seychelles,2009,female,15-24 years,0,7002,0.0,Seychelles2009,,"847,397,850",10157,Millenials
+22319,Seychelles,2009,female,25-34 years,0,7236,0.0,Seychelles2009,,"847,397,850",10157,Generation X
+22320,Seychelles,2009,female,35-54 years,0,12916,0.0,Seychelles2009,,"847,397,850",10157,Boomers
+22321,Seychelles,2009,female,5-14 years,0,6600,0.0,Seychelles2009,,"847,397,850",10157,Generation Z
+22322,Seychelles,2009,female,55-74 years,0,4788,0.0,Seychelles2009,,"847,397,850",10157,Silent
+22323,Seychelles,2009,female,75+ years,0,1926,0.0,Seychelles2009,,"847,397,850",10157,Silent
+22324,Seychelles,2009,male,15-24 years,0,8119,0.0,Seychelles2009,,"847,397,850",10157,Millenials
+22325,Seychelles,2009,male,25-34 years,0,8495,0.0,Seychelles2009,,"847,397,850",10157,Generation X
+22326,Seychelles,2009,male,5-14 years,0,7017,0.0,Seychelles2009,,"847,397,850",10157,Generation Z
+22327,Seychelles,2009,male,75+ years,0,1025,0.0,Seychelles2009,,"847,397,850",10157,Silent
+22328,Seychelles,2010,male,35-54 years,4,14068,28.43,Seychelles2010,0.743,"969,936,525",11563,Generation X
+22329,Seychelles,2010,male,25-34 years,2,8490,23.56,Seychelles2010,0.743,"969,936,525",11563,Generation X
+22330,Seychelles,2010,female,15-24 years,0,6988,0.0,Seychelles2010,0.743,"969,936,525",11563,Millenials
+22331,Seychelles,2010,female,25-34 years,0,7012,0.0,Seychelles2010,0.743,"969,936,525",11563,Generation X
+22332,Seychelles,2010,female,35-54 years,0,13106,0.0,Seychelles2010,0.743,"969,936,525",11563,Generation X
+22333,Seychelles,2010,female,5-14 years,0,6498,0.0,Seychelles2010,0.743,"969,936,525",11563,Generation Z
+22334,Seychelles,2010,female,55-74 years,0,5031,0.0,Seychelles2010,0.743,"969,936,525",11563,Silent
+22335,Seychelles,2010,female,75+ years,0,1961,0.0,Seychelles2010,0.743,"969,936,525",11563,Silent
+22336,Seychelles,2010,male,15-24 years,0,8078,0.0,Seychelles2010,0.743,"969,936,525",11563,Millenials
+22337,Seychelles,2010,male,5-14 years,0,6811,0.0,Seychelles2010,0.743,"969,936,525",11563,Generation Z
+22338,Seychelles,2010,male,55-74 years,0,4827,0.0,Seychelles2010,0.743,"969,936,525",11563,Silent
+22339,Seychelles,2010,male,75+ years,0,1015,0.0,Seychelles2010,0.743,"969,936,525",11563,Silent
+22340,Seychelles,2011,male,35-54 years,3,13471,22.27,Seychelles2011,0.752,"1,065,826,670",13204,Generation X
+22341,Seychelles,2011,male,25-34 years,1,6615,15.12,Seychelles2011,0.752,"1,065,826,670",13204,Millenials
+22342,Seychelles,2011,male,15-24 years,1,7169,13.95,Seychelles2011,0.752,"1,065,826,670",13204,Millenials
+22343,Seychelles,2011,female,15-24 years,0,6495,0.0,Seychelles2011,0.752,"1,065,826,670",13204,Millenials
+22344,Seychelles,2011,female,25-34 years,0,7108,0.0,Seychelles2011,0.752,"1,065,826,670",13204,Millenials
+22345,Seychelles,2011,female,35-54 years,0,13459,0.0,Seychelles2011,0.752,"1,065,826,670",13204,Generation X
+22346,Seychelles,2011,female,5-14 years,0,6341,0.0,Seychelles2011,0.752,"1,065,826,670",13204,Generation Z
+22347,Seychelles,2011,female,55-74 years,0,5544,0.0,Seychelles2011,0.752,"1,065,826,670",13204,Boomers
+22348,Seychelles,2011,female,75+ years,0,1993,0.0,Seychelles2011,0.752,"1,065,826,670",13204,Silent
+22349,Seychelles,2011,male,5-14 years,0,6540,0.0,Seychelles2011,0.752,"1,065,826,670",13204,Generation Z
+22350,Seychelles,2011,male,55-74 years,0,5026,0.0,Seychelles2011,0.752,"1,065,826,670",13204,Boomers
+22351,Seychelles,2011,male,75+ years,0,956,0.0,Seychelles2011,0.752,"1,065,826,670",13204,Silent
+22352,Seychelles,2012,male,55-74 years,1,5437,18.39,Seychelles2012,0.7609999999999999,"1,059,498,884",13044,Boomers
+22353,Seychelles,2012,male,35-54 years,2,13234,15.11,Seychelles2012,0.7609999999999999,"1,059,498,884",13044,Generation X
+22354,Seychelles,2012,female,15-24 years,0,6357,0.0,Seychelles2012,0.7609999999999999,"1,059,498,884",13044,Millenials
+22355,Seychelles,2012,female,25-34 years,0,7211,0.0,Seychelles2012,0.7609999999999999,"1,059,498,884",13044,Millenials
+22356,Seychelles,2012,female,35-54 years,0,13691,0.0,Seychelles2012,0.7609999999999999,"1,059,498,884",13044,Generation X
+22357,Seychelles,2012,female,5-14 years,0,6244,0.0,Seychelles2012,0.7609999999999999,"1,059,498,884",13044,Generation Z
+22358,Seychelles,2012,female,55-74 years,0,5936,0.0,Seychelles2012,0.7609999999999999,"1,059,498,884",13044,Boomers
+22359,Seychelles,2012,female,75+ years,0,2014,0.0,Seychelles2012,0.7609999999999999,"1,059,498,884",13044,Silent
+22360,Seychelles,2012,male,15-24 years,0,7038,0.0,Seychelles2012,0.7609999999999999,"1,059,498,884",13044,Millenials
+22361,Seychelles,2012,male,25-34 years,0,6724,0.0,Seychelles2012,0.7609999999999999,"1,059,498,884",13044,Millenials
+22362,Seychelles,2012,male,5-14 years,0,6366,0.0,Seychelles2012,0.7609999999999999,"1,059,498,884",13044,Generation Z
+22363,Seychelles,2012,male,75+ years,0,972,0.0,Seychelles2012,0.7609999999999999,"1,059,498,884",13044,Silent
+22364,Seychelles,2013,male,55-74 years,4,5827,68.65,Seychelles2013,0.767,"1,328,091,524",16090,Boomers
+22365,Seychelles,2013,male,25-34 years,3,7360,40.76,Seychelles2013,0.767,"1,328,091,524",16090,Millenials
+22366,Seychelles,2013,male,15-24 years,1,6804,14.7,Seychelles2013,0.767,"1,328,091,524",16090,Millenials
+22367,Seychelles,2013,male,35-54 years,1,13718,7.29,Seychelles2013,0.767,"1,328,091,524",16090,Generation X
+22368,Seychelles,2013,female,15-24 years,0,6031,0.0,Seychelles2013,0.767,"1,328,091,524",16090,Millenials
+22369,Seychelles,2013,female,25-34 years,0,7154,0.0,Seychelles2013,0.767,"1,328,091,524",16090,Millenials
+22370,Seychelles,2013,female,35-54 years,0,14010,0.0,Seychelles2013,0.767,"1,328,091,524",16090,Generation X
+22371,Seychelles,2013,female,5-14 years,0,6167,0.0,Seychelles2013,0.767,"1,328,091,524",16090,Generation Z
+22372,Seychelles,2013,female,55-74 years,0,6147,0.0,Seychelles2013,0.767,"1,328,091,524",16090,Boomers
+22373,Seychelles,2013,female,75+ years,0,2074,0.0,Seychelles2013,0.767,"1,328,091,524",16090,Silent
+22374,Seychelles,2013,male,5-14 years,0,6310,0.0,Seychelles2013,0.767,"1,328,091,524",16090,Generation Z
+22375,Seychelles,2013,male,75+ years,0,939,0.0,Seychelles2013,0.767,"1,328,091,524",16090,Silent
+22376,Seychelles,2014,male,15-24 years,1,6391,15.65,Seychelles2014,0.772,"1,342,997,306",16018,Millenials
+22377,Seychelles,2014,female,25-34 years,1,7345,13.61,Seychelles2014,0.772,"1,342,997,306",16018,Millenials
+22378,Seychelles,2014,male,35-54 years,1,14001,7.14,Seychelles2014,0.772,"1,342,997,306",16018,Generation X
+22379,Seychelles,2014,female,35-54 years,1,14431,6.93,Seychelles2014,0.772,"1,342,997,306",16018,Generation X
+22380,Seychelles,2014,female,15-24 years,0,5813,0.0,Seychelles2014,0.772,"1,342,997,306",16018,Millenials
+22381,Seychelles,2014,female,5-14 years,0,6229,0.0,Seychelles2014,0.772,"1,342,997,306",16018,Generation Z
+22382,Seychelles,2014,female,55-74 years,0,6507,0.0,Seychelles2014,0.772,"1,342,997,306",16018,Boomers
+22383,Seychelles,2014,female,75+ years,0,2096,0.0,Seychelles2014,0.772,"1,342,997,306",16018,Silent
+22384,Seychelles,2014,male,25-34 years,0,7704,0.0,Seychelles2014,0.772,"1,342,997,306",16018,Millenials
+22385,Seychelles,2014,male,5-14 years,0,6123,0.0,Seychelles2014,0.772,"1,342,997,306",16018,Generation Z
+22386,Seychelles,2014,male,55-74 years,0,6245,0.0,Seychelles2014,0.772,"1,342,997,306",16018,Boomers
+22387,Seychelles,2014,male,75+ years,0,960,0.0,Seychelles2014,0.772,"1,342,997,306",16018,Silent
+22388,Seychelles,2015,male,35-54 years,3,14210,21.11,Seychelles2015,,"1,375,604,279",16005,Generation X
+22389,Seychelles,2015,female,15-24 years,1,5957,16.79,Seychelles2015,,"1,375,604,279",16005,Millenials
+22390,Seychelles,2015,male,15-24 years,1,6393,15.64,Seychelles2015,,"1,375,604,279",16005,Millenials
+22391,Seychelles,2015,male,55-74 years,1,6903,14.49,Seychelles2015,,"1,375,604,279",16005,Boomers
+22392,Seychelles,2015,male,25-34 years,1,7565,13.22,Seychelles2015,,"1,375,604,279",16005,Millenials
+22393,Seychelles,2015,female,25-34 years,0,7204,0.0,Seychelles2015,,"1,375,604,279",16005,Millenials
+22394,Seychelles,2015,female,35-54 years,0,14823,0.0,Seychelles2015,,"1,375,604,279",16005,Generation X
+22395,Seychelles,2015,female,5-14 years,0,6271,0.0,Seychelles2015,,"1,375,604,279",16005,Generation Z
+22396,Seychelles,2015,female,55-74 years,0,7198,0.0,Seychelles2015,,"1,375,604,279",16005,Boomers
+22397,Seychelles,2015,female,75+ years,0,2025,0.0,Seychelles2015,,"1,375,604,279",16005,Silent
+22398,Seychelles,2015,male,5-14 years,0,6324,0.0,Seychelles2015,,"1,375,604,279",16005,Generation Z
+22399,Seychelles,2015,male,75+ years,0,1076,0.0,Seychelles2015,,"1,375,604,279",16005,Silent

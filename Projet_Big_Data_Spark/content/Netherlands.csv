@@ -1,0 +1,383 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+17066,Netherlands,1985,male,75+ years,106,258800,40.96,Netherlands1985,0.799,"142,009,922,306",10428,G.I. Generation
+17067,Netherlands,1985,male,55-74 years,256,1108000,23.1,Netherlands1985,0.799,"142,009,922,306",10428,G.I. Generation
+17068,Netherlands,1985,male,35-54 years,333,1877900,17.73,Netherlands1985,0.799,"142,009,922,306",10428,Silent
+17069,Netherlands,1985,male,25-34 years,212,1202800,17.63,Netherlands1985,0.799,"142,009,922,306",10428,Boomers
+17070,Netherlands,1985,female,55-74 years,195,1297300,15.03,Netherlands1985,0.799,"142,009,922,306",10428,G.I. Generation
+17071,Netherlands,1985,female,35-54 years,197,1792300,10.99,Netherlands1985,0.799,"142,009,922,306",10428,Silent
+17072,Netherlands,1985,female,75+ years,51,474300,10.75,Netherlands1985,0.799,"142,009,922,306",10428,G.I. Generation
+17073,Netherlands,1985,male,15-24 years,136,1278200,10.64,Netherlands1985,0.799,"142,009,922,306",10428,Generation X
+17074,Netherlands,1985,female,25-34 years,107,1156600,9.25,Netherlands1985,0.799,"142,009,922,306",10428,Boomers
+17075,Netherlands,1985,female,15-24 years,38,1226200,3.1,Netherlands1985,0.799,"142,009,922,306",10428,Generation X
+17076,Netherlands,1985,male,5-14 years,5,995000,0.5,Netherlands1985,0.799,"142,009,922,306",10428,Generation X
+17077,Netherlands,1985,female,5-14 years,2,950900,0.21,Netherlands1985,0.799,"142,009,922,306",10428,Generation X
+17078,Netherlands,1986,male,75+ years,112,261600,42.81,Netherlands1986,,"198,298,498,021",14479,G.I. Generation
+17079,Netherlands,1986,male,55-74 years,267,1121600,23.81,Netherlands1986,,"198,298,498,021",14479,G.I. Generation
+17080,Netherlands,1986,male,35-54 years,327,1912900,17.09,Netherlands1986,,"198,298,498,021",14479,Silent
+17081,Netherlands,1986,male,25-34 years,185,1217600,15.19,Netherlands1986,,"198,298,498,021",14479,Boomers
+17082,Netherlands,1986,female,55-74 years,171,1308200,13.07,Netherlands1986,,"198,298,498,021",14479,G.I. Generation
+17083,Netherlands,1986,female,75+ years,63,486100,12.96,Netherlands1986,,"198,298,498,021",14479,G.I. Generation
+17084,Netherlands,1986,female,35-54 years,220,1825100,12.05,Netherlands1986,,"198,298,498,021",14479,Silent
+17085,Netherlands,1986,female,25-34 years,107,1171300,9.14,Netherlands1986,,"198,298,498,021",14479,Boomers
+17086,Netherlands,1986,male,15-24 years,104,1276700,8.15,Netherlands1986,,"198,298,498,021",14479,Generation X
+17087,Netherlands,1986,female,15-24 years,44,1224400,3.59,Netherlands1986,,"198,298,498,021",14479,Generation X
+17088,Netherlands,1986,male,5-14 years,3,966300,0.31,Netherlands1986,,"198,298,498,021",14479,Generation X
+17089,Netherlands,1986,female,5-14 years,1,923700,0.11,Netherlands1986,,"198,298,498,021",14479,Generation X
+17090,Netherlands,1987,male,75+ years,111,265500,41.81,Netherlands1987,,"241,918,791,123",17560,G.I. Generation
+17091,Netherlands,1987,male,55-74 years,246,1134600,21.68,Netherlands1987,,"241,918,791,123",17560,G.I. Generation
+17092,Netherlands,1987,male,35-54 years,329,1950400,16.87,Netherlands1987,,"241,918,791,123",17560,Silent
+17093,Netherlands,1987,male,25-34 years,189,1233700,15.32,Netherlands1987,,"241,918,791,123",17560,Boomers
+17094,Netherlands,1987,female,55-74 years,189,1318400,14.34,Netherlands1987,,"241,918,791,123",17560,G.I. Generation
+17095,Netherlands,1987,female,75+ years,66,499000,13.23,Netherlands1987,,"241,918,791,123",17560,G.I. Generation
+17096,Netherlands,1987,female,35-54 years,210,1860400,11.29,Netherlands1987,,"241,918,791,123",17560,Silent
+17097,Netherlands,1987,female,25-34 years,111,1186400,9.36,Netherlands1987,,"241,918,791,123",17560,Boomers
+17098,Netherlands,1987,male,15-24 years,117,1268600,9.22,Netherlands1987,,"241,918,791,123",17560,Generation X
+17099,Netherlands,1987,female,15-24 years,44,1216200,3.62,Netherlands1987,,"241,918,791,123",17560,Generation X
+17100,Netherlands,1987,male,5-14 years,3,942700,0.32,Netherlands1987,,"241,918,791,123",17560,Generation X
+17101,Netherlands,1987,female,5-14 years,1,901100,0.11,Netherlands1987,,"241,918,791,123",17560,Generation X
+17102,Netherlands,1988,male,75+ years,112,270900,41.34,Netherlands1988,,"258,567,751,143",18661,G.I. Generation
+17103,Netherlands,1988,male,55-74 years,235,1145800,20.51,Netherlands1988,,"258,567,751,143",18661,G.I. Generation
+17104,Netherlands,1988,male,25-34 years,202,1251700,16.14,Netherlands1988,,"258,567,751,143",18661,Boomers
+17105,Netherlands,1988,male,35-54 years,309,1988500,15.54,Netherlands1988,,"258,567,751,143",18661,Silent
+17106,Netherlands,1988,female,55-74 years,180,1325500,13.58,Netherlands1988,,"258,567,751,143",18661,G.I. Generation
+17107,Netherlands,1988,female,75+ years,55,513300,10.71,Netherlands1988,,"258,567,751,143",18661,G.I. Generation
+17108,Netherlands,1988,female,35-54 years,192,1897600,10.12,Netherlands1988,,"258,567,751,143",18661,Silent
+17109,Netherlands,1988,female,25-34 years,100,1201900,8.32,Netherlands1988,,"258,567,751,143",18661,Boomers
+17110,Netherlands,1988,male,15-24 years,102,1250800,8.15,Netherlands1988,,"258,567,751,143",18661,Generation X
+17111,Netherlands,1988,female,15-24 years,29,1200100,2.42,Netherlands1988,,"258,567,751,143",18661,Generation X
+17112,Netherlands,1988,male,5-14 years,5,925400,0.54,Netherlands1988,,"258,567,751,143",18661,Generation X
+17113,Netherlands,1988,female,5-14 years,2,884200,0.23,Netherlands1988,,"258,567,751,143",18661,Generation X
+17114,Netherlands,1989,male,75+ years,80,275900,29.0,Netherlands1989,,"255,039,560,740",18310,G.I. Generation
+17115,Netherlands,1989,male,55-74 years,236,1155700,20.42,Netherlands1989,,"255,039,560,740",18310,G.I. Generation
+17116,Netherlands,1989,male,35-54 years,330,2026600,16.28,Netherlands1989,,"255,039,560,740",18310,Silent
+17117,Netherlands,1989,male,25-34 years,195,1269800,15.36,Netherlands1989,,"255,039,560,740",18310,Boomers
+17118,Netherlands,1989,female,55-74 years,173,1330900,13.0,Netherlands1989,,"255,039,560,740",18310,G.I. Generation
+17119,Netherlands,1989,female,75+ years,57,526200,10.83,Netherlands1989,,"255,039,560,740",18310,G.I. Generation
+17120,Netherlands,1989,female,35-54 years,196,1935400,10.13,Netherlands1989,,"255,039,560,740",18310,Silent
+17121,Netherlands,1989,male,15-24 years,109,1224000,8.91,Netherlands1989,,"255,039,560,740",18310,Generation X
+17122,Netherlands,1989,female,25-34 years,88,1218500,7.22,Netherlands1989,,"255,039,560,740",18310,Boomers
+17123,Netherlands,1989,female,15-24 years,52,1175200,4.42,Netherlands1989,,"255,039,560,740",18310,Generation X
+17124,Netherlands,1989,male,5-14 years,3,916100,0.33,Netherlands1989,,"255,039,560,740",18310,Generation X
+17125,Netherlands,1989,female,5-14 years,1,875000,0.11,Netherlands1989,,"255,039,560,740",18310,Generation X
+17126,Netherlands,1990,male,75+ years,95,279100,34.04,Netherlands1990,0.8290000000000001,"314,267,667,675",22425,G.I. Generation
+17127,Netherlands,1990,male,25-34 years,204,1287400,15.85,Netherlands1990,0.8290000000000001,"314,267,667,675",22425,Boomers
+17128,Netherlands,1990,male,55-74 years,185,1167900,15.84,Netherlands1990,0.8290000000000001,"314,267,667,675",22425,G.I. Generation
+17129,Netherlands,1990,male,35-54 years,322,2065400,15.59,Netherlands1990,0.8290000000000001,"314,267,667,675",22425,Silent
+17130,Netherlands,1990,female,75+ years,80,535700,14.93,Netherlands1990,0.8290000000000001,"314,267,667,675",22425,G.I. Generation
+17131,Netherlands,1990,female,55-74 years,145,1338000,10.84,Netherlands1990,0.8290000000000001,"314,267,667,675",22425,G.I. Generation
+17132,Netherlands,1990,female,35-54 years,184,1976000,9.31,Netherlands1990,0.8290000000000001,"314,267,667,675",22425,Silent
+17133,Netherlands,1990,male,15-24 years,98,1195500,8.2,Netherlands1990,0.8290000000000001,"314,267,667,675",22425,Generation X
+17134,Netherlands,1990,female,25-34 years,89,1232600,7.22,Netherlands1990,0.8290000000000001,"314,267,667,675",22425,Boomers
+17135,Netherlands,1990,female,15-24 years,41,1147300,3.57,Netherlands1990,0.8290000000000001,"314,267,667,675",22425,Generation X
+17136,Netherlands,1990,male,5-14 years,5,915200,0.55,Netherlands1990,0.8290000000000001,"314,267,667,675",22425,Generation X
+17137,Netherlands,1990,female,5-14 years,2,874200,0.23,Netherlands1990,0.8290000000000001,"314,267,667,675",22425,Generation X
+17138,Netherlands,1991,male,75+ years,119,282200,42.17,Netherlands1991,,"323,320,449,906",22906,G.I. Generation
+17139,Netherlands,1991,male,55-74 years,225,1181700,19.04,Netherlands1991,,"323,320,449,906",22906,Silent
+17140,Netherlands,1991,male,35-54 years,374,2106700,17.75,Netherlands1991,,"323,320,449,906",22906,Boomers
+17141,Netherlands,1991,male,25-34 years,198,1305600,15.17,Netherlands1991,,"323,320,449,906",22906,Boomers
+17142,Netherlands,1991,female,55-74 years,179,1346300,13.3,Netherlands1991,,"323,320,449,906",22906,Silent
+17143,Netherlands,1991,female,75+ years,62,544800,11.38,Netherlands1991,,"323,320,449,906",22906,G.I. Generation
+17144,Netherlands,1991,male,15-24 years,114,1167200,9.77,Netherlands1991,,"323,320,449,906",22906,Generation X
+17145,Netherlands,1991,female,35-54 years,190,2017700,9.42,Netherlands1991,,"323,320,449,906",22906,Boomers
+17146,Netherlands,1991,female,25-34 years,107,1245900,8.59,Netherlands1991,,"323,320,449,906",22906,Boomers
+17147,Netherlands,1991,female,15-24 years,40,1119900,3.57,Netherlands1991,,"323,320,449,906",22906,Generation X
+17148,Netherlands,1991,male,5-14 years,3,918500,0.33,Netherlands1991,,"323,320,449,906",22906,Millenials
+17149,Netherlands,1991,female,5-14 years,0,878300,0.0,Netherlands1991,,"323,320,449,906",22906,Millenials
+17150,Netherlands,1992,male,75+ years,106,285300,37.15,Netherlands1992,,"358,330,385,840",25205,G.I. Generation
+17151,Netherlands,1992,male,55-74 years,242,1196700,20.22,Netherlands1992,,"358,330,385,840",25205,Silent
+17152,Netherlands,1992,male,35-54 years,381,2149600,17.72,Netherlands1992,,"358,330,385,840",25205,Boomers
+17153,Netherlands,1992,male,25-34 years,208,1318100,15.78,Netherlands1992,,"358,330,385,840",25205,Boomers
+17154,Netherlands,1992,female,75+ years,68,552700,12.3,Netherlands1992,,"358,330,385,840",25205,G.I. Generation
+17155,Netherlands,1992,female,35-54 years,214,2061000,10.38,Netherlands1992,,"358,330,385,840",25205,Boomers
+17156,Netherlands,1992,female,55-74 years,137,1355000,10.11,Netherlands1992,,"358,330,385,840",25205,Silent
+17157,Netherlands,1992,male,15-24 years,103,1138000,9.05,Netherlands1992,,"358,330,385,840",25205,Generation X
+17158,Netherlands,1992,female,25-34 years,84,1256200,6.69,Netherlands1992,,"358,330,385,840",25205,Boomers
+17159,Netherlands,1992,female,15-24 years,41,1093300,3.75,Netherlands1992,,"358,330,385,840",25205,Generation X
+17160,Netherlands,1992,female,5-14 years,2,885700,0.23,Netherlands1992,,"358,330,385,840",25205,Millenials
+17161,Netherlands,1992,male,5-14 years,1,925300,0.11,Netherlands1992,,"358,330,385,840",25205,Millenials
+17162,Netherlands,1993,male,75+ years,86,287400,29.92,Netherlands1993,,"349,037,818,106",24385,G.I. Generation
+17163,Netherlands,1993,male,55-74 years,239,1213500,19.7,Netherlands1993,,"349,037,818,106",24385,Silent
+17164,Netherlands,1993,male,35-54 years,361,2191300,16.47,Netherlands1993,,"349,037,818,106",24385,Boomers
+17165,Netherlands,1993,male,25-34 years,216,1327900,16.27,Netherlands1993,,"349,037,818,106",24385,Boomers
+17166,Netherlands,1993,female,75+ years,70,558500,12.53,Netherlands1993,,"349,037,818,106",24385,G.I. Generation
+17167,Netherlands,1993,male,15-24 years,115,1107600,10.38,Netherlands1993,,"349,037,818,106",24385,Generation X
+17168,Netherlands,1993,female,55-74 years,141,1366000,10.32,Netherlands1993,,"349,037,818,106",24385,Silent
+17169,Netherlands,1993,female,35-54 years,195,2103800,9.27,Netherlands1993,,"349,037,818,106",24385,Boomers
+17170,Netherlands,1993,female,25-34 years,90,1265300,7.11,Netherlands1993,,"349,037,818,106",24385,Boomers
+17171,Netherlands,1993,female,15-24 years,37,1065900,3.47,Netherlands1993,,"349,037,818,106",24385,Generation X
+17172,Netherlands,1993,male,5-14 years,3,933300,0.32,Netherlands1993,,"349,037,818,106",24385,Millenials
+17173,Netherlands,1993,female,5-14 years,2,893100,0.22,Netherlands1993,,"349,037,818,106",24385,Millenials
+17174,Netherlands,1994,male,75+ years,98,289300,33.87,Netherlands1994,,"374,291,430,318",25997,G.I. Generation
+17175,Netherlands,1994,male,55-74 years,254,1232600,20.61,Netherlands1994,,"374,291,430,318",25997,Silent
+17176,Netherlands,1994,male,35-54 years,415,2231800,18.59,Netherlands1994,,"374,291,430,318",25997,Boomers
+17177,Netherlands,1994,male,25-34 years,216,1335500,16.17,Netherlands1994,,"374,291,430,318",25997,Boomers
+17178,Netherlands,1994,female,75+ years,53,563200,9.41,Netherlands1994,,"374,291,430,318",25997,G.I. Generation
+17179,Netherlands,1994,female,35-54 years,198,2145300,9.23,Netherlands1994,,"374,291,430,318",25997,Boomers
+17180,Netherlands,1994,male,15-24 years,98,1072500,9.14,Netherlands1994,,"374,291,430,318",25997,Generation X
+17181,Netherlands,1994,female,55-74 years,122,1379300,8.85,Netherlands1994,,"374,291,430,318",25997,Silent
+17182,Netherlands,1994,female,25-34 years,84,1273100,6.6,Netherlands1994,,"374,291,430,318",25997,Boomers
+17183,Netherlands,1994,female,15-24 years,42,1033300,4.06,Netherlands1994,,"374,291,430,318",25997,Generation X
+17184,Netherlands,1994,male,5-14 years,3,941100,0.32,Netherlands1994,,"374,291,430,318",25997,Millenials
+17185,Netherlands,1994,female,5-14 years,1,900700,0.11,Netherlands1994,,"374,291,430,318",25997,Millenials
+17186,Netherlands,1995,male,75+ years,76,295400,25.73,Netherlands1995,0.861,"446,528,959,649",30850,G.I. Generation
+17187,Netherlands,1995,male,55-74 years,226,1249500,18.09,Netherlands1995,0.861,"446,528,959,649",30850,Silent
+17188,Netherlands,1995,male,35-54 years,404,2270500,17.79,Netherlands1995,0.861,"446,528,959,649",30850,Boomers
+17189,Netherlands,1995,male,25-34 years,194,1339800,14.48,Netherlands1995,0.861,"446,528,959,649",30850,Generation X
+17190,Netherlands,1995,female,75+ years,57,573300,9.94,Netherlands1995,0.861,"446,528,959,649",30850,G.I. Generation
+17191,Netherlands,1995,male,15-24 years,95,1036300,9.17,Netherlands1995,0.861,"446,528,959,649",30850,Generation X
+17192,Netherlands,1995,female,55-74 years,127,1388600,9.15,Netherlands1995,0.861,"446,528,959,649",30850,Silent
+17193,Netherlands,1995,female,35-54 years,198,2185200,9.06,Netherlands1995,0.861,"446,528,959,649",30850,Boomers
+17194,Netherlands,1995,female,25-34 years,84,1278100,6.57,Netherlands1995,0.861,"446,528,959,649",30850,Generation X
+17195,Netherlands,1995,female,15-24 years,44,999100,4.4,Netherlands1995,0.861,"446,528,959,649",30850,Generation X
+17196,Netherlands,1995,male,5-14 years,5,949500,0.53,Netherlands1995,0.861,"446,528,959,649",30850,Millenials
+17197,Netherlands,1995,female,5-14 years,1,908700,0.11,Netherlands1995,0.861,"446,528,959,649",30850,Millenials
+17198,Netherlands,1996,male,75+ years,102,303800,33.57,Netherlands1996,,"445,704,575,163",30625,G.I. Generation
+17199,Netherlands,1996,male,35-54 years,419,2308800,18.15,Netherlands1996,,"445,704,575,163",30625,Boomers
+17200,Netherlands,1996,male,25-34 years,226,1336900,16.9,Netherlands1996,,"445,704,575,163",30625,Generation X
+17201,Netherlands,1996,male,55-74 years,207,1263600,16.38,Netherlands1996,,"445,704,575,163",30625,Silent
+17202,Netherlands,1996,female,75+ years,64,586600,10.91,Netherlands1996,,"445,704,575,163",30625,G.I. Generation
+17203,Netherlands,1996,female,55-74 years,147,1393200,10.55,Netherlands1996,,"445,704,575,163",30625,Silent
+17204,Netherlands,1996,female,35-54 years,195,2226800,8.76,Netherlands1996,,"445,704,575,163",30625,Boomers
+17205,Netherlands,1996,male,15-24 years,85,1006800,8.44,Netherlands1996,,"445,704,575,163",30625,Generation X
+17206,Netherlands,1996,female,25-34 years,89,1277700,6.97,Netherlands1996,,"445,704,575,163",30625,Generation X
+17207,Netherlands,1996,female,15-24 years,38,971700,3.91,Netherlands1996,,"445,704,575,163",30625,Generation X
+17208,Netherlands,1996,male,5-14 years,4,959800,0.42,Netherlands1996,,"445,704,575,163",30625,Millenials
+17209,Netherlands,1996,female,5-14 years,1,918000,0.11,Netherlands1996,,"445,704,575,163",30625,Millenials
+17210,Netherlands,1997,male,75+ years,106,311700,34.01,Netherlands1997,,"412,199,006,099",28156,G.I. Generation
+17211,Netherlands,1997,male,35-54 years,398,2348800,16.94,Netherlands1997,,"412,199,006,099",28156,Boomers
+17212,Netherlands,1997,male,55-74 years,206,1279200,16.1,Netherlands1997,,"412,199,006,099",28156,Silent
+17213,Netherlands,1997,male,25-34 years,210,1327000,15.83,Netherlands1997,,"412,199,006,099",28156,Generation X
+17214,Netherlands,1997,female,75+ years,70,598400,11.7,Netherlands1997,,"412,199,006,099",28156,G.I. Generation
+17215,Netherlands,1997,male,15-24 years,111,982900,11.29,Netherlands1997,,"412,199,006,099",28156,Generation X
+17216,Netherlands,1997,female,55-74 years,136,1399300,9.72,Netherlands1997,,"412,199,006,099",28156,Silent
+17217,Netherlands,1997,female,35-54 years,195,2270400,8.59,Netherlands1997,,"412,199,006,099",28156,Boomers
+17218,Netherlands,1997,female,25-34 years,87,1271400,6.84,Netherlands1997,,"412,199,006,099",28156,Generation X
+17219,Netherlands,1997,female,15-24 years,42,949700,4.42,Netherlands1997,,"412,199,006,099",28156,Generation X
+17220,Netherlands,1997,male,5-14 years,11,971900,1.13,Netherlands1997,,"412,199,006,099",28156,Millenials
+17221,Netherlands,1997,female,5-14 years,0,929200,0.0,Netherlands1997,,"412,199,006,099",28156,Millenials
+17222,Netherlands,1998,male,75+ years,101,320300,31.53,Netherlands1998,,"432,476,116,419",29351,G.I. Generation
+17223,Netherlands,1998,male,25-34 years,226,1308900,17.27,Netherlands1998,,"432,476,116,419",29351,Generation X
+17224,Netherlands,1998,male,55-74 years,205,1300000,15.77,Netherlands1998,,"432,476,116,419",29351,Silent
+17225,Netherlands,1998,male,35-54 years,375,2387900,15.7,Netherlands1998,,"432,476,116,419",29351,Boomers
+17226,Netherlands,1998,female,75+ years,65,610000,10.66,Netherlands1998,,"432,476,116,419",29351,G.I. Generation
+17227,Netherlands,1998,female,55-74 years,139,1410200,9.86,Netherlands1998,,"432,476,116,419",29351,Silent
+17228,Netherlands,1998,male,15-24 years,89,967100,9.2,Netherlands1998,,"432,476,116,419",29351,Generation X
+17229,Netherlands,1998,female,35-54 years,211,2311100,9.13,Netherlands1998,,"432,476,116,419",29351,Boomers
+17230,Netherlands,1998,female,25-34 years,78,1258000,6.2,Netherlands1998,,"432,476,116,419",29351,Generation X
+17231,Netherlands,1998,female,15-24 years,21,934500,2.25,Netherlands1998,,"432,476,116,419",29351,Generation X
+17232,Netherlands,1998,male,5-14 years,6,984900,0.61,Netherlands1998,,"432,476,116,419",29351,Millenials
+17233,Netherlands,1998,female,5-14 years,3,941700,0.32,Netherlands1998,,"432,476,116,419",29351,Millenials
+17234,Netherlands,1999,male,75+ years,89,328400,27.1,Netherlands1999,,"441,975,282,335",29799,G.I. Generation
+17235,Netherlands,1999,male,35-54 years,427,2424400,17.61,Netherlands1999,,"441,975,282,335",29799,Boomers
+17236,Netherlands,1999,male,55-74 years,218,1326500,16.43,Netherlands1999,,"441,975,282,335",29799,Silent
+17237,Netherlands,1999,male,25-34 years,193,1281700,15.06,Netherlands1999,,"441,975,282,335",29799,Generation X
+17238,Netherlands,1999,female,75+ years,58,620800,9.34,Netherlands1999,,"441,975,282,335",29799,G.I. Generation
+17239,Netherlands,1999,female,55-74 years,123,1426700,8.62,Netherlands1999,,"441,975,282,335",29799,Silent
+17240,Netherlands,1999,male,15-24 years,82,960000,8.54,Netherlands1999,,"441,975,282,335",29799,Generation X
+17241,Netherlands,1999,female,35-54 years,196,2348600,8.35,Netherlands1999,,"441,975,282,335",29799,Boomers
+17242,Netherlands,1999,female,25-34 years,80,1236700,6.47,Netherlands1999,,"441,975,282,335",29799,Generation X
+17243,Netherlands,1999,female,15-24 years,41,927300,4.42,Netherlands1999,,"441,975,282,335",29799,Generation X
+17244,Netherlands,1999,male,5-14 years,7,997200,0.7,Netherlands1999,,"441,975,282,335",29799,Millenials
+17245,Netherlands,1999,female,5-14 years,5,953700,0.52,Netherlands1999,,"441,975,282,335",29799,Millenials
+17246,Netherlands,2000,male,75+ years,95,335400,28.32,Netherlands2000,0.877,"412,807,259,996",27644,G.I. Generation
+17247,Netherlands,2000,male,35-54 years,440,2462006,17.87,Netherlands2000,0.877,"412,807,259,996",27644,Boomers
+17248,Netherlands,2000,male,55-74 years,208,1354147,15.36,Netherlands2000,0.877,"412,807,259,996",27644,Silent
+17249,Netherlands,2000,male,25-34 years,162,1251135,12.95,Netherlands2000,0.877,"412,807,259,996",27644,Generation X
+17250,Netherlands,2000,female,55-74 years,146,1444755,10.11,Netherlands2000,0.877,"412,807,259,996",27644,Silent
+17251,Netherlands,2000,male,15-24 years,90,960741,9.37,Netherlands2000,0.877,"412,807,259,996",27644,Generation X
+17252,Netherlands,2000,female,35-54 years,221,2386392,9.26,Netherlands2000,0.877,"412,807,259,996",27644,Boomers
+17253,Netherlands,2000,female,75+ years,49,629463,7.78,Netherlands2000,0.877,"412,807,259,996",27644,G.I. Generation
+17254,Netherlands,2000,female,25-34 years,67,1212404,5.53,Netherlands2000,0.877,"412,807,259,996",27644,Generation X
+17255,Netherlands,2000,female,15-24 years,18,927539,1.94,Netherlands2000,0.877,"412,807,259,996",27644,Generation X
+17256,Netherlands,2000,male,5-14 years,5,1006683,0.5,Netherlands2000,0.877,"412,807,259,996",27644,Millenials
+17257,Netherlands,2000,female,5-14 years,0,962570,0.0,Netherlands2000,0.877,"412,807,259,996",27644,Millenials
+17258,Netherlands,2001,male,75+ years,95,342815,27.71,Netherlands2001,,"426,573,601,790",28366,Silent
+17259,Netherlands,2001,male,35-54 years,452,2481934,18.21,Netherlands2001,,"426,573,601,790",28366,Boomers
+17260,Netherlands,2001,male,25-34 years,183,1222239,14.97,Netherlands2001,,"426,573,601,790",28366,Generation X
+17261,Netherlands,2001,male,55-74 years,208,1397177,14.89,Netherlands2001,,"426,573,601,790",28366,Silent
+17262,Netherlands,2001,female,35-54 years,209,2406952,8.68,Netherlands2001,,"426,573,601,790",28366,Boomers
+17263,Netherlands,2001,female,75+ years,54,636833,8.48,Netherlands2001,,"426,573,601,790",28366,Silent
+17264,Netherlands,2001,male,15-24 years,71,968251,7.33,Netherlands2001,,"426,573,601,790",28366,Millenials
+17265,Netherlands,2001,female,55-74 years,106,1478539,7.17,Netherlands2001,,"426,573,601,790",28366,Silent
+17266,Netherlands,2001,female,25-34 years,61,1188832,5.13,Netherlands2001,,"426,573,601,790",28366,Generation X
+17267,Netherlands,2001,female,15-24 years,32,934725,3.42,Netherlands2001,,"426,573,601,790",28366,Millenials
+17268,Netherlands,2001,female,5-14 years,2,967153,0.21,Netherlands2001,,"426,573,601,790",28366,Millenials
+17269,Netherlands,2001,male,5-14 years,1,1012887,0.1,Netherlands2001,,"426,573,601,790",28366,Millenials
+17270,Netherlands,2002,male,75+ years,90,350179,25.7,Netherlands2002,,"465,368,906,456",30757,Silent
+17271,Netherlands,2002,male,35-54 years,482,2481771,19.42,Netherlands2002,,"465,368,906,456",30757,Boomers
+17272,Netherlands,2002,male,55-74 years,227,1454558,15.61,Netherlands2002,,"465,368,906,456",30757,Silent
+17273,Netherlands,2002,male,25-34 years,179,1191890,15.02,Netherlands2002,,"465,368,906,456",30757,Generation X
+17274,Netherlands,2002,female,55-74 years,148,1527586,9.69,Netherlands2002,,"465,368,906,456",30757,Silent
+17275,Netherlands,2002,female,35-54 years,218,2409590,9.05,Netherlands2002,,"465,368,906,456",30757,Boomers
+17276,Netherlands,2002,female,75+ years,56,642771,8.71,Netherlands2002,,"465,368,906,456",30757,Silent
+17277,Netherlands,2002,male,15-24 years,80,978378,8.18,Netherlands2002,,"465,368,906,456",30757,Millenials
+17278,Netherlands,2002,female,25-34 years,57,1164180,4.9,Netherlands2002,,"465,368,906,456",30757,Generation X
+17279,Netherlands,2002,female,15-24 years,26,943864,2.75,Netherlands2002,,"465,368,906,456",30757,Millenials
+17280,Netherlands,2002,male,5-14 years,5,1015880,0.49,Netherlands2002,,"465,368,906,456",30757,Millenials
+17281,Netherlands,2002,female,5-14 years,2,969671,0.21,Netherlands2002,,"465,368,906,456",30757,Millenials
+17282,Netherlands,2003,male,75+ years,78,357715,21.81,Netherlands2003,,"571,863,431,151",37614,Silent
+17283,Netherlands,2003,male,35-54 years,459,2483688,18.48,Netherlands2003,,"571,863,431,151",37614,Boomers
+17284,Netherlands,2003,male,55-74 years,246,1504780,16.35,Netherlands2003,,"571,863,431,151",37614,Silent
+17285,Netherlands,2003,male,25-34 years,165,1157639,14.25,Netherlands2003,,"571,863,431,151",37614,Generation X
+17286,Netherlands,2003,female,75+ years,71,648808,10.94,Netherlands2003,,"571,863,431,151",37614,Silent
+17287,Netherlands,2003,female,55-74 years,142,1570271,9.04,Netherlands2003,,"571,863,431,151",37614,Silent
+17288,Netherlands,2003,female,35-54 years,193,2416242,7.99,Netherlands2003,,"571,863,431,151",37614,Boomers
+17289,Netherlands,2003,male,15-24 years,68,985449,6.9,Netherlands2003,,"571,863,431,151",37614,Millenials
+17290,Netherlands,2003,female,25-34 years,48,1137043,4.22,Netherlands2003,,"571,863,431,151",37614,Generation X
+17291,Netherlands,2003,female,15-24 years,29,950780,3.05,Netherlands2003,,"571,863,431,151",37614,Millenials
+17292,Netherlands,2003,male,5-14 years,2,1018379,0.2,Netherlands2003,,"571,863,431,151",37614,Millenials
+17293,Netherlands,2003,female,5-14 years,1,972603,0.1,Netherlands2003,,"571,863,431,151",37614,Millenials
+17294,Netherlands,2004,male,75+ years,83,366987,22.62,Netherlands2004,,"650,532,654,582",42614,Silent
+17295,Netherlands,2004,male,35-54 years,489,2492028,19.62,Netherlands2004,,"650,532,654,582",42614,Boomers
+17296,Netherlands,2004,male,55-74 years,230,1548535,14.85,Netherlands2004,,"650,532,654,582",42614,Silent
+17297,Netherlands,2004,male,25-34 years,141,1118373,12.61,Netherlands2004,,"650,532,654,582",42614,Generation X
+17298,Netherlands,2004,female,35-54 years,231,2430075,9.51,Netherlands2004,,"650,532,654,582",42614,Boomers
+17299,Netherlands,2004,female,75+ years,60,656752,9.14,Netherlands2004,,"650,532,654,582",42614,Silent
+17300,Netherlands,2004,female,55-74 years,132,1606894,8.21,Netherlands2004,,"650,532,654,582",42614,Silent
+17301,Netherlands,2004,male,15-24 years,72,988827,7.28,Netherlands2004,,"650,532,654,582",42614,Millenials
+17302,Netherlands,2004,female,25-34 years,42,1105273,3.8,Netherlands2004,,"650,532,654,582",42614,Generation X
+17303,Netherlands,2004,female,15-24 years,25,955899,2.62,Netherlands2004,,"650,532,654,582",42614,Millenials
+17304,Netherlands,2004,male,5-14 years,7,1021382,0.69,Netherlands2004,,"650,532,654,582",42614,Millenials
+17305,Netherlands,2004,female,5-14 years,2,974836,0.21,Netherlands2004,,"650,532,654,582",42614,Millenials
+17306,Netherlands,2005,male,75+ years,80,377913,21.17,Netherlands2005,0.8909999999999999,"678,533,764,457",44289,Silent
+17307,Netherlands,2005,male,35-54 years,503,2502562,20.1,Netherlands2005,0.8909999999999999,"678,533,764,457",44289,Boomers
+17308,Netherlands,2005,male,55-74 years,258,1587471,16.25,Netherlands2005,0.8909999999999999,"678,533,764,457",44289,Silent
+17309,Netherlands,2005,male,25-34 years,144,1078642,13.35,Netherlands2005,0.8909999999999999,"678,533,764,457",44289,Generation X
+17310,Netherlands,2005,female,35-54 years,228,2446316,9.32,Netherlands2005,0.8909999999999999,"678,533,764,457",44289,Boomers
+17311,Netherlands,2005,female,55-74 years,134,1639946,8.17,Netherlands2005,0.8909999999999999,"678,533,764,457",44289,Silent
+17312,Netherlands,2005,male,15-24 years,78,992090,7.86,Netherlands2005,0.8909999999999999,"678,533,764,457",44289,Millenials
+17313,Netherlands,2005,female,75+ years,48,666329,7.2,Netherlands2005,0.8909999999999999,"678,533,764,457",44289,Silent
+17314,Netherlands,2005,female,25-34 years,55,1071944,5.13,Netherlands2005,0.8909999999999999,"678,533,764,457",44289,Generation X
+17315,Netherlands,2005,female,15-24 years,33,960181,3.44,Netherlands2005,0.8909999999999999,"678,533,764,457",44289,Millenials
+17316,Netherlands,2005,male,5-14 years,11,1021870,1.08,Netherlands2005,0.8909999999999999,"678,533,764,457",44289,Millenials
+17317,Netherlands,2005,female,5-14 years,2,975331,0.21,Netherlands2005,0.8909999999999999,"678,533,764,457",44289,Millenials
+17318,Netherlands,2006,male,75+ years,95,389546,24.39,Netherlands2006,,"726,649,102,998",47281,Silent
+17319,Netherlands,2006,male,35-54 years,468,2508382,18.66,Netherlands2006,,"726,649,102,998",47281,Boomers
+17320,Netherlands,2006,male,55-74 years,248,1623656,15.27,Netherlands2006,,"726,649,102,998",47281,Silent
+17321,Netherlands,2006,male,25-34 years,143,1044859,13.69,Netherlands2006,,"726,649,102,998",47281,Generation X
+17322,Netherlands,2006,male,15-24 years,91,996333,9.13,Netherlands2006,,"726,649,102,998",47281,Millenials
+17323,Netherlands,2006,female,55-74 years,141,1670944,8.44,Netherlands2006,,"726,649,102,998",47281,Silent
+17324,Netherlands,2006,female,35-54 years,207,2458615,8.42,Netherlands2006,,"726,649,102,998",47281,Boomers
+17325,Netherlands,2006,female,75+ years,43,676057,6.36,Netherlands2006,,"726,649,102,998",47281,Silent
+17326,Netherlands,2006,female,25-34 years,51,1042374,4.89,Netherlands2006,,"726,649,102,998",47281,Generation X
+17327,Netherlands,2006,female,15-24 years,34,963837,3.53,Netherlands2006,,"726,649,102,998",47281,Millenials
+17328,Netherlands,2006,female,5-14 years,3,974095,0.31,Netherlands2006,,"726,649,102,998",47281,Millenials
+17329,Netherlands,2006,male,5-14 years,1,1019999,0.1,Netherlands2006,,"726,649,102,998",47281,Millenials
+17330,Netherlands,2007,male,75+ years,76,401873,18.91,Netherlands2007,,"839,419,655,078",54418,Silent
+17331,Netherlands,2007,male,35-54 years,427,2508053,17.03,Netherlands2007,,"839,419,655,078",54418,Boomers
+17332,Netherlands,2007,male,55-74 years,250,1660580,15.05,Netherlands2007,,"839,419,655,078",54418,Silent
+17333,Netherlands,2007,male,25-34 years,114,1018680,11.19,Netherlands2007,,"839,419,655,078",54418,Generation X
+17334,Netherlands,2007,female,55-74 years,124,1703333,7.28,Netherlands2007,,"839,419,655,078",54418,Silent
+17335,Netherlands,2007,male,15-24 years,72,1003453,7.18,Netherlands2007,,"839,419,655,078",54418,Millenials
+17336,Netherlands,2007,female,35-54 years,171,2464793,6.94,Netherlands2007,,"839,419,655,078",54418,Boomers
+17337,Netherlands,2007,female,75+ years,41,686244,5.97,Netherlands2007,,"839,419,655,078",54418,Silent
+17338,Netherlands,2007,female,25-34 years,48,1017477,4.72,Netherlands2007,,"839,419,655,078",54418,Generation X
+17339,Netherlands,2007,female,15-24 years,22,970052,2.27,Netherlands2007,,"839,419,655,078",54418,Millenials
+17340,Netherlands,2007,male,5-14 years,5,1018393,0.49,Netherlands2007,,"839,419,655,078",54418,Generation Z
+17341,Netherlands,2007,female,5-14 years,4,972473,0.41,Netherlands2007,,"839,419,655,078",54418,Generation Z
+17342,Netherlands,2008,male,75+ years,86,414420,20.75,Netherlands2008,,"936,228,211,513",60375,Silent
+17343,Netherlands,2008,male,35-54 years,462,2502579,18.46,Netherlands2008,,"936,228,211,513",60375,Boomers
+17344,Netherlands,2008,male,55-74 years,252,1698728,14.83,Netherlands2008,,"936,228,211,513",60375,Silent
+17345,Netherlands,2008,male,25-34 years,119,1005566,11.83,Netherlands2008,,"936,228,211,513",60375,Generation X
+17346,Netherlands,2008,female,55-74 years,153,1737666,8.8,Netherlands2008,,"936,228,211,513",60375,Silent
+17347,Netherlands,2008,female,35-54 years,184,2464321,7.47,Netherlands2008,,"936,228,211,513",60375,Boomers
+17348,Netherlands,2008,male,15-24 years,67,1014326,6.61,Netherlands2008,,"936,228,211,513",60375,Millenials
+17349,Netherlands,2008,female,75+ years,39,696023,5.6,Netherlands2008,,"936,228,211,513",60375,Silent
+17350,Netherlands,2008,female,25-34 years,41,1001975,4.09,Netherlands2008,,"936,228,211,513",60375,Generation X
+17351,Netherlands,2008,female,15-24 years,31,980609,3.16,Netherlands2008,,"936,228,211,513",60375,Millenials
+17352,Netherlands,2008,male,5-14 years,5,1018474,0.49,Netherlands2008,,"936,228,211,513",60375,Generation Z
+17353,Netherlands,2008,female,5-14 years,0,972276,0.0,Netherlands2008,,"936,228,211,513",60375,Generation Z
+17354,Netherlands,2009,male,75+ years,96,427097,22.48,Netherlands2009,,"857,932,759,100",54988,Silent
+17355,Netherlands,2009,male,35-54 years,484,2493610,19.41,Netherlands2009,,"857,932,759,100",54988,Boomers
+17356,Netherlands,2009,male,55-74 years,290,1737021,16.7,Netherlands2009,,"857,932,759,100",54988,Silent
+17357,Netherlands,2009,male,25-34 years,115,1003333,11.46,Netherlands2009,,"857,932,759,100",54988,Generation X
+17358,Netherlands,2009,female,35-54 years,209,2458921,8.5,Netherlands2009,,"857,932,759,100",54988,Boomers
+17359,Netherlands,2009,male,15-24 years,77,1025904,7.51,Netherlands2009,,"857,932,759,100",54988,Millenials
+17360,Netherlands,2009,female,55-74 years,131,1773158,7.39,Netherlands2009,,"857,932,759,100",54988,Silent
+17361,Netherlands,2009,female,75+ years,48,705088,6.81,Netherlands2009,,"857,932,759,100",54988,Silent
+17362,Netherlands,2009,female,25-34 years,48,996321,4.82,Netherlands2009,,"857,932,759,100",54988,Generation X
+17363,Netherlands,2009,female,15-24 years,24,991956,2.42,Netherlands2009,,"857,932,759,100",54988,Millenials
+17364,Netherlands,2009,male,5-14 years,6,1017952,0.59,Netherlands2009,,"857,932,759,100",54988,Generation Z
+17365,Netherlands,2009,female,5-14 years,2,971815,0.21,Netherlands2009,,"857,932,759,100",54988,Generation Z
+17366,Netherlands,2010,male,35-54 years,496,2479310,20.01,Netherlands2010,0.909,"836,389,937,229",53302,Generation X
+17367,Netherlands,2010,male,55-74 years,332,1774913,18.71,Netherlands2010,0.909,"836,389,937,229",53302,Silent
+17368,Netherlands,2010,male,75+ years,82,440573,18.61,Netherlands2010,0.909,"836,389,937,229",53302,Silent
+17369,Netherlands,2010,male,25-34 years,115,1005583,11.44,Netherlands2010,0.909,"836,389,937,229",53302,Generation X
+17370,Netherlands,2010,male,15-24 years,97,1034368,9.38,Netherlands2010,0.909,"836,389,937,229",53302,Millenials
+17371,Netherlands,2010,female,35-54 years,208,2448571,8.49,Netherlands2010,0.909,"836,389,937,229",53302,Generation X
+17372,Netherlands,2010,female,55-74 years,143,1809756,7.9,Netherlands2010,0.909,"836,389,937,229",53302,Silent
+17373,Netherlands,2010,female,75+ years,46,714774,6.44,Netherlands2010,0.909,"836,389,937,229",53302,Silent
+17374,Netherlands,2010,female,25-34 years,53,997025,5.32,Netherlands2010,0.909,"836,389,937,229",53302,Generation X
+17375,Netherlands,2010,female,15-24 years,26,1000536,2.6,Netherlands2010,0.909,"836,389,937,229",53302,Millenials
+17376,Netherlands,2010,male,5-14 years,5,1015895,0.49,Netherlands2010,0.909,"836,389,937,229",53302,Generation Z
+17377,Netherlands,2010,female,5-14 years,1,970105,0.1,Netherlands2010,0.909,"836,389,937,229",53302,Generation Z
+17378,Netherlands,2011,male,35-54 years,504,2459735,20.49,Netherlands2011,0.919,"893,757,287,202",56667,Generation X
+17379,Netherlands,2011,male,75+ years,91,455083,20.0,Netherlands2011,0.919,"893,757,287,202",56667,Silent
+17380,Netherlands,2011,male,55-74 years,316,1813398,17.43,Netherlands2011,0.919,"893,757,287,202",56667,Boomers
+17381,Netherlands,2011,male,25-34 years,138,1010996,13.65,Netherlands2011,0.919,"893,757,287,202",56667,Millenials
+17382,Netherlands,2011,female,55-74 years,161,1847013,8.72,Netherlands2011,0.919,"893,757,287,202",56667,Boomers
+17383,Netherlands,2011,female,35-54 years,210,2433362,8.63,Netherlands2011,0.919,"893,757,287,202",56667,Generation X
+17384,Netherlands,2011,male,15-24 years,85,1039605,8.18,Netherlands2011,0.919,"893,757,287,202",56667,Millenials
+17385,Netherlands,2011,female,25-34 years,63,1002441,6.28,Netherlands2011,0.919,"893,757,287,202",56667,Millenials
+17386,Netherlands,2011,female,75+ years,40,724633,5.52,Netherlands2011,0.919,"893,757,287,202",56667,Silent
+17387,Netherlands,2011,female,15-24 years,38,1004949,3.78,Netherlands2011,0.919,"893,757,287,202",56667,Millenials
+17388,Netherlands,2011,male,5-14 years,3,1013127,0.3,Netherlands2011,0.919,"893,757,287,202",56667,Generation Z
+17389,Netherlands,2011,female,5-14 years,1,967820,0.1,Netherlands2011,0.919,"893,757,287,202",56667,Generation Z
+17390,Netherlands,2012,male,35-54 years,532,2436155,21.84,Netherlands2012,0.92,"828,946,812,397",52334,Generation X
+17391,Netherlands,2012,male,75+ years,91,469742,19.37,Netherlands2012,0.92,"828,946,812,397",52334,Silent
+17392,Netherlands,2012,male,55-74 years,319,1852538,17.22,Netherlands2012,0.92,"828,946,812,397",52334,Boomers
+17393,Netherlands,2012,male,25-34 years,143,1017789,14.05,Netherlands2012,0.92,"828,946,812,397",52334,Millenials
+17394,Netherlands,2012,female,35-54 years,240,2414858,9.94,Netherlands2012,0.92,"828,946,812,397",52334,Generation X
+17395,Netherlands,2012,female,55-74 years,182,1885068,9.65,Netherlands2012,0.92,"828,946,812,397",52334,Boomers
+17396,Netherlands,2012,male,15-24 years,97,1041845,9.31,Netherlands2012,0.92,"828,946,812,397",52334,Millenials
+17397,Netherlands,2012,female,75+ years,55,734017,7.49,Netherlands2012,0.92,"828,946,812,397",52334,Silent
+17398,Netherlands,2012,female,25-34 years,58,1008927,5.75,Netherlands2012,0.92,"828,946,812,397",52334,Millenials
+17399,Netherlands,2012,female,15-24 years,33,1006742,3.28,Netherlands2012,0.92,"828,946,812,397",52334,Millenials
+17400,Netherlands,2012,male,5-14 years,4,1008342,0.4,Netherlands2012,0.92,"828,946,812,397",52334,Generation Z
+17401,Netherlands,2012,female,5-14 years,2,963480,0.21,Netherlands2012,0.92,"828,946,812,397",52334,Generation Z
+17402,Netherlands,2013,male,35-54 years,555,2410644,23.02,Netherlands2013,0.92,"866,680,000,367",54510,Generation X
+17403,Netherlands,2013,male,75+ years,109,485554,22.45,Netherlands2013,0.92,"866,680,000,367",54510,Silent
+17404,Netherlands,2013,male,55-74 years,409,1890352,21.64,Netherlands2013,0.92,"866,680,000,367",54510,Boomers
+17405,Netherlands,2013,male,25-34 years,137,1024168,13.38,Netherlands2013,0.92,"866,680,000,367",54510,Millenials
+17406,Netherlands,2013,female,55-74 years,186,1922945,9.67,Netherlands2013,0.92,"866,680,000,367",54510,Boomers
+17407,Netherlands,2013,male,15-24 years,93,1044562,8.9,Netherlands2013,0.92,"866,680,000,367",54510,Millenials
+17408,Netherlands,2013,female,35-54 years,209,2394702,8.73,Netherlands2013,0.92,"866,680,000,367",54510,Generation X
+17409,Netherlands,2013,female,75+ years,59,744083,7.93,Netherlands2013,0.92,"866,680,000,367",54510,Silent
+17410,Netherlands,2013,female,15-24 years,46,1009345,4.56,Netherlands2013,0.92,"866,680,000,367",54510,Millenials
+17411,Netherlands,2013,female,25-34 years,46,1014090,4.54,Netherlands2013,0.92,"866,680,000,367",54510,Millenials
+17412,Netherlands,2013,male,5-14 years,4,1002074,0.4,Netherlands2013,0.92,"866,680,000,367",54510,Generation Z
+17413,Netherlands,2013,female,5-14 years,3,956989,0.31,Netherlands2013,0.92,"866,680,000,367",54510,Generation Z
+17414,Netherlands,2014,male,35-54 years,563,2410644,23.35,Netherlands2014,0.922,"879,635,084,125",55325,Generation X
+17415,Netherlands,2014,male,55-74 years,391,1890352,20.68,Netherlands2014,0.922,"879,635,084,125",55325,Boomers
+17416,Netherlands,2014,male,75+ years,97,485554,19.98,Netherlands2014,0.922,"879,635,084,125",55325,Silent
+17417,Netherlands,2014,male,25-34 years,117,1024168,11.42,Netherlands2014,0.922,"879,635,084,125",55325,Millenials
+17418,Netherlands,2014,female,55-74 years,197,1922945,10.24,Netherlands2014,0.922,"879,635,084,125",55325,Boomers
+17419,Netherlands,2014,female,35-54 years,228,2394702,9.52,Netherlands2014,0.922,"879,635,084,125",55325,Generation X
+17420,Netherlands,2014,female,75+ years,61,744083,8.2,Netherlands2014,0.922,"879,635,084,125",55325,Silent
+17421,Netherlands,2014,male,15-24 years,81,1044562,7.75,Netherlands2014,0.922,"879,635,084,125",55325,Millenials
+17422,Netherlands,2014,female,25-34 years,54,1014090,5.32,Netherlands2014,0.922,"879,635,084,125",55325,Millenials
+17423,Netherlands,2014,female,15-24 years,48,1009345,4.76,Netherlands2014,0.922,"879,635,084,125",55325,Millenials
+17424,Netherlands,2014,female,5-14 years,1,956989,0.1,Netherlands2014,0.922,"879,635,084,125",55325,Generation Z
+17425,Netherlands,2014,male,5-14 years,1,1002074,0.1,Netherlands2014,0.922,"879,635,084,125",55325,Generation Z
+17426,Netherlands,2015,male,75+ years,129,523197,24.66,Netherlands2015,,"757,999,453,314",47206,Silent
+17427,Netherlands,2015,male,55-74 years,418,1966083,21.26,Netherlands2015,,"757,999,453,314",47206,Boomers
+17428,Netherlands,2015,male,35-54 years,499,2362263,21.12,Netherlands2015,,"757,999,453,314",47206,Generation X
+17429,Netherlands,2015,male,25-34 years,146,1045012,13.97,Netherlands2015,,"757,999,453,314",47206,Millenials
+17430,Netherlands,2015,female,55-74 years,220,1998082,11.01,Netherlands2015,,"757,999,453,314",47206,Boomers
+17431,Netherlands,2015,female,35-54 years,211,2353550,8.97,Netherlands2015,,"757,999,453,314",47206,Generation X
+17432,Netherlands,2015,male,15-24 years,89,1058675,8.41,Netherlands2015,,"757,999,453,314",47206,Millenials
+17433,Netherlands,2015,female,75+ years,55,770107,7.14,Netherlands2015,,"757,999,453,314",47206,Silent
+17434,Netherlands,2015,female,25-34 years,65,1030867,6.31,Netherlands2015,,"757,999,453,314",47206,Millenials
+17435,Netherlands,2015,female,15-24 years,34,1018674,3.34,Netherlands2015,,"757,999,453,314",47206,Millenials
+17436,Netherlands,2015,female,5-14 years,6,943082,0.64,Netherlands2015,,"757,999,453,314",47206,Generation Z
+17437,Netherlands,2015,male,5-14 years,1,987750,0.1,Netherlands2015,,"757,999,453,314",47206,Generation Z
+17438,Netherlands,2016,male,75+ years,123,541327,22.72,Netherlands2016,,"777,227,541,581",48108,Silent
+17439,Netherlands,2016,male,55-74 years,436,2004642,21.75,Netherlands2016,,"777,227,541,581",48108,Boomers
+17440,Netherlands,2016,male,35-54 years,478,2341693,20.41,Netherlands2016,,"777,227,541,581",48108,Generation X
+17441,Netherlands,2016,male,25-34 years,159,1061905,14.97,Netherlands2016,,"777,227,541,581",48108,Millenials
+17442,Netherlands,2016,female,75+ years,87,781301,11.14,Netherlands2016,,"777,227,541,581",48108,Silent
+17443,Netherlands,2016,female,55-74 years,209,2037375,10.26,Netherlands2016,,"777,227,541,581",48108,Boomers
+17444,Netherlands,2016,female,35-54 years,217,2334777,9.29,Netherlands2016,,"777,227,541,581",48108,Generation X
+17445,Netherlands,2016,male,15-24 years,77,1067719,7.21,Netherlands2016,,"777,227,541,581",48108,Millenials
+17446,Netherlands,2016,female,25-34 years,65,1043372,6.23,Netherlands2016,,"777,227,541,581",48108,Millenials
+17447,Netherlands,2016,female,15-24 years,35,1025443,3.41,Netherlands2016,,"777,227,541,581",48108,Millenials

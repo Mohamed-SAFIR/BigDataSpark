@@ -1,0 +1,13 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+4904,Cabo Verde,2011,male,75+ years,2,4954,40.37,Cabo Verde2011,,"1,864,824,081",4124,Silent
+4905,Cabo Verde,2011,male,35-54 years,18,47077,38.24,Cabo Verde2011,,"1,864,824,081",4124,Generation X
+4906,Cabo Verde,2011,male,25-34 years,8,42962,18.62,Cabo Verde2011,,"1,864,824,081",4124,Millenials
+4907,Cabo Verde,2011,female,55-74 years,2,19887,10.06,Cabo Verde2011,,"1,864,824,081",4124,Boomers
+4908,Cabo Verde,2011,male,15-24 years,5,57386,8.71,Cabo Verde2011,,"1,864,824,081",4124,Millenials
+4909,Cabo Verde,2011,male,55-74 years,1,14827,6.74,Cabo Verde2011,,"1,864,824,081",4124,Boomers
+4910,Cabo Verde,2011,male,5-14 years,3,57301,5.24,Cabo Verde2011,,"1,864,824,081",4124,Generation Z
+4911,Cabo Verde,2011,female,35-54 years,2,49078,4.08,Cabo Verde2011,,"1,864,824,081",4124,Generation X
+4912,Cabo Verde,2011,female,15-24 years,1,56039,1.78,Cabo Verde2011,,"1,864,824,081",4124,Millenials
+4913,Cabo Verde,2011,female,25-34 years,0,38528,0.0,Cabo Verde2011,,"1,864,824,081",4124,Millenials
+4914,Cabo Verde,2011,female,5-14 years,0,56558,0.0,Cabo Verde2011,,"1,864,824,081",4124,Generation Z
+4915,Cabo Verde,2011,female,75+ years,0,7582,0.0,Cabo Verde2011,,"1,864,824,081",4124,Silent

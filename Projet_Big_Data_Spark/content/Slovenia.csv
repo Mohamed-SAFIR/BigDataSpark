@@ -1,0 +1,253 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+23036,Slovenia,1995,male,75+ years,27,25800,104.65,Slovenia1995,0.782,"21,273,055,398",11291,G.I. Generation
+23037,Slovenia,1995,male,55-74 years,126,165300,76.23,Slovenia1995,0.782,"21,273,055,398",11291,Silent
+23038,Slovenia,1995,male,35-54 years,174,287800,60.46,Slovenia1995,0.782,"21,273,055,398",11291,Boomers
+23039,Slovenia,1995,male,25-34 years,54,148100,36.46,Slovenia1995,0.782,"21,273,055,398",11291,Generation X
+23040,Slovenia,1995,male,15-24 years,51,151300,33.71,Slovenia1995,0.782,"21,273,055,398",11291,Generation X
+23041,Slovenia,1995,female,75+ years,16,58600,27.3,Slovenia1995,0.782,"21,273,055,398",11291,G.I. Generation
+23042,Slovenia,1995,female,55-74 years,47,215700,21.79,Slovenia1995,0.782,"21,273,055,398",11291,Silent
+23043,Slovenia,1995,female,35-54 years,43,280800,15.31,Slovenia1995,0.782,"21,273,055,398",11291,Boomers
+23044,Slovenia,1995,female,25-34 years,16,149200,10.72,Slovenia1995,0.782,"21,273,055,398",11291,Generation X
+23045,Slovenia,1995,female,15-24 years,6,144100,4.16,Slovenia1995,0.782,"21,273,055,398",11291,Generation X
+23046,Slovenia,1995,male,5-14 years,3,131800,2.28,Slovenia1995,0.782,"21,273,055,398",11291,Millenials
+23047,Slovenia,1995,female,5-14 years,1,125500,0.8,Slovenia1995,0.782,"21,273,055,398",11291,Millenials
+23048,Slovenia,1996,male,75+ years,30,26100,114.94,Slovenia1996,,"21,480,023,017",11346,G.I. Generation
+23049,Slovenia,1996,male,55-74 years,154,165900,92.83,Slovenia1996,,"21,480,023,017",11346,Silent
+23050,Slovenia,1996,male,35-54 years,178,290500,61.27,Slovenia1996,,"21,480,023,017",11346,Boomers
+23051,Slovenia,1996,male,25-34 years,68,151900,44.77,Slovenia1996,,"21,480,023,017",11346,Generation X
+23052,Slovenia,1996,female,75+ years,16,59800,26.76,Slovenia1996,,"21,480,023,017",11346,G.I. Generation
+23053,Slovenia,1996,female,55-74 years,51,216400,23.57,Slovenia1996,,"21,480,023,017",11346,Silent
+23054,Slovenia,1996,male,15-24 years,33,152900,21.58,Slovenia1996,,"21,480,023,017",11346,Generation X
+23055,Slovenia,1996,female,35-54 years,54,278800,19.37,Slovenia1996,,"21,480,023,017",11346,Boomers
+23056,Slovenia,1996,female,25-34 years,10,149400,6.69,Slovenia1996,,"21,480,023,017",11346,Generation X
+23057,Slovenia,1996,female,15-24 years,9,145000,6.21,Slovenia1996,,"21,480,023,017",11346,Generation X
+23058,Slovenia,1996,female,5-14 years,2,125100,1.6,Slovenia1996,,"21,480,023,017",11346,Millenials
+23059,Slovenia,1996,male,5-14 years,2,131300,1.52,Slovenia1996,,"21,480,023,017",11346,Millenials
+23060,Slovenia,1997,male,75+ years,31,26800,115.67,Slovenia1997,,"20,749,140,606",11014,G.I. Generation
+23061,Slovenia,1997,male,55-74 years,138,170200,81.08,Slovenia1997,,"20,749,140,606",11014,Silent
+23062,Slovenia,1997,male,35-54 years,192,290500,66.09,Slovenia1997,,"20,749,140,606",11014,Boomers
+23063,Slovenia,1997,male,25-34 years,69,145900,47.29,Slovenia1997,,"20,749,140,606",11014,Generation X
+23064,Slovenia,1997,male,15-24 years,40,151500,26.4,Slovenia1997,,"20,749,140,606",11014,Generation X
+23065,Slovenia,1997,female,75+ years,16,62400,25.64,Slovenia1997,,"20,749,140,606",11014,G.I. Generation
+23066,Slovenia,1997,female,35-54 years,54,285000,18.95,Slovenia1997,,"20,749,140,606",11014,Boomers
+23067,Slovenia,1997,female,55-74 years,35,217100,16.12,Slovenia1997,,"20,749,140,606",11014,Silent
+23068,Slovenia,1997,female,25-34 years,9,146300,6.15,Slovenia1997,,"20,749,140,606",11014,Generation X
+23069,Slovenia,1997,female,15-24 years,5,144100,3.47,Slovenia1997,,"20,749,140,606",11014,Generation X
+23070,Slovenia,1997,male,5-14 years,3,125000,2.4,Slovenia1997,,"20,749,140,606",11014,Millenials
+23071,Slovenia,1997,female,5-14 years,1,119100,0.84,Slovenia1997,,"20,749,140,606",11014,Millenials
+23072,Slovenia,1998,male,75+ years,29,27800,104.32,Slovenia1998,,"22,125,435,372",11767,G.I. Generation
+23073,Slovenia,1998,male,55-74 years,136,172800,78.7,Slovenia1998,,"22,125,435,372",11767,Silent
+23074,Slovenia,1998,male,35-54 years,200,291100,68.7,Slovenia1998,,"22,125,435,372",11767,Boomers
+23075,Slovenia,1998,male,15-24 years,59,150100,39.31,Slovenia1998,,"22,125,435,372",11767,Generation X
+23076,Slovenia,1998,male,25-34 years,49,144900,33.82,Slovenia1998,,"22,125,435,372",11767,Generation X
+23077,Slovenia,1998,female,75+ years,19,65300,29.1,Slovenia1998,,"22,125,435,372",11767,G.I. Generation
+23078,Slovenia,1998,female,55-74 years,42,217500,19.31,Slovenia1998,,"22,125,435,372",11767,Silent
+23079,Slovenia,1998,female,35-54 years,42,286600,14.65,Slovenia1998,,"22,125,435,372",11767,Boomers
+23080,Slovenia,1998,female,25-34 years,18,144800,12.43,Slovenia1998,,"22,125,435,372",11767,Generation X
+23081,Slovenia,1998,female,15-24 years,13,143000,9.09,Slovenia1998,,"22,125,435,372",11767,Generation X
+23082,Slovenia,1998,male,5-14 years,4,121200,3.3,Slovenia1998,,"22,125,435,372",11767,Millenials
+23083,Slovenia,1998,female,5-14 years,1,115200,0.87,Slovenia1998,,"22,125,435,372",11767,Millenials
+23084,Slovenia,1999,male,75+ years,31,28800,107.64,Slovenia1999,,"22,689,994,990",12041,G.I. Generation
+23085,Slovenia,1999,male,55-74 years,135,176200,76.62,Slovenia1999,,"22,689,994,990",12041,Silent
+23086,Slovenia,1999,male,35-54 years,184,293300,62.73,Slovenia1999,,"22,689,994,990",12041,Boomers
+23087,Slovenia,1999,male,25-34 years,64,144800,44.2,Slovenia1999,,"22,689,994,990",12041,Generation X
+23088,Slovenia,1999,female,55-74 years,54,218200,24.75,Slovenia1999,,"22,689,994,990",12041,Silent
+23089,Slovenia,1999,male,15-24 years,35,149200,23.46,Slovenia1999,,"22,689,994,990",12041,Generation X
+23090,Slovenia,1999,female,75+ years,13,68600,18.95,Slovenia1999,,"22,689,994,990",12041,G.I. Generation
+23091,Slovenia,1999,female,35-54 years,49,289200,16.94,Slovenia1999,,"22,689,994,990",12041,Boomers
+23092,Slovenia,1999,female,25-34 years,11,144100,7.63,Slovenia1999,,"22,689,994,990",12041,Generation X
+23093,Slovenia,1999,female,15-24 years,10,142100,7.04,Slovenia1999,,"22,689,994,990",12041,Generation X
+23094,Slovenia,1999,male,5-14 years,4,117800,3.4,Slovenia1999,,"22,689,994,990",12041,Millenials
+23095,Slovenia,1999,female,5-14 years,0,112100,0.0,Slovenia1999,,"22,689,994,990",12041,Millenials
+23096,Slovenia,2000,male,75+ years,36,29760,120.97,Slovenia2000,0.8240000000000001,"20,342,201,356",10783,G.I. Generation
+23097,Slovenia,2000,male,55-74 years,130,176802,73.53,Slovenia2000,0.8240000000000001,"20,342,201,356",10783,Silent
+23098,Slovenia,2000,male,35-54 years,180,297696,60.46,Slovenia2000,0.8240000000000001,"20,342,201,356",10783,Boomers
+23099,Slovenia,2000,male,25-34 years,53,144619,36.65,Slovenia2000,0.8240000000000001,"20,342,201,356",10783,Generation X
+23100,Slovenia,2000,female,55-74 years,64,216222,29.6,Slovenia2000,0.8240000000000001,"20,342,201,356",10783,Silent
+23101,Slovenia,2000,female,75+ years,19,71649,26.52,Slovenia2000,0.8240000000000001,"20,342,201,356",10783,G.I. Generation
+23102,Slovenia,2000,male,15-24 years,33,147767,22.33,Slovenia2000,0.8240000000000001,"20,342,201,356",10783,Generation X
+23103,Slovenia,2000,female,35-54 years,48,294792,16.28,Slovenia2000,0.8240000000000001,"20,342,201,356",10783,Boomers
+23104,Slovenia,2000,female,15-24 years,13,140949,9.22,Slovenia2000,0.8240000000000001,"20,342,201,356",10783,Generation X
+23105,Slovenia,2000,female,25-34 years,11,143055,7.69,Slovenia2000,0.8240000000000001,"20,342,201,356",10783,Generation X
+23106,Slovenia,2000,male,5-14 years,1,114436,0.87,Slovenia2000,0.8240000000000001,"20,342,201,356",10783,Millenials
+23107,Slovenia,2000,female,5-14 years,0,108736,0.0,Slovenia2000,0.8240000000000001,"20,342,201,356",10783,Millenials
+23108,Slovenia,2001,male,75+ years,45,31096,144.71,Slovenia2001,,"20,875,387,068",10979,Silent
+23109,Slovenia,2001,male,55-74 years,134,174548,76.77,Slovenia2001,,"20,875,387,068",10979,Silent
+23110,Slovenia,2001,male,35-54 years,177,311844,56.76,Slovenia2001,,"20,875,387,068",10979,Boomers
+23111,Slovenia,2001,male,25-34 years,65,150012,43.33,Slovenia2001,,"20,875,387,068",10979,Generation X
+23112,Slovenia,2001,female,75+ years,23,75594,30.43,Slovenia2001,,"20,875,387,068",10979,Silent
+23113,Slovenia,2001,male,15-24 years,36,146961,24.5,Slovenia2001,,"20,875,387,068",10979,Millenials
+23114,Slovenia,2001,female,55-74 years,43,211919,20.29,Slovenia2001,,"20,875,387,068",10979,Silent
+23115,Slovenia,2001,female,35-54 years,40,297875,13.43,Slovenia2001,,"20,875,387,068",10979,Boomers
+23116,Slovenia,2001,female,15-24 years,10,138713,7.21,Slovenia2001,,"20,875,387,068",10979,Millenials
+23117,Slovenia,2001,female,25-34 years,6,143357,4.19,Slovenia2001,,"20,875,387,068",10979,Generation X
+23118,Slovenia,2001,male,5-14 years,2,112524,1.78,Slovenia2001,,"20,875,387,068",10979,Millenials
+23119,Slovenia,2001,female,5-14 years,0,106887,0.0,Slovenia2001,,"20,875,387,068",10979,Millenials
+23120,Slovenia,2002,male,75+ years,35,32799,106.71,Slovenia2002,,"23,563,576,758",12362,Silent
+23121,Slovenia,2002,male,55-74 years,136,178262,76.29,Slovenia2002,,"23,563,576,758",12362,Silent
+23122,Slovenia,2002,male,35-54 years,191,314479,60.74,Slovenia2002,,"23,563,576,758",12362,Boomers
+23123,Slovenia,2002,male,25-34 years,46,150164,30.63,Slovenia2002,,"23,563,576,758",12362,Generation X
+23124,Slovenia,2002,female,75+ years,19,79266,23.97,Slovenia2002,,"23,563,576,758",12362,Silent
+23125,Slovenia,2002,male,15-24 years,25,144651,17.28,Slovenia2002,,"23,563,576,758",12362,Millenials
+23126,Slovenia,2002,female,55-74 years,34,213137,15.95,Slovenia2002,,"23,563,576,758",12362,Silent
+23127,Slovenia,2002,female,35-54 years,42,300471,13.98,Slovenia2002,,"23,563,576,758",12362,Boomers
+23128,Slovenia,2002,female,25-34 years,8,142886,5.6,Slovenia2002,,"23,563,576,758",12362,Generation X
+23129,Slovenia,2002,female,15-24 years,3,136783,2.19,Slovenia2002,,"23,563,576,758",12362,Millenials
+23130,Slovenia,2002,female,5-14 years,1,103743,0.96,Slovenia2002,,"23,563,576,758",12362,Millenials
+23131,Slovenia,2002,male,5-14 years,0,109483,0.0,Slovenia2002,,"23,563,576,758",12362,Millenials
+23132,Slovenia,2003,male,75+ years,40,34740,115.14,Slovenia2003,,"29,697,448,108",15568,Silent
+23133,Slovenia,2003,male,55-74 years,134,181492,73.83,Slovenia2003,,"29,697,448,108",15568,Silent
+23134,Slovenia,2003,male,35-54 years,184,315456,58.33,Slovenia2003,,"29,697,448,108",15568,Boomers
+23135,Slovenia,2003,male,25-34 years,46,151181,30.43,Slovenia2003,,"29,697,448,108",15568,Generation X
+23136,Slovenia,2003,female,75+ years,23,82323,27.94,Slovenia2003,,"29,697,448,108",15568,Silent
+23137,Slovenia,2003,male,15-24 years,35,142836,24.5,Slovenia2003,,"29,697,448,108",15568,Millenials
+23138,Slovenia,2003,female,55-74 years,47,214044,21.96,Slovenia2003,,"29,697,448,108",15568,Silent
+23139,Slovenia,2003,female,35-54 years,36,302356,11.91,Slovenia2003,,"29,697,448,108",15568,Boomers
+23140,Slovenia,2003,female,15-24 years,9,135063,6.66,Slovenia2003,,"29,697,448,108",15568,Millenials
+23141,Slovenia,2003,female,25-34 years,7,142434,4.91,Slovenia2003,,"29,697,448,108",15568,Generation X
+23142,Slovenia,2003,male,5-14 years,1,105663,0.95,Slovenia2003,,"29,697,448,108",15568,Millenials
+23143,Slovenia,2003,female,5-14 years,0,100001,0.0,Slovenia2003,,"29,697,448,108",15568,Millenials
+23144,Slovenia,2004,male,55-74 years,119,184906,64.36,Slovenia2004,,"34,470,227,454",18067,Silent
+23145,Slovenia,2004,male,75+ years,19,36793,51.64,Slovenia2004,,"34,470,227,454",18067,Silent
+23146,Slovenia,2004,male,35-54 years,162,315288,51.38,Slovenia2004,,"34,470,227,454",18067,Boomers
+23147,Slovenia,2004,female,75+ years,23,85655,26.85,Slovenia2004,,"34,470,227,454",18067,Silent
+23148,Slovenia,2004,male,25-34 years,38,152360,24.94,Slovenia2004,,"34,470,227,454",18067,Generation X
+23149,Slovenia,2004,female,55-74 years,50,215493,23.2,Slovenia2004,,"34,470,227,454",18067,Silent
+23150,Slovenia,2004,male,15-24 years,30,139197,21.55,Slovenia2004,,"34,470,227,454",18067,Millenials
+23151,Slovenia,2004,female,35-54 years,46,302844,15.19,Slovenia2004,,"34,470,227,454",18067,Boomers
+23152,Slovenia,2004,female,15-24 years,12,132163,9.08,Slovenia2004,,"34,470,227,454",18067,Millenials
+23153,Slovenia,2004,female,25-34 years,9,143419,6.28,Slovenia2004,,"34,470,227,454",18067,Generation X
+23154,Slovenia,2004,female,5-14 years,2,97051,2.06,Slovenia2004,,"34,470,227,454",18067,Millenials
+23155,Slovenia,2004,male,5-14 years,2,102693,1.95,Slovenia2004,,"34,470,227,454",18067,Millenials
+23156,Slovenia,2005,male,75+ years,43,39044,110.13,Slovenia2005,0.857,"36,346,974,008",19012,Silent
+23157,Slovenia,2005,male,55-74 years,108,189607,56.96,Slovenia2005,0.857,"36,346,974,008",19012,Silent
+23158,Slovenia,2005,male,35-54 years,152,314730,48.3,Slovenia2005,0.857,"36,346,974,008",19012,Boomers
+23159,Slovenia,2005,male,25-34 years,59,154354,38.22,Slovenia2005,0.857,"36,346,974,008",19012,Generation X
+23160,Slovenia,2005,male,15-24 years,29,135934,21.33,Slovenia2005,0.857,"36,346,974,008",19012,Millenials
+23161,Slovenia,2005,female,75+ years,18,88774,20.28,Slovenia2005,0.857,"36,346,974,008",19012,Silent
+23162,Slovenia,2005,female,55-74 years,44,217991,20.18,Slovenia2005,0.857,"36,346,974,008",19012,Silent
+23163,Slovenia,2005,female,35-54 years,37,302228,12.24,Slovenia2005,0.857,"36,346,974,008",19012,Boomers
+23164,Slovenia,2005,female,25-34 years,7,144701,4.84,Slovenia2005,0.857,"36,346,974,008",19012,Generation X
+23165,Slovenia,2005,female,15-24 years,5,128929,3.88,Slovenia2005,0.857,"36,346,974,008",19012,Millenials
+23166,Slovenia,2005,female,5-14 years,1,94970,1.05,Slovenia2005,0.857,"36,346,974,008",19012,Millenials
+23167,Slovenia,2005,male,5-14 years,0,100555,0.0,Slovenia2005,0.857,"36,346,974,008",19012,Millenials
+23168,Slovenia,2006,male,75+ years,48,41789,114.86,Slovenia2006,,"39,587,732,029",20634,Silent
+23169,Slovenia,2006,male,55-74 years,142,194970,72.83,Slovenia2006,,"39,587,732,029",20634,Silent
+23170,Slovenia,2006,male,35-54 years,159,313755,50.68,Slovenia2006,,"39,587,732,029",20634,Boomers
+23171,Slovenia,2006,male,25-34 years,45,157003,28.66,Slovenia2006,,"39,587,732,029",20634,Generation X
+23172,Slovenia,2006,female,75+ years,21,92452,22.71,Slovenia2006,,"39,587,732,029",20634,Silent
+23173,Slovenia,2006,female,55-74 years,45,220693,20.39,Slovenia2006,,"39,587,732,029",20634,Silent
+23174,Slovenia,2006,male,15-24 years,21,133542,15.73,Slovenia2006,,"39,587,732,029",20634,Millenials
+23175,Slovenia,2006,female,35-54 years,33,301024,10.96,Slovenia2006,,"39,587,732,029",20634,Boomers
+23176,Slovenia,2006,female,15-24 years,7,125724,5.57,Slovenia2006,,"39,587,732,029",20634,Millenials
+23177,Slovenia,2006,female,25-34 years,8,146103,5.48,Slovenia2006,,"39,587,732,029",20634,Generation X
+23178,Slovenia,2006,female,5-14 years,0,92937,0.0,Slovenia2006,,"39,587,732,029",20634,Millenials
+23179,Slovenia,2006,male,5-14 years,0,98578,0.0,Slovenia2006,,"39,587,732,029",20634,Millenials
+23180,Slovenia,2007,male,75+ years,45,44241,101.72,Slovenia2007,,"48,114,688,201",24964,Silent
+23181,Slovenia,2007,male,55-74 years,112,199979,56.01,Slovenia2007,,"48,114,688,201",24964,Silent
+23182,Slovenia,2007,male,35-54 years,121,315897,38.3,Slovenia2007,,"48,114,688,201",24964,Boomers
+23183,Slovenia,2007,male,25-34 years,42,159609,26.31,Slovenia2007,,"48,114,688,201",24964,Generation X
+23184,Slovenia,2007,female,75+ years,21,95826,21.91,Slovenia2007,,"48,114,688,201",24964,Silent
+23185,Slovenia,2007,female,55-74 years,31,223540,13.87,Slovenia2007,,"48,114,688,201",24964,Silent
+23186,Slovenia,2007,male,15-24 years,15,130849,11.46,Slovenia2007,,"48,114,688,201",24964,Millenials
+23187,Slovenia,2007,female,35-54 years,32,300437,10.65,Slovenia2007,,"48,114,688,201",24964,Boomers
+23188,Slovenia,2007,female,15-24 years,7,121715,5.75,Slovenia2007,,"48,114,688,201",24964,Millenials
+23189,Slovenia,2007,female,25-34 years,8,146261,5.47,Slovenia2007,,"48,114,688,201",24964,Generation X
+23190,Slovenia,2007,female,5-14 years,0,91679,0.0,Slovenia2007,,"48,114,688,201",24964,Generation Z
+23191,Slovenia,2007,male,5-14 years,0,97299,0.0,Slovenia2007,,"48,114,688,201",24964,Generation Z
+23192,Slovenia,2008,male,75+ years,41,46547,88.08,Slovenia2008,,"55,589,849,128",28599,Silent
+23193,Slovenia,2008,male,55-74 years,96,206257,46.54,Slovenia2008,,"55,589,849,128",28599,Silent
+23194,Slovenia,2008,male,35-54 years,124,319105,38.86,Slovenia2008,,"55,589,849,128",28599,Boomers
+23195,Slovenia,2008,male,15-24 years,28,131046,21.37,Slovenia2008,,"55,589,849,128",28599,Millenials
+23196,Slovenia,2008,male,25-34 years,35,164191,21.32,Slovenia2008,,"55,589,849,128",28599,Generation X
+23197,Slovenia,2008,female,75+ years,17,99156,17.14,Slovenia2008,,"55,589,849,128",28599,Silent
+23198,Slovenia,2008,female,55-74 years,32,226771,14.11,Slovenia2008,,"55,589,849,128",28599,Silent
+23199,Slovenia,2008,female,35-54 years,25,299486,8.35,Slovenia2008,,"55,589,849,128",28599,Boomers
+23200,Slovenia,2008,female,25-34 years,7,146036,4.79,Slovenia2008,,"55,589,849,128",28599,Generation X
+23201,Slovenia,2008,female,15-24 years,3,118493,2.53,Slovenia2008,,"55,589,849,128",28599,Millenials
+23202,Slovenia,2008,female,5-14 years,0,90499,0.0,Slovenia2008,,"55,589,849,128",28599,Generation Z
+23203,Slovenia,2008,male,5-14 years,0,96171,0.0,Slovenia2008,,"55,589,849,128",28599,Generation Z
+23204,Slovenia,2009,male,75+ years,38,48622,78.15,Slovenia2009,,"50,244,793,832",25872,Silent
+23205,Slovenia,2009,male,55-74 years,117,211765,55.25,Slovenia2009,,"50,244,793,832",25872,Silent
+23206,Slovenia,2009,male,35-54 years,134,316752,42.3,Slovenia2009,,"50,244,793,832",25872,Boomers
+23207,Slovenia,2009,male,25-34 years,43,162292,26.5,Slovenia2009,,"50,244,793,832",25872,Generation X
+23208,Slovenia,2009,female,75+ years,21,101714,20.65,Slovenia2009,,"50,244,793,832",25872,Silent
+23209,Slovenia,2009,female,55-74 years,38,230162,16.51,Slovenia2009,,"50,244,793,832",25872,Silent
+23210,Slovenia,2009,male,15-24 years,18,125503,14.34,Slovenia2009,,"50,244,793,832",25872,Millenials
+23211,Slovenia,2009,female,35-54 years,33,298902,11.04,Slovenia2009,,"50,244,793,832",25872,Boomers
+23212,Slovenia,2009,female,15-24 years,3,115384,2.6,Slovenia2009,,"50,244,793,832",25872,Millenials
+23213,Slovenia,2009,female,25-34 years,2,145730,1.37,Slovenia2009,,"50,244,793,832",25872,Generation X
+23214,Slovenia,2009,female,5-14 years,0,89801,0.0,Slovenia2009,,"50,244,793,832",25872,Generation Z
+23215,Slovenia,2009,male,5-14 years,0,95410,0.0,Slovenia2009,,"50,244,793,832",25872,Generation Z
+23216,Slovenia,2010,male,75+ years,49,50887,96.29,Slovenia2010,0.8759999999999999,"48,013,606,745",24689,Silent
+23217,Slovenia,2010,male,55-74 years,107,217743,49.14,Slovenia2010,0.8759999999999999,"48,013,606,745",24689,Silent
+23218,Slovenia,2010,male,35-54 years,121,315209,38.39,Slovenia2010,0.8759999999999999,"48,013,606,745",24689,Generation X
+23219,Slovenia,2010,male,15-24 years,25,121143,20.64,Slovenia2010,0.8759999999999999,"48,013,606,745",24689,Millenials
+23220,Slovenia,2010,male,25-34 years,32,161002,19.88,Slovenia2010,0.8759999999999999,"48,013,606,745",24689,Generation X
+23221,Slovenia,2010,female,55-74 years,35,234322,14.94,Slovenia2010,0.8759999999999999,"48,013,606,745",24689,Silent
+23222,Slovenia,2010,female,75+ years,12,104453,11.49,Slovenia2010,0.8759999999999999,"48,013,606,745",24689,Silent
+23223,Slovenia,2010,female,35-54 years,25,297867,8.39,Slovenia2010,0.8759999999999999,"48,013,606,745",24689,Generation X
+23224,Slovenia,2010,female,25-34 years,5,145274,3.44,Slovenia2010,0.8759999999999999,"48,013,606,745",24689,Generation X
+23225,Slovenia,2010,male,5-14 years,2,95051,2.1,Slovenia2010,0.8759999999999999,"48,013,606,745",24689,Generation Z
+23226,Slovenia,2010,female,15-24 years,1,112313,0.89,Slovenia2010,0.8759999999999999,"48,013,606,745",24689,Millenials
+23227,Slovenia,2010,female,5-14 years,0,89510,0.0,Slovenia2010,0.8759999999999999,"48,013,606,745",24689,Generation Z
+23228,Slovenia,2011,male,75+ years,56,53258,105.15,Slovenia2011,0.877,"51,290,792,018",26377,Silent
+23229,Slovenia,2011,male,55-74 years,132,222946,59.21,Slovenia2011,0.877,"51,290,792,018",26377,Boomers
+23230,Slovenia,2011,male,35-54 years,112,314052,35.66,Slovenia2011,0.877,"51,290,792,018",26377,Generation X
+23231,Slovenia,2011,female,75+ years,20,106590,18.76,Slovenia2011,0.877,"51,290,792,018",26377,Silent
+23232,Slovenia,2011,male,15-24 years,21,117052,17.94,Slovenia2011,0.877,"51,290,792,018",26377,Millenials
+23233,Slovenia,2011,male,25-34 years,26,157791,16.48,Slovenia2011,0.877,"51,290,792,018",26377,Millenials
+23234,Slovenia,2011,female,55-74 years,30,238651,12.57,Slovenia2011,0.877,"51,290,792,018",26377,Boomers
+23235,Slovenia,2011,female,35-54 years,30,297513,10.08,Slovenia2011,0.877,"51,290,792,018",26377,Generation X
+23236,Slovenia,2011,female,25-34 years,7,142978,4.9,Slovenia2011,0.877,"51,290,792,018",26377,Millenials
+23237,Slovenia,2011,female,15-24 years,1,109517,0.91,Slovenia2011,0.877,"51,290,792,018",26377,Millenials
+23238,Slovenia,2011,female,5-14 years,0,89373,0.0,Slovenia2011,0.877,"51,290,792,018",26377,Generation Z
+23239,Slovenia,2011,male,5-14 years,0,94840,0.0,Slovenia2011,0.877,"51,290,792,018",26377,Generation Z
+23240,Slovenia,2012,male,75+ years,60,55583,107.95,Slovenia2012,0.878,"46,352,802,766",23820,Silent
+23241,Slovenia,2012,male,55-74 years,118,227915,51.77,Slovenia2012,0.878,"46,352,802,766",23820,Boomers
+23242,Slovenia,2012,male,35-54 years,134,313295,42.77,Slovenia2012,0.878,"46,352,802,766",23820,Generation X
+23243,Slovenia,2012,male,25-34 years,28,155339,18.03,Slovenia2012,0.878,"46,352,802,766",23820,Millenials
+23244,Slovenia,2012,male,15-24 years,20,113220,17.66,Slovenia2012,0.878,"46,352,802,766",23820,Millenials
+23245,Slovenia,2012,female,55-74 years,38,242411,15.68,Slovenia2012,0.878,"46,352,802,766",23820,Boomers
+23246,Slovenia,2012,female,75+ years,12,108527,11.06,Slovenia2012,0.878,"46,352,802,766",23820,Silent
+23247,Slovenia,2012,female,35-54 years,19,296768,6.4,Slovenia2012,0.878,"46,352,802,766",23820,Generation X
+23248,Slovenia,2012,female,25-34 years,9,141197,6.37,Slovenia2012,0.878,"46,352,802,766",23820,Millenials
+23249,Slovenia,2012,female,5-14 years,1,89873,1.11,Slovenia2012,0.878,"46,352,802,766",23820,Generation Z
+23250,Slovenia,2012,female,15-24 years,1,106474,0.94,Slovenia2012,0.878,"46,352,802,766",23820,Millenials
+23251,Slovenia,2012,male,5-14 years,0,95386,0.0,Slovenia2012,0.878,"46,352,802,766",23820,Generation Z
+23252,Slovenia,2013,male,75+ years,57,57600,98.96,Slovenia2013,0.878,"48,116,256,926",24697,Silent
+23253,Slovenia,2013,male,55-74 years,121,231859,52.19,Slovenia2013,0.878,"48,116,256,926",24697,Boomers
+23254,Slovenia,2013,male,35-54 years,122,314098,38.84,Slovenia2013,0.878,"48,116,256,926",24697,Generation X
+23255,Slovenia,2013,male,25-34 years,36,153170,23.5,Slovenia2013,0.878,"48,116,256,926",24697,Millenials
+23256,Slovenia,2013,male,15-24 years,23,108938,21.11,Slovenia2013,0.878,"48,116,256,926",24697,Millenials
+23257,Slovenia,2013,female,75+ years,20,110100,18.17,Slovenia2013,0.878,"48,116,256,926",24697,Silent
+23258,Slovenia,2013,female,55-74 years,38,245775,15.46,Slovenia2013,0.878,"48,116,256,926",24697,Boomers
+23259,Slovenia,2013,female,35-54 years,18,295893,6.08,Slovenia2013,0.878,"48,116,256,926",24697,Generation X
+23260,Slovenia,2013,female,25-34 years,8,139622,5.73,Slovenia2013,0.878,"48,116,256,926",24697,Millenials
+23261,Slovenia,2013,female,15-24 years,2,102771,1.95,Slovenia2013,0.878,"48,116,256,926",24697,Millenials
+23262,Slovenia,2013,male,5-14 years,1,96956,1.03,Slovenia2013,0.878,"48,116,256,926",24697,Generation Z
+23263,Slovenia,2013,female,5-14 years,0,91494,0.0,Slovenia2013,0.878,"48,116,256,926",24697,Generation Z
+23264,Slovenia,2014,male,75+ years,51,59850,85.21,Slovenia2014,0.88,"49,904,928,335",25569,Silent
+23265,Slovenia,2014,male,55-74 years,110,236325,46.55,Slovenia2014,0.88,"49,904,928,335",25569,Boomers
+23266,Slovenia,2014,male,35-54 years,114,314707,36.22,Slovenia2014,0.88,"49,904,928,335",25569,Generation X
+23267,Slovenia,2014,male,25-34 years,33,149299,22.1,Slovenia2014,0.88,"49,904,928,335",25569,Millenials
+23268,Slovenia,2014,male,15-24 years,16,105581,15.15,Slovenia2014,0.88,"49,904,928,335",25569,Millenials
+23269,Slovenia,2014,female,75+ years,15,112058,13.39,Slovenia2014,0.88,"49,904,928,335",25569,Silent
+23270,Slovenia,2014,female,55-74 years,21,249169,8.43,Slovenia2014,0.88,"49,904,928,335",25569,Boomers
+23271,Slovenia,2014,female,35-54 years,21,295872,7.1,Slovenia2014,0.88,"49,904,928,335",25569,Generation X
+23272,Slovenia,2014,female,15-24 years,3,99794,3.01,Slovenia2014,0.88,"49,904,928,335",25569,Millenials
+23273,Slovenia,2014,female,25-34 years,3,136448,2.2,Slovenia2014,0.88,"49,904,928,335",25569,Millenials
+23274,Slovenia,2014,male,5-14 years,1,99080,1.01,Slovenia2014,0.88,"49,904,928,335",25569,Generation Z
+23275,Slovenia,2014,female,5-14 years,0,93603,0.0,Slovenia2014,0.88,"49,904,928,335",25569,Generation Z
+23276,Slovenia,2015,male,75+ years,62,62345,99.45,Slovenia2015,,"43,072,415,017",22036,Silent
+23277,Slovenia,2015,male,55-74 years,120,239919,50.02,Slovenia2015,,"43,072,415,017",22036,Boomers
+23278,Slovenia,2015,male,35-54 years,106,315248,33.62,Slovenia2015,,"43,072,415,017",22036,Generation X
+23279,Slovenia,2015,male,25-34 years,29,144722,20.04,Slovenia2015,,"43,072,415,017",22036,Millenials
+23280,Slovenia,2015,female,75+ years,19,114010,16.67,Slovenia2015,,"43,072,415,017",22036,Silent
+23281,Slovenia,2015,female,55-74 years,40,252261,15.86,Slovenia2015,,"43,072,415,017",22036,Boomers
+23282,Slovenia,2015,male,15-24 years,14,103331,13.55,Slovenia2015,,"43,072,415,017",22036,Millenials
+23283,Slovenia,2015,female,35-54 years,23,295637,7.78,Slovenia2015,,"43,072,415,017",22036,Generation X
+23284,Slovenia,2015,female,25-34 years,5,132806,3.76,Slovenia2015,,"43,072,415,017",22036,Millenials
+23285,Slovenia,2015,female,15-24 years,3,97579,3.07,Slovenia2015,,"43,072,415,017",22036,Millenials
+23286,Slovenia,2015,male,5-14 years,1,101184,0.99,Slovenia2015,,"43,072,415,017",22036,Generation Z
+23287,Slovenia,2015,female,5-14 years,0,95590,0.0,Slovenia2015,,"43,072,415,017",22036,Generation Z

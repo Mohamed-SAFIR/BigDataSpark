@@ -1,0 +1,73 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+17796,Nicaragua,2010,male,75+ years,8,45706,17.5,Nicaragua2010,0.619,"8,758,622,329",1715,Silent
+17797,Nicaragua,2010,male,25-34 years,82,477796,17.16,Nicaragua2010,0.619,"8,758,622,329",1715,Generation X
+17798,Nicaragua,2010,male,35-54 years,73,524715,13.91,Nicaragua2010,0.619,"8,758,622,329",1715,Generation X
+17799,Nicaragua,2010,male,15-24 years,83,614837,13.5,Nicaragua2010,0.619,"8,758,622,329",1715,Millenials
+17800,Nicaragua,2010,male,55-74 years,23,199900,11.51,Nicaragua2010,0.619,"8,758,622,329",1715,Silent
+17801,Nicaragua,2010,female,15-24 years,33,594335,5.55,Nicaragua2010,0.619,"8,758,622,329",1715,Millenials
+17802,Nicaragua,2010,female,25-34 years,15,497514,3.01,Nicaragua2010,0.619,"8,758,622,329",1715,Generation X
+17803,Nicaragua,2010,female,35-54 years,18,599881,3.0,Nicaragua2010,0.619,"8,758,622,329",1715,Generation X
+17804,Nicaragua,2010,female,55-74 years,4,238978,1.67,Nicaragua2010,0.619,"8,758,622,329",1715,Silent
+17805,Nicaragua,2010,female,5-14 years,7,609040,1.15,Nicaragua2010,0.619,"8,758,622,329",1715,Generation Z
+17806,Nicaragua,2010,male,5-14 years,5,642002,0.78,Nicaragua2010,0.619,"8,758,622,329",1715,Generation Z
+17807,Nicaragua,2010,female,75+ years,0,62723,0.0,Nicaragua2010,0.619,"8,758,622,329",1715,Silent
+17808,Nicaragua,2011,male,25-34 years,82,490946,16.7,Nicaragua2011,0.623,"9,774,316,692",1888,Millenials
+17809,Nicaragua,2011,male,75+ years,7,47848,14.63,Nicaragua2011,0.623,"9,774,316,692",1888,Silent
+17810,Nicaragua,2011,male,15-24 years,88,615256,14.3,Nicaragua2011,0.623,"9,774,316,692",1888,Millenials
+17811,Nicaragua,2011,male,55-74 years,29,208944,13.88,Nicaragua2011,0.623,"9,774,316,692",1888,Boomers
+17812,Nicaragua,2011,male,35-54 years,61,539194,11.31,Nicaragua2011,0.623,"9,774,316,692",1888,Generation X
+17813,Nicaragua,2011,female,15-24 years,54,593303,9.1,Nicaragua2011,0.623,"9,774,316,692",1888,Millenials
+17814,Nicaragua,2011,female,25-34 years,13,508442,2.56,Nicaragua2011,0.623,"9,774,316,692",1888,Millenials
+17815,Nicaragua,2011,female,55-74 years,6,250720,2.39,Nicaragua2011,0.623,"9,774,316,692",1888,Boomers
+17816,Nicaragua,2011,female,35-54 years,11,616933,1.78,Nicaragua2011,0.623,"9,774,316,692",1888,Generation X
+17817,Nicaragua,2011,female,5-14 years,9,603810,1.49,Nicaragua2011,0.623,"9,774,316,692",1888,Generation Z
+17818,Nicaragua,2011,male,5-14 years,9,637235,1.41,Nicaragua2011,0.623,"9,774,316,692",1888,Generation Z
+17819,Nicaragua,2011,female,75+ years,0,65290,0.0,Nicaragua2011,0.623,"9,774,316,692",1888,Silent
+17820,Nicaragua,2012,male,25-34 years,74,503628,14.69,Nicaragua2012,0.625,"10,532,001,130",2006,Millenials
+17821,Nicaragua,2012,male,15-24 years,73,615327,11.86,Nicaragua2012,0.625,"10,532,001,130",2006,Millenials
+17822,Nicaragua,2012,male,55-74 years,24,218891,10.96,Nicaragua2012,0.625,"10,532,001,130",2006,Boomers
+17823,Nicaragua,2012,male,35-54 years,53,554382,9.56,Nicaragua2012,0.625,"10,532,001,130",2006,Generation X
+17824,Nicaragua,2012,male,75+ years,4,49926,8.01,Nicaragua2012,0.625,"10,532,001,130",2006,Silent
+17825,Nicaragua,2012,female,15-24 years,42,591526,7.1,Nicaragua2012,0.625,"10,532,001,130",2006,Millenials
+17826,Nicaragua,2012,female,25-34 years,17,518676,3.28,Nicaragua2012,0.625,"10,532,001,130",2006,Millenials
+17827,Nicaragua,2012,female,35-54 years,12,634573,1.89,Nicaragua2012,0.625,"10,532,001,130",2006,Generation X
+17828,Nicaragua,2012,female,55-74 years,4,263316,1.52,Nicaragua2012,0.625,"10,532,001,130",2006,Boomers
+17829,Nicaragua,2012,female,75+ years,1,67819,1.47,Nicaragua2012,0.625,"10,532,001,130",2006,Silent
+17830,Nicaragua,2012,female,5-14 years,6,599655,1.0,Nicaragua2012,0.625,"10,532,001,130",2006,Generation Z
+17831,Nicaragua,2012,male,5-14 years,6,633724,0.95,Nicaragua2012,0.625,"10,532,001,130",2006,Generation Z
+17832,Nicaragua,2013,male,25-34 years,83,515416,16.1,Nicaragua2013,0.628,"10,982,972,256",2062,Millenials
+17833,Nicaragua,2013,male,55-74 years,33,229411,14.38,Nicaragua2013,0.628,"10,982,972,256",2062,Boomers
+17834,Nicaragua,2013,male,15-24 years,85,615015,13.82,Nicaragua2013,0.628,"10,982,972,256",2062,Millenials
+17835,Nicaragua,2013,male,35-54 years,68,570472,11.92,Nicaragua2013,0.628,"10,982,972,256",2062,Generation X
+17836,Nicaragua,2013,male,75+ years,6,51968,11.55,Nicaragua2013,0.628,"10,982,972,256",2062,Silent
+17837,Nicaragua,2013,female,15-24 years,38,589004,6.45,Nicaragua2013,0.628,"10,982,972,256",2062,Millenials
+17838,Nicaragua,2013,female,35-54 years,15,652953,2.3,Nicaragua2013,0.628,"10,982,972,256",2062,Generation X
+17839,Nicaragua,2013,female,25-34 years,10,527875,1.89,Nicaragua2013,0.628,"10,982,972,256",2062,Millenials
+17840,Nicaragua,2013,female,5-14 years,10,596571,1.68,Nicaragua2013,0.628,"10,982,972,256",2062,Generation Z
+17841,Nicaragua,2013,female,55-74 years,2,276506,0.72,Nicaragua2013,0.628,"10,982,972,256",2062,Boomers
+17842,Nicaragua,2013,male,5-14 years,1,631355,0.16,Nicaragua2013,0.628,"10,982,972,256",2062,Generation Z
+17843,Nicaragua,2013,female,75+ years,0,70389,0.0,Nicaragua2013,0.628,"10,982,972,256",2062,Silent
+17844,Nicaragua,2014,male,25-34 years,73,525741,13.89,Nicaragua2014,0.631,"11,880,438,824",2199,Millenials
+17845,Nicaragua,2014,male,55-74 years,29,240048,12.08,Nicaragua2014,0.631,"11,880,438,824",2199,Boomers
+17846,Nicaragua,2014,male,35-54 years,67,587734,11.4,Nicaragua2014,0.631,"11,880,438,824",2199,Generation X
+17847,Nicaragua,2014,male,15-24 years,65,614142,10.58,Nicaragua2014,0.631,"11,880,438,824",2199,Millenials
+17848,Nicaragua,2014,male,75+ years,4,54010,7.41,Nicaragua2014,0.631,"11,880,438,824",2199,Silent
+17849,Nicaragua,2014,female,15-24 years,31,585711,5.29,Nicaragua2014,0.631,"11,880,438,824",2199,Millenials
+17850,Nicaragua,2014,female,25-34 years,16,535623,2.99,Nicaragua2014,0.631,"11,880,438,824",2199,Millenials
+17851,Nicaragua,2014,female,75+ years,2,73073,2.74,Nicaragua2014,0.631,"11,880,438,824",2199,Silent
+17852,Nicaragua,2014,female,55-74 years,6,289927,2.07,Nicaragua2014,0.631,"11,880,438,824",2199,Boomers
+17853,Nicaragua,2014,female,5-14 years,12,594338,2.02,Nicaragua2014,0.631,"11,880,438,824",2199,Generation Z
+17854,Nicaragua,2014,male,5-14 years,3,629806,0.48,Nicaragua2014,0.631,"11,880,438,824",2199,Generation Z
+17855,Nicaragua,2014,female,35-54 years,3,672271,0.45,Nicaragua2014,0.631,"11,880,438,824",2199,Generation X
+17856,Nicaragua,2015,male,75+ years,7,56061,12.49,Nicaragua2015,,"12,611,087,031",2303,Silent
+17857,Nicaragua,2015,male,25-34 years,65,534310,12.17,Nicaragua2015,,"12,611,087,031",2303,Millenials
+17858,Nicaragua,2015,male,15-24 years,68,612707,11.1,Nicaragua2015,,"12,611,087,031",2303,Millenials
+17859,Nicaragua,2015,male,35-54 years,67,606317,11.05,Nicaragua2015,,"12,611,087,031",2303,Generation X
+17860,Nicaragua,2015,male,55-74 years,18,250532,7.18,Nicaragua2015,,"12,611,087,031",2303,Boomers
+17861,Nicaragua,2015,female,15-24 years,41,581787,7.05,Nicaragua2015,,"12,611,087,031",2303,Millenials
+17862,Nicaragua,2015,female,25-34 years,19,541679,3.51,Nicaragua2015,,"12,611,087,031",2303,Millenials
+17863,Nicaragua,2015,female,35-54 years,14,692648,2.02,Nicaragua2015,,"12,611,087,031",2303,Generation X
+17864,Nicaragua,2015,female,55-74 years,4,303372,1.32,Nicaragua2015,,"12,611,087,031",2303,Boomers
+17865,Nicaragua,2015,female,5-14 years,7,592557,1.18,Nicaragua2015,,"12,611,087,031",2303,Generation Z
+17866,Nicaragua,2015,male,5-14 years,5,628588,0.8,Nicaragua2015,,"12,611,087,031",2303,Generation Z
+17867,Nicaragua,2015,female,75+ years,0,75925,0.0,Nicaragua2015,,"12,611,087,031",2303,Silent

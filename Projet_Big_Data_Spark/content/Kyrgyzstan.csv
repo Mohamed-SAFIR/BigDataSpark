@@ -1,0 +1,313 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+14480,Kyrgyzstan,1990,male,75+ years,14,25200,55.56,Kyrgyzstan1990,0.615,"2,674,000,000",715,G.I. Generation
+14481,Kyrgyzstan,1990,male,35-54 years,149,354400,42.04,Kyrgyzstan1990,0.615,"2,674,000,000",715,Silent
+14482,Kyrgyzstan,1990,male,55-74 years,68,175000,38.86,Kyrgyzstan1990,0.615,"2,674,000,000",715,G.I. Generation
+14483,Kyrgyzstan,1990,male,25-34 years,99,350200,28.27,Kyrgyzstan1990,0.615,"2,674,000,000",715,Boomers
+14484,Kyrgyzstan,1990,female,75+ years,15,59800,25.08,Kyrgyzstan1990,0.615,"2,674,000,000",715,G.I. Generation
+14485,Kyrgyzstan,1990,female,55-74 years,38,242200,15.69,Kyrgyzstan1990,0.615,"2,674,000,000",715,G.I. Generation
+14486,Kyrgyzstan,1990,male,15-24 years,54,400300,13.49,Kyrgyzstan1990,0.615,"2,674,000,000",715,Generation X
+14487,Kyrgyzstan,1990,female,35-54 years,36,368500,9.77,Kyrgyzstan1990,0.615,"2,674,000,000",715,Silent
+14488,Kyrgyzstan,1990,female,15-24 years,31,390100,7.95,Kyrgyzstan1990,0.615,"2,674,000,000",715,Generation X
+14489,Kyrgyzstan,1990,female,25-34 years,23,357500,6.43,Kyrgyzstan1990,0.615,"2,674,000,000",715,Boomers
+14490,Kyrgyzstan,1990,male,5-14 years,16,511400,3.13,Kyrgyzstan1990,0.615,"2,674,000,000",715,Generation X
+14491,Kyrgyzstan,1990,female,5-14 years,4,502700,0.8,Kyrgyzstan1990,0.615,"2,674,000,000",715,Generation X
+14492,Kyrgyzstan,1991,male,75+ years,14,24100,58.09,Kyrgyzstan1991,,"2,570,833,333",677,G.I. Generation
+14493,Kyrgyzstan,1991,male,55-74 years,73,180300,40.49,Kyrgyzstan1991,,"2,570,833,333",677,Silent
+14494,Kyrgyzstan,1991,male,35-54 years,138,361100,38.22,Kyrgyzstan1991,,"2,570,833,333",677,Boomers
+14495,Kyrgyzstan,1991,male,25-34 years,120,351100,34.18,Kyrgyzstan1991,,"2,570,833,333",677,Boomers
+14496,Kyrgyzstan,1991,female,75+ years,14,58300,24.01,Kyrgyzstan1991,,"2,570,833,333",677,G.I. Generation
+14497,Kyrgyzstan,1991,female,55-74 years,38,245400,15.48,Kyrgyzstan1991,,"2,570,833,333",677,Silent
+14498,Kyrgyzstan,1991,male,15-24 years,49,408100,12.01,Kyrgyzstan1991,,"2,570,833,333",677,Generation X
+14499,Kyrgyzstan,1991,female,15-24 years,36,395500,9.1,Kyrgyzstan1991,,"2,570,833,333",677,Generation X
+14500,Kyrgyzstan,1991,female,35-54 years,26,376100,6.91,Kyrgyzstan1991,,"2,570,833,333",677,Boomers
+14501,Kyrgyzstan,1991,female,25-34 years,16,358700,4.46,Kyrgyzstan1991,,"2,570,833,333",677,Boomers
+14502,Kyrgyzstan,1991,male,5-14 years,16,523400,3.06,Kyrgyzstan1991,,"2,570,833,333",677,Millenials
+14503,Kyrgyzstan,1991,female,5-14 years,3,514400,0.58,Kyrgyzstan1991,,"2,570,833,333",677,Millenials
+14504,Kyrgyzstan,1992,male,75+ years,14,23000,60.87,Kyrgyzstan1992,,"2,316,562,500",603,G.I. Generation
+14505,Kyrgyzstan,1992,male,55-74 years,74,185900,39.81,Kyrgyzstan1992,,"2,316,562,500",603,Silent
+14506,Kyrgyzstan,1992,male,35-54 years,135,366000,36.89,Kyrgyzstan1992,,"2,316,562,500",603,Boomers
+14507,Kyrgyzstan,1992,male,25-34 years,86,349800,24.59,Kyrgyzstan1992,,"2,316,562,500",603,Boomers
+14508,Kyrgyzstan,1992,male,15-24 years,65,414000,15.7,Kyrgyzstan1992,,"2,316,562,500",603,Generation X
+14509,Kyrgyzstan,1992,female,75+ years,7,56800,12.32,Kyrgyzstan1992,,"2,316,562,500",603,G.I. Generation
+14510,Kyrgyzstan,1992,female,55-74 years,25,249100,10.04,Kyrgyzstan1992,,"2,316,562,500",603,Silent
+14511,Kyrgyzstan,1992,female,15-24 years,30,399700,7.51,Kyrgyzstan1992,,"2,316,562,500",603,Generation X
+14512,Kyrgyzstan,1992,female,35-54 years,21,380600,5.52,Kyrgyzstan1992,,"2,316,562,500",603,Boomers
+14513,Kyrgyzstan,1992,female,25-34 years,19,355300,5.35,Kyrgyzstan1992,,"2,316,562,500",603,Boomers
+14514,Kyrgyzstan,1992,male,5-14 years,11,534400,2.06,Kyrgyzstan1992,,"2,316,562,500",603,Millenials
+14515,Kyrgyzstan,1992,female,5-14 years,4,524700,0.76,Kyrgyzstan1992,,"2,316,562,500",603,Millenials
+14516,Kyrgyzstan,1993,male,75+ years,13,21800,59.63,Kyrgyzstan1993,,"2,028,295,455",528,G.I. Generation
+14517,Kyrgyzstan,1993,male,35-54 years,168,366800,45.8,Kyrgyzstan1993,,"2,028,295,455",528,Boomers
+14518,Kyrgyzstan,1993,male,55-74 years,85,189100,44.95,Kyrgyzstan1993,,"2,028,295,455",528,Silent
+14519,Kyrgyzstan,1993,female,75+ years,16,54100,29.57,Kyrgyzstan1993,,"2,028,295,455",528,G.I. Generation
+14520,Kyrgyzstan,1993,male,25-34 years,92,344400,26.71,Kyrgyzstan1993,,"2,028,295,455",528,Boomers
+14521,Kyrgyzstan,1993,male,15-24 years,73,414400,17.62,Kyrgyzstan1993,,"2,028,295,455",528,Generation X
+14522,Kyrgyzstan,1993,female,55-74 years,34,247700,13.73,Kyrgyzstan1993,,"2,028,295,455",528,Silent
+14523,Kyrgyzstan,1993,female,35-54 years,31,380700,8.14,Kyrgyzstan1993,,"2,028,295,455",528,Boomers
+14524,Kyrgyzstan,1993,female,25-34 years,21,346600,6.06,Kyrgyzstan1993,,"2,028,295,455",528,Boomers
+14525,Kyrgyzstan,1993,female,15-24 years,16,400400,4.0,Kyrgyzstan1993,,"2,028,295,455",528,Generation X
+14526,Kyrgyzstan,1993,male,5-14 years,11,543400,2.02,Kyrgyzstan1993,,"2,028,295,455",528,Millenials
+14527,Kyrgyzstan,1993,female,5-14 years,3,531800,0.56,Kyrgyzstan1993,,"2,028,295,455",528,Millenials
+14528,Kyrgyzstan,1994,male,75+ years,12,20500,58.54,Kyrgyzstan1994,,"1,681,006,993",437,G.I. Generation
+14529,Kyrgyzstan,1994,male,55-74 years,102,190400,53.57,Kyrgyzstan1994,,"1,681,006,993",437,Silent
+14530,Kyrgyzstan,1994,male,35-54 years,174,369000,47.15,Kyrgyzstan1994,,"1,681,006,993",437,Boomers
+14531,Kyrgyzstan,1994,male,25-34 years,116,339900,34.13,Kyrgyzstan1994,,"1,681,006,993",437,Boomers
+14532,Kyrgyzstan,1994,male,15-24 years,78,415300,18.78,Kyrgyzstan1994,,"1,681,006,993",437,Generation X
+14533,Kyrgyzstan,1994,female,75+ years,8,52100,15.36,Kyrgyzstan1994,,"1,681,006,993",437,G.I. Generation
+14534,Kyrgyzstan,1994,female,55-74 years,28,245200,11.42,Kyrgyzstan1994,,"1,681,006,993",437,Silent
+14535,Kyrgyzstan,1994,female,35-54 years,25,383400,6.52,Kyrgyzstan1994,,"1,681,006,993",437,Boomers
+14536,Kyrgyzstan,1994,female,15-24 years,12,403900,2.97,Kyrgyzstan1994,,"1,681,006,993",437,Generation X
+14537,Kyrgyzstan,1994,female,25-34 years,10,338900,2.95,Kyrgyzstan1994,,"1,681,006,993",437,Boomers
+14538,Kyrgyzstan,1994,male,5-14 years,11,552600,1.99,Kyrgyzstan1994,,"1,681,006,993",437,Millenials
+14539,Kyrgyzstan,1994,female,5-14 years,5,539900,0.93,Kyrgyzstan1994,,"1,681,006,993",437,Millenials
+14540,Kyrgyzstan,1995,male,35-54 years,180,378800,47.52,Kyrgyzstan1995,0.562,"1,661,018,519",425,Boomers
+14541,Kyrgyzstan,1995,male,55-74 years,88,192400,45.74,Kyrgyzstan1995,0.562,"1,661,018,519",425,Silent
+14542,Kyrgyzstan,1995,male,75+ years,9,19700,45.69,Kyrgyzstan1995,0.562,"1,661,018,519",425,G.I. Generation
+14543,Kyrgyzstan,1995,male,25-34 years,100,339500,29.46,Kyrgyzstan1995,0.562,"1,661,018,519",425,Generation X
+14544,Kyrgyzstan,1995,male,15-24 years,85,420500,20.21,Kyrgyzstan1995,0.562,"1,661,018,519",425,Generation X
+14545,Kyrgyzstan,1995,female,55-74 years,32,246200,13.0,Kyrgyzstan1995,0.562,"1,661,018,519",425,Silent
+14546,Kyrgyzstan,1995,female,75+ years,6,51600,11.63,Kyrgyzstan1995,0.562,"1,661,018,519",425,G.I. Generation
+14547,Kyrgyzstan,1995,female,15-24 years,41,412500,9.94,Kyrgyzstan1995,0.562,"1,661,018,519",425,Generation X
+14548,Kyrgyzstan,1995,female,35-54 years,35,394200,8.88,Kyrgyzstan1995,0.562,"1,661,018,519",425,Boomers
+14549,Kyrgyzstan,1995,female,25-34 years,21,334900,6.27,Kyrgyzstan1995,0.562,"1,661,018,519",425,Generation X
+14550,Kyrgyzstan,1995,male,5-14 years,5,564200,0.89,Kyrgyzstan1995,0.562,"1,661,018,519",425,Millenials
+14551,Kyrgyzstan,1995,female,5-14 years,3,550900,0.54,Kyrgyzstan1995,0.562,"1,661,018,519",425,Millenials
+14552,Kyrgyzstan,1996,male,55-74 years,81,194300,41.69,Kyrgyzstan1996,,"1,827,570,586",459,Silent
+14553,Kyrgyzstan,1996,male,75+ years,8,19500,41.03,Kyrgyzstan1996,,"1,827,570,586",459,G.I. Generation
+14554,Kyrgyzstan,1996,male,35-54 years,142,394300,36.01,Kyrgyzstan1996,,"1,827,570,586",459,Boomers
+14555,Kyrgyzstan,1996,male,25-34 years,84,341300,24.61,Kyrgyzstan1996,,"1,827,570,586",459,Generation X
+14556,Kyrgyzstan,1996,female,75+ years,12,51200,23.44,Kyrgyzstan1996,,"1,827,570,586",459,G.I. Generation
+14557,Kyrgyzstan,1996,male,15-24 years,71,427600,16.6,Kyrgyzstan1996,,"1,827,570,586",459,Generation X
+14558,Kyrgyzstan,1996,female,55-74 years,17,246900,6.89,Kyrgyzstan1996,,"1,827,570,586",459,Silent
+14559,Kyrgyzstan,1996,female,25-34 years,21,333700,6.29,Kyrgyzstan1996,,"1,827,570,586",459,Generation X
+14560,Kyrgyzstan,1996,female,15-24 years,18,421700,4.27,Kyrgyzstan1996,,"1,827,570,586",459,Generation X
+14561,Kyrgyzstan,1996,female,35-54 years,17,410200,4.14,Kyrgyzstan1996,,"1,827,570,586",459,Boomers
+14562,Kyrgyzstan,1996,male,5-14 years,6,576500,1.04,Kyrgyzstan1996,,"1,827,570,586",459,Millenials
+14563,Kyrgyzstan,1996,female,5-14 years,3,561600,0.53,Kyrgyzstan1996,,"1,827,570,586",459,Millenials
+14564,Kyrgyzstan,1997,male,55-74 years,72,194800,36.96,Kyrgyzstan1997,,"1,767,864,036",435,Silent
+14565,Kyrgyzstan,1997,male,75+ years,7,19800,35.35,Kyrgyzstan1997,,"1,767,864,036",435,G.I. Generation
+14566,Kyrgyzstan,1997,male,35-54 years,143,411600,34.74,Kyrgyzstan1997,,"1,767,864,036",435,Boomers
+14567,Kyrgyzstan,1997,male,25-34 years,83,344700,24.08,Kyrgyzstan1997,,"1,767,864,036",435,Generation X
+14568,Kyrgyzstan,1997,male,15-24 years,90,436400,20.62,Kyrgyzstan1997,,"1,767,864,036",435,Generation X
+14569,Kyrgyzstan,1997,female,75+ years,7,52200,13.41,Kyrgyzstan1997,,"1,767,864,036",435,G.I. Generation
+14570,Kyrgyzstan,1997,female,55-74 years,21,245800,8.54,Kyrgyzstan1997,,"1,767,864,036",435,Silent
+14571,Kyrgyzstan,1997,female,35-54 years,24,429500,5.59,Kyrgyzstan1997,,"1,767,864,036",435,Boomers
+14572,Kyrgyzstan,1997,female,25-34 years,17,336800,5.05,Kyrgyzstan1997,,"1,767,864,036",435,Generation X
+14573,Kyrgyzstan,1997,female,15-24 years,17,430200,3.95,Kyrgyzstan1997,,"1,767,864,036",435,Generation X
+14574,Kyrgyzstan,1997,male,5-14 years,14,587300,2.38,Kyrgyzstan1997,,"1,767,864,036",435,Millenials
+14575,Kyrgyzstan,1997,female,5-14 years,1,570800,0.18,Kyrgyzstan1997,,"1,767,864,036",435,Millenials
+14576,Kyrgyzstan,1998,male,55-74 years,79,192900,40.95,Kyrgyzstan1998,,"1,645,963,750",398,Silent
+14577,Kyrgyzstan,1998,male,75+ years,7,20700,33.82,Kyrgyzstan1998,,"1,645,963,750",398,G.I. Generation
+14578,Kyrgyzstan,1998,male,35-54 years,127,431400,29.44,Kyrgyzstan1998,,"1,645,963,750",398,Boomers
+14579,Kyrgyzstan,1998,male,25-34 years,101,349000,28.94,Kyrgyzstan1998,,"1,645,963,750",398,Generation X
+14580,Kyrgyzstan,1998,male,15-24 years,89,447700,19.88,Kyrgyzstan1998,,"1,645,963,750",398,Generation X
+14581,Kyrgyzstan,1998,female,55-74 years,16,240600,6.65,Kyrgyzstan1998,,"1,645,963,750",398,Silent
+14582,Kyrgyzstan,1998,female,25-34 years,20,341000,5.87,Kyrgyzstan1998,,"1,645,963,750",398,Generation X
+14583,Kyrgyzstan,1998,female,75+ years,3,54200,5.54,Kyrgyzstan1998,,"1,645,963,750",398,G.I. Generation
+14584,Kyrgyzstan,1998,female,35-54 years,24,452600,5.3,Kyrgyzstan1998,,"1,645,963,750",398,Boomers
+14585,Kyrgyzstan,1998,female,15-24 years,22,439800,5.0,Kyrgyzstan1998,,"1,645,963,750",398,Generation X
+14586,Kyrgyzstan,1998,male,5-14 years,18,593800,3.03,Kyrgyzstan1998,,"1,645,963,750",398,Millenials
+14587,Kyrgyzstan,1998,female,5-14 years,3,576000,0.52,Kyrgyzstan1998,,"1,645,963,750",398,Millenials
+14588,Kyrgyzstan,1999,male,55-74 years,71,183800,38.63,Kyrgyzstan1999,,"1,249,062,025",291,Silent
+14589,Kyrgyzstan,1999,male,35-54 years,178,466100,38.19,Kyrgyzstan1999,,"1,249,062,025",291,Boomers
+14590,Kyrgyzstan,1999,male,25-34 years,104,373200,27.87,Kyrgyzstan1999,,"1,249,062,025",291,Generation X
+14591,Kyrgyzstan,1999,male,75+ years,5,23400,21.37,Kyrgyzstan1999,,"1,249,062,025",291,G.I. Generation
+14592,Kyrgyzstan,1999,female,75+ years,11,54700,20.11,Kyrgyzstan1999,,"1,249,062,025",291,G.I. Generation
+14593,Kyrgyzstan,1999,male,15-24 years,87,471200,18.46,Kyrgyzstan1999,,"1,249,062,025",291,Generation X
+14594,Kyrgyzstan,1999,female,55-74 years,23,227800,10.1,Kyrgyzstan1999,,"1,249,062,025",291,Silent
+14595,Kyrgyzstan,1999,female,15-24 years,23,463100,4.97,Kyrgyzstan1999,,"1,249,062,025",291,Generation X
+14596,Kyrgyzstan,1999,female,25-34 years,18,368000,4.89,Kyrgyzstan1999,,"1,249,062,025",291,Generation X
+14597,Kyrgyzstan,1999,female,35-54 years,22,488600,4.5,Kyrgyzstan1999,,"1,249,062,025",291,Boomers
+14598,Kyrgyzstan,1999,male,5-14 years,12,595600,2.01,Kyrgyzstan1999,,"1,249,062,025",291,Millenials
+14599,Kyrgyzstan,1999,female,5-14 years,2,582600,0.34,Kyrgyzstan1999,,"1,249,062,025",291,Millenials
+14600,Kyrgyzstan,2000,male,55-74 years,76,177198,42.89,Kyrgyzstan2000,0.593,"1,369,693,171",313,Silent
+14601,Kyrgyzstan,2000,male,35-54 years,147,488125,30.12,Kyrgyzstan2000,0.593,"1,369,693,171",313,Boomers
+14602,Kyrgyzstan,2000,male,75+ years,7,25297,27.67,Kyrgyzstan2000,0.593,"1,369,693,171",313,G.I. Generation
+14603,Kyrgyzstan,2000,male,25-34 years,91,377804,24.09,Kyrgyzstan2000,0.593,"1,369,693,171",313,Generation X
+14604,Kyrgyzstan,2000,female,75+ years,10,56276,17.77,Kyrgyzstan2000,0.593,"1,369,693,171",313,G.I. Generation
+14605,Kyrgyzstan,2000,male,15-24 years,78,483268,16.14,Kyrgyzstan2000,0.593,"1,369,693,171",313,Generation X
+14606,Kyrgyzstan,2000,female,35-54 years,34,512008,6.64,Kyrgyzstan2000,0.593,"1,369,693,171",313,Boomers
+14607,Kyrgyzstan,2000,female,55-74 years,13,219715,5.92,Kyrgyzstan2000,0.593,"1,369,693,171",313,Silent
+14608,Kyrgyzstan,2000,female,15-24 years,24,475445,5.05,Kyrgyzstan2000,0.593,"1,369,693,171",313,Generation X
+14609,Kyrgyzstan,2000,female,25-34 years,13,372683,3.49,Kyrgyzstan2000,0.593,"1,369,693,171",313,Generation X
+14610,Kyrgyzstan,2000,male,5-14 years,15,597753,2.51,Kyrgyzstan2000,0.593,"1,369,693,171",313,Millenials
+14611,Kyrgyzstan,2000,female,5-14 years,2,583630,0.34,Kyrgyzstan2000,0.593,"1,369,693,171",313,Millenials
+14612,Kyrgyzstan,2001,male,75+ years,12,27487,43.66,Kyrgyzstan2001,,"1,525,112,242",345,Silent
+14613,Kyrgyzstan,2001,male,55-74 years,63,172604,36.5,Kyrgyzstan2001,,"1,525,112,242",345,Silent
+14614,Kyrgyzstan,2001,male,35-54 years,175,505650,34.61,Kyrgyzstan2001,,"1,525,112,242",345,Boomers
+14615,Kyrgyzstan,2001,male,25-34 years,92,382626,24.04,Kyrgyzstan2001,,"1,525,112,242",345,Generation X
+14616,Kyrgyzstan,2001,male,15-24 years,119,495353,24.02,Kyrgyzstan2001,,"1,525,112,242",345,Millenials
+14617,Kyrgyzstan,2001,female,75+ years,5,57933,8.63,Kyrgyzstan2001,,"1,525,112,242",345,Silent
+14618,Kyrgyzstan,2001,female,55-74 years,13,214506,6.06,Kyrgyzstan2001,,"1,525,112,242",345,Silent
+14619,Kyrgyzstan,2001,female,35-54 years,30,530196,5.66,Kyrgyzstan2001,,"1,525,112,242",345,Boomers
+14620,Kyrgyzstan,2001,male,5-14 years,22,594237,3.7,Kyrgyzstan2001,,"1,525,112,242",345,Millenials
+14621,Kyrgyzstan,2001,female,15-24 years,18,487701,3.69,Kyrgyzstan2001,,"1,525,112,242",345,Millenials
+14622,Kyrgyzstan,2001,female,25-34 years,9,378112,2.38,Kyrgyzstan2001,,"1,525,112,242",345,Generation X
+14623,Kyrgyzstan,2001,female,5-14 years,2,579379,0.35,Kyrgyzstan2001,,"1,525,112,242",345,Millenials
+14624,Kyrgyzstan,2002,male,35-54 years,190,519663,36.56,Kyrgyzstan2002,,"1,605,640,633",359,Boomers
+14625,Kyrgyzstan,2002,male,55-74 years,50,170209,29.38,Kyrgyzstan2002,,"1,605,640,633",359,Silent
+14626,Kyrgyzstan,2002,male,25-34 years,106,387433,27.36,Kyrgyzstan2002,,"1,605,640,633",359,Generation X
+14627,Kyrgyzstan,2002,male,75+ years,8,30232,26.46,Kyrgyzstan2002,,"1,605,640,633",359,Silent
+14628,Kyrgyzstan,2002,male,15-24 years,96,508597,18.88,Kyrgyzstan2002,,"1,605,640,633",359,Millenials
+14629,Kyrgyzstan,2002,female,75+ years,5,60154,8.31,Kyrgyzstan2002,,"1,605,640,633",359,Silent
+14630,Kyrgyzstan,2002,female,55-74 years,16,211702,7.56,Kyrgyzstan2002,,"1,605,640,633",359,Silent
+14631,Kyrgyzstan,2002,female,35-54 years,40,544358,7.35,Kyrgyzstan2002,,"1,605,640,633",359,Boomers
+14632,Kyrgyzstan,2002,female,15-24 years,27,501146,5.39,Kyrgyzstan2002,,"1,605,640,633",359,Millenials
+14633,Kyrgyzstan,2002,male,5-14 years,17,586103,2.9,Kyrgyzstan2002,,"1,605,640,633",359,Millenials
+14634,Kyrgyzstan,2002,female,25-34 years,10,383200,2.61,Kyrgyzstan2002,,"1,605,640,633",359,Generation X
+14635,Kyrgyzstan,2002,female,5-14 years,2,570366,0.35,Kyrgyzstan2002,,"1,605,640,633",359,Millenials
+14636,Kyrgyzstan,2003,male,55-74 years,61,168167,36.27,Kyrgyzstan2003,,"1,919,012,781",424,Silent
+14637,Kyrgyzstan,2003,male,35-54 years,154,533937,28.84,Kyrgyzstan2003,,"1,919,012,781",424,Boomers
+14638,Kyrgyzstan,2003,male,25-34 years,97,392508,24.71,Kyrgyzstan2003,,"1,919,012,781",424,Generation X
+14639,Kyrgyzstan,2003,male,15-24 years,71,521648,13.61,Kyrgyzstan2003,,"1,919,012,781",424,Millenials
+14640,Kyrgyzstan,2003,male,75+ years,3,33273,9.02,Kyrgyzstan2003,,"1,919,012,781",424,Silent
+14641,Kyrgyzstan,2003,female,15-24 years,28,514477,5.44,Kyrgyzstan2003,,"1,919,012,781",424,Millenials
+14642,Kyrgyzstan,2003,female,55-74 years,11,209349,5.25,Kyrgyzstan2003,,"1,919,012,781",424,Silent
+14643,Kyrgyzstan,2003,female,35-54 years,27,559149,4.83,Kyrgyzstan2003,,"1,919,012,781",424,Boomers
+14644,Kyrgyzstan,2003,female,75+ years,3,62686,4.79,Kyrgyzstan2003,,"1,919,012,781",424,Silent
+14645,Kyrgyzstan,2003,female,25-34 years,11,388125,2.83,Kyrgyzstan2003,,"1,919,012,781",424,Generation X
+14646,Kyrgyzstan,2003,male,5-14 years,11,577114,1.91,Kyrgyzstan2003,,"1,919,012,781",424,Millenials
+14647,Kyrgyzstan,2003,female,5-14 years,2,560410,0.36,Kyrgyzstan2003,,"1,919,012,781",424,Millenials
+14648,Kyrgyzstan,2004,male,55-74 years,52,168247,30.91,Kyrgyzstan2004,,"2,211,535,312",484,Silent
+14649,Kyrgyzstan,2004,male,35-54 years,144,547492,26.3,Kyrgyzstan2004,,"2,211,535,312",484,Boomers
+14650,Kyrgyzstan,2004,male,75+ years,9,36115,24.92,Kyrgyzstan2004,,"2,211,535,312",484,Silent
+14651,Kyrgyzstan,2004,male,25-34 years,79,398567,19.82,Kyrgyzstan2004,,"2,211,535,312",484,Generation X
+14652,Kyrgyzstan,2004,male,15-24 years,69,534156,12.92,Kyrgyzstan2004,,"2,211,535,312",484,Millenials
+14653,Kyrgyzstan,2004,female,75+ years,7,65492,10.69,Kyrgyzstan2004,,"2,211,535,312",484,Silent
+14654,Kyrgyzstan,2004,female,35-54 years,33,573681,5.75,Kyrgyzstan2004,,"2,211,535,312",484,Boomers
+14655,Kyrgyzstan,2004,female,15-24 years,18,527482,3.41,Kyrgyzstan2004,,"2,211,535,312",484,Millenials
+14656,Kyrgyzstan,2004,female,25-34 years,8,393627,2.03,Kyrgyzstan2004,,"2,211,535,312",484,Generation X
+14657,Kyrgyzstan,2004,female,55-74 years,4,208976,1.91,Kyrgyzstan2004,,"2,211,535,312",484,Silent
+14658,Kyrgyzstan,2004,male,5-14 years,10,567893,1.76,Kyrgyzstan2004,,"2,211,535,312",484,Millenials
+14659,Kyrgyzstan,2004,female,5-14 years,5,550550,0.91,Kyrgyzstan2004,,"2,211,535,312",484,Millenials
+14660,Kyrgyzstan,2005,male,25-34 years,105,403759,26.01,Kyrgyzstan2005,0.614,"2,460,248,026",533,Generation X
+14661,Kyrgyzstan,2005,male,75+ years,9,36921,24.38,Kyrgyzstan2005,0.614,"2,460,248,026",533,Silent
+14662,Kyrgyzstan,2005,male,35-54 years,136,559702,24.3,Kyrgyzstan2005,0.614,"2,460,248,026",533,Boomers
+14663,Kyrgyzstan,2005,male,55-74 years,36,169790,21.2,Kyrgyzstan2005,0.614,"2,460,248,026",533,Silent
+14664,Kyrgyzstan,2005,male,15-24 years,82,545608,15.03,Kyrgyzstan2005,0.614,"2,460,248,026",533,Millenials
+14665,Kyrgyzstan,2005,female,15-24 years,26,538067,4.83,Kyrgyzstan2005,0.614,"2,460,248,026",533,Millenials
+14666,Kyrgyzstan,2005,female,25-34 years,19,399373,4.76,Kyrgyzstan2005,0.614,"2,460,248,026",533,Generation X
+14667,Kyrgyzstan,2005,female,35-54 years,23,586545,3.92,Kyrgyzstan2005,0.614,"2,460,248,026",533,Boomers
+14668,Kyrgyzstan,2005,female,55-74 years,8,210976,3.79,Kyrgyzstan2005,0.614,"2,460,248,026",533,Silent
+14669,Kyrgyzstan,2005,male,5-14 years,18,556340,3.24,Kyrgyzstan2005,0.614,"2,460,248,026",533,Millenials
+14670,Kyrgyzstan,2005,female,75+ years,2,68792,2.91,Kyrgyzstan2005,0.614,"2,460,248,026",533,Silent
+14671,Kyrgyzstan,2005,female,5-14 years,6,538660,1.11,Kyrgyzstan2005,0.614,"2,460,248,026",533,Millenials
+14672,Kyrgyzstan,2006,male,75+ years,13,38110,34.11,Kyrgyzstan2006,,"2,834,168,889",610,Silent
+14673,Kyrgyzstan,2006,male,25-34 years,106,407653,26.0,Kyrgyzstan2006,,"2,834,168,889",610,Generation X
+14674,Kyrgyzstan,2006,male,35-54 years,129,571501,22.57,Kyrgyzstan2006,,"2,834,168,889",610,Boomers
+14675,Kyrgyzstan,2006,male,55-74 years,26,172375,15.08,Kyrgyzstan2006,,"2,834,168,889",610,Silent
+14676,Kyrgyzstan,2006,male,15-24 years,78,554568,14.07,Kyrgyzstan2006,,"2,834,168,889",610,Millenials
+14677,Kyrgyzstan,2006,female,75+ years,7,69777,10.03,Kyrgyzstan2006,,"2,834,168,889",610,Silent
+14678,Kyrgyzstan,2006,female,55-74 years,16,213524,7.49,Kyrgyzstan2006,,"2,834,168,889",610,Silent
+14679,Kyrgyzstan,2006,female,15-24 years,34,545445,6.23,Kyrgyzstan2006,,"2,834,168,889",610,Millenials
+14680,Kyrgyzstan,2006,female,35-54 years,22,599170,3.67,Kyrgyzstan2006,,"2,834,168,889",610,Boomers
+14681,Kyrgyzstan,2006,female,25-34 years,13,404839,3.21,Kyrgyzstan2006,,"2,834,168,889",610,Generation X
+14682,Kyrgyzstan,2006,male,5-14 years,14,543641,2.58,Kyrgyzstan2006,,"2,834,168,889",610,Millenials
+14683,Kyrgyzstan,2006,female,5-14 years,5,525872,0.95,Kyrgyzstan2006,,"2,834,168,889",610,Millenials
+14684,Kyrgyzstan,2007,male,35-54 years,132,581104,22.72,Kyrgyzstan2007,,"3,802,566,171",814,Boomers
+14685,Kyrgyzstan,2007,male,25-34 years,86,409642,20.99,Kyrgyzstan2007,,"3,802,566,171",814,Generation X
+14686,Kyrgyzstan,2007,male,55-74 years,34,175553,19.37,Kyrgyzstan2007,,"3,802,566,171",814,Silent
+14687,Kyrgyzstan,2007,male,15-24 years,90,560422,16.06,Kyrgyzstan2007,,"3,802,566,171",814,Millenials
+14688,Kyrgyzstan,2007,male,75+ years,4,38996,10.26,Kyrgyzstan2007,,"3,802,566,171",814,Silent
+14689,Kyrgyzstan,2007,female,75+ years,7,70578,9.92,Kyrgyzstan2007,,"3,802,566,171",814,Silent
+14690,Kyrgyzstan,2007,female,15-24 years,41,551054,7.44,Kyrgyzstan2007,,"3,802,566,171",814,Millenials
+14691,Kyrgyzstan,2007,female,35-54 years,31,609740,5.08,Kyrgyzstan2007,,"3,802,566,171",814,Boomers
+14692,Kyrgyzstan,2007,female,25-34 years,19,408305,4.65,Kyrgyzstan2007,,"3,802,566,171",814,Generation X
+14693,Kyrgyzstan,2007,male,5-14 years,20,532114,3.76,Kyrgyzstan2007,,"3,802,566,171",814,Generation Z
+14694,Kyrgyzstan,2007,female,55-74 years,8,217017,3.69,Kyrgyzstan2007,,"3,802,566,171",814,Silent
+14695,Kyrgyzstan,2007,female,5-14 years,10,514115,1.95,Kyrgyzstan2007,,"3,802,566,171",814,Generation Z
+14696,Kyrgyzstan,2008,male,35-54 years,132,589771,22.38,Kyrgyzstan2008,,"5,139,957,785",1096,Boomers
+14697,Kyrgyzstan,2008,male,25-34 years,92,411703,22.35,Kyrgyzstan2008,,"5,139,957,785",1096,Generation X
+14698,Kyrgyzstan,2008,male,55-74 years,39,179949,21.67,Kyrgyzstan2008,,"5,139,957,785",1096,Silent
+14699,Kyrgyzstan,2008,male,75+ years,8,39326,20.34,Kyrgyzstan2008,,"5,139,957,785",1096,Silent
+14700,Kyrgyzstan,2008,male,15-24 years,89,564626,15.76,Kyrgyzstan2008,,"5,139,957,785",1096,Millenials
+14701,Kyrgyzstan,2008,female,75+ years,7,70443,9.94,Kyrgyzstan2008,,"5,139,957,785",1096,Silent
+14702,Kyrgyzstan,2008,female,25-34 years,25,411780,6.07,Kyrgyzstan2008,,"5,139,957,785",1096,Generation X
+14703,Kyrgyzstan,2008,female,55-74 years,12,222318,5.4,Kyrgyzstan2008,,"5,139,957,785",1096,Silent
+14704,Kyrgyzstan,2008,female,35-54 years,32,618891,5.17,Kyrgyzstan2008,,"5,139,957,785",1096,Boomers
+14705,Kyrgyzstan,2008,male,5-14 years,19,523285,3.63,Kyrgyzstan2008,,"5,139,957,785",1096,Generation Z
+14706,Kyrgyzstan,2008,female,15-24 years,18,554497,3.25,Kyrgyzstan2008,,"5,139,957,785",1096,Millenials
+14707,Kyrgyzstan,2008,female,5-14 years,0,504335,0.0,Kyrgyzstan2008,,"5,139,957,785",1096,Generation Z
+14708,Kyrgyzstan,2009,male,25-34 years,108,419968,25.72,Kyrgyzstan2009,,"4,690,062,255",977,Generation X
+14709,Kyrgyzstan,2009,male,35-54 years,136,590398,23.04,Kyrgyzstan2009,,"4,690,062,255",977,Boomers
+14710,Kyrgyzstan,2009,male,55-74 years,26,182750,14.23,Kyrgyzstan2009,,"4,690,062,255",977,Silent
+14711,Kyrgyzstan,2009,male,15-24 years,80,598601,13.36,Kyrgyzstan2009,,"4,690,062,255",977,Millenials
+14712,Kyrgyzstan,2009,male,75+ years,4,36444,10.98,Kyrgyzstan2009,,"4,690,062,255",977,Silent
+14713,Kyrgyzstan,2009,female,15-24 years,37,591310,6.26,Kyrgyzstan2009,,"4,690,062,255",977,Millenials
+14714,Kyrgyzstan,2009,female,25-34 years,21,414721,5.06,Kyrgyzstan2009,,"4,690,062,255",977,Generation X
+14715,Kyrgyzstan,2009,female,75+ years,3,63956,4.69,Kyrgyzstan2009,,"4,690,062,255",977,Silent
+14716,Kyrgyzstan,2009,female,55-74 years,10,232290,4.3,Kyrgyzstan2009,,"4,690,062,255",977,Silent
+14717,Kyrgyzstan,2009,female,35-54 years,21,627216,3.35,Kyrgyzstan2009,,"4,690,062,255",977,Boomers
+14718,Kyrgyzstan,2009,male,5-14 years,8,531076,1.51,Kyrgyzstan2009,,"4,690,062,255",977,Generation Z
+14719,Kyrgyzstan,2009,female,5-14 years,4,511404,0.78,Kyrgyzstan2009,,"4,690,062,255",977,Generation Z
+14720,Kyrgyzstan,2010,male,25-34 years,122,429972,28.37,Kyrgyzstan2010,0.634,"4,794,357,795",991,Generation X
+14721,Kyrgyzstan,2010,male,75+ years,10,36816,27.16,Kyrgyzstan2010,0.634,"4,794,357,795",991,Silent
+14722,Kyrgyzstan,2010,male,35-54 years,131,597153,21.94,Kyrgyzstan2010,0.634,"4,794,357,795",991,Generation X
+14723,Kyrgyzstan,2010,male,55-74 years,38,189553,20.05,Kyrgyzstan2010,0.634,"4,794,357,795",991,Silent
+14724,Kyrgyzstan,2010,male,15-24 years,86,597408,14.4,Kyrgyzstan2010,0.634,"4,794,357,795",991,Millenials
+14725,Kyrgyzstan,2010,female,75+ years,6,64212,9.34,Kyrgyzstan2010,0.634,"4,794,357,795",991,Silent
+14726,Kyrgyzstan,2010,female,15-24 years,40,588624,6.8,Kyrgyzstan2010,0.634,"4,794,357,795",991,Millenials
+14727,Kyrgyzstan,2010,female,55-74 years,11,240446,4.57,Kyrgyzstan2010,0.634,"4,794,357,795",991,Silent
+14728,Kyrgyzstan,2010,female,35-54 years,27,635294,4.25,Kyrgyzstan2010,0.634,"4,794,357,795",991,Generation X
+14729,Kyrgyzstan,2010,female,25-34 years,17,424270,4.01,Kyrgyzstan2010,0.634,"4,794,357,795",991,Generation X
+14730,Kyrgyzstan,2010,male,5-14 years,8,526711,1.52,Kyrgyzstan2010,0.634,"4,794,357,795",991,Generation Z
+14731,Kyrgyzstan,2010,female,5-14 years,4,507097,0.79,Kyrgyzstan2010,0.634,"4,794,357,795",991,Generation Z
+14732,Kyrgyzstan,2011,male,35-54 years,135,603067,22.39,Kyrgyzstan2011,0.639,"6,197,766,119",1273,Generation X
+14733,Kyrgyzstan,2011,male,75+ years,8,37633,21.26,Kyrgyzstan2011,0.639,"6,197,766,119",1273,Silent
+14734,Kyrgyzstan,2011,male,25-34 years,92,440462,20.89,Kyrgyzstan2011,0.639,"6,197,766,119",1273,Millenials
+14735,Kyrgyzstan,2011,male,55-74 years,36,196311,18.34,Kyrgyzstan2011,0.639,"6,197,766,119",1273,Boomers
+14736,Kyrgyzstan,2011,male,15-24 years,82,591049,13.87,Kyrgyzstan2011,0.639,"6,197,766,119",1273,Millenials
+14737,Kyrgyzstan,2011,female,15-24 years,47,580711,8.09,Kyrgyzstan2011,0.639,"6,197,766,119",1273,Millenials
+14738,Kyrgyzstan,2011,female,75+ years,5,65298,7.66,Kyrgyzstan2011,0.639,"6,197,766,119",1273,Silent
+14739,Kyrgyzstan,2011,female,25-34 years,18,434790,4.14,Kyrgyzstan2011,0.639,"6,197,766,119",1273,Millenials
+14740,Kyrgyzstan,2011,female,35-54 years,24,641700,3.74,Kyrgyzstan2011,0.639,"6,197,766,119",1273,Generation X
+14741,Kyrgyzstan,2011,female,55-74 years,9,248599,3.62,Kyrgyzstan2011,0.639,"6,197,766,119",1273,Boomers
+14742,Kyrgyzstan,2011,male,5-14 years,10,525127,1.9,Kyrgyzstan2011,0.639,"6,197,766,119",1273,Generation Z
+14743,Kyrgyzstan,2011,female,5-14 years,5,505791,0.99,Kyrgyzstan2011,0.639,"6,197,766,119",1273,Generation Z
+14744,Kyrgyzstan,2012,male,25-34 years,119,457076,26.04,Kyrgyzstan2012,0.645,"6,605,139,933",1339,Millenials
+14745,Kyrgyzstan,2012,male,55-74 years,48,204335,23.49,Kyrgyzstan2012,0.645,"6,605,139,933",1339,Boomers
+14746,Kyrgyzstan,2012,male,35-54 years,141,610705,23.09,Kyrgyzstan2012,0.645,"6,605,139,933",1339,Generation X
+14747,Kyrgyzstan,2012,male,75+ years,6,38493,15.59,Kyrgyzstan2012,0.645,"6,605,139,933",1339,Silent
+14748,Kyrgyzstan,2012,female,75+ years,10,66672,15.0,Kyrgyzstan2012,0.645,"6,605,139,933",1339,Silent
+14749,Kyrgyzstan,2012,male,15-24 years,73,583127,12.52,Kyrgyzstan2012,0.645,"6,605,139,933",1339,Millenials
+14750,Kyrgyzstan,2012,female,15-24 years,40,570274,7.01,Kyrgyzstan2012,0.645,"6,605,139,933",1339,Millenials
+14751,Kyrgyzstan,2012,female,35-54 years,36,648241,5.55,Kyrgyzstan2012,0.645,"6,605,139,933",1339,Generation X
+14752,Kyrgyzstan,2012,female,25-34 years,23,451969,5.09,Kyrgyzstan2012,0.645,"6,605,139,933",1339,Millenials
+14753,Kyrgyzstan,2012,female,55-74 years,10,258395,3.87,Kyrgyzstan2012,0.645,"6,605,139,933",1339,Boomers
+14754,Kyrgyzstan,2012,male,5-14 years,15,531219,2.82,Kyrgyzstan2012,0.645,"6,605,139,933",1339,Generation Z
+14755,Kyrgyzstan,2012,female,5-14 years,3,511854,0.59,Kyrgyzstan2012,0.645,"6,605,139,933",1339,Generation Z
+14756,Kyrgyzstan,2013,male,35-54 years,126,619074,20.35,Kyrgyzstan2013,0.652,"7,335,027,592",1463,Generation X
+14757,Kyrgyzstan,2013,male,55-74 years,39,214859,18.15,Kyrgyzstan2013,0.652,"7,335,027,592",1463,Boomers
+14758,Kyrgyzstan,2013,male,25-34 years,84,476515,17.63,Kyrgyzstan2013,0.652,"7,335,027,592",1463,Millenials
+14759,Kyrgyzstan,2013,male,15-24 years,74,575574,12.86,Kyrgyzstan2013,0.652,"7,335,027,592",1463,Millenials
+14760,Kyrgyzstan,2013,male,75+ years,5,39457,12.67,Kyrgyzstan2013,0.652,"7,335,027,592",1463,Silent
+14761,Kyrgyzstan,2013,female,15-24 years,37,559784,6.61,Kyrgyzstan2013,0.652,"7,335,027,592",1463,Millenials
+14762,Kyrgyzstan,2013,female,75+ years,4,68456,5.84,Kyrgyzstan2013,0.652,"7,335,027,592",1463,Silent
+14763,Kyrgyzstan,2013,female,25-34 years,19,472177,4.02,Kyrgyzstan2013,0.652,"7,335,027,592",1463,Millenials
+14764,Kyrgyzstan,2013,male,5-14 years,21,539750,3.89,Kyrgyzstan2013,0.652,"7,335,027,592",1463,Generation Z
+14765,Kyrgyzstan,2013,female,55-74 years,8,271112,2.95,Kyrgyzstan2013,0.652,"7,335,027,592",1463,Boomers
+14766,Kyrgyzstan,2013,female,35-54 years,18,655531,2.75,Kyrgyzstan2013,0.652,"7,335,027,592",1463,Generation X
+14767,Kyrgyzstan,2013,female,5-14 years,11,519911,2.12,Kyrgyzstan2013,0.652,"7,335,027,592",1463,Generation Z
+14768,Kyrgyzstan,2014,male,35-54 years,145,627231,23.12,Kyrgyzstan2014,0.655,"7,468,096,567",1465,Generation X
+14769,Kyrgyzstan,2014,male,25-34 years,93,495103,18.78,Kyrgyzstan2014,0.655,"7,468,096,567",1465,Millenials
+14770,Kyrgyzstan,2014,male,55-74 years,37,226999,16.3,Kyrgyzstan2014,0.655,"7,468,096,567",1465,Boomers
+14771,Kyrgyzstan,2014,male,75+ years,6,40660,14.76,Kyrgyzstan2014,0.655,"7,468,096,567",1465,Silent
+14772,Kyrgyzstan,2014,male,15-24 years,61,567126,10.76,Kyrgyzstan2014,0.655,"7,468,096,567",1465,Millenials
+14773,Kyrgyzstan,2014,female,75+ years,4,70778,5.65,Kyrgyzstan2014,0.655,"7,468,096,567",1465,Silent
+14774,Kyrgyzstan,2014,female,15-24 years,29,548946,5.28,Kyrgyzstan2014,0.655,"7,468,096,567",1465,Millenials
+14775,Kyrgyzstan,2014,female,25-34 years,22,491445,4.48,Kyrgyzstan2014,0.655,"7,468,096,567",1465,Millenials
+14776,Kyrgyzstan,2014,female,35-54 years,29,662629,4.38,Kyrgyzstan2014,0.655,"7,468,096,567",1465,Generation X
+14777,Kyrgyzstan,2014,female,55-74 years,11,285203,3.86,Kyrgyzstan2014,0.655,"7,468,096,567",1465,Boomers
+14778,Kyrgyzstan,2014,male,5-14 years,16,550704,2.91,Kyrgyzstan2014,0.655,"7,468,096,567",1465,Generation Z
+14779,Kyrgyzstan,2014,female,5-14 years,8,529606,1.51,Kyrgyzstan2014,0.655,"7,468,096,567",1465,Generation Z
+14780,Kyrgyzstan,2015,male,35-54 years,134,635515,21.09,Kyrgyzstan2015,,"6,678,178,340",1285,Generation X
+14781,Kyrgyzstan,2015,male,55-74 years,37,241078,15.35,Kyrgyzstan2015,,"6,678,178,340",1285,Boomers
+14782,Kyrgyzstan,2015,male,25-34 years,68,513358,13.25,Kyrgyzstan2015,,"6,678,178,340",1285,Millenials
+14783,Kyrgyzstan,2015,male,75+ years,5,41233,12.13,Kyrgyzstan2015,,"6,678,178,340",1285,Silent
+14784,Kyrgyzstan,2015,male,15-24 years,65,557006,11.67,Kyrgyzstan2015,,"6,678,178,340",1285,Millenials
+14785,Kyrgyzstan,2015,female,15-24 years,35,537476,6.51,Kyrgyzstan2015,,"6,678,178,340",1285,Millenials
+14786,Kyrgyzstan,2015,female,75+ years,4,72276,5.53,Kyrgyzstan2015,,"6,678,178,340",1285,Silent
+14787,Kyrgyzstan,2015,female,35-54 years,25,669556,3.73,Kyrgyzstan2015,,"6,678,178,340",1285,Generation X
+14788,Kyrgyzstan,2015,male,5-14 years,18,569962,3.16,Kyrgyzstan2015,,"6,678,178,340",1285,Generation Z
+14789,Kyrgyzstan,2015,female,25-34 years,12,509797,2.35,Kyrgyzstan2015,,"6,678,178,340",1285,Millenials
+14790,Kyrgyzstan,2015,female,55-74 years,7,301107,2.32,Kyrgyzstan2015,,"6,678,178,340",1285,Boomers
+14791,Kyrgyzstan,2015,female,5-14 years,7,547463,1.28,Kyrgyzstan2015,,"6,678,178,340",1285,Generation Z

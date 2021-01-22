@@ -1,0 +1,349 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+25720,Turkmenistan,1987,male,75+ years,5,16500,30.3,Turkmenistan1987,,"2,331,358,820",815,G.I. Generation
+25721,Turkmenistan,1987,male,55-74 years,28,106800,26.22,Turkmenistan1987,,"2,331,358,820",815,G.I. Generation
+25722,Turkmenistan,1987,female,75+ years,8,31400,25.48,Turkmenistan1987,,"2,331,358,820",815,G.I. Generation
+25723,Turkmenistan,1987,male,35-54 years,54,242600,22.26,Turkmenistan1987,,"2,331,358,820",815,Silent
+25724,Turkmenistan,1987,female,55-74 years,28,148000,18.92,Turkmenistan1987,,"2,331,358,820",815,G.I. Generation
+25725,Turkmenistan,1987,male,25-34 years,50,265600,18.83,Turkmenistan1987,,"2,331,358,820",815,Boomers
+25726,Turkmenistan,1987,male,15-24 years,33,344800,9.57,Turkmenistan1987,,"2,331,358,820",815,Generation X
+25727,Turkmenistan,1987,female,35-54 years,21,247500,8.48,Turkmenistan1987,,"2,331,358,820",815,Silent
+25728,Turkmenistan,1987,female,15-24 years,24,340700,7.04,Turkmenistan1987,,"2,331,358,820",815,Generation X
+25729,Turkmenistan,1987,female,25-34 years,12,274700,4.37,Turkmenistan1987,,"2,331,358,820",815,Boomers
+25730,Turkmenistan,1987,male,5-14 years,5,423500,1.18,Turkmenistan1987,,"2,331,358,820",815,Generation X
+25731,Turkmenistan,1987,female,5-14 years,4,417000,0.96,Turkmenistan1987,,"2,331,358,820",815,Generation X
+25732,Turkmenistan,1988,male,75+ years,6,16700,35.93,Turkmenistan1988,,"3,010,982,414",1029,G.I. Generation
+25733,Turkmenistan,1988,male,35-54 years,55,249600,22.04,Turkmenistan1988,,"3,010,982,414",1029,Silent
+25734,Turkmenistan,1988,male,55-74 years,22,110500,19.91,Turkmenistan1988,,"3,010,982,414",1029,G.I. Generation
+25735,Turkmenistan,1988,female,75+ years,6,32200,18.63,Turkmenistan1988,,"3,010,982,414",1029,G.I. Generation
+25736,Turkmenistan,1988,male,25-34 years,48,276400,17.37,Turkmenistan1988,,"3,010,982,414",1029,Boomers
+25737,Turkmenistan,1988,male,15-24 years,51,347500,14.68,Turkmenistan1988,,"3,010,982,414",1029,Generation X
+25738,Turkmenistan,1988,female,55-74 years,21,150300,13.97,Turkmenistan1988,,"3,010,982,414",1029,G.I. Generation
+25739,Turkmenistan,1988,female,35-54 years,18,255500,7.05,Turkmenistan1988,,"3,010,982,414",1029,Silent
+25740,Turkmenistan,1988,female,15-24 years,21,342600,6.13,Turkmenistan1988,,"3,010,982,414",1029,Generation X
+25741,Turkmenistan,1988,female,25-34 years,14,286600,4.88,Turkmenistan1988,,"3,010,982,414",1029,Boomers
+25742,Turkmenistan,1988,female,5-14 years,4,425700,0.94,Turkmenistan1988,,"3,010,982,414",1029,Generation X
+25743,Turkmenistan,1988,male,5-14 years,4,432700,0.92,Turkmenistan1988,,"3,010,982,414",1029,Generation X
+25744,Turkmenistan,1989,male,35-54 years,64,258100,24.8,Turkmenistan1989,,"3,006,988,217",1003,Silent
+25745,Turkmenistan,1989,male,75+ years,4,16800,23.81,Turkmenistan1989,,"3,006,988,217",1003,G.I. Generation
+25746,Turkmenistan,1989,male,25-34 years,52,285700,18.2,Turkmenistan1989,,"3,006,988,217",1003,Boomers
+25747,Turkmenistan,1989,male,55-74 years,19,113400,16.75,Turkmenistan1989,,"3,006,988,217",1003,G.I. Generation
+25748,Turkmenistan,1989,female,75+ years,4,32900,12.16,Turkmenistan1989,,"3,006,988,217",1003,G.I. Generation
+25749,Turkmenistan,1989,female,55-74 years,16,151500,10.56,Turkmenistan1989,,"3,006,988,217",1003,G.I. Generation
+25750,Turkmenistan,1989,male,15-24 years,29,352500,8.23,Turkmenistan1989,,"3,006,988,217",1003,Generation X
+25751,Turkmenistan,1989,female,15-24 years,25,346000,7.23,Turkmenistan1989,,"3,006,988,217",1003,Generation X
+25752,Turkmenistan,1989,female,35-54 years,17,265600,6.4,Turkmenistan1989,,"3,006,988,217",1003,Silent
+25753,Turkmenistan,1989,female,25-34 years,18,297400,6.05,Turkmenistan1989,,"3,006,988,217",1003,Boomers
+25754,Turkmenistan,1989,male,5-14 years,3,443200,0.68,Turkmenistan1989,,"3,006,988,217",1003,Generation X
+25755,Turkmenistan,1989,female,5-14 years,2,435900,0.46,Turkmenistan1989,,"3,006,988,217",1003,Generation X
+25756,Turkmenistan,1990,female,75+ years,12,34100,35.19,Turkmenistan1990,,"3,189,539,641",1036,G.I. Generation
+25757,Turkmenistan,1990,male,75+ years,5,16700,29.94,Turkmenistan1990,,"3,189,539,641",1036,G.I. Generation
+25758,Turkmenistan,1990,male,35-54 years,65,268100,24.24,Turkmenistan1990,,"3,189,539,641",1036,Silent
+25759,Turkmenistan,1990,male,25-34 years,61,292800,20.83,Turkmenistan1990,,"3,189,539,641",1036,Boomers
+25760,Turkmenistan,1990,male,55-74 years,23,117000,19.66,Turkmenistan1990,,"3,189,539,641",1036,G.I. Generation
+25761,Turkmenistan,1990,male,15-24 years,56,360200,15.55,Turkmenistan1990,,"3,189,539,641",1036,Generation X
+25762,Turkmenistan,1990,female,15-24 years,27,351300,7.69,Turkmenistan1990,,"3,189,539,641",1036,Generation X
+25763,Turkmenistan,1990,female,35-54 years,18,277100,6.5,Turkmenistan1990,,"3,189,539,641",1036,Silent
+25764,Turkmenistan,1990,female,55-74 years,9,153300,5.87,Turkmenistan1990,,"3,189,539,641",1036,G.I. Generation
+25765,Turkmenistan,1990,female,25-34 years,16,306400,5.22,Turkmenistan1990,,"3,189,539,641",1036,Boomers
+25766,Turkmenistan,1990,male,5-14 years,6,455200,1.32,Turkmenistan1990,,"3,189,539,641",1036,Generation X
+25767,Turkmenistan,1990,female,5-14 years,0,447600,0.0,Turkmenistan1990,,"3,189,539,641",1036,Generation X
+25768,Turkmenistan,1991,male,35-54 years,55,278100,19.78,Turkmenistan1991,,"3,208,098,919",1014,Boomers
+25769,Turkmenistan,1991,male,75+ years,3,15800,18.99,Turkmenistan1991,,"3,208,098,919",1014,G.I. Generation
+25770,Turkmenistan,1991,male,55-74 years,22,121300,18.14,Turkmenistan1991,,"3,208,098,919",1014,Silent
+25771,Turkmenistan,1991,male,25-34 years,53,298500,17.76,Turkmenistan1991,,"3,208,098,919",1014,Boomers
+25772,Turkmenistan,1991,male,15-24 years,50,369500,13.53,Turkmenistan1991,,"3,208,098,919",1014,Generation X
+25773,Turkmenistan,1991,female,55-74 years,18,156600,11.49,Turkmenistan1991,,"3,208,098,919",1014,Silent
+25774,Turkmenistan,1991,female,15-24 years,31,358300,8.65,Turkmenistan1991,,"3,208,098,919",1014,Generation X
+25775,Turkmenistan,1991,female,25-34 years,20,314100,6.37,Turkmenistan1991,,"3,208,098,919",1014,Boomers
+25776,Turkmenistan,1991,female,75+ years,2,32400,6.17,Turkmenistan1991,,"3,208,098,919",1014,G.I. Generation
+25777,Turkmenistan,1991,female,35-54 years,15,288300,5.2,Turkmenistan1991,,"3,208,098,919",1014,Boomers
+25778,Turkmenistan,1991,male,5-14 years,3,468900,0.64,Turkmenistan1991,,"3,208,098,919",1014,Millenials
+25779,Turkmenistan,1991,female,5-14 years,1,460700,0.22,Turkmenistan1991,,"3,208,098,919",1014,Millenials
+25780,Turkmenistan,1992,male,35-54 years,61,277400,21.99,Turkmenistan1992,,"3,200,539,816",984,Boomers
+25781,Turkmenistan,1992,male,25-34 years,49,305500,16.04,Turkmenistan1992,,"3,200,539,816",984,Boomers
+25782,Turkmenistan,1992,male,15-24 years,60,378800,15.84,Turkmenistan1992,,"3,200,539,816",984,Generation X
+25783,Turkmenistan,1992,female,75+ years,5,32700,15.29,Turkmenistan1992,,"3,200,539,816",984,G.I. Generation
+25784,Turkmenistan,1992,female,15-24 years,33,365400,9.03,Turkmenistan1992,,"3,200,539,816",984,Generation X
+25785,Turkmenistan,1992,female,55-74 years,14,159700,8.77,Turkmenistan1992,,"3,200,539,816",984,Silent
+25786,Turkmenistan,1992,male,55-74 years,11,138600,7.94,Turkmenistan1992,,"3,200,539,816",984,Silent
+25787,Turkmenistan,1992,male,75+ years,1,16000,6.25,Turkmenistan1992,,"3,200,539,816",984,G.I. Generation
+25788,Turkmenistan,1992,female,35-54 years,16,302000,5.3,Turkmenistan1992,,"3,200,539,816",984,Boomers
+25789,Turkmenistan,1992,female,25-34 years,10,320400,3.12,Turkmenistan1992,,"3,200,539,816",984,Boomers
+25790,Turkmenistan,1992,male,5-14 years,9,482600,1.86,Turkmenistan1992,,"3,200,539,816",984,Millenials
+25791,Turkmenistan,1992,female,5-14 years,2,473800,0.42,Turkmenistan1992,,"3,200,539,816",984,Millenials
+25792,Turkmenistan,1993,male,75+ years,4,16800,23.81,Turkmenistan1993,,"3,179,225,949",954,G.I. Generation
+25793,Turkmenistan,1993,male,35-54 years,55,310000,17.74,Turkmenistan1993,,"3,179,225,949",954,Boomers
+25794,Turkmenistan,1993,male,55-74 years,23,134000,17.16,Turkmenistan1993,,"3,179,225,949",954,Silent
+25795,Turkmenistan,1993,male,25-34 years,40,319000,12.54,Turkmenistan1993,,"3,179,225,949",954,Boomers
+25796,Turkmenistan,1993,female,55-74 years,19,159500,11.91,Turkmenistan1993,,"3,179,225,949",954,Silent
+25797,Turkmenistan,1993,male,15-24 years,46,403300,11.41,Turkmenistan1993,,"3,179,225,949",954,Generation X
+25798,Turkmenistan,1993,female,15-24 years,25,367200,6.81,Turkmenistan1993,,"3,179,225,949",954,Generation X
+25799,Turkmenistan,1993,female,75+ years,2,30000,6.67,Turkmenistan1993,,"3,179,225,949",954,G.I. Generation
+25800,Turkmenistan,1993,female,25-34 years,12,325200,3.69,Turkmenistan1993,,"3,179,225,949",954,Boomers
+25801,Turkmenistan,1993,female,35-54 years,7,312300,2.24,Turkmenistan1993,,"3,179,225,949",954,Boomers
+25802,Turkmenistan,1993,male,5-14 years,5,489900,1.02,Turkmenistan1993,,"3,179,225,949",954,Millenials
+25803,Turkmenistan,1993,female,5-14 years,2,463900,0.43,Turkmenistan1993,,"3,179,225,949",954,Millenials
+25804,Turkmenistan,1994,female,75+ years,9,25900,34.75,Turkmenistan1994,,"2,561,118,608",748,G.I. Generation
+25805,Turkmenistan,1994,male,55-74 years,21,137700,15.25,Turkmenistan1994,,"2,561,118,608",748,Silent
+25806,Turkmenistan,1994,male,35-54 years,47,326800,14.38,Turkmenistan1994,,"2,561,118,608",748,Boomers
+25807,Turkmenistan,1994,male,25-34 years,41,325300,12.6,Turkmenistan1994,,"2,561,118,608",748,Boomers
+25808,Turkmenistan,1994,male,15-24 years,51,412000,12.38,Turkmenistan1994,,"2,561,118,608",748,Generation X
+25809,Turkmenistan,1994,female,55-74 years,11,157900,6.97,Turkmenistan1994,,"2,561,118,608",748,Silent
+25810,Turkmenistan,1994,female,15-24 years,24,381300,6.29,Turkmenistan1994,,"2,561,118,608",748,Generation X
+25811,Turkmenistan,1994,male,75+ years,1,16700,5.99,Turkmenistan1994,,"2,561,118,608",748,G.I. Generation
+25812,Turkmenistan,1994,female,35-54 years,14,328100,4.27,Turkmenistan1994,,"2,561,118,608",748,Boomers
+25813,Turkmenistan,1994,female,25-34 years,10,328900,3.04,Turkmenistan1994,,"2,561,118,608",748,Boomers
+25814,Turkmenistan,1994,male,5-14 years,4,504500,0.79,Turkmenistan1994,,"2,561,118,608",748,Millenials
+25815,Turkmenistan,1994,female,5-14 years,1,478000,0.21,Turkmenistan1994,,"2,561,118,608",748,Millenials
+25816,Turkmenistan,1995,male,35-54 years,65,351500,18.49,Turkmenistan1995,,"2,482,228,440",650,Boomers
+25817,Turkmenistan,1995,male,55-74 years,24,146100,16.43,Turkmenistan1995,,"2,482,228,440",650,Silent
+25818,Turkmenistan,1995,male,15-24 years,58,433400,13.38,Turkmenistan1995,,"2,482,228,440",650,Generation X
+25819,Turkmenistan,1995,male,75+ years,2,15500,12.9,Turkmenistan1995,,"2,482,228,440",650,G.I. Generation
+25820,Turkmenistan,1995,male,25-34 years,36,351500,10.24,Turkmenistan1995,,"2,482,228,440",650,Generation X
+25821,Turkmenistan,1995,female,15-24 years,23,433100,5.31,Turkmenistan1995,,"2,482,228,440",650,Generation X
+25822,Turkmenistan,1995,female,55-74 years,7,177100,3.95,Turkmenistan1995,,"2,482,228,440",650,Silent
+25823,Turkmenistan,1995,female,25-34 years,11,361600,3.04,Turkmenistan1995,,"2,482,228,440",650,Generation X
+25824,Turkmenistan,1995,female,75+ years,1,33700,2.97,Turkmenistan1995,,"2,482,228,440",650,G.I. Generation
+25825,Turkmenistan,1995,female,35-54 years,8,366200,2.18,Turkmenistan1995,,"2,482,228,440",650,Boomers
+25826,Turkmenistan,1995,male,5-14 years,7,584500,1.2,Turkmenistan1995,,"2,482,228,440",650,Millenials
+25827,Turkmenistan,1995,female,5-14 years,2,564000,0.35,Turkmenistan1995,,"2,482,228,440",650,Millenials
+25828,Turkmenistan,1996,male,55-74 years,31,148900,20.82,Turkmenistan1996,,"2,379,281,768",608,Silent
+25829,Turkmenistan,1996,male,15-24 years,76,442700,17.17,Turkmenistan1996,,"2,379,281,768",608,Generation X
+25830,Turkmenistan,1996,male,35-54 years,61,368800,16.54,Turkmenistan1996,,"2,379,281,768",608,Boomers
+25831,Turkmenistan,1996,male,25-34 years,51,355400,14.35,Turkmenistan1996,,"2,379,281,768",608,Generation X
+25832,Turkmenistan,1996,female,75+ years,4,33700,11.87,Turkmenistan1996,,"2,379,281,768",608,G.I. Generation
+25833,Turkmenistan,1996,male,75+ years,1,15500,6.45,Turkmenistan1996,,"2,379,281,768",608,G.I. Generation
+25834,Turkmenistan,1996,female,55-74 years,9,178400,5.04,Turkmenistan1996,,"2,379,281,768",608,Silent
+25835,Turkmenistan,1996,female,15-24 years,17,439600,3.87,Turkmenistan1996,,"2,379,281,768",608,Generation X
+25836,Turkmenistan,1996,female,25-34 years,11,366300,3.0,Turkmenistan1996,,"2,379,281,768",608,Generation X
+25837,Turkmenistan,1996,female,35-54 years,9,384900,2.34,Turkmenistan1996,,"2,379,281,768",608,Boomers
+25838,Turkmenistan,1996,male,5-14 years,10,600000,1.67,Turkmenistan1996,,"2,379,281,768",608,Millenials
+25839,Turkmenistan,1996,female,5-14 years,3,578800,0.52,Turkmenistan1996,,"2,379,281,768",608,Millenials
+25840,Turkmenistan,1997,male,25-34 years,74,359800,20.57,Turkmenistan1997,,"2,450,084,970",612,Generation X
+25841,Turkmenistan,1997,male,15-24 years,88,453200,19.42,Turkmenistan1997,,"2,450,084,970",612,Generation X
+25842,Turkmenistan,1997,male,35-54 years,66,386700,17.07,Turkmenistan1997,,"2,450,084,970",612,Boomers
+25843,Turkmenistan,1997,male,55-74 years,21,150000,14.0,Turkmenistan1997,,"2,450,084,970",612,Silent
+25844,Turkmenistan,1997,female,15-24 years,37,446700,8.28,Turkmenistan1997,,"2,450,084,970",612,Generation X
+25845,Turkmenistan,1997,male,75+ years,1,15400,6.49,Turkmenistan1997,,"2,450,084,970",612,G.I. Generation
+25846,Turkmenistan,1997,female,35-54 years,15,404600,3.71,Turkmenistan1997,,"2,450,084,970",612,Boomers
+25847,Turkmenistan,1997,female,55-74 years,6,178200,3.37,Turkmenistan1997,,"2,450,084,970",612,Silent
+25848,Turkmenistan,1997,female,75+ years,1,33700,2.97,Turkmenistan1997,,"2,450,084,970",612,G.I. Generation
+25849,Turkmenistan,1997,female,25-34 years,11,371000,2.96,Turkmenistan1997,,"2,450,084,970",612,Generation X
+25850,Turkmenistan,1997,male,5-14 years,11,614600,1.79,Turkmenistan1997,,"2,450,084,970",612,Millenials
+25851,Turkmenistan,1997,female,5-14 years,2,592500,0.34,Turkmenistan1997,,"2,450,084,970",612,Millenials
+25852,Turkmenistan,1998,male,35-54 years,119,405500,29.35,Turkmenistan1998,,"2,605,688,065",636,Boomers
+25853,Turkmenistan,1998,male,25-34 years,74,363200,20.37,Turkmenistan1998,,"2,605,688,065",636,Generation X
+25854,Turkmenistan,1998,male,15-24 years,92,463000,19.87,Turkmenistan1998,,"2,605,688,065",636,Generation X
+25855,Turkmenistan,1998,female,75+ years,6,34200,17.54,Turkmenistan1998,,"2,605,688,065",636,G.I. Generation
+25856,Turkmenistan,1998,male,55-74 years,20,149300,13.4,Turkmenistan1998,,"2,605,688,065",636,Silent
+25857,Turkmenistan,1998,male,75+ years,2,15500,12.9,Turkmenistan1998,,"2,605,688,065",636,G.I. Generation
+25858,Turkmenistan,1998,female,15-24 years,37,454100,8.15,Turkmenistan1998,,"2,605,688,065",636,Generation X
+25859,Turkmenistan,1998,female,55-74 years,9,175800,5.12,Turkmenistan1998,,"2,605,688,065",636,Silent
+25860,Turkmenistan,1998,female,35-54 years,17,425700,3.99,Turkmenistan1998,,"2,605,688,065",636,Boomers
+25861,Turkmenistan,1998,female,25-34 years,11,374700,2.94,Turkmenistan1998,,"2,605,688,065",636,Generation X
+25862,Turkmenistan,1998,male,5-14 years,15,630400,2.38,Turkmenistan1998,,"2,605,688,065",636,Millenials
+25863,Turkmenistan,1998,female,5-14 years,3,607800,0.49,Turkmenistan1998,,"2,605,688,065",636,Millenials
+25864,Turkmenistan,1999,male,35-54 years,110,406288,27.07,Turkmenistan1999,,"2,450,686,660",619,Boomers
+25865,Turkmenistan,1999,male,25-34 years,89,346978,25.65,Turkmenistan1999,,"2,450,686,660",619,Generation X
+25866,Turkmenistan,1999,male,15-24 years,104,446967,23.27,Turkmenistan1999,,"2,450,686,660",619,Generation X
+25867,Turkmenistan,1999,male,55-74 years,30,145831,20.57,Turkmenistan1999,,"2,450,686,660",619,Silent
+25868,Turkmenistan,1999,male,75+ years,2,16368,12.22,Turkmenistan1999,,"2,450,686,660",619,G.I. Generation
+25869,Turkmenistan,1999,female,15-24 years,37,439155,8.43,Turkmenistan1999,,"2,450,686,660",619,Generation X
+25870,Turkmenistan,1999,female,25-34 years,28,345599,8.1,Turkmenistan1999,,"2,450,686,660",619,Generation X
+25871,Turkmenistan,1999,female,75+ years,3,38871,7.72,Turkmenistan1999,,"2,450,686,660",619,G.I. Generation
+25872,Turkmenistan,1999,female,55-74 years,11,176010,6.25,Turkmenistan1999,,"2,450,686,660",619,Silent
+25873,Turkmenistan,1999,female,35-54 years,19,450423,4.22,Turkmenistan1999,,"2,450,686,660",619,Boomers
+25874,Turkmenistan,1999,male,5-14 years,7,579272,1.21,Turkmenistan1999,,"2,450,686,660",619,Millenials
+25875,Turkmenistan,1999,female,5-14 years,2,566992,0.35,Turkmenistan1999,,"2,450,686,660",619,Millenials
+25876,Turkmenistan,2000,male,25-34 years,85,352082,24.14,Turkmenistan2000,,"2,904,662,605",721,Generation X
+25877,Turkmenistan,2000,male,15-24 years,104,456963,22.76,Turkmenistan2000,,"2,904,662,605",721,Generation X
+25878,Turkmenistan,2000,male,35-54 years,95,423483,22.43,Turkmenistan2000,,"2,904,662,605",721,Boomers
+25879,Turkmenistan,2000,female,75+ years,5,39919,12.53,Turkmenistan2000,,"2,904,662,605",721,G.I. Generation
+25880,Turkmenistan,2000,male,55-74 years,16,145282,11.01,Turkmenistan2000,,"2,904,662,605",721,Silent
+25881,Turkmenistan,2000,female,15-24 years,32,449090,7.13,Turkmenistan2000,,"2,904,662,605",721,Generation X
+25882,Turkmenistan,2000,female,25-34 years,22,349192,6.3,Turkmenistan2000,,"2,904,662,605",721,Generation X
+25883,Turkmenistan,2000,female,35-54 years,12,470349,2.55,Turkmenistan2000,,"2,904,662,605",721,Boomers
+25884,Turkmenistan,2000,female,55-74 years,3,174919,1.72,Turkmenistan2000,,"2,904,662,605",721,Silent
+25885,Turkmenistan,2000,male,5-14 years,7,580294,1.21,Turkmenistan2000,,"2,904,662,605",721,Millenials
+25886,Turkmenistan,2000,female,5-14 years,2,567906,0.35,Turkmenistan2000,,"2,904,662,605",721,Millenials
+25887,Turkmenistan,2000,male,75+ years,0,16999,0.0,Turkmenistan2000,,"2,904,662,605",721,G.I. Generation
+25888,Turkmenistan,2001,male,25-34 years,114,357442,31.89,Turkmenistan2001,,"3,534,803,922",863,Generation X
+25889,Turkmenistan,2001,male,35-54 years,135,440661,30.64,Turkmenistan2001,,"3,534,803,922",863,Boomers
+25890,Turkmenistan,2001,male,15-24 years,87,467132,18.62,Turkmenistan2001,,"3,534,803,922",863,Millenials
+25891,Turkmenistan,2001,male,75+ years,3,18881,15.89,Turkmenistan2001,,"3,534,803,922",863,Silent
+25892,Turkmenistan,2001,male,55-74 years,22,145142,15.16,Turkmenistan2001,,"3,534,803,922",863,Silent
+25893,Turkmenistan,2001,female,15-24 years,33,460455,7.17,Turkmenistan2001,,"3,534,803,922",863,Millenials
+25894,Turkmenistan,2001,female,25-34 years,22,354216,6.21,Turkmenistan2001,,"3,534,803,922",863,Generation X
+25895,Turkmenistan,2001,female,55-74 years,6,173382,3.46,Turkmenistan2001,,"3,534,803,922",863,Silent
+25896,Turkmenistan,2001,female,35-54 years,14,488694,2.86,Turkmenistan2001,,"3,534,803,922",863,Boomers
+25897,Turkmenistan,2001,male,5-14 years,6,580096,1.03,Turkmenistan2001,,"3,534,803,922",863,Millenials
+25898,Turkmenistan,2001,female,5-14 years,3,567589,0.53,Turkmenistan2001,,"3,534,803,922",863,Millenials
+25899,Turkmenistan,2001,female,75+ years,0,42291,0.0,Turkmenistan2001,,"3,534,803,922",863,Silent
+25900,Turkmenistan,2002,male,25-34 years,108,361831,29.85,Turkmenistan2002,,"4,461,978,499",1077,Generation X
+25901,Turkmenistan,2002,male,35-54 years,105,455939,23.03,Turkmenistan2002,,"4,461,978,499",1077,Boomers
+25902,Turkmenistan,2002,male,15-24 years,94,476311,19.74,Turkmenistan2002,,"4,461,978,499",1077,Millenials
+25903,Turkmenistan,2002,male,55-74 years,21,144826,14.5,Turkmenistan2002,,"4,461,978,499",1077,Silent
+25904,Turkmenistan,2002,female,15-24 years,43,470946,9.13,Turkmenistan2002,,"4,461,978,499",1077,Millenials
+25905,Turkmenistan,2002,female,25-34 years,19,359375,5.29,Turkmenistan2002,,"4,461,978,499",1077,Generation X
+25906,Turkmenistan,2002,male,75+ years,1,20849,4.8,Turkmenistan2002,,"4,461,978,499",1077,Silent
+25907,Turkmenistan,2002,female,55-74 years,6,171868,3.49,Turkmenistan2002,,"4,461,978,499",1077,Silent
+25908,Turkmenistan,2002,female,75+ years,1,44533,2.25,Turkmenistan2002,,"4,461,978,499",1077,Silent
+25909,Turkmenistan,2002,female,35-54 years,8,504060,1.59,Turkmenistan2002,,"4,461,978,499",1077,Boomers
+25910,Turkmenistan,2002,male,5-14 years,7,572796,1.22,Turkmenistan2002,,"4,461,978,499",1077,Millenials
+25911,Turkmenistan,2002,female,5-14 years,3,560358,0.54,Turkmenistan2002,,"4,461,978,499",1077,Millenials
+25912,Turkmenistan,2003,male,25-34 years,101,365893,27.6,Turkmenistan2003,,"5,977,560,877",1431,Generation X
+25913,Turkmenistan,2003,male,35-54 years,97,469877,20.64,Turkmenistan2003,,"5,977,560,877",1431,Boomers
+25914,Turkmenistan,2003,male,15-24 years,81,485360,16.69,Turkmenistan2003,,"5,977,560,877",1431,Millenials
+25915,Turkmenistan,2003,male,75+ years,2,22656,8.83,Turkmenistan2003,,"5,977,560,877",1431,Silent
+25916,Turkmenistan,2003,female,15-24 years,38,481201,7.9,Turkmenistan2003,,"5,977,560,877",1431,Millenials
+25917,Turkmenistan,2003,male,55-74 years,11,144973,7.59,Turkmenistan2003,,"5,977,560,877",1431,Silent
+25918,Turkmenistan,2003,female,75+ years,3,46460,6.46,Turkmenistan2003,,"5,977,560,877",1431,Silent
+25919,Turkmenistan,2003,female,25-34 years,21,364978,5.75,Turkmenistan2003,,"5,977,560,877",1431,Generation X
+25920,Turkmenistan,2003,female,35-54 years,15,517334,2.9,Turkmenistan2003,,"5,977,560,877",1431,Boomers
+25921,Turkmenistan,2003,female,55-74 years,3,171164,1.75,Turkmenistan2003,,"5,977,560,877",1431,Silent
+25922,Turkmenistan,2003,male,5-14 years,3,560043,0.54,Turkmenistan2003,,"5,977,560,877",1431,Millenials
+25923,Turkmenistan,2003,female,5-14 years,2,547801,0.37,Turkmenistan2003,,"5,977,560,877",1431,Millenials
+25924,Turkmenistan,2004,male,25-34 years,99,370496,26.72,Turkmenistan2004,,"6,838,351,088",1624,Generation X
+25925,Turkmenistan,2004,male,35-54 years,102,483408,21.1,Turkmenistan2004,,"6,838,351,088",1624,Boomers
+25926,Turkmenistan,2004,male,15-24 years,76,495486,15.34,Turkmenistan2004,,"6,838,351,088",1624,Millenials
+25927,Turkmenistan,2004,male,75+ years,3,24068,12.46,Turkmenistan2004,,"6,838,351,088",1624,Silent
+25928,Turkmenistan,2004,male,55-74 years,13,146331,8.88,Turkmenistan2004,,"6,838,351,088",1624,Silent
+25929,Turkmenistan,2004,female,15-24 years,43,492159,8.74,Turkmenistan2004,,"6,838,351,088",1624,Millenials
+25930,Turkmenistan,2004,female,75+ years,3,47891,6.26,Turkmenistan2004,,"6,838,351,088",1624,Silent
+25931,Turkmenistan,2004,female,25-34 years,22,371342,5.92,Turkmenistan2004,,"6,838,351,088",1624,Generation X
+25932,Turkmenistan,2004,female,35-54 years,17,529987,3.21,Turkmenistan2004,,"6,838,351,088",1624,Boomers
+25933,Turkmenistan,2004,female,55-74 years,4,172232,2.32,Turkmenistan2004,,"6,838,351,088",1624,Silent
+25934,Turkmenistan,2004,male,5-14 years,6,544831,1.1,Turkmenistan2004,,"6,838,351,088",1624,Millenials
+25935,Turkmenistan,2004,female,5-14 years,4,532769,0.75,Turkmenistan2004,,"6,838,351,088",1624,Millenials
+25936,Turkmenistan,2005,male,25-34 years,102,376109,27.12,Turkmenistan2005,,"8,104,355,717",1906,Generation X
+25937,Turkmenistan,2005,male,35-54 years,124,497010,24.95,Turkmenistan2005,,"8,104,355,717",1906,Boomers
+25938,Turkmenistan,2005,male,15-24 years,107,507129,21.1,Turkmenistan2005,,"8,104,355,717",1906,Millenials
+25939,Turkmenistan,2005,male,55-74 years,28,149270,18.76,Turkmenistan2005,,"8,104,355,717",1906,Silent
+25940,Turkmenistan,2005,male,75+ years,4,24983,16.01,Turkmenistan2005,,"8,104,355,717",1906,Silent
+25941,Turkmenistan,2005,female,15-24 years,40,504111,7.93,Turkmenistan2005,,"8,104,355,717",1906,Millenials
+25942,Turkmenistan,2005,female,25-34 years,26,378566,6.87,Turkmenistan2005,,"8,104,355,717",1906,Generation X
+25943,Turkmenistan,2005,female,55-74 years,7,175542,3.99,Turkmenistan2005,,"8,104,355,717",1906,Silent
+25944,Turkmenistan,2005,female,35-54 years,17,542813,3.13,Turkmenistan2005,,"8,104,355,717",1906,Boomers
+25945,Turkmenistan,2005,female,75+ years,1,48752,2.05,Turkmenistan2005,,"8,104,355,717",1906,Silent
+25946,Turkmenistan,2005,male,5-14 years,9,530120,1.7,Turkmenistan2005,,"8,104,355,717",1906,Millenials
+25947,Turkmenistan,2005,female,5-14 years,3,518125,0.58,Turkmenistan2005,,"8,104,355,717",1906,Millenials
+25948,Turkmenistan,2006,male,25-34 years,111,382190,29.04,Turkmenistan2006,,"10,277,598,152",2397,Generation X
+25949,Turkmenistan,2006,male,35-54 years,132,508377,25.96,Turkmenistan2006,,"10,277,598,152",2397,Boomers
+25950,Turkmenistan,2006,male,15-24 years,104,517620,20.09,Turkmenistan2006,,"10,277,598,152",2397,Millenials
+25951,Turkmenistan,2006,male,75+ years,5,26310,19.0,Turkmenistan2006,,"10,277,598,152",2397,Silent
+25952,Turkmenistan,2006,male,55-74 years,28,152468,18.36,Turkmenistan2006,,"10,277,598,152",2397,Silent
+25953,Turkmenistan,2006,female,15-24 years,62,514281,12.06,Turkmenistan2006,,"10,277,598,152",2397,Millenials
+25954,Turkmenistan,2006,female,35-54 years,23,553688,4.15,Turkmenistan2006,,"10,277,598,152",2397,Boomers
+25955,Turkmenistan,2006,female,25-34 years,16,385454,4.15,Turkmenistan2006,,"10,277,598,152",2397,Generation X
+25956,Turkmenistan,2006,female,75+ years,2,49893,4.01,Turkmenistan2006,,"10,277,598,152",2397,Silent
+25957,Turkmenistan,2006,female,55-74 years,7,180084,3.89,Turkmenistan2006,,"10,277,598,152",2397,Silent
+25958,Turkmenistan,2006,male,5-14 years,12,514454,2.33,Turkmenistan2006,,"10,277,598,152",2397,Millenials
+25959,Turkmenistan,2006,female,5-14 years,4,502831,0.8,Turkmenistan2006,,"10,277,598,152",2397,Millenials
+25960,Turkmenistan,2007,male,25-34 years,77,389981,19.74,Turkmenistan2007,,"12,664,165,103",2916,Generation X
+25961,Turkmenistan,2007,male,35-54 years,92,520854,17.66,Turkmenistan2007,,"12,664,165,103",2916,Boomers
+25962,Turkmenistan,2007,male,55-74 years,23,157465,14.61,Turkmenistan2007,,"12,664,165,103",2916,Silent
+25963,Turkmenistan,2007,male,15-24 years,67,530314,12.63,Turkmenistan2007,,"12,664,165,103",2916,Millenials
+25964,Turkmenistan,2007,male,75+ years,2,27254,7.34,Turkmenistan2007,,"12,664,165,103",2916,Silent
+25965,Turkmenistan,2007,female,15-24 years,37,526222,7.03,Turkmenistan2007,,"12,664,165,103",2916,Millenials
+25966,Turkmenistan,2007,female,25-34 years,18,393748,4.57,Turkmenistan2007,,"12,664,165,103",2916,Generation X
+25967,Turkmenistan,2007,female,75+ years,2,50546,3.96,Turkmenistan2007,,"12,664,165,103",2916,Silent
+25968,Turkmenistan,2007,female,55-74 years,7,187318,3.74,Turkmenistan2007,,"12,664,165,103",2916,Silent
+25969,Turkmenistan,2007,female,35-54 years,17,565599,3.01,Turkmenistan2007,,"12,664,165,103",2916,Boomers
+25970,Turkmenistan,2007,male,5-14 years,8,502373,1.59,Turkmenistan2007,,"12,664,165,103",2916,Generation Z
+25971,Turkmenistan,2007,female,5-14 years,4,490983,0.81,Turkmenistan2007,,"12,664,165,103",2916,Generation Z
+25972,Turkmenistan,2008,male,15-24 years,130,542946,23.94,Turkmenistan2008,,"19,271,523,179",4368,Millenials
+25973,Turkmenistan,2008,male,25-34 years,94,399182,23.55,Turkmenistan2008,,"19,271,523,179",4368,Generation X
+25974,Turkmenistan,2008,male,35-54 years,120,533999,22.47,Turkmenistan2008,,"19,271,523,179",4368,Boomers
+25975,Turkmenistan,2008,female,15-24 years,64,537815,11.9,Turkmenistan2008,,"19,271,523,179",4368,Millenials
+25976,Turkmenistan,2008,male,55-74 years,18,163900,10.98,Turkmenistan2008,,"19,271,523,179",4368,Silent
+25977,Turkmenistan,2008,male,75+ years,2,27996,7.14,Turkmenistan2008,,"19,271,523,179",4368,Silent
+25978,Turkmenistan,2008,female,25-34 years,26,403248,6.45,Turkmenistan2008,,"19,271,523,179",4368,Generation X
+25979,Turkmenistan,2008,female,75+ years,2,50970,3.92,Turkmenistan2008,,"19,271,523,179",4368,Silent
+25980,Turkmenistan,2008,female,55-74 years,6,196586,3.05,Turkmenistan2008,,"19,271,523,179",4368,Silent
+25981,Turkmenistan,2008,female,35-54 years,10,578059,1.73,Turkmenistan2008,,"19,271,523,179",4368,Boomers
+25982,Turkmenistan,2008,female,5-14 years,6,483074,1.24,Turkmenistan2008,,"19,271,523,179",4368,Generation Z
+25983,Turkmenistan,2008,male,5-14 years,6,494360,1.21,Turkmenistan2008,,"19,271,523,179",4368,Generation Z
+25984,Turkmenistan,2009,male,15-24 years,47,551843,8.52,Turkmenistan2009,,"20,214,385,965",4508,Millenials
+25985,Turkmenistan,2009,male,75+ years,2,28728,6.96,Turkmenistan2009,,"20,214,385,965",4508,Silent
+25986,Turkmenistan,2009,male,25-34 years,28,409223,6.84,Turkmenistan2009,,"20,214,385,965",4508,Generation X
+25987,Turkmenistan,2009,male,35-54 years,33,546900,6.03,Turkmenistan2009,,"20,214,385,965",4508,Boomers
+25988,Turkmenistan,2009,male,55-74 years,7,171156,4.09,Turkmenistan2009,,"20,214,385,965",4508,Silent
+25989,Turkmenistan,2009,female,15-24 years,20,545660,3.67,Turkmenistan2009,,"20,214,385,965",4508,Millenials
+25990,Turkmenistan,2009,female,25-34 years,14,413552,3.39,Turkmenistan2009,,"20,214,385,965",4508,Generation X
+25991,Turkmenistan,2009,male,5-14 years,8,490138,1.63,Turkmenistan2009,,"20,214,385,965",4508,Generation Z
+25992,Turkmenistan,2009,female,35-54 years,3,590092,0.51,Turkmenistan2009,,"20,214,385,965",4508,Boomers
+25993,Turkmenistan,2009,female,55-74 years,1,206817,0.48,Turkmenistan2009,,"20,214,385,965",4508,Silent
+25994,Turkmenistan,2009,female,5-14 years,2,478874,0.42,Turkmenistan2009,,"20,214,385,965",4508,Generation Z
+25995,Turkmenistan,2009,female,75+ years,0,51484,0.0,Turkmenistan2009,,"20,214,385,965",4508,Silent
+25996,Turkmenistan,2010,male,25-34 years,40,419805,9.53,Turkmenistan2010,0.6659999999999999,"22,583,157,895",4962,Generation X
+25997,Turkmenistan,2010,male,15-24 years,42,554957,7.57,Turkmenistan2010,0.6659999999999999,"22,583,157,895",4962,Millenials
+25998,Turkmenistan,2010,male,75+ years,2,29510,6.78,Turkmenistan2010,0.6659999999999999,"22,583,157,895",4962,Silent
+25999,Turkmenistan,2010,male,35-54 years,35,559144,6.26,Turkmenistan2010,0.6659999999999999,"22,583,157,895",4962,Generation X
+26000,Turkmenistan,2010,male,55-74 years,10,178934,5.59,Turkmenistan2010,0.6659999999999999,"22,583,157,895",4962,Silent
+26001,Turkmenistan,2010,female,15-24 years,22,547882,4.02,Turkmenistan2010,0.6659999999999999,"22,583,157,895",4962,Millenials
+26002,Turkmenistan,2010,female,25-34 years,9,424446,2.12,Turkmenistan2010,0.6659999999999999,"22,583,157,895",4962,Generation X
+26003,Turkmenistan,2010,female,35-54 years,9,601270,1.5,Turkmenistan2010,0.6659999999999999,"22,583,157,895",4962,Generation X
+26004,Turkmenistan,2010,female,5-14 years,5,477152,1.05,Turkmenistan2010,0.6659999999999999,"22,583,157,895",4962,Generation Z
+26005,Turkmenistan,2010,female,55-74 years,2,217434,0.92,Turkmenistan2010,0.6659999999999999,"22,583,157,895",4962,Silent
+26006,Turkmenistan,2010,male,5-14 years,2,488434,0.41,Turkmenistan2010,0.6659999999999999,"22,583,157,895",4962,Generation Z
+26007,Turkmenistan,2010,female,75+ years,0,52217,0.0,Turkmenistan2010,0.6659999999999999,"22,583,157,895",4962,Silent
+26008,Turkmenistan,2011,male,35-54 years,33,572095,5.77,Turkmenistan2011,0.6709999999999999,"29,233,333,333",6319,Generation X
+26009,Turkmenistan,2011,male,15-24 years,27,554571,4.87,Turkmenistan2011,0.6709999999999999,"29,233,333,333",6319,Millenials
+26010,Turkmenistan,2011,male,25-34 years,20,432553,4.62,Turkmenistan2011,0.6709999999999999,"29,233,333,333",6319,Millenials
+26011,Turkmenistan,2011,male,55-74 years,8,186985,4.28,Turkmenistan2011,0.6709999999999999,"29,233,333,333",6319,Boomers
+26012,Turkmenistan,2011,female,15-24 years,20,546522,3.66,Turkmenistan2011,0.6709999999999999,"29,233,333,333",6319,Millenials
+26013,Turkmenistan,2011,male,75+ years,1,31435,3.18,Turkmenistan2011,0.6709999999999999,"29,233,333,333",6319,Silent
+26014,Turkmenistan,2011,female,55-74 years,5,228201,2.19,Turkmenistan2011,0.6709999999999999,"29,233,333,333",6319,Boomers
+26015,Turkmenistan,2011,female,35-54 years,8,613486,1.3,Turkmenistan2011,0.6709999999999999,"29,233,333,333",6319,Generation X
+26016,Turkmenistan,2011,female,25-34 years,5,437221,1.14,Turkmenistan2011,0.6709999999999999,"29,233,333,333",6319,Millenials
+26017,Turkmenistan,2011,male,5-14 years,2,490065,0.41,Turkmenistan2011,0.6709999999999999,"29,233,333,333",6319,Generation Z
+26018,Turkmenistan,2011,female,5-14 years,1,478619,0.21,Turkmenistan2011,0.6709999999999999,"29,233,333,333",6319,Generation Z
+26019,Turkmenistan,2011,female,75+ years,0,54342,0.0,Turkmenistan2011,0.6709999999999999,"29,233,333,333",6319,Silent
+26020,Turkmenistan,2012,male,35-54 years,39,584037,6.68,Turkmenistan2012,0.677,"35,164,210,526",7498,Generation X
+26021,Turkmenistan,2012,male,15-24 years,35,547952,6.39,Turkmenistan2012,0.677,"35,164,210,526",7498,Millenials
+26022,Turkmenistan,2012,male,25-34 years,23,444997,5.17,Turkmenistan2012,0.677,"35,164,210,526",7498,Millenials
+26023,Turkmenistan,2012,female,15-24 years,18,539169,3.34,Turkmenistan2012,0.677,"35,164,210,526",7498,Millenials
+26024,Turkmenistan,2012,male,75+ years,1,33321,3.0,Turkmenistan2012,0.677,"35,164,210,526",7498,Silent
+26025,Turkmenistan,2012,male,55-74 years,5,195269,2.56,Turkmenistan2012,0.677,"35,164,210,526",7498,Boomers
+26026,Turkmenistan,2012,female,25-34 years,9,449631,2.0,Turkmenistan2012,0.677,"35,164,210,526",7498,Millenials
+26027,Turkmenistan,2012,female,35-54 years,4,624535,0.64,Turkmenistan2012,0.677,"35,164,210,526",7498,Generation X
+26028,Turkmenistan,2012,female,5-14 years,2,481962,0.41,Turkmenistan2012,0.677,"35,164,210,526",7498,Generation Z
+26029,Turkmenistan,2012,male,5-14 years,2,493572,0.41,Turkmenistan2012,0.677,"35,164,210,526",7498,Generation Z
+26030,Turkmenistan,2012,female,55-74 years,0,239090,0.0,Turkmenistan2012,0.677,"35,164,210,526",7498,Boomers
+26031,Turkmenistan,2012,female,75+ years,0,56523,0.0,Turkmenistan2012,0.677,"35,164,210,526",7498,Silent
+26032,Turkmenistan,2013,male,35-54 years,28,595499,4.7,Turkmenistan2013,0.682,"39,197,543,860",8255,Generation X
+26033,Turkmenistan,2013,male,25-34 years,21,457380,4.59,Turkmenistan2013,0.682,"39,197,543,860",8255,Millenials
+26034,Turkmenistan,2013,male,15-24 years,19,537146,3.54,Turkmenistan2013,0.682,"39,197,543,860",8255,Millenials
+26035,Turkmenistan,2013,female,15-24 years,16,527829,3.03,Turkmenistan2013,0.682,"39,197,543,860",8255,Millenials
+26036,Turkmenistan,2013,male,75+ years,1,34794,2.87,Turkmenistan2013,0.682,"39,197,543,860",8255,Silent
+26037,Turkmenistan,2013,male,55-74 years,4,204156,1.96,Turkmenistan2013,0.682,"39,197,543,860",8255,Boomers
+26038,Turkmenistan,2013,female,25-34 years,8,461848,1.73,Turkmenistan2013,0.682,"39,197,543,860",8255,Millenials
+26039,Turkmenistan,2013,female,35-54 years,3,634920,0.47,Turkmenistan2013,0.682,"39,197,543,860",8255,Generation X
+26040,Turkmenistan,2013,female,55-74 years,1,250752,0.4,Turkmenistan2013,0.682,"39,197,543,860",8255,Boomers
+26041,Turkmenistan,2013,female,5-14 years,0,486814,0.0,Turkmenistan2013,0.682,"39,197,543,860",8255,Generation Z
+26042,Turkmenistan,2013,female,75+ years,0,58313,0.0,Turkmenistan2013,0.682,"39,197,543,860",8255,Silent
+26043,Turkmenistan,2013,male,5-14 years,0,498604,0.0,Turkmenistan2013,0.682,"39,197,543,860",8255,Generation Z
+26044,Turkmenistan,2014,male,35-54 years,39,607630,6.42,Turkmenistan2014,0.688,"43,524,210,526",9046,Generation X
+26045,Turkmenistan,2014,male,25-34 years,23,470459,4.89,Turkmenistan2014,0.688,"43,524,210,526",9046,Millenials
+26046,Turkmenistan,2014,female,15-24 years,23,515853,4.46,Turkmenistan2014,0.688,"43,524,210,526",9046,Millenials
+26047,Turkmenistan,2014,male,15-24 years,20,525603,3.81,Turkmenistan2014,0.688,"43,524,210,526",9046,Millenials
+26048,Turkmenistan,2014,male,55-74 years,7,214266,3.27,Turkmenistan2014,0.688,"43,524,210,526",9046,Boomers
+26049,Turkmenistan,2014,female,25-34 years,14,474487,2.95,Turkmenistan2014,0.688,"43,524,210,526",9046,Millenials
+26050,Turkmenistan,2014,female,55-74 years,3,264297,1.14,Turkmenistan2014,0.688,"43,524,210,526",9046,Boomers
+26051,Turkmenistan,2014,female,35-54 years,4,645711,0.62,Turkmenistan2014,0.688,"43,524,210,526",9046,Generation X
+26052,Turkmenistan,2014,male,5-14 years,3,505170,0.59,Turkmenistan2014,0.688,"43,524,210,526",9046,Generation Z
+26053,Turkmenistan,2014,female,5-14 years,0,493148,0.0,Turkmenistan2014,0.688,"43,524,210,526",9046,Generation Z
+26054,Turkmenistan,2014,female,75+ years,0,59137,0.0,Turkmenistan2014,0.688,"43,524,210,526",9046,Silent
+26055,Turkmenistan,2014,male,75+ years,0,35466,0.0,Turkmenistan2014,0.688,"43,524,210,526",9046,Silent
+26056,Turkmenistan,2015,male,35-54 years,38,620958,6.12,Turkmenistan2015,,"35,799,628,571",7326,Generation X
+26057,Turkmenistan,2015,male,15-24 years,31,515349,6.02,Turkmenistan2015,,"35,799,628,571",7326,Millenials
+26058,Turkmenistan,2015,female,15-24 years,21,505233,4.16,Turkmenistan2015,,"35,799,628,571",7326,Millenials
+26059,Turkmenistan,2015,male,55-74 years,7,225820,3.1,Turkmenistan2015,,"35,799,628,571",7326,Boomers
+26060,Turkmenistan,2015,male,25-34 years,15,484397,3.1,Turkmenistan2015,,"35,799,628,571",7326,Millenials
+26061,Turkmenistan,2015,female,25-34 years,11,487637,2.26,Turkmenistan2015,,"35,799,628,571",7326,Millenials
+26062,Turkmenistan,2015,female,75+ years,1,58753,1.7,Turkmenistan2015,,"35,799,628,571",7326,Silent
+26063,Turkmenistan,2015,female,55-74 years,3,280211,1.07,Turkmenistan2015,,"35,799,628,571",7326,Boomers
+26064,Turkmenistan,2015,female,35-54 years,5,657432,0.76,Turkmenistan2015,,"35,799,628,571",7326,Generation X
+26065,Turkmenistan,2015,male,5-14 years,1,513926,0.19,Turkmenistan2015,,"35,799,628,571",7326,Generation Z
+26066,Turkmenistan,2015,female,5-14 years,0,501611,0.0,Turkmenistan2015,,"35,799,628,571",7326,Generation Z
+26067,Turkmenistan,2015,male,75+ years,0,35187,0.0,Turkmenistan2015,,"35,799,628,571",7326,Silent

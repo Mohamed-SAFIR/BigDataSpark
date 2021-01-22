@@ -1,0 +1,205 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+13160,Jamaica,1985,male,75+ years,1,29000,3.45,Jamaica1985,0.65,"2,100,223,150",1032,G.I. Generation
+13161,Jamaica,1985,female,75+ years,1,38000,2.63,Jamaica1985,0.65,"2,100,223,150",1032,G.I. Generation
+13162,Jamaica,1985,male,15-24 years,3,259000,1.16,Jamaica1985,0.65,"2,100,223,150",1032,Generation X
+13163,Jamaica,1985,male,25-34 years,1,156000,0.64,Jamaica1985,0.65,"2,100,223,150",1032,Boomers
+13164,Jamaica,1985,male,35-54 years,1,169000,0.59,Jamaica1985,0.65,"2,100,223,150",1032,Silent
+13165,Jamaica,1985,female,35-54 years,1,176000,0.57,Jamaica1985,0.65,"2,100,223,150",1032,Silent
+13166,Jamaica,1985,female,15-24 years,0,263000,0.0,Jamaica1985,0.65,"2,100,223,150",1032,Generation X
+13167,Jamaica,1985,female,25-34 years,0,164000,0.0,Jamaica1985,0.65,"2,100,223,150",1032,Boomers
+13168,Jamaica,1985,female,5-14 years,0,279000,0.0,Jamaica1985,0.65,"2,100,223,150",1032,Generation X
+13169,Jamaica,1985,female,55-74 years,0,110000,0.0,Jamaica1985,0.65,"2,100,223,150",1032,G.I. Generation
+13170,Jamaica,1985,male,5-14 years,0,291000,0.0,Jamaica1985,0.65,"2,100,223,150",1032,Generation X
+13171,Jamaica,1985,male,55-74 years,0,101000,0.0,Jamaica1985,0.65,"2,100,223,150",1032,G.I. Generation
+13172,Jamaica,1986,male,35-54 years,1,175544,0.57,Jamaica1986,,"2,754,566,176",1342,Silent
+13173,Jamaica,1986,female,15-24 years,0,255762,0.0,Jamaica1986,,"2,754,566,176",1342,Generation X
+13174,Jamaica,1986,female,25-34 years,0,170678,0.0,Jamaica1986,,"2,754,566,176",1342,Boomers
+13175,Jamaica,1986,female,35-54 years,0,184127,0.0,Jamaica1986,,"2,754,566,176",1342,Silent
+13176,Jamaica,1986,female,5-14 years,0,272073,0.0,Jamaica1986,,"2,754,566,176",1342,Generation X
+13177,Jamaica,1986,female,55-74 years,0,114989,0.0,Jamaica1986,,"2,754,566,176",1342,G.I. Generation
+13178,Jamaica,1986,female,75+ years,0,40712,0.0,Jamaica1986,,"2,754,566,176",1342,G.I. Generation
+13179,Jamaica,1986,male,15-24 years,0,256512,0.0,Jamaica1986,,"2,754,566,176",1342,Generation X
+13180,Jamaica,1986,male,25-34 years,0,164654,0.0,Jamaica1986,,"2,754,566,176",1342,Boomers
+13181,Jamaica,1986,male,5-14 years,0,281022,0.0,Jamaica1986,,"2,754,566,176",1342,Generation X
+13182,Jamaica,1986,male,55-74 years,0,105230,0.0,Jamaica1986,,"2,754,566,176",1342,G.I. Generation
+13183,Jamaica,1986,male,75+ years,0,31228,0.0,Jamaica1986,,"2,754,566,176",1342,G.I. Generation
+13184,Jamaica,1987,male,55-74 years,4,106214,3.77,Jamaica1987,,"3,286,987,552",1587,G.I. Generation
+13185,Jamaica,1987,male,15-24 years,5,255648,1.96,Jamaica1987,,"3,286,987,552",1587,Generation X
+13186,Jamaica,1987,male,25-34 years,1,170248,0.59,Jamaica1987,,"3,286,987,552",1587,Boomers
+13187,Jamaica,1987,female,25-34 years,1,177282,0.56,Jamaica1987,,"3,286,987,552",1587,Boomers
+13188,Jamaica,1987,female,35-54 years,1,187389,0.53,Jamaica1987,,"3,286,987,552",1587,Silent
+13189,Jamaica,1987,female,5-14 years,1,270343,0.37,Jamaica1987,,"3,286,987,552",1587,Generation X
+13190,Jamaica,1987,female,15-24 years,0,255517,0.0,Jamaica1987,,"3,286,987,552",1587,Generation X
+13191,Jamaica,1987,female,55-74 years,0,116815,0.0,Jamaica1987,,"3,286,987,552",1587,G.I. Generation
+13192,Jamaica,1987,female,75+ years,0,41941,0.0,Jamaica1987,,"3,286,987,552",1587,G.I. Generation
+13193,Jamaica,1987,male,35-54 years,0,179252,0.0,Jamaica1987,,"3,286,987,552",1587,Silent
+13194,Jamaica,1987,male,5-14 years,0,277969,0.0,Jamaica1987,,"3,286,987,552",1587,Generation X
+13195,Jamaica,1987,male,75+ years,0,32142,0.0,Jamaica1987,,"3,286,987,552",1587,G.I. Generation
+13196,Jamaica,1988,female,75+ years,1,43076,2.32,Jamaica1988,,"3,828,310,735",1831,G.I. Generation
+13197,Jamaica,1988,male,15-24 years,2,254088,0.79,Jamaica1988,,"3,828,310,735",1831,Generation X
+13198,Jamaica,1988,male,35-54 years,1,183306,0.55,Jamaica1988,,"3,828,310,735",1831,Silent
+13199,Jamaica,1988,female,25-34 years,1,183521,0.54,Jamaica1988,,"3,828,310,735",1831,Boomers
+13200,Jamaica,1988,female,15-24 years,0,254647,0.0,Jamaica1988,,"3,828,310,735",1831,Generation X
+13201,Jamaica,1988,female,35-54 years,0,191119,0.0,Jamaica1988,,"3,828,310,735",1831,Silent
+13202,Jamaica,1988,female,5-14 years,0,270202,0.0,Jamaica1988,,"3,828,310,735",1831,Generation X
+13203,Jamaica,1988,female,55-74 years,0,118738,0.0,Jamaica1988,,"3,828,310,735",1831,G.I. Generation
+13204,Jamaica,1988,male,25-34 years,0,175163,0.0,Jamaica1988,,"3,828,310,735",1831,Boomers
+13205,Jamaica,1988,male,5-14 years,0,276524,0.0,Jamaica1988,,"3,828,310,735",1831,Generation X
+13206,Jamaica,1988,male,55-74 years,0,107366,0.0,Jamaica1988,,"3,828,310,735",1831,G.I. Generation
+13207,Jamaica,1988,male,75+ years,0,32853,0.0,Jamaica1988,,"3,828,310,735",1831,G.I. Generation
+13208,Jamaica,1989,female,15-24 years,0,253081,0.0,Jamaica1989,,"4,404,970,059",2087,Generation X
+13209,Jamaica,1989,female,25-34 years,0,188945,0.0,Jamaica1989,,"4,404,970,059",2087,Boomers
+13210,Jamaica,1989,female,35-54 years,0,195416,0.0,Jamaica1989,,"4,404,970,059",2087,Silent
+13211,Jamaica,1989,female,5-14 years,0,271221,0.0,Jamaica1989,,"4,404,970,059",2087,Generation X
+13212,Jamaica,1989,female,55-74 years,0,120614,0.0,Jamaica1989,,"4,404,970,059",2087,G.I. Generation
+13213,Jamaica,1989,female,75+ years,0,44116,0.0,Jamaica1989,,"4,404,970,059",2087,G.I. Generation
+13214,Jamaica,1989,male,15-24 years,0,251905,0.0,Jamaica1989,,"4,404,970,059",2087,Generation X
+13215,Jamaica,1989,male,25-34 years,0,179236,0.0,Jamaica1989,,"4,404,970,059",2087,Boomers
+13216,Jamaica,1989,male,35-54 years,0,187930,0.0,Jamaica1989,,"4,404,970,059",2087,Silent
+13217,Jamaica,1989,male,5-14 years,0,276496,0.0,Jamaica1989,,"4,404,970,059",2087,Generation X
+13218,Jamaica,1989,male,55-74 years,0,108715,0.0,Jamaica1989,,"4,404,970,059",2087,G.I. Generation
+13219,Jamaica,1989,male,75+ years,0,33364,0.0,Jamaica1989,,"4,404,970,059",2087,G.I. Generation
+13220,Jamaica,1990,male,15-24 years,2,249414,0.8,Jamaica1990,0.6709999999999999,"4,592,224,067",2155,Generation X
+13221,Jamaica,1990,male,35-54 years,1,193270,0.52,Jamaica1990,0.6709999999999999,"4,592,224,067",2155,Silent
+13222,Jamaica,1990,female,15-24 years,0,251027,0.0,Jamaica1990,0.6709999999999999,"4,592,224,067",2155,Generation X
+13223,Jamaica,1990,female,25-34 years,0,193286,0.0,Jamaica1990,0.6709999999999999,"4,592,224,067",2155,Boomers
+13224,Jamaica,1990,female,35-54 years,0,200357,0.0,Jamaica1990,0.6709999999999999,"4,592,224,067",2155,Silent
+13225,Jamaica,1990,female,5-14 years,0,272608,0.0,Jamaica1990,0.6709999999999999,"4,592,224,067",2155,Generation X
+13226,Jamaica,1990,female,55-74 years,0,122353,0.0,Jamaica1990,0.6709999999999999,"4,592,224,067",2155,G.I. Generation
+13227,Jamaica,1990,female,75+ years,0,45109,0.0,Jamaica1990,0.6709999999999999,"4,592,224,067",2155,G.I. Generation
+13228,Jamaica,1990,male,25-34 years,0,182411,0.0,Jamaica1990,0.6709999999999999,"4,592,224,067",2155,Boomers
+13229,Jamaica,1990,male,5-14 years,0,277197,0.0,Jamaica1990,0.6709999999999999,"4,592,224,067",2155,Generation X
+13230,Jamaica,1990,male,55-74 years,0,110297,0.0,Jamaica1990,0.6709999999999999,"4,592,224,067",2155,G.I. Generation
+13231,Jamaica,1990,male,75+ years,0,33712,0.0,Jamaica1990,0.6709999999999999,"4,592,224,067",2155,G.I. Generation
+13232,Jamaica,1991,male,55-74 years,1,111020,0.9,Jamaica1991,,"4,071,219,198",1889,Silent
+13233,Jamaica,1991,female,15-24 years,0,250172,0.0,Jamaica1991,,"4,071,219,198",1889,Generation X
+13234,Jamaica,1991,female,25-34 years,0,198469,0.0,Jamaica1991,,"4,071,219,198",1889,Boomers
+13235,Jamaica,1991,female,35-54 years,0,206513,0.0,Jamaica1991,,"4,071,219,198",1889,Boomers
+13236,Jamaica,1991,female,5-14 years,0,273692,0.0,Jamaica1991,,"4,071,219,198",1889,Millenials
+13237,Jamaica,1991,female,55-74 years,0,122107,0.0,Jamaica1991,,"4,071,219,198",1889,Silent
+13238,Jamaica,1991,female,75+ years,0,46188,0.0,Jamaica1991,,"4,071,219,198",1889,G.I. Generation
+13239,Jamaica,1991,male,15-24 years,0,248267,0.0,Jamaica1991,,"4,071,219,198",1889,Generation X
+13240,Jamaica,1991,male,25-34 years,0,186878,0.0,Jamaica1991,,"4,071,219,198",1889,Boomers
+13241,Jamaica,1991,male,35-54 years,0,199165,0.0,Jamaica1991,,"4,071,219,198",1889,Boomers
+13242,Jamaica,1991,male,5-14 years,0,277834,0.0,Jamaica1991,,"4,071,219,198",1889,Millenials
+13243,Jamaica,1991,male,75+ years,0,34530,0.0,Jamaica1991,,"4,071,219,198",1889,G.I. Generation
+13244,Jamaica,2000,male,35-54 years,2,271965,0.74,Jamaica2000,0.7,"8,985,352,832",3795,Boomers
+13245,Jamaica,2000,male,15-24 years,1,237231,0.42,Jamaica2000,0.7,"8,985,352,832",3795,Generation X
+13246,Jamaica,2000,female,15-24 years,0,240410,0.0,Jamaica2000,0.7,"8,985,352,832",3795,Generation X
+13247,Jamaica,2000,female,25-34 years,0,216103,0.0,Jamaica2000,0.7,"8,985,352,832",3795,Generation X
+13248,Jamaica,2000,female,35-54 years,0,274223,0.0,Jamaica2000,0.7,"8,985,352,832",3795,Boomers
+13249,Jamaica,2000,female,5-14 years,0,278234,0.0,Jamaica2000,0.7,"8,985,352,832",3795,Millenials
+13250,Jamaica,2000,female,55-74 years,0,135178,0.0,Jamaica2000,0.7,"8,985,352,832",3795,Silent
+13251,Jamaica,2000,female,75+ years,0,51452,0.0,Jamaica2000,0.7,"8,985,352,832",3795,G.I. Generation
+13252,Jamaica,2000,male,25-34 years,0,207719,0.0,Jamaica2000,0.7,"8,985,352,832",3795,Generation X
+13253,Jamaica,2000,male,5-14 years,0,286276,0.0,Jamaica2000,0.7,"8,985,352,832",3795,Millenials
+13254,Jamaica,2000,male,55-74 years,0,127971,0.0,Jamaica2000,0.7,"8,985,352,832",3795,Silent
+13255,Jamaica,2000,male,75+ years,0,41079,0.0,Jamaica2000,0.7,"8,985,352,832",3795,G.I. Generation
+13256,Jamaica,2001,male,55-74 years,2,129633,1.54,Jamaica2001,,"9,178,016,493",3838,Silent
+13257,Jamaica,2001,male,25-34 years,1,205954,0.49,Jamaica2001,,"9,178,016,493",3838,Generation X
+13258,Jamaica,2001,female,15-24 years,1,240991,0.41,Jamaica2001,,"9,178,016,493",3838,Millenials
+13259,Jamaica,2001,male,35-54 years,1,279041,0.36,Jamaica2001,,"9,178,016,493",3838,Boomers
+13260,Jamaica,2001,female,25-34 years,0,214639,0.0,Jamaica2001,,"9,178,016,493",3838,Generation X
+13261,Jamaica,2001,female,35-54 years,0,285588,0.0,Jamaica2001,,"9,178,016,493",3838,Boomers
+13262,Jamaica,2001,female,5-14 years,0,277198,0.0,Jamaica2001,,"9,178,016,493",3838,Millenials
+13263,Jamaica,2001,female,55-74 years,0,136886,0.0,Jamaica2001,,"9,178,016,493",3838,Silent
+13264,Jamaica,2001,female,75+ years,0,52415,0.0,Jamaica2001,,"9,178,016,493",3838,Silent
+13265,Jamaica,2001,male,15-24 years,0,238547,0.0,Jamaica2001,,"9,178,016,493",3838,Millenials
+13266,Jamaica,2001,male,5-14 years,0,288148,0.0,Jamaica2001,,"9,178,016,493",3838,Millenials
+13267,Jamaica,2001,male,75+ years,0,42238,0.0,Jamaica2001,,"9,178,016,493",3838,Silent
+13268,Jamaica,2002,male,35-54 years,2,286010,0.7,Jamaica2002,,"9,694,169,757",4013,Boomers
+13269,Jamaica,2002,female,15-24 years,0,242077,0.0,Jamaica2002,,"9,694,169,757",4013,Millenials
+13270,Jamaica,2002,female,25-34 years,0,212410,0.0,Jamaica2002,,"9,694,169,757",4013,Generation X
+13271,Jamaica,2002,female,35-54 years,0,297434,0.0,Jamaica2002,,"9,694,169,757",4013,Boomers
+13272,Jamaica,2002,female,5-14 years,0,276937,0.0,Jamaica2002,,"9,694,169,757",4013,Millenials
+13273,Jamaica,2002,female,55-74 years,0,138797,0.0,Jamaica2002,,"9,694,169,757",4013,Silent
+13274,Jamaica,2002,female,75+ years,0,53489,0.0,Jamaica2002,,"9,694,169,757",4013,Silent
+13275,Jamaica,2002,male,15-24 years,0,240844,0.0,Jamaica2002,,"9,694,169,757",4013,Millenials
+13276,Jamaica,2002,male,25-34 years,0,203341,0.0,Jamaica2002,,"9,694,169,757",4013,Generation X
+13277,Jamaica,2002,male,5-14 years,0,289686,0.0,Jamaica2002,,"9,694,169,757",4013,Millenials
+13278,Jamaica,2002,male,55-74 years,0,131362,0.0,Jamaica2002,,"9,694,169,757",4013,Silent
+13279,Jamaica,2002,male,75+ years,0,43330,0.0,Jamaica2002,,"9,694,169,757",4013,Silent
+13280,Jamaica,2003,male,25-34 years,1,200397,0.5,Jamaica2003,,"9,399,447,609",3852,Generation X
+13281,Jamaica,2003,female,15-24 years,1,243223,0.41,Jamaica2003,,"9,399,447,609",3852,Millenials
+13282,Jamaica,2003,female,25-34 years,0,209698,0.0,Jamaica2003,,"9,399,447,609",3852,Generation X
+13283,Jamaica,2003,female,35-54 years,0,309548,0.0,Jamaica2003,,"9,399,447,609",3852,Boomers
+13284,Jamaica,2003,female,5-14 years,0,277205,0.0,Jamaica2003,,"9,399,447,609",3852,Millenials
+13285,Jamaica,2003,female,55-74 years,0,140822,0.0,Jamaica2003,,"9,399,447,609",3852,Silent
+13286,Jamaica,2003,female,75+ years,0,54594,0.0,Jamaica2003,,"9,399,447,609",3852,Silent
+13287,Jamaica,2003,male,15-24 years,0,244000,0.0,Jamaica2003,,"9,399,447,609",3852,Millenials
+13288,Jamaica,2003,male,35-54 years,0,292770,0.0,Jamaica2003,,"9,399,447,609",3852,Boomers
+13289,Jamaica,2003,male,5-14 years,0,290641,0.0,Jamaica2003,,"9,399,447,609",3852,Millenials
+13290,Jamaica,2003,male,55-74 years,0,133220,0.0,Jamaica2003,,"9,399,447,609",3852,Silent
+13291,Jamaica,2003,male,75+ years,0,44308,0.0,Jamaica2003,,"9,399,447,609",3852,Silent
+13292,Jamaica,2004,male,55-74 years,1,135519,0.74,Jamaica2004,,"10,150,978,155",4119,Silent
+13293,Jamaica,2004,female,15-24 years,0,244042,0.0,Jamaica2004,,"10,150,978,155",4119,Millenials
+13294,Jamaica,2004,female,25-34 years,0,206906,0.0,Jamaica2004,,"10,150,978,155",4119,Generation X
+13295,Jamaica,2004,female,35-54 years,0,321246,0.0,Jamaica2004,,"10,150,978,155",4119,Boomers
+13296,Jamaica,2004,female,5-14 years,0,277514,0.0,Jamaica2004,,"10,150,978,155",4119,Millenials
+13297,Jamaica,2004,female,55-74 years,0,143063,0.0,Jamaica2004,,"10,150,978,155",4119,Silent
+13298,Jamaica,2004,female,75+ years,0,55661,0.0,Jamaica2004,,"10,150,978,155",4119,Silent
+13299,Jamaica,2004,male,15-24 years,0,247730,0.0,Jamaica2004,,"10,150,978,155",4119,Millenials
+13300,Jamaica,2004,male,25-34 years,0,197663,0.0,Jamaica2004,,"10,150,978,155",4119,Generation X
+13301,Jamaica,2004,male,35-54 years,0,299008,0.0,Jamaica2004,,"10,150,978,155",4119,Boomers
+13302,Jamaica,2004,male,5-14 years,0,290970,0.0,Jamaica2004,,"10,150,978,155",4119,Millenials
+13303,Jamaica,2004,male,75+ years,0,45086,0.0,Jamaica2004,,"10,150,978,155",4119,Silent
+13304,Jamaica,2005,male,25-34 years,13,195464,6.65,Jamaica2005,0.7290000000000001,"11,204,416,000",4505,Generation X
+13305,Jamaica,2005,male,55-74 years,7,138670,5.05,Jamaica2005,0.7290000000000001,"11,204,416,000",4505,Silent
+13306,Jamaica,2005,male,35-54 years,14,304285,4.6,Jamaica2005,0.7290000000000001,"11,204,416,000",4505,Boomers
+13307,Jamaica,2005,male,75+ years,2,45648,4.38,Jamaica2005,0.7290000000000001,"11,204,416,000",4505,Silent
+13308,Jamaica,2005,male,15-24 years,6,251882,2.38,Jamaica2005,0.7290000000000001,"11,204,416,000",4505,Millenials
+13309,Jamaica,2005,female,35-54 years,5,331681,1.51,Jamaica2005,0.7290000000000001,"11,204,416,000",4505,Boomers
+13310,Jamaica,2005,female,25-34 years,1,204405,0.49,Jamaica2005,0.7290000000000001,"11,204,416,000",4505,Generation X
+13311,Jamaica,2005,female,15-24 years,1,244537,0.41,Jamaica2005,0.7290000000000001,"11,204,416,000",4505,Millenials
+13312,Jamaica,2005,female,5-14 years,1,277318,0.36,Jamaica2005,0.7290000000000001,"11,204,416,000",4505,Millenials
+13313,Jamaica,2005,male,5-14 years,1,290746,0.34,Jamaica2005,0.7290000000000001,"11,204,416,000",4505,Millenials
+13314,Jamaica,2005,female,55-74 years,0,145843,0.0,Jamaica2005,0.7290000000000001,"11,204,416,000",4505,Silent
+13315,Jamaica,2005,female,75+ years,0,56690,0.0,Jamaica2005,0.7290000000000001,"11,204,416,000",4505,Silent
+13316,Jamaica,2006,female,15-24 years,0,248379,0.0,Jamaica2006,,"11,905,525,197",4738,Millenials
+13317,Jamaica,2006,female,25-34 years,0,205376,0.0,Jamaica2006,,"11,905,525,197",4738,Generation X
+13318,Jamaica,2006,female,35-54 years,0,335304,0.0,Jamaica2006,,"11,905,525,197",4738,Boomers
+13319,Jamaica,2006,female,5-14 years,0,276574,0.0,Jamaica2006,,"11,905,525,197",4738,Millenials
+13320,Jamaica,2006,female,55-74 years,0,149156,0.0,Jamaica2006,,"11,905,525,197",4738,Silent
+13321,Jamaica,2006,female,75+ years,0,58027,0.0,Jamaica2006,,"11,905,525,197",4738,Silent
+13322,Jamaica,2006,male,15-24 years,0,256580,0.0,Jamaica2006,,"11,905,525,197",4738,Millenials
+13323,Jamaica,2006,male,25-34 years,0,195463,0.0,Jamaica2006,,"11,905,525,197",4738,Generation X
+13324,Jamaica,2006,male,35-54 years,0,309578,0.0,Jamaica2006,,"11,905,525,197",4738,Boomers
+13325,Jamaica,2006,male,5-14 years,0,289268,0.0,Jamaica2006,,"11,905,525,197",4738,Millenials
+13326,Jamaica,2006,male,55-74 years,0,142398,0.0,Jamaica2006,,"11,905,525,197",4738,Silent
+13327,Jamaica,2006,male,75+ years,0,46494,0.0,Jamaica2006,,"11,905,525,197",4738,Silent
+13328,Jamaica,2009,male,75+ years,3,47854,6.27,Jamaica2009,,"12,038,829,246",4686,Silent
+13329,Jamaica,2009,male,25-34 years,9,199372,4.51,Jamaica2009,,"12,038,829,246",4686,Generation X
+13330,Jamaica,2009,male,55-74 years,6,155268,3.86,Jamaica2009,,"12,038,829,246",4686,Silent
+13331,Jamaica,2009,male,35-54 years,9,324231,2.78,Jamaica2009,,"12,038,829,246",4686,Boomers
+13332,Jamaica,2009,male,15-24 years,5,268270,1.86,Jamaica2009,,"12,038,829,246",4686,Millenials
+13333,Jamaica,2009,female,55-74 years,1,159111,0.63,Jamaica2009,,"12,038,829,246",4686,Silent
+13334,Jamaica,2009,female,25-34 years,1,211928,0.47,Jamaica2009,,"12,038,829,246",4686,Generation X
+13335,Jamaica,2009,female,15-24 years,1,257363,0.39,Jamaica2009,,"12,038,829,246",4686,Millenials
+13336,Jamaica,2009,male,5-14 years,1,276734,0.36,Jamaica2009,,"12,038,829,246",4686,Generation Z
+13337,Jamaica,2009,female,35-54 years,0,343173,0.0,Jamaica2009,,"12,038,829,246",4686,Boomers
+13338,Jamaica,2009,female,5-14 years,0,264297,0.0,Jamaica2009,,"12,038,829,246",4686,Generation Z
+13339,Jamaica,2009,female,75+ years,0,61282,0.0,Jamaica2009,,"12,038,829,246",4686,Silent
+13340,Jamaica,2010,male,25-34 years,1,202735,0.49,Jamaica2010,0.727,"13,191,645,686",5100,Generation X
+13341,Jamaica,2010,male,5-14 years,1,270432,0.37,Jamaica2010,0.727,"13,191,645,686",5100,Generation Z
+13342,Jamaica,2010,male,35-54 years,1,328839,0.3,Jamaica2010,0.727,"13,191,645,686",5100,Generation X
+13343,Jamaica,2010,female,15-24 years,0,260373,0.0,Jamaica2010,0.727,"13,191,645,686",5100,Millenials
+13344,Jamaica,2010,female,25-34 years,0,215163,0.0,Jamaica2010,0.727,"13,191,645,686",5100,Generation X
+13345,Jamaica,2010,female,35-54 years,0,345682,0.0,Jamaica2010,0.727,"13,191,645,686",5100,Generation X
+13346,Jamaica,2010,female,5-14 years,0,258271,0.0,Jamaica2010,0.727,"13,191,645,686",5100,Generation Z
+13347,Jamaica,2010,female,55-74 years,0,163081,0.0,Jamaica2010,0.727,"13,191,645,686",5100,Silent
+13348,Jamaica,2010,female,75+ years,0,62329,0.0,Jamaica2010,0.727,"13,191,645,686",5100,Silent
+13349,Jamaica,2010,male,15-24 years,0,271743,0.0,Jamaica2010,0.727,"13,191,645,686",5100,Millenials
+13350,Jamaica,2010,male,55-74 years,0,159798,0.0,Jamaica2010,0.727,"13,191,645,686",5100,Silent
+13351,Jamaica,2010,male,75+ years,0,48206,0.0,Jamaica2010,0.727,"13,191,645,686",5100,Silent
+13352,Jamaica,2011,male,75+ years,4,49098,8.15,Jamaica2011,0.727,"14,439,910,353",5552,Silent
+13353,Jamaica,2011,male,55-74 years,11,164711,6.68,Jamaica2011,0.727,"14,439,910,353",5552,Boomers
+13354,Jamaica,2011,male,35-54 years,14,331288,4.23,Jamaica2011,0.727,"14,439,910,353",5552,Generation X
+13355,Jamaica,2011,male,25-34 years,7,206750,3.39,Jamaica2011,0.727,"14,439,910,353",5552,Millenials
+13356,Jamaica,2011,male,15-24 years,5,274128,1.82,Jamaica2011,0.727,"14,439,910,353",5552,Millenials
+13357,Jamaica,2011,female,5-14 years,3,252024,1.19,Jamaica2011,0.727,"14,439,910,353",5552,Generation Z
+13358,Jamaica,2011,male,5-14 years,3,263900,1.14,Jamaica2011,0.727,"14,439,910,353",5552,Generation Z
+13359,Jamaica,2011,female,55-74 years,1,168398,0.59,Jamaica2011,0.727,"14,439,910,353",5552,Boomers
+13360,Jamaica,2011,female,15-24 years,1,262579,0.38,Jamaica2011,0.727,"14,439,910,353",5552,Millenials
+13361,Jamaica,2011,female,35-54 years,1,346487,0.29,Jamaica2011,0.727,"14,439,910,353",5552,Generation X
+13362,Jamaica,2011,female,25-34 years,0,218242,0.0,Jamaica2011,0.727,"14,439,910,353",5552,Millenials
+13363,Jamaica,2011,female,75+ years,0,63432,0.0,Jamaica2011,0.727,"14,439,910,353",5552,Silent

@@ -1,0 +1,253 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+2636,Bahrain,1985,male,25-34 years,7,67600,10.36,Bahrain1985,0.727,"3,651,861,702",9980,Boomers
+2637,Bahrain,1985,male,35-54 years,3,49700,6.04,Bahrain1985,0.727,"3,651,861,702",9980,Silent
+2638,Bahrain,1985,female,35-54 years,1,26900,3.72,Bahrain1985,0.727,"3,651,861,702",9980,Silent
+2639,Bahrain,1985,female,15-24 years,0,37800,0.0,Bahrain1985,0.727,"3,651,861,702",9980,Generation X
+2640,Bahrain,1985,female,25-34 years,0,27600,0.0,Bahrain1985,0.727,"3,651,861,702",9980,Boomers
+2641,Bahrain,1985,female,5-14 years,0,41400,0.0,Bahrain1985,0.727,"3,651,861,702",9980,Generation X
+2642,Bahrain,1985,female,55-74 years,0,8700,0.0,Bahrain1985,0.727,"3,651,861,702",9980,G.I. Generation
+2643,Bahrain,1985,female,75+ years,0,1500,0.0,Bahrain1985,0.727,"3,651,861,702",9980,G.I. Generation
+2644,Bahrain,1985,male,15-24 years,0,49700,0.0,Bahrain1985,0.727,"3,651,861,702",9980,Generation X
+2645,Bahrain,1985,male,5-14 years,0,42000,0.0,Bahrain1985,0.727,"3,651,861,702",9980,Generation X
+2646,Bahrain,1985,male,55-74 years,0,11600,0.0,Bahrain1985,0.727,"3,651,861,702",9980,G.I. Generation
+2647,Bahrain,1985,male,75+ years,0,1400,0.0,Bahrain1985,0.727,"3,651,861,702",9980,G.I. Generation
+2648,Bahrain,1987,male,55-74 years,1,11800,8.47,Bahrain1987,,"3,392,021,011",9321,G.I. Generation
+2649,Bahrain,1987,male,35-54 years,3,47700,6.29,Bahrain1987,,"3,392,021,011",9321,Silent
+2650,Bahrain,1987,male,25-34 years,3,63900,4.69,Bahrain1987,,"3,392,021,011",9321,Boomers
+2651,Bahrain,1987,female,25-34 years,1,27500,3.64,Bahrain1987,,"3,392,021,011",9321,Boomers
+2652,Bahrain,1987,female,15-24 years,1,38600,2.59,Bahrain1987,,"3,392,021,011",9321,Generation X
+2653,Bahrain,1987,female,35-54 years,0,27300,0.0,Bahrain1987,,"3,392,021,011",9321,Silent
+2654,Bahrain,1987,female,5-14 years,0,42500,0.0,Bahrain1987,,"3,392,021,011",9321,Generation X
+2655,Bahrain,1987,female,55-74 years,0,8900,0.0,Bahrain1987,,"3,392,021,011",9321,G.I. Generation
+2656,Bahrain,1987,female,75+ years,0,1500,0.0,Bahrain1987,,"3,392,021,011",9321,G.I. Generation
+2657,Bahrain,1987,male,15-24 years,0,49400,0.0,Bahrain1987,,"3,392,021,011",9321,Generation X
+2658,Bahrain,1987,male,5-14 years,0,43200,0.0,Bahrain1987,,"3,392,021,011",9321,Generation X
+2659,Bahrain,1987,male,75+ years,0,1600,0.0,Bahrain1987,,"3,392,021,011",9321,G.I. Generation
+2660,Bahrain,1988,male,25-34 years,8,61600,12.99,Bahrain1988,,"3,702,393,617",9501,Boomers
+2661,Bahrain,1988,male,35-54 years,4,63500,6.3,Bahrain1988,,"3,702,393,617",9501,Silent
+2662,Bahrain,1988,female,35-54 years,1,30900,3.24,Bahrain1988,,"3,702,393,617",9501,Silent
+2663,Bahrain,1988,male,15-24 years,1,44100,2.27,Bahrain1988,,"3,702,393,617",9501,Generation X
+2664,Bahrain,1988,female,15-24 years,0,38300,0.0,Bahrain1988,,"3,702,393,617",9501,Generation X
+2665,Bahrain,1988,female,25-34 years,0,32000,0.0,Bahrain1988,,"3,702,393,617",9501,Boomers
+2666,Bahrain,1988,female,5-14 years,0,45400,0.0,Bahrain1988,,"3,702,393,617",9501,Generation X
+2667,Bahrain,1988,female,55-74 years,0,10300,0.0,Bahrain1988,,"3,702,393,617",9501,G.I. Generation
+2668,Bahrain,1988,female,75+ years,0,1400,0.0,Bahrain1988,,"3,702,393,617",9501,G.I. Generation
+2669,Bahrain,1988,male,5-14 years,0,46500,0.0,Bahrain1988,,"3,702,393,617",9501,Generation X
+2670,Bahrain,1988,male,55-74 years,0,14400,0.0,Bahrain1988,,"3,702,393,617",9501,G.I. Generation
+2671,Bahrain,1988,male,75+ years,0,1300,0.0,Bahrain1988,,"3,702,393,617",9501,G.I. Generation
+2672,Bahrain,1997,female,15-24 years,0,46573,0.0,Bahrain1997,,"6,349,202,394",11985,Generation X
+2673,Bahrain,1997,female,25-34 years,0,50841,0.0,Bahrain1997,,"6,349,202,394",11985,Generation X
+2674,Bahrain,1997,female,35-54 years,0,53562,0.0,Bahrain1997,,"6,349,202,394",11985,Boomers
+2675,Bahrain,1997,female,5-14 years,0,55390,0.0,Bahrain1997,,"6,349,202,394",11985,Millenials
+2676,Bahrain,1997,female,55-74 years,0,13826,0.0,Bahrain1997,,"6,349,202,394",11985,Silent
+2677,Bahrain,1997,female,75+ years,0,2250,0.0,Bahrain1997,,"6,349,202,394",11985,G.I. Generation
+2678,Bahrain,1997,male,15-24 years,0,54369,0.0,Bahrain1997,,"6,349,202,394",11985,Generation X
+2679,Bahrain,1997,male,25-34 years,0,80297,0.0,Bahrain1997,,"6,349,202,394",11985,Generation X
+2680,Bahrain,1997,male,35-54 years,0,96825,0.0,Bahrain1997,,"6,349,202,394",11985,Boomers
+2681,Bahrain,1997,male,5-14 years,0,57431,0.0,Bahrain1997,,"6,349,202,394",11985,Millenials
+2682,Bahrain,1997,male,55-74 years,0,16035,0.0,Bahrain1997,,"6,349,202,394",11985,Silent
+2683,Bahrain,1997,male,75+ years,0,2355,0.0,Bahrain1997,,"6,349,202,394",11985,G.I. Generation
+2684,Bahrain,1998,female,15-24 years,0,48147,0.0,Bahrain1998,,"6,183,776,596",11325,Generation X
+2685,Bahrain,1998,female,25-34 years,0,51596,0.0,Bahrain1998,,"6,183,776,596",11325,Generation X
+2686,Bahrain,1998,female,35-54 years,0,56917,0.0,Bahrain1998,,"6,183,776,596",11325,Boomers
+2687,Bahrain,1998,female,5-14 years,0,56626,0.0,Bahrain1998,,"6,183,776,596",11325,Millenials
+2688,Bahrain,1998,female,55-74 years,0,14404,0.0,Bahrain1998,,"6,183,776,596",11325,Silent
+2689,Bahrain,1998,female,75+ years,0,2312,0.0,Bahrain1998,,"6,183,776,596",11325,G.I. Generation
+2690,Bahrain,1998,male,15-24 years,0,56377,0.0,Bahrain1998,,"6,183,776,596",11325,Generation X
+2691,Bahrain,1998,male,25-34 years,0,80849,0.0,Bahrain1998,,"6,183,776,596",11325,Generation X
+2692,Bahrain,1998,male,35-54 years,0,101013,0.0,Bahrain1998,,"6,183,776,596",11325,Boomers
+2693,Bahrain,1998,male,5-14 years,0,58935,0.0,Bahrain1998,,"6,183,776,596",11325,Millenials
+2694,Bahrain,1998,male,55-74 years,0,16409,0.0,Bahrain1998,,"6,183,776,596",11325,Silent
+2695,Bahrain,1998,male,75+ years,0,2423,0.0,Bahrain1998,,"6,183,776,596",11325,G.I. Generation
+2696,Bahrain,1999,male,25-34 years,8,82791,9.66,Bahrain1999,,"6,621,010,372",11703,Generation X
+2697,Bahrain,1999,male,35-54 years,4,105903,3.78,Bahrain1999,,"6,621,010,372",11703,Boomers
+2698,Bahrain,1999,male,15-24 years,2,57914,3.45,Bahrain1999,,"6,621,010,372",11703,Generation X
+2699,Bahrain,1999,female,15-24 years,1,49631,2.01,Bahrain1999,,"6,621,010,372",11703,Generation X
+2700,Bahrain,1999,female,25-34 years,1,52339,1.91,Bahrain1999,,"6,621,010,372",11703,Generation X
+2701,Bahrain,1999,female,35-54 years,1,60568,1.65,Bahrain1999,,"6,621,010,372",11703,Boomers
+2702,Bahrain,1999,female,5-14 years,0,58374,0.0,Bahrain1999,,"6,621,010,372",11703,Millenials
+2703,Bahrain,1999,female,55-74 years,0,15017,0.0,Bahrain1999,,"6,621,010,372",11703,Silent
+2704,Bahrain,1999,female,75+ years,0,2339,0.0,Bahrain1999,,"6,621,010,372",11703,G.I. Generation
+2705,Bahrain,1999,male,5-14 years,0,61554,0.0,Bahrain1999,,"6,621,010,372",11703,Millenials
+2706,Bahrain,1999,male,55-74 years,0,16810,0.0,Bahrain1999,,"6,621,010,372",11703,Silent
+2707,Bahrain,1999,male,75+ years,0,2522,0.0,Bahrain1999,,"6,621,010,372",11703,G.I. Generation
+2708,Bahrain,2000,male,25-34 years,16,86231,18.55,Bahrain2000,0.794,"9,062,906,915",15345,Generation X
+2709,Bahrain,2000,male,35-54 years,10,112060,8.92,Bahrain2000,0.794,"9,062,906,915",15345,Boomers
+2710,Bahrain,2000,male,15-24 years,2,59208,3.38,Bahrain2000,0.794,"9,062,906,915",15345,Generation X
+2711,Bahrain,2000,female,25-34 years,1,53263,1.88,Bahrain2000,0.794,"9,062,906,915",15345,Generation X
+2712,Bahrain,2000,female,15-24 years,0,50968,0.0,Bahrain2000,0.794,"9,062,906,915",15345,Generation X
+2713,Bahrain,2000,female,35-54 years,0,64617,0.0,Bahrain2000,0.794,"9,062,906,915",15345,Boomers
+2714,Bahrain,2000,female,5-14 years,0,60791,0.0,Bahrain2000,0.794,"9,062,906,915",15345,Millenials
+2715,Bahrain,2000,female,55-74 years,0,15556,0.0,Bahrain2000,0.794,"9,062,906,915",15345,Silent
+2716,Bahrain,2000,female,75+ years,0,2394,0.0,Bahrain2000,0.794,"9,062,906,915",15345,G.I. Generation
+2717,Bahrain,2000,male,5-14 years,0,65512,0.0,Bahrain2000,0.794,"9,062,906,915",15345,Millenials
+2718,Bahrain,2000,male,55-74 years,0,17346,0.0,Bahrain2000,0.794,"9,062,906,915",15345,Silent
+2719,Bahrain,2000,male,75+ years,0,2648,0.0,Bahrain2000,0.794,"9,062,906,915",15345,G.I. Generation
+2720,Bahrain,2001,male,25-34 years,8,90920,8.8,Bahrain2001,,"8,976,207,713",14383,Generation X
+2721,Bahrain,2001,male,35-54 years,8,118151,6.77,Bahrain2001,,"8,976,207,713",14383,Boomers
+2722,Bahrain,2001,male,55-74 years,1,17917,5.58,Bahrain2001,,"8,976,207,713",14383,Silent
+2723,Bahrain,2001,male,15-24 years,2,68309,2.93,Bahrain2001,,"8,976,207,713",14383,Millenials
+2724,Bahrain,2001,female,15-24 years,1,54497,1.83,Bahrain2001,,"8,976,207,713",14383,Millenials
+2725,Bahrain,2001,female,25-34 years,1,55961,1.79,Bahrain2001,,"8,976,207,713",14383,Generation X
+2726,Bahrain,2001,male,5-14 years,1,67127,1.49,Bahrain2001,,"8,976,207,713",14383,Millenials
+2727,Bahrain,2001,female,35-54 years,1,67856,1.47,Bahrain2001,,"8,976,207,713",14383,Boomers
+2728,Bahrain,2001,female,5-14 years,0,62316,0.0,Bahrain2001,,"8,976,207,713",14383,Millenials
+2729,Bahrain,2001,female,55-74 years,0,15791,0.0,Bahrain2001,,"8,976,207,713",14383,Silent
+2730,Bahrain,2001,female,75+ years,0,2544,0.0,Bahrain2001,,"8,976,207,713",14383,Silent
+2731,Bahrain,2001,male,75+ years,0,2694,0.0,Bahrain2001,,"8,976,207,713",14383,Silent
+2732,Bahrain,2002,male,25-34 years,7,97288,7.2,Bahrain2002,,"9,632,155,053",14572,Generation X
+2733,Bahrain,2002,male,35-54 years,9,126500,7.11,Bahrain2002,,"9,632,155,053",14572,Boomers
+2734,Bahrain,2002,female,35-54 years,4,71376,5.6,Bahrain2002,,"9,632,155,053",14572,Boomers
+2735,Bahrain,2002,female,15-24 years,2,57599,3.47,Bahrain2002,,"9,632,155,053",14572,Millenials
+2736,Bahrain,2002,male,15-24 years,2,76442,2.62,Bahrain2002,,"9,632,155,053",14572,Millenials
+2737,Bahrain,2002,female,25-34 years,1,59350,1.68,Bahrain2002,,"9,632,155,053",14572,Generation X
+2738,Bahrain,2002,female,5-14 years,0,63714,0.0,Bahrain2002,,"9,632,155,053",14572,Millenials
+2739,Bahrain,2002,female,55-74 years,0,16006,0.0,Bahrain2002,,"9,632,155,053",14572,Silent
+2740,Bahrain,2002,female,75+ years,0,2738,0.0,Bahrain2002,,"9,632,155,053",14572,Silent
+2741,Bahrain,2002,male,5-14 years,0,68596,0.0,Bahrain2002,,"9,632,155,053",14572,Millenials
+2742,Bahrain,2002,male,55-74 years,0,18646,0.0,Bahrain2002,,"9,632,155,053",14572,Silent
+2743,Bahrain,2002,male,75+ years,0,2755,0.0,Bahrain2002,,"9,632,155,053",14572,Silent
+2744,Bahrain,2003,male,35-54 years,17,137287,12.38,Bahrain2003,,"11,074,822,074",15756,Boomers
+2745,Bahrain,2003,male,25-34 years,9,105799,8.51,Bahrain2003,,"11,074,822,074",15756,Generation X
+2746,Bahrain,2003,female,25-34 years,5,63380,7.89,Bahrain2003,,"11,074,822,074",15756,Generation X
+2747,Bahrain,2003,male,15-24 years,3,83143,3.61,Bahrain2003,,"11,074,822,074",15756,Millenials
+2748,Bahrain,2003,female,15-24 years,0,60298,0.0,Bahrain2003,,"11,074,822,074",15756,Millenials
+2749,Bahrain,2003,female,35-54 years,0,75430,0.0,Bahrain2003,,"11,074,822,074",15756,Boomers
+2750,Bahrain,2003,female,5-14 years,0,65298,0.0,Bahrain2003,,"11,074,822,074",15756,Millenials
+2751,Bahrain,2003,female,55-74 years,0,16343,0.0,Bahrain2003,,"11,074,822,074",15756,Silent
+2752,Bahrain,2003,female,75+ years,0,2946,0.0,Bahrain2003,,"11,074,822,074",15756,Silent
+2753,Bahrain,2003,male,5-14 years,0,70584,0.0,Bahrain2003,,"11,074,822,074",15756,Millenials
+2754,Bahrain,2003,male,55-74 years,0,19574,0.0,Bahrain2003,,"11,074,822,074",15756,Silent
+2755,Bahrain,2003,male,75+ years,0,2831,0.0,Bahrain2003,,"11,074,822,074",15756,Silent
+2756,Bahrain,2004,male,55-74 years,4,20717,19.31,Bahrain2004,,"13,150,166,755",17497,Silent
+2757,Bahrain,2004,male,25-34 years,19,116777,16.27,Bahrain2004,,"13,150,166,755",17497,Generation X
+2758,Bahrain,2004,male,35-54 years,10,150835,6.63,Bahrain2004,,"13,150,166,755",17497,Boomers
+2759,Bahrain,2004,female,25-34 years,3,68052,4.41,Bahrain2004,,"13,150,166,755",17497,Generation X
+2760,Bahrain,2004,female,35-54 years,3,80288,3.74,Bahrain2004,,"13,150,166,755",17497,Boomers
+2761,Bahrain,2004,male,15-24 years,2,88431,2.26,Bahrain2004,,"13,150,166,755",17497,Millenials
+2762,Bahrain,2004,female,15-24 years,1,62699,1.59,Bahrain2004,,"13,150,166,755",17497,Millenials
+2763,Bahrain,2004,female,5-14 years,0,67313,0.0,Bahrain2004,,"13,150,166,755",17497,Millenials
+2764,Bahrain,2004,female,55-74 years,0,16975,0.0,Bahrain2004,,"13,150,166,755",17497,Silent
+2765,Bahrain,2004,female,75+ years,0,3126,0.0,Bahrain2004,,"13,150,166,755",17497,Silent
+2766,Bahrain,2004,male,5-14 years,0,73422,0.0,Bahrain2004,,"13,150,166,755",17497,Millenials
+2767,Bahrain,2004,male,75+ years,0,2924,0.0,Bahrain2004,,"13,150,166,755",17497,Silent
+2768,Bahrain,2005,male,25-34 years,15,142375,10.54,Bahrain2005,0.816,"15,968,726,862",19485,Generation X
+2769,Bahrain,2005,male,35-54 years,14,174785,8.01,Bahrain2005,0.816,"15,968,726,862",19485,Boomers
+2770,Bahrain,2005,male,55-74 years,2,27261,7.34,Bahrain2005,0.816,"15,968,726,862",19485,Silent
+2771,Bahrain,2005,male,15-24 years,4,79928,5.0,Bahrain2005,0.816,"15,968,726,862",19485,Millenials
+2772,Bahrain,2005,female,25-34 years,3,73758,4.07,Bahrain2005,0.816,"15,968,726,862",19485,Generation X
+2773,Bahrain,2005,female,15-24 years,2,64792,3.09,Bahrain2005,0.816,"15,968,726,862",19485,Millenials
+2774,Bahrain,2005,female,35-54 years,2,92102,2.17,Bahrain2005,0.816,"15,968,726,862",19485,Boomers
+2775,Bahrain,2005,female,5-14 years,0,66362,0.0,Bahrain2005,0.816,"15,968,726,862",19485,Millenials
+2776,Bahrain,2005,female,55-74 years,0,19983,0.0,Bahrain2005,0.816,"15,968,726,862",19485,Silent
+2777,Bahrain,2005,female,75+ years,0,4389,0.0,Bahrain2005,0.816,"15,968,726,862",19485,Silent
+2778,Bahrain,2005,male,5-14 years,0,69742,0.0,Bahrain2005,0.816,"15,968,726,862",19485,Millenials
+2779,Bahrain,2005,male,75+ years,0,4063,0.0,Bahrain2005,0.816,"15,968,726,862",19485,Silent
+2780,Bahrain,2006,male,25-34 years,12,158656,7.56,Bahrain2006,,"18,505,053,191",20826,Generation X
+2781,Bahrain,2006,female,25-34 years,5,80271,6.23,Bahrain2006,,"18,505,053,191",20826,Generation X
+2782,Bahrain,2006,female,15-24 years,3,69020,4.35,Bahrain2006,,"18,505,053,191",20826,Millenials
+2783,Bahrain,2006,male,55-74 years,1,29960,3.34,Bahrain2006,,"18,505,053,191",20826,Silent
+2784,Bahrain,2006,female,35-54 years,3,100668,2.98,Bahrain2006,,"18,505,053,191",20826,Boomers
+2785,Bahrain,2006,male,35-54 years,3,192597,1.56,Bahrain2006,,"18,505,053,191",20826,Boomers
+2786,Bahrain,2006,male,15-24 years,1,86090,1.16,Bahrain2006,,"18,505,053,191",20826,Millenials
+2787,Bahrain,2006,female,5-14 years,0,68590,0.0,Bahrain2006,,"18,505,053,191",20826,Millenials
+2788,Bahrain,2006,female,55-74 years,0,21363,0.0,Bahrain2006,,"18,505,053,191",20826,Silent
+2789,Bahrain,2006,female,75+ years,0,4915,0.0,Bahrain2006,,"18,505,053,191",20826,Silent
+2790,Bahrain,2006,male,5-14 years,0,71974,0.0,Bahrain2006,,"18,505,053,191",20826,Millenials
+2791,Bahrain,2006,male,75+ years,0,4439,0.0,Bahrain2006,,"18,505,053,191",20826,Silent
+2792,Bahrain,2007,male,25-34 years,14,176938,7.91,Bahrain2007,,"21,730,000,000",22524,Generation X
+2793,Bahrain,2007,male,35-54 years,13,212426,6.12,Bahrain2007,,"21,730,000,000",22524,Boomers
+2794,Bahrain,2007,male,55-74 years,2,32965,6.07,Bahrain2007,,"21,730,000,000",22524,Silent
+2795,Bahrain,2007,male,15-24 years,5,92875,5.38,Bahrain2007,,"21,730,000,000",22524,Millenials
+2796,Bahrain,2007,female,25-34 years,3,87472,3.43,Bahrain2007,,"21,730,000,000",22524,Generation X
+2797,Bahrain,2007,female,35-54 years,2,110173,1.82,Bahrain2007,,"21,730,000,000",22524,Boomers
+2798,Bahrain,2007,female,15-24 years,1,73617,1.36,Bahrain2007,,"21,730,000,000",22524,Millenials
+2799,Bahrain,2007,female,5-14 years,0,70861,0.0,Bahrain2007,,"21,730,000,000",22524,Generation Z
+2800,Bahrain,2007,female,55-74 years,0,22872,0.0,Bahrain2007,,"21,730,000,000",22524,Silent
+2801,Bahrain,2007,female,75+ years,0,5497,0.0,Bahrain2007,,"21,730,000,000",22524,Silent
+2802,Bahrain,2007,male,5-14 years,0,74222,0.0,Bahrain2007,,"21,730,000,000",22524,Generation Z
+2803,Bahrain,2007,male,75+ years,0,4852,0.0,Bahrain2007,,"21,730,000,000",22524,Silent
+2804,Bahrain,2008,male,25-34 years,21,196832,10.67,Bahrain2008,,"25,710,877,660",25106,Generation X
+2805,Bahrain,2008,male,35-54 years,13,225866,5.76,Bahrain2008,,"25,710,877,660",25106,Boomers
+2806,Bahrain,2008,female,15-24 years,3,76246,3.93,Bahrain2008,,"25,710,877,660",25106,Millenials
+2807,Bahrain,2008,male,55-74 years,1,35879,2.79,Bahrain2008,,"25,710,877,660",25106,Silent
+2808,Bahrain,2008,female,35-54 years,3,115468,2.6,Bahrain2008,,"25,710,877,660",25106,Boomers
+2809,Bahrain,2008,female,25-34 years,2,93449,2.14,Bahrain2008,,"25,710,877,660",25106,Generation X
+2810,Bahrain,2008,female,5-14 years,0,72955,0.0,Bahrain2008,,"25,710,877,660",25106,Generation Z
+2811,Bahrain,2008,female,55-74 years,0,24495,0.0,Bahrain2008,,"25,710,877,660",25106,Silent
+2812,Bahrain,2008,female,75+ years,0,5191,0.0,Bahrain2008,,"25,710,877,660",25106,Silent
+2813,Bahrain,2008,male,15-24 years,0,96458,0.0,Bahrain2008,,"25,710,877,660",25106,Millenials
+2814,Bahrain,2008,male,5-14 years,0,76617,0.0,Bahrain2008,,"25,710,877,660",25106,Generation Z
+2815,Bahrain,2008,male,75+ years,0,4654,0.0,Bahrain2008,,"25,710,877,660",25106,Silent
+2816,Bahrain,2009,male,35-54 years,14,242558,5.77,Bahrain2009,,"22,938,218,085",20988,Boomers
+2817,Bahrain,2009,male,25-34 years,9,222448,4.05,Bahrain2009,,"22,938,218,085",20988,Generation X
+2818,Bahrain,2009,female,25-34 years,4,99580,4.02,Bahrain2009,,"22,938,218,085",20988,Generation X
+2819,Bahrain,2009,male,15-24 years,4,102256,3.91,Bahrain2009,,"22,938,218,085",20988,Millenials
+2820,Bahrain,2009,male,55-74 years,1,38002,2.63,Bahrain2009,,"22,938,218,085",20988,Silent
+2821,Bahrain,2009,male,5-14 years,2,79180,2.53,Bahrain2009,,"22,938,218,085",20988,Generation Z
+2822,Bahrain,2009,female,35-54 years,2,118835,1.68,Bahrain2009,,"22,938,218,085",20988,Boomers
+2823,Bahrain,2009,female,15-24 years,0,80832,0.0,Bahrain2009,,"22,938,218,085",20988,Millenials
+2824,Bahrain,2009,female,5-14 years,0,75122,0.0,Bahrain2009,,"22,938,218,085",20988,Generation Z
+2825,Bahrain,2009,female,55-74 years,0,25915,0.0,Bahrain2009,,"22,938,218,085",20988,Silent
+2826,Bahrain,2009,female,75+ years,0,4103,0.0,Bahrain2009,,"22,938,218,085",20988,Silent
+2827,Bahrain,2009,male,75+ years,0,4091,0.0,Bahrain2009,,"22,938,218,085",20988,Silent
+2828,Bahrain,2010,male,35-54 years,8,252232,3.17,Bahrain2010,0.8190000000000001,"25,713,271,277",22572,Generation X
+2829,Bahrain,2010,male,25-34 years,6,235591,2.55,Bahrain2010,0.8190000000000001,"25,713,271,277",22572,Generation X
+2830,Bahrain,2010,male,55-74 years,1,41999,2.38,Bahrain2010,0.8190000000000001,"25,713,271,277",22572,Silent
+2831,Bahrain,2010,female,35-54 years,2,125709,1.59,Bahrain2010,0.8190000000000001,"25,713,271,277",22572,Generation X
+2832,Bahrain,2010,female,15-24 years,1,80571,1.24,Bahrain2010,0.8190000000000001,"25,713,271,277",22572,Millenials
+2833,Bahrain,2010,female,25-34 years,1,104368,0.96,Bahrain2010,0.8190000000000001,"25,713,271,277",22572,Generation X
+2834,Bahrain,2010,female,5-14 years,0,77140,0.0,Bahrain2010,0.8190000000000001,"25,713,271,277",22572,Generation Z
+2835,Bahrain,2010,female,55-74 years,0,27834,0.0,Bahrain2010,0.8190000000000001,"25,713,271,277",22572,Silent
+2836,Bahrain,2010,female,75+ years,0,4625,0.0,Bahrain2010,0.8190000000000001,"25,713,271,277",22572,Silent
+2837,Bahrain,2010,male,15-24 years,0,103388,0.0,Bahrain2010,0.8190000000000001,"25,713,271,277",22572,Millenials
+2838,Bahrain,2010,male,5-14 years,0,81414,0.0,Bahrain2010,0.8190000000000001,"25,713,271,277",22572,Generation Z
+2839,Bahrain,2010,male,75+ years,0,4289,0.0,Bahrain2010,0.8190000000000001,"25,713,271,277",22572,Silent
+2840,Bahrain,2011,male,15-24 years,3,101695,2.95,Bahrain2011,0.8170000000000001,"28,776,595,745",26078,Millenials
+2841,Bahrain,2011,male,55-74 years,1,43883,2.28,Bahrain2011,0.8170000000000001,"28,776,595,745",26078,Boomers
+2842,Bahrain,2011,female,25-34 years,2,98138,2.04,Bahrain2011,0.8170000000000001,"28,776,595,745",26078,Millenials
+2843,Bahrain,2011,male,25-34 years,4,220691,1.81,Bahrain2011,0.8170000000000001,"28,776,595,745",26078,Millenials
+2844,Bahrain,2011,male,35-54 years,4,242955,1.65,Bahrain2011,0.8170000000000001,"28,776,595,745",26078,Generation X
+2845,Bahrain,2011,female,35-54 years,2,123582,1.62,Bahrain2011,0.8170000000000001,"28,776,595,745",26078,Generation X
+2846,Bahrain,2011,female,15-24 years,1,75788,1.32,Bahrain2011,0.8170000000000001,"28,776,595,745",26078,Millenials
+2847,Bahrain,2011,female,5-14 years,1,77270,1.29,Bahrain2011,0.8170000000000001,"28,776,595,745",26078,Generation Z
+2848,Bahrain,2011,female,55-74 years,0,29140,0.0,Bahrain2011,0.8170000000000001,"28,776,595,745",26078,Boomers
+2849,Bahrain,2011,female,75+ years,0,4742,0.0,Bahrain2011,0.8170000000000001,"28,776,595,745",26078,Silent
+2850,Bahrain,2011,male,5-14 years,0,81209,0.0,Bahrain2011,0.8170000000000001,"28,776,595,745",26078,Generation Z
+2851,Bahrain,2011,male,75+ years,0,4369,0.0,Bahrain2011,0.8170000000000001,"28,776,595,745",26078,Silent
+2852,Bahrain,2012,male,25-34 years,11,237133,4.64,Bahrain2012,0.8190000000000001,"30,749,308,511",25587,Millenials
+2853,Bahrain,2012,male,35-54 years,6,268027,2.24,Bahrain2012,0.8190000000000001,"30,749,308,511",25587,Generation X
+2854,Bahrain,2012,female,25-34 years,1,110796,0.9,Bahrain2012,0.8190000000000001,"30,749,308,511",25587,Millenials
+2855,Bahrain,2012,male,15-24 years,1,111603,0.9,Bahrain2012,0.8190000000000001,"30,749,308,511",25587,Millenials
+2856,Bahrain,2012,female,15-24 years,0,81091,0.0,Bahrain2012,0.8190000000000001,"30,749,308,511",25587,Millenials
+2857,Bahrain,2012,female,35-54 years,0,135976,0.0,Bahrain2012,0.8190000000000001,"30,749,308,511",25587,Generation X
+2858,Bahrain,2012,female,5-14 years,0,81275,0.0,Bahrain2012,0.8190000000000001,"30,749,308,511",25587,Generation Z
+2859,Bahrain,2012,female,55-74 years,0,31641,0.0,Bahrain2012,0.8190000000000001,"30,749,308,511",25587,Boomers
+2860,Bahrain,2012,female,75+ years,0,4548,0.0,Bahrain2012,0.8190000000000001,"30,749,308,511",25587,Silent
+2861,Bahrain,2012,male,5-14 years,0,85538,0.0,Bahrain2012,0.8190000000000001,"30,749,308,511",25587,Generation Z
+2862,Bahrain,2012,male,55-74 years,0,50001,0.0,Bahrain2012,0.8190000000000001,"30,749,308,511",25587,Boomers
+2863,Bahrain,2012,male,75+ years,0,4149,0.0,Bahrain2012,0.8190000000000001,"30,749,308,511",25587,Silent
+2864,Bahrain,2013,male,15-24 years,1,110064,0.91,Bahrain2013,0.821,"32,539,547,872",26793,Millenials
+2865,Bahrain,2013,male,25-34 years,2,237632,0.84,Bahrain2013,0.821,"32,539,547,872",26793,Millenials
+2866,Bahrain,2013,male,35-54 years,2,269162,0.74,Bahrain2013,0.821,"32,539,547,872",26793,Generation X
+2867,Bahrain,2013,female,15-24 years,0,80476,0.0,Bahrain2013,0.821,"32,539,547,872",26793,Millenials
+2868,Bahrain,2013,female,25-34 years,0,112513,0.0,Bahrain2013,0.821,"32,539,547,872",26793,Millenials
+2869,Bahrain,2013,female,35-54 years,0,139352,0.0,Bahrain2013,0.821,"32,539,547,872",26793,Generation X
+2870,Bahrain,2013,female,5-14 years,0,82726,0.0,Bahrain2013,0.821,"32,539,547,872",26793,Generation Z
+2871,Bahrain,2013,female,55-74 years,0,33780,0.0,Bahrain2013,0.821,"32,539,547,872",26793,Boomers
+2872,Bahrain,2013,female,75+ years,0,4859,0.0,Bahrain2013,0.821,"32,539,547,872",26793,Silent
+2873,Bahrain,2013,male,5-14 years,0,86269,0.0,Bahrain2013,0.821,"32,539,547,872",26793,Generation Z
+2874,Bahrain,2013,male,55-74 years,0,53308,0.0,Bahrain2013,0.821,"32,539,547,872",26793,Boomers
+2875,Bahrain,2013,male,75+ years,0,4351,0.0,Bahrain2013,0.821,"32,539,547,872",26793,Silent
+2876,Bahrain,2014,male,15-24 years,4,100635,3.97,Bahrain2014,0.8240000000000001,"33,387,712,766",27503,Millenials
+2877,Bahrain,2014,male,25-34 years,3,237952,1.26,Bahrain2014,0.8240000000000001,"33,387,712,766",27503,Millenials
+2878,Bahrain,2014,female,25-34 years,1,110838,0.9,Bahrain2014,0.8240000000000001,"33,387,712,766",27503,Millenials
+2879,Bahrain,2014,male,35-54 years,1,258922,0.39,Bahrain2014,0.8240000000000001,"33,387,712,766",27503,Generation X
+2880,Bahrain,2014,female,15-24 years,0,78926,0.0,Bahrain2014,0.8240000000000001,"33,387,712,766",27503,Millenials
+2881,Bahrain,2014,female,35-54 years,0,139103,0.0,Bahrain2014,0.8240000000000001,"33,387,712,766",27503,Generation X
+2882,Bahrain,2014,female,5-14 years,0,82452,0.0,Bahrain2014,0.8240000000000001,"33,387,712,766",27503,Generation Z
+2883,Bahrain,2014,female,55-74 years,0,41406,0.0,Bahrain2014,0.8240000000000001,"33,387,712,766",27503,Boomers
+2884,Bahrain,2014,female,75+ years,0,6154,0.0,Bahrain2014,0.8240000000000001,"33,387,712,766",27503,Silent
+2885,Bahrain,2014,male,5-14 years,0,86539,0.0,Bahrain2014,0.8240000000000001,"33,387,712,766",27503,Generation Z
+2886,Bahrain,2014,male,55-74 years,0,64351,0.0,Bahrain2014,0.8240000000000001,"33,387,712,766",27503,Boomers
+2887,Bahrain,2014,male,75+ years,0,6688,0.0,Bahrain2014,0.8240000000000001,"33,387,712,766",27503,Silent

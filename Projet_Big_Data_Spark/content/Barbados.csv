@@ -1,0 +1,301 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+2888,Barbados,1985,male,75+ years,1,4000,25.0,Barbados1985,0.7,"1,417,575,550",6137,G.I. Generation
+2889,Barbados,1985,male,55-74 years,3,13000,23.08,Barbados1985,0.7,"1,417,575,550",6137,G.I. Generation
+2890,Barbados,1985,female,25-34 years,2,22000,9.09,Barbados1985,0.7,"1,417,575,550",6137,Boomers
+2891,Barbados,1985,male,25-34 years,1,22000,4.55,Barbados1985,0.7,"1,417,575,550",6137,Boomers
+2892,Barbados,1985,female,15-24 years,0,26000,0.0,Barbados1985,0.7,"1,417,575,550",6137,Generation X
+2893,Barbados,1985,female,35-54 years,0,24000,0.0,Barbados1985,0.7,"1,417,575,550",6137,Silent
+2894,Barbados,1985,female,5-14 years,0,24000,0.0,Barbados1985,0.7,"1,417,575,550",6137,Generation X
+2895,Barbados,1985,female,55-74 years,0,19000,0.0,Barbados1985,0.7,"1,417,575,550",6137,G.I. Generation
+2896,Barbados,1985,female,75+ years,0,7000,0.0,Barbados1985,0.7,"1,417,575,550",6137,G.I. Generation
+2897,Barbados,1985,male,15-24 years,0,26000,0.0,Barbados1985,0.7,"1,417,575,550",6137,Generation X
+2898,Barbados,1985,male,35-54 years,0,20000,0.0,Barbados1985,0.7,"1,417,575,550",6137,Silent
+2899,Barbados,1985,male,5-14 years,0,24000,0.0,Barbados1985,0.7,"1,417,575,550",6137,Generation X
+2900,Barbados,1986,male,35-54 years,4,20000,20.0,Barbados1986,,"1,556,321,742",6720,Silent
+2901,Barbados,1986,male,15-24 years,2,26200,7.63,Barbados1986,,"1,556,321,742",6720,Generation X
+2902,Barbados,1986,female,25-34 years,1,22000,4.55,Barbados1986,,"1,556,321,742",6720,Boomers
+2903,Barbados,1986,male,25-34 years,1,22000,4.55,Barbados1986,,"1,556,321,742",6720,Boomers
+2904,Barbados,1986,female,15-24 years,0,26200,0.0,Barbados1986,,"1,556,321,742",6720,Generation X
+2905,Barbados,1986,female,35-54 years,0,24000,0.0,Barbados1986,,"1,556,321,742",6720,Silent
+2906,Barbados,1986,female,5-14 years,0,24100,0.0,Barbados1986,,"1,556,321,742",6720,Generation X
+2907,Barbados,1986,female,55-74 years,0,19000,0.0,Barbados1986,,"1,556,321,742",6720,G.I. Generation
+2908,Barbados,1986,female,75+ years,0,7000,0.0,Barbados1986,,"1,556,321,742",6720,G.I. Generation
+2909,Barbados,1986,male,5-14 years,0,24100,0.0,Barbados1986,,"1,556,321,742",6720,Generation X
+2910,Barbados,1986,male,55-74 years,0,13000,0.0,Barbados1986,,"1,556,321,742",6720,G.I. Generation
+2911,Barbados,1986,male,75+ years,0,4000,0.0,Barbados1986,,"1,556,321,742",6720,G.I. Generation
+2912,Barbados,1987,female,35-54 years,2,24400,8.2,Barbados1987,,"1,713,771,321",7333,Silent
+2913,Barbados,1987,male,55-74 years,1,13000,7.69,Barbados1987,,"1,713,771,321",7333,G.I. Generation
+2914,Barbados,1987,male,35-54 years,1,20200,4.95,Barbados1987,,"1,713,771,321",7333,Silent
+2915,Barbados,1987,male,25-34 years,1,22200,4.5,Barbados1987,,"1,713,771,321",7333,Boomers
+2916,Barbados,1987,male,5-14 years,1,24300,4.12,Barbados1987,,"1,713,771,321",7333,Generation X
+2917,Barbados,1987,female,15-24 years,0,26400,0.0,Barbados1987,,"1,713,771,321",7333,Generation X
+2918,Barbados,1987,female,25-34 years,0,22200,0.0,Barbados1987,,"1,713,771,321",7333,Boomers
+2919,Barbados,1987,female,5-14 years,0,24300,0.0,Barbados1987,,"1,713,771,321",7333,Generation X
+2920,Barbados,1987,female,55-74 years,0,19300,0.0,Barbados1987,,"1,713,771,321",7333,G.I. Generation
+2921,Barbados,1987,female,75+ years,0,7000,0.0,Barbados1987,,"1,713,771,321",7333,G.I. Generation
+2922,Barbados,1987,male,15-24 years,0,26400,0.0,Barbados1987,,"1,713,771,321",7333,Generation X
+2923,Barbados,1987,male,75+ years,0,4000,0.0,Barbados1987,,"1,713,771,321",7333,G.I. Generation
+2924,Barbados,1988,male,25-34 years,5,22400,22.32,Barbados1988,,"1,822,815,594",7763,Boomers
+2925,Barbados,1988,male,35-54 years,3,20400,14.71,Barbados1988,,"1,822,815,594",7763,Silent
+2926,Barbados,1988,male,55-74 years,1,13100,7.63,Barbados1988,,"1,822,815,594",7763,G.I. Generation
+2927,Barbados,1988,male,15-24 years,2,26400,7.58,Barbados1988,,"1,822,815,594",7763,Generation X
+2928,Barbados,1988,female,55-74 years,1,19400,5.15,Barbados1988,,"1,822,815,594",7763,G.I. Generation
+2929,Barbados,1988,female,15-24 years,0,26400,0.0,Barbados1988,,"1,822,815,594",7763,Generation X
+2930,Barbados,1988,female,25-34 years,0,22400,0.0,Barbados1988,,"1,822,815,594",7763,Boomers
+2931,Barbados,1988,female,35-54 years,0,24400,0.0,Barbados1988,,"1,822,815,594",7763,Silent
+2932,Barbados,1988,female,5-14 years,0,24400,0.0,Barbados1988,,"1,822,815,594",7763,Generation X
+2933,Barbados,1988,female,75+ years,0,7100,0.0,Barbados1988,,"1,822,815,594",7763,G.I. Generation
+2934,Barbados,1988,male,5-14 years,0,24400,0.0,Barbados1988,,"1,822,815,594",7763,Generation X
+2935,Barbados,1988,male,75+ years,0,4000,0.0,Barbados1988,,"1,822,815,594",7763,G.I. Generation
+2936,Barbados,1989,male,35-54 years,6,23000,26.09,Barbados1989,,"2,015,731,029",8541,Silent
+2937,Barbados,1989,male,55-74 years,2,14000,14.29,Barbados1989,,"2,015,731,029",8541,G.I. Generation
+2938,Barbados,1989,male,15-24 years,3,25000,12.0,Barbados1989,,"2,015,731,029",8541,Generation X
+2939,Barbados,1989,female,25-34 years,2,23000,8.7,Barbados1989,,"2,015,731,029",8541,Boomers
+2940,Barbados,1989,female,15-24 years,2,24000,8.33,Barbados1989,,"2,015,731,029",8541,Generation X
+2941,Barbados,1989,male,25-34 years,1,24000,4.17,Barbados1989,,"2,015,731,029",8541,Boomers
+2942,Barbados,1989,female,35-54 years,0,26000,0.0,Barbados1989,,"2,015,731,029",8541,Silent
+2943,Barbados,1989,female,5-14 years,0,22000,0.0,Barbados1989,,"2,015,731,029",8541,Generation X
+2944,Barbados,1989,female,55-74 years,0,20000,0.0,Barbados1989,,"2,015,731,029",8541,G.I. Generation
+2945,Barbados,1989,female,75+ years,0,8000,0.0,Barbados1989,,"2,015,731,029",8541,G.I. Generation
+2946,Barbados,1989,male,5-14 years,0,22000,0.0,Barbados1989,,"2,015,731,029",8541,Generation X
+2947,Barbados,1989,male,75+ years,0,5000,0.0,Barbados1989,,"2,015,731,029",8541,G.I. Generation
+2948,Barbados,1990,male,75+ years,3,5000,60.0,Barbados1990,0.716,"2,023,318,252",8537,G.I. Generation
+2949,Barbados,1990,male,35-54 years,5,24000,20.83,Barbados1990,0.716,"2,023,318,252",8537,Silent
+2950,Barbados,1990,male,55-74 years,2,13000,15.38,Barbados1990,0.716,"2,023,318,252",8537,G.I. Generation
+2951,Barbados,1990,male,25-34 years,2,24000,8.33,Barbados1990,0.716,"2,023,318,252",8537,Boomers
+2952,Barbados,1990,female,35-54 years,2,26000,7.69,Barbados1990,0.716,"2,023,318,252",8537,Silent
+2953,Barbados,1990,female,55-74 years,1,20000,5.0,Barbados1990,0.716,"2,023,318,252",8537,G.I. Generation
+2954,Barbados,1990,male,15-24 years,1,25000,4.0,Barbados1990,0.716,"2,023,318,252",8537,Generation X
+2955,Barbados,1990,female,15-24 years,0,24000,0.0,Barbados1990,0.716,"2,023,318,252",8537,Generation X
+2956,Barbados,1990,female,25-34 years,0,23000,0.0,Barbados1990,0.716,"2,023,318,252",8537,Boomers
+2957,Barbados,1990,female,5-14 years,0,22000,0.0,Barbados1990,0.716,"2,023,318,252",8537,Generation X
+2958,Barbados,1990,female,75+ years,0,9000,0.0,Barbados1990,0.716,"2,023,318,252",8537,G.I. Generation
+2959,Barbados,1990,male,5-14 years,0,22000,0.0,Barbados1990,0.716,"2,023,318,252",8537,Generation X
+2960,Barbados,1991,male,35-54 years,5,25000,20.0,Barbados1991,,"2,007,109,829",8469,Boomers
+2961,Barbados,1991,male,25-34 years,4,23000,17.39,Barbados1991,,"2,007,109,829",8469,Boomers
+2962,Barbados,1991,female,55-74 years,3,20000,15.0,Barbados1991,,"2,007,109,829",8469,Silent
+2963,Barbados,1991,male,15-24 years,3,24000,12.5,Barbados1991,,"2,007,109,829",8469,Generation X
+2964,Barbados,1991,male,55-74 years,1,13000,7.69,Barbados1991,,"2,007,109,829",8469,Silent
+2965,Barbados,1991,female,25-34 years,1,23000,4.35,Barbados1991,,"2,007,109,829",8469,Boomers
+2966,Barbados,1991,female,15-24 years,0,24000,0.0,Barbados1991,,"2,007,109,829",8469,Generation X
+2967,Barbados,1991,female,35-54 years,0,28000,0.0,Barbados1991,,"2,007,109,829",8469,Boomers
+2968,Barbados,1991,female,5-14 years,0,20000,0.0,Barbados1991,,"2,007,109,829",8469,Millenials
+2969,Barbados,1991,female,75+ years,0,9000,0.0,Barbados1991,,"2,007,109,829",8469,G.I. Generation
+2970,Barbados,1991,male,5-14 years,0,22000,0.0,Barbados1991,,"2,007,109,829",8469,Millenials
+2971,Barbados,1991,male,75+ years,0,6000,0.0,Barbados1991,,"2,007,109,829",8469,G.I. Generation
+2972,Barbados,1992,male,35-54 years,5,26000,19.23,Barbados1992,,"1,950,900,000",8129,Boomers
+2973,Barbados,1992,male,25-34 years,4,23000,17.39,Barbados1992,,"1,950,900,000",8129,Boomers
+2974,Barbados,1992,male,55-74 years,2,14000,14.29,Barbados1992,,"1,950,900,000",8129,Silent
+2975,Barbados,1992,female,55-74 years,1,20000,5.0,Barbados1992,,"1,950,900,000",8129,Silent
+2976,Barbados,1992,female,25-34 years,1,24000,4.17,Barbados1992,,"1,950,900,000",8129,Boomers
+2977,Barbados,1992,female,35-54 years,1,29000,3.45,Barbados1992,,"1,950,900,000",8129,Boomers
+2978,Barbados,1992,female,15-24 years,0,24000,0.0,Barbados1992,,"1,950,900,000",8129,Generation X
+2979,Barbados,1992,female,5-14 years,0,20000,0.0,Barbados1992,,"1,950,900,000",8129,Millenials
+2980,Barbados,1992,female,75+ years,0,9000,0.0,Barbados1992,,"1,950,900,000",8129,G.I. Generation
+2981,Barbados,1992,male,15-24 years,0,24000,0.0,Barbados1992,,"1,950,900,000",8129,Generation X
+2982,Barbados,1992,male,5-14 years,0,21000,0.0,Barbados1992,,"1,950,900,000",8129,Millenials
+2983,Barbados,1992,male,75+ years,0,6000,0.0,Barbados1992,,"1,950,900,000",8129,G.I. Generation
+2984,Barbados,1993,male,55-74 years,3,13700,21.9,Barbados1993,,"2,046,189,032",8540,Silent
+2985,Barbados,1993,male,15-24 years,5,23400,21.37,Barbados1993,,"2,046,189,032",8540,Generation X
+2986,Barbados,1993,male,75+ years,1,5300,18.87,Barbados1993,,"2,046,189,032",8540,G.I. Generation
+2987,Barbados,1993,male,25-34 years,3,23900,12.55,Barbados1993,,"2,046,189,032",8540,Boomers
+2988,Barbados,1993,male,35-54 years,3,27400,10.95,Barbados1993,,"2,046,189,032",8540,Boomers
+2989,Barbados,1993,female,55-74 years,1,18900,5.29,Barbados1993,,"2,046,189,032",8540,Silent
+2990,Barbados,1993,female,15-24 years,0,22900,0.0,Barbados1993,,"2,046,189,032",8540,Generation X
+2991,Barbados,1993,female,25-34 years,0,23100,0.0,Barbados1993,,"2,046,189,032",8540,Boomers
+2992,Barbados,1993,female,35-54 years,0,29600,0.0,Barbados1993,,"2,046,189,032",8540,Boomers
+2993,Barbados,1993,female,5-14 years,0,20700,0.0,Barbados1993,,"2,046,189,032",8540,Millenials
+2994,Barbados,1993,female,75+ years,0,9600,0.0,Barbados1993,,"2,046,189,032",8540,G.I. Generation
+2995,Barbados,1993,male,5-14 years,0,21100,0.0,Barbados1993,,"2,046,189,032",8540,Millenials
+2996,Barbados,1994,male,55-74 years,3,13500,22.22,Barbados1994,,"2,151,295,182",8953,Silent
+2997,Barbados,1994,male,35-54 years,5,28600,17.48,Barbados1994,,"2,151,295,182",8953,Boomers
+2998,Barbados,1994,female,55-74 years,2,18800,10.64,Barbados1994,,"2,151,295,182",8953,Silent
+2999,Barbados,1994,male,5-14 years,1,21100,4.74,Barbados1994,,"2,151,295,182",8953,Millenials
+3000,Barbados,1994,female,25-34 years,1,22900,4.37,Barbados1994,,"2,151,295,182",8953,Boomers
+3001,Barbados,1994,male,15-24 years,1,22900,4.37,Barbados1994,,"2,151,295,182",8953,Generation X
+3002,Barbados,1994,female,35-54 years,1,30700,3.26,Barbados1994,,"2,151,295,182",8953,Boomers
+3003,Barbados,1994,female,15-24 years,0,22500,0.0,Barbados1994,,"2,151,295,182",8953,Generation X
+3004,Barbados,1994,female,5-14 years,0,20500,0.0,Barbados1994,,"2,151,295,182",8953,Millenials
+3005,Barbados,1994,female,75+ years,0,9700,0.0,Barbados1994,,"2,151,295,182",8953,G.I. Generation
+3006,Barbados,1994,male,25-34 years,0,23800,0.0,Barbados1994,,"2,151,295,182",8953,Boomers
+3007,Barbados,1994,male,75+ years,0,5300,0.0,Barbados1994,,"2,151,295,182",8953,G.I. Generation
+3008,Barbados,1995,male,25-34 years,7,23600,29.66,Barbados1995,0.731,"2,261,969,870",9378,Generation X
+3009,Barbados,1995,male,35-54 years,3,30000,10.0,Barbados1995,0.731,"2,261,969,870",9378,Boomers
+3010,Barbados,1995,female,15-24 years,2,22000,9.09,Barbados1995,0.731,"2,261,969,870",9378,Generation X
+3011,Barbados,1995,male,55-74 years,1,13400,7.46,Barbados1995,0.731,"2,261,969,870",9378,Silent
+3012,Barbados,1995,female,35-54 years,2,31800,6.29,Barbados1995,0.731,"2,261,969,870",9378,Boomers
+3013,Barbados,1995,female,55-74 years,1,18700,5.35,Barbados1995,0.731,"2,261,969,870",9378,Silent
+3014,Barbados,1995,male,15-24 years,1,22500,4.44,Barbados1995,0.731,"2,261,969,870",9378,Generation X
+3015,Barbados,1995,female,25-34 years,0,22700,0.0,Barbados1995,0.731,"2,261,969,870",9378,Generation X
+3016,Barbados,1995,female,5-14 years,0,20400,0.0,Barbados1995,0.731,"2,261,969,870",9378,Millenials
+3017,Barbados,1995,female,75+ years,0,9800,0.0,Barbados1995,0.731,"2,261,969,870",9378,G.I. Generation
+3018,Barbados,1995,male,5-14 years,0,21000,0.0,Barbados1995,0.731,"2,261,969,870",9378,Millenials
+3019,Barbados,1995,male,75+ years,0,5300,0.0,Barbados1995,0.731,"2,261,969,870",9378,G.I. Generation
+3020,Barbados,2000,male,25-34 years,4,20974,19.07,Barbados2000,0.753,"3,121,500,000",12430,Generation X
+3021,Barbados,2000,male,35-54 years,3,37000,8.11,Barbados2000,0.753,"3,121,500,000",12430,Boomers
+3022,Barbados,2000,male,15-24 years,1,20032,4.99,Barbados2000,0.753,"3,121,500,000",12430,Generation X
+3023,Barbados,2000,female,35-54 years,2,40354,4.96,Barbados2000,0.753,"3,121,500,000",12430,Boomers
+3024,Barbados,2000,female,15-24 years,0,19594,0.0,Barbados2000,0.753,"3,121,500,000",12430,Generation X
+3025,Barbados,2000,female,25-34 years,0,21656,0.0,Barbados2000,0.753,"3,121,500,000",12430,Generation X
+3026,Barbados,2000,female,5-14 years,0,19999,0.0,Barbados2000,0.753,"3,121,500,000",12430,Millenials
+3027,Barbados,2000,female,55-74 years,0,20755,0.0,Barbados2000,0.753,"3,121,500,000",12430,Silent
+3028,Barbados,2000,female,75+ years,0,8653,0.0,Barbados2000,0.753,"3,121,500,000",12430,G.I. Generation
+3029,Barbados,2000,male,5-14 years,0,20504,0.0,Barbados2000,0.753,"3,121,500,000",12430,Millenials
+3030,Barbados,2000,male,55-74 years,0,16361,0.0,Barbados2000,0.753,"3,121,500,000",12430,Silent
+3031,Barbados,2000,male,75+ years,0,5251,0.0,Barbados2000,0.753,"3,121,500,000",12430,G.I. Generation
+3032,Barbados,2001,male,55-74 years,1,16682,5.99,Barbados2001,,"3,116,650,000",12348,Silent
+3033,Barbados,2001,male,35-54 years,1,37608,2.66,Barbados2001,,"3,116,650,000",12348,Boomers
+3034,Barbados,2001,female,15-24 years,0,19589,0.0,Barbados2001,,"3,116,650,000",12348,Millenials
+3035,Barbados,2001,female,25-34 years,0,21392,0.0,Barbados2001,,"3,116,650,000",12348,Generation X
+3036,Barbados,2001,female,35-54 years,0,41070,0.0,Barbados2001,,"3,116,650,000",12348,Boomers
+3037,Barbados,2001,female,5-14 years,0,19856,0.0,Barbados2001,,"3,116,650,000",12348,Millenials
+3038,Barbados,2001,female,55-74 years,0,20967,0.0,Barbados2001,,"3,116,650,000",12348,Silent
+3039,Barbados,2001,female,75+ years,0,8830,0.0,Barbados2001,,"3,116,650,000",12348,Silent
+3040,Barbados,2001,male,15-24 years,0,19949,0.0,Barbados2001,,"3,116,650,000",12348,Millenials
+3041,Barbados,2001,male,25-34 years,0,20762,0.0,Barbados2001,,"3,116,650,000",12348,Generation X
+3042,Barbados,2001,male,5-14 years,0,20312,0.0,Barbados2001,,"3,116,650,000",12348,Millenials
+3043,Barbados,2001,male,75+ years,0,5389,0.0,Barbados2001,,"3,116,650,000",12348,Silent
+3044,Barbados,2002,female,15-24 years,0,19595,0.0,Barbados2002,,"3,169,600,000",12511,Millenials
+3045,Barbados,2002,female,25-34 years,0,21133,0.0,Barbados2002,,"3,169,600,000",12511,Generation X
+3046,Barbados,2002,female,35-54 years,0,41563,0.0,Barbados2002,,"3,169,600,000",12511,Boomers
+3047,Barbados,2002,female,5-14 years,0,19674,0.0,Barbados2002,,"3,169,600,000",12511,Millenials
+3048,Barbados,2002,female,55-74 years,0,21258,0.0,Barbados2002,,"3,169,600,000",12511,Silent
+3049,Barbados,2002,female,75+ years,0,9003,0.0,Barbados2002,,"3,169,600,000",12511,Silent
+3050,Barbados,2002,male,15-24 years,0,19863,0.0,Barbados2002,,"3,169,600,000",12511,Millenials
+3051,Barbados,2002,male,25-34 years,0,20535,0.0,Barbados2002,,"3,169,600,000",12511,Generation X
+3052,Barbados,2002,male,35-54 years,0,38009,0.0,Barbados2002,,"3,169,600,000",12511,Boomers
+3053,Barbados,2002,male,5-14 years,0,20106,0.0,Barbados2002,,"3,169,600,000",12511,Millenials
+3054,Barbados,2002,male,55-74 years,0,17104,0.0,Barbados2002,,"3,169,600,000",12511,Silent
+3055,Barbados,2002,male,75+ years,0,5510,0.0,Barbados2002,,"3,169,600,000",12511,Silent
+3056,Barbados,2003,female,15-24 years,0,19594,0.0,Barbados2003,,"3,274,850,000",12887,Millenials
+3057,Barbados,2003,female,25-34 years,0,20882,0.0,Barbados2003,,"3,274,850,000",12887,Generation X
+3058,Barbados,2003,female,35-54 years,0,41911,0.0,Barbados2003,,"3,274,850,000",12887,Boomers
+3059,Barbados,2003,female,5-14 years,0,19479,0.0,Barbados2003,,"3,274,850,000",12887,Millenials
+3060,Barbados,2003,female,55-74 years,0,21643,0.0,Barbados2003,,"3,274,850,000",12887,Silent
+3061,Barbados,2003,female,75+ years,0,9139,0.0,Barbados2003,,"3,274,850,000",12887,Silent
+3062,Barbados,2003,male,15-24 years,0,19769,0.0,Barbados2003,,"3,274,850,000",12887,Millenials
+3063,Barbados,2003,male,25-34 years,0,20309,0.0,Barbados2003,,"3,274,850,000",12887,Generation X
+3064,Barbados,2003,male,35-54 years,0,38276,0.0,Barbados2003,,"3,274,850,000",12887,Boomers
+3065,Barbados,2003,male,5-14 years,0,19901,0.0,Barbados2003,,"3,274,850,000",12887,Millenials
+3066,Barbados,2003,male,55-74 years,0,17621,0.0,Barbados2003,,"3,274,850,000",12887,Silent
+3067,Barbados,2003,male,75+ years,0,5598,0.0,Barbados2003,,"3,274,850,000",12887,Silent
+3068,Barbados,2004,male,35-54 years,3,38511,7.79,Barbados2004,,"3,514,350,000",13786,Boomers
+3069,Barbados,2004,female,15-24 years,0,19566,0.0,Barbados2004,,"3,514,350,000",13786,Millenials
+3070,Barbados,2004,female,25-34 years,0,20656,0.0,Barbados2004,,"3,514,350,000",13786,Generation X
+3071,Barbados,2004,female,35-54 years,0,42213,0.0,Barbados2004,,"3,514,350,000",13786,Boomers
+3072,Barbados,2004,female,5-14 years,0,19280,0.0,Barbados2004,,"3,514,350,000",13786,Millenials
+3073,Barbados,2004,female,55-74 years,0,22134,0.0,Barbados2004,,"3,514,350,000",13786,Silent
+3074,Barbados,2004,female,75+ years,0,9237,0.0,Barbados2004,,"3,514,350,000",13786,Silent
+3075,Barbados,2004,male,15-24 years,0,19657,0.0,Barbados2004,,"3,514,350,000",13786,Millenials
+3076,Barbados,2004,male,25-34 years,0,20092,0.0,Barbados2004,,"3,514,350,000",13786,Generation X
+3077,Barbados,2004,male,5-14 years,0,19715,0.0,Barbados2004,,"3,514,350,000",13786,Millenials
+3078,Barbados,2004,male,55-74 years,0,18209,0.0,Barbados2004,,"3,514,350,000",13786,Silent
+3079,Barbados,2004,male,75+ years,0,5655,0.0,Barbados2004,,"3,514,350,000",13786,Silent
+3080,Barbados,2005,male,35-54 years,1,38767,2.58,Barbados2005,0.765,"3,897,300,000",15230,Boomers
+3081,Barbados,2005,female,15-24 years,0,19501,0.0,Barbados2005,0.765,"3,897,300,000",15230,Millenials
+3082,Barbados,2005,female,25-34 years,0,20457,0.0,Barbados2005,0.765,"3,897,300,000",15230,Generation X
+3083,Barbados,2005,female,35-54 years,0,42518,0.0,Barbados2005,0.765,"3,897,300,000",15230,Boomers
+3084,Barbados,2005,female,5-14 years,0,19101,0.0,Barbados2005,0.765,"3,897,300,000",15230,Millenials
+3085,Barbados,2005,female,55-74 years,0,22723,0.0,Barbados2005,0.765,"3,897,300,000",15230,Silent
+3086,Barbados,2005,female,75+ years,0,9297,0.0,Barbados2005,0.765,"3,897,300,000",15230,Silent
+3087,Barbados,2005,male,15-24 years,0,19524,0.0,Barbados2005,0.765,"3,897,300,000",15230,Millenials
+3088,Barbados,2005,male,25-34 years,0,19893,0.0,Barbados2005,0.765,"3,897,300,000",15230,Generation X
+3089,Barbados,2005,male,5-14 years,0,19569,0.0,Barbados2005,0.765,"3,897,300,000",15230,Millenials
+3090,Barbados,2005,male,55-74 years,0,18856,0.0,Barbados2005,0.765,"3,897,300,000",15230,Silent
+3091,Barbados,2005,male,75+ years,0,5683,0.0,Barbados2005,0.765,"3,897,300,000",15230,Silent
+3092,Barbados,2006,male,75+ years,1,5792,17.27,Barbados2006,,"4,246,600,000",16531,Silent
+3093,Barbados,2006,male,35-54 years,5,38972,12.83,Barbados2006,,"4,246,600,000",16531,Boomers
+3094,Barbados,2006,male,25-34 years,2,19677,10.16,Barbados2006,,"4,246,600,000",16531,Generation X
+3095,Barbados,2006,male,55-74 years,1,19527,5.12,Barbados2006,,"4,246,600,000",16531,Silent
+3096,Barbados,2006,female,15-24 years,0,19383,0.0,Barbados2006,,"4,246,600,000",16531,Millenials
+3097,Barbados,2006,female,25-34 years,0,20256,0.0,Barbados2006,,"4,246,600,000",16531,Generation X
+3098,Barbados,2006,female,35-54 years,0,42772,0.0,Barbados2006,,"4,246,600,000",16531,Boomers
+3099,Barbados,2006,female,5-14 years,0,18922,0.0,Barbados2006,,"4,246,600,000",16531,Millenials
+3100,Barbados,2006,female,55-74 years,0,23361,0.0,Barbados2006,,"4,246,600,000",16531,Silent
+3101,Barbados,2006,female,75+ years,0,9430,0.0,Barbados2006,,"4,246,600,000",16531,Silent
+3102,Barbados,2006,male,15-24 years,0,19356,0.0,Barbados2006,,"4,246,600,000",16531,Millenials
+3103,Barbados,2006,male,5-14 years,0,19435,0.0,Barbados2006,,"4,246,600,000",16531,Millenials
+3104,Barbados,2007,female,15-24 years,0,19237,0.0,Barbados2007,,"4,523,750,000",17528,Millenials
+3105,Barbados,2007,female,25-34 years,0,20074,0.0,Barbados2007,,"4,523,750,000",17528,Generation X
+3106,Barbados,2007,female,35-54 years,0,43042,0.0,Barbados2007,,"4,523,750,000",17528,Boomers
+3107,Barbados,2007,female,5-14 years,0,18772,0.0,Barbados2007,,"4,523,750,000",17528,Generation Z
+3108,Barbados,2007,female,55-74 years,0,24071,0.0,Barbados2007,,"4,523,750,000",17528,Silent
+3109,Barbados,2007,female,75+ years,0,9551,0.0,Barbados2007,,"4,523,750,000",17528,Silent
+3110,Barbados,2007,male,15-24 years,0,19188,0.0,Barbados2007,,"4,523,750,000",17528,Millenials
+3111,Barbados,2007,male,25-34 years,0,19468,0.0,Barbados2007,,"4,523,750,000",17528,Generation X
+3112,Barbados,2007,male,35-54 years,0,39190,0.0,Barbados2007,,"4,523,750,000",17528,Boomers
+3113,Barbados,2007,male,5-14 years,0,19359,0.0,Barbados2007,,"4,523,750,000",17528,Generation Z
+3114,Barbados,2007,male,55-74 years,0,20249,0.0,Barbados2007,,"4,523,750,000",17528,Silent
+3115,Barbados,2007,male,75+ years,0,5882,0.0,Barbados2007,,"4,523,750,000",17528,Silent
+3116,Barbados,2008,female,35-54 years,1,43278,2.31,Barbados2008,,"4,607,300,000",17760,Boomers
+3117,Barbados,2008,female,15-24 years,0,19070,0.0,Barbados2008,,"4,607,300,000",17760,Millenials
+3118,Barbados,2008,female,25-34 years,0,19912,0.0,Barbados2008,,"4,607,300,000",17760,Generation X
+3119,Barbados,2008,female,5-14 years,0,18667,0.0,Barbados2008,,"4,607,300,000",17760,Generation Z
+3120,Barbados,2008,female,55-74 years,0,24852,0.0,Barbados2008,,"4,607,300,000",17760,Silent
+3121,Barbados,2008,female,75+ years,0,9658,0.0,Barbados2008,,"4,607,300,000",17760,Silent
+3122,Barbados,2008,male,15-24 years,0,19029,0.0,Barbados2008,,"4,607,300,000",17760,Millenials
+3123,Barbados,2008,male,25-34 years,0,19259,0.0,Barbados2008,,"4,607,300,000",17760,Generation X
+3124,Barbados,2008,male,35-54 years,0,39368,0.0,Barbados2008,,"4,607,300,000",17760,Boomers
+3125,Barbados,2008,male,5-14 years,0,19341,0.0,Barbados2008,,"4,607,300,000",17760,Generation Z
+3126,Barbados,2008,male,55-74 years,0,21022,0.0,Barbados2008,,"4,607,300,000",17760,Silent
+3127,Barbados,2008,male,75+ years,0,5958,0.0,Barbados2008,,"4,607,300,000",17760,Silent
+3128,Barbados,2009,male,75+ years,1,6022,16.61,Barbados2009,,"4,434,050,000",17007,Silent
+3129,Barbados,2009,male,35-54 years,3,39442,7.61,Barbados2009,,"4,434,050,000",17007,Boomers
+3130,Barbados,2009,male,55-74 years,1,21837,4.58,Barbados2009,,"4,434,050,000",17007,Silent
+3131,Barbados,2009,female,15-24 years,0,18898,0.0,Barbados2009,,"4,434,050,000",17007,Millenials
+3132,Barbados,2009,female,25-34 years,0,19762,0.0,Barbados2009,,"4,434,050,000",17007,Generation X
+3133,Barbados,2009,female,35-54 years,0,43400,0.0,Barbados2009,,"4,434,050,000",17007,Boomers
+3134,Barbados,2009,female,5-14 years,0,18606,0.0,Barbados2009,,"4,434,050,000",17007,Generation Z
+3135,Barbados,2009,female,55-74 years,0,25695,0.0,Barbados2009,,"4,434,050,000",17007,Silent
+3136,Barbados,2009,female,75+ years,0,9752,0.0,Barbados2009,,"4,434,050,000",17007,Silent
+3137,Barbados,2009,male,15-24 years,0,18881,0.0,Barbados2009,,"4,434,050,000",17007,Millenials
+3138,Barbados,2009,male,25-34 years,0,19044,0.0,Barbados2009,,"4,434,050,000",17007,Generation X
+3139,Barbados,2009,male,5-14 years,0,19379,0.0,Barbados2009,,"4,434,050,000",17007,Generation Z
+3140,Barbados,2010,male,35-54 years,3,39379,7.62,Barbados2010,0.78,"4,461,650,000",17034,Generation X
+3141,Barbados,2010,female,15-24 years,0,18739,0.0,Barbados2010,0.78,"4,461,650,000",17034,Millenials
+3142,Barbados,2010,female,25-34 years,0,19612,0.0,Barbados2010,0.78,"4,461,650,000",17034,Generation X
+3143,Barbados,2010,female,35-54 years,0,43369,0.0,Barbados2010,0.78,"4,461,650,000",17034,Generation X
+3144,Barbados,2010,female,5-14 years,0,18590,0.0,Barbados2010,0.78,"4,461,650,000",17034,Generation Z
+3145,Barbados,2010,female,55-74 years,0,26589,0.0,Barbados2010,0.78,"4,461,650,000",17034,Silent
+3146,Barbados,2010,female,75+ years,0,9853,0.0,Barbados2010,0.78,"4,461,650,000",17034,Silent
+3147,Barbados,2010,male,15-24 years,0,18747,0.0,Barbados2010,0.78,"4,461,650,000",17034,Millenials
+3148,Barbados,2010,male,25-34 years,0,18826,0.0,Barbados2010,0.78,"4,461,650,000",17034,Generation X
+3149,Barbados,2010,male,5-14 years,0,19462,0.0,Barbados2010,0.78,"4,461,650,000",17034,Generation Z
+3150,Barbados,2010,male,55-74 years,0,22675,0.0,Barbados2010,0.78,"4,461,650,000",17034,Silent
+3151,Barbados,2010,male,75+ years,0,6086,0.0,Barbados2010,0.78,"4,461,650,000",17034,Silent
+3152,Barbados,2011,female,15-24 years,0,18660,0.0,Barbados2011,0.7859999999999999,"4,660,900,000",17708,Millenials
+3153,Barbados,2011,female,25-34 years,0,19511,0.0,Barbados2011,0.7859999999999999,"4,660,900,000",17708,Millenials
+3154,Barbados,2011,female,35-54 years,0,43221,0.0,Barbados2011,0.7859999999999999,"4,660,900,000",17708,Generation X
+3155,Barbados,2011,female,5-14 years,0,18501,0.0,Barbados2011,0.7859999999999999,"4,660,900,000",17708,Generation Z
+3156,Barbados,2011,female,55-74 years,0,27506,0.0,Barbados2011,0.7859999999999999,"4,660,900,000",17708,Boomers
+3157,Barbados,2011,female,75+ years,0,10011,0.0,Barbados2011,0.7859999999999999,"4,660,900,000",17708,Silent
+3158,Barbados,2011,male,15-24 years,0,18668,0.0,Barbados2011,0.7859999999999999,"4,660,900,000",17708,Millenials
+3159,Barbados,2011,male,25-34 years,0,18675,0.0,Barbados2011,0.7859999999999999,"4,660,900,000",17708,Millenials
+3160,Barbados,2011,male,35-54 years,0,39290,0.0,Barbados2011,0.7859999999999999,"4,660,900,000",17708,Generation X
+3161,Barbados,2011,male,5-14 years,0,19431,0.0,Barbados2011,0.7859999999999999,"4,660,900,000",17708,Generation Z
+3162,Barbados,2011,male,55-74 years,0,23496,0.0,Barbados2011,0.7859999999999999,"4,660,900,000",17708,Boomers
+3163,Barbados,2011,male,75+ years,0,6233,0.0,Barbados2011,0.7859999999999999,"4,660,900,000",17708,Silent
+3164,Barbados,2012,female,15-24 years,0,18575,0.0,Barbados2012,0.7929999999999999,"4,656,350,000",17620,Millenials
+3165,Barbados,2012,female,25-34 years,0,19421,0.0,Barbados2012,0.7929999999999999,"4,656,350,000",17620,Millenials
+3166,Barbados,2012,female,35-54 years,0,42921,0.0,Barbados2012,0.7929999999999999,"4,656,350,000",17620,Generation X
+3167,Barbados,2012,female,5-14 years,0,18436,0.0,Barbados2012,0.7929999999999999,"4,656,350,000",17620,Generation Z
+3168,Barbados,2012,female,55-74 years,0,28473,0.0,Barbados2012,0.7929999999999999,"4,656,350,000",17620,Boomers
+3169,Barbados,2012,female,75+ years,0,10166,0.0,Barbados2012,0.7929999999999999,"4,656,350,000",17620,Silent
+3170,Barbados,2012,male,15-24 years,0,18579,0.0,Barbados2012,0.7929999999999999,"4,656,350,000",17620,Millenials
+3171,Barbados,2012,male,25-34 years,0,18523,0.0,Barbados2012,0.7929999999999999,"4,656,350,000",17620,Millenials
+3172,Barbados,2012,male,35-54 years,0,39060,0.0,Barbados2012,0.7929999999999999,"4,656,350,000",17620,Generation X
+3173,Barbados,2012,male,5-14 years,0,19402,0.0,Barbados2012,0.7929999999999999,"4,656,350,000",17620,Generation Z
+3174,Barbados,2012,male,55-74 years,0,24339,0.0,Barbados2012,0.7929999999999999,"4,656,350,000",17620,Boomers
+3175,Barbados,2012,male,75+ years,0,6375,0.0,Barbados2012,0.7929999999999999,"4,656,350,000",17620,Silent
+3176,Barbados,2013,female,15-24 years,0,18473,0.0,Barbados2013,0.785,"4,612,500,000",17395,Millenials
+3177,Barbados,2013,female,25-34 years,0,19336,0.0,Barbados2013,0.785,"4,612,500,000",17395,Millenials
+3178,Barbados,2013,female,35-54 years,0,42518,0.0,Barbados2013,0.785,"4,612,500,000",17395,Generation X
+3179,Barbados,2013,female,5-14 years,0,18384,0.0,Barbados2013,0.785,"4,612,500,000",17395,Generation Z
+3180,Barbados,2013,female,55-74 years,0,29474,0.0,Barbados2013,0.785,"4,612,500,000",17395,Boomers
+3181,Barbados,2013,female,75+ years,0,10306,0.0,Barbados2013,0.785,"4,612,500,000",17395,Silent
+3182,Barbados,2013,male,15-24 years,0,18497,0.0,Barbados2013,0.785,"4,612,500,000",17395,Millenials
+3183,Barbados,2013,male,25-34 years,0,18365,0.0,Barbados2013,0.785,"4,612,500,000",17395,Millenials
+3184,Barbados,2013,male,35-54 years,0,38728,0.0,Barbados2013,0.785,"4,612,500,000",17395,Generation X
+3185,Barbados,2013,male,5-14 years,0,19376,0.0,Barbados2013,0.785,"4,612,500,000",17395,Generation Z
+3186,Barbados,2013,male,55-74 years,0,25209,0.0,Barbados2013,0.785,"4,612,500,000",17395,Boomers
+3187,Barbados,2013,male,75+ years,0,6499,0.0,Barbados2013,0.785,"4,612,500,000",17395,Silent

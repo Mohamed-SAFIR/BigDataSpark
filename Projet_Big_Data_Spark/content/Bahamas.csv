@@ -1,0 +1,277 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+2360,Bahamas,1985,male,35-54 years,1,21000,4.76,Bahamas1985,,"2,320,699,900",11393,Silent
+2361,Bahamas,1985,female,15-24 years,0,23300,0.0,Bahamas1985,,"2,320,699,900",11393,Generation X
+2362,Bahamas,1985,female,25-34 years,0,19500,0.0,Bahamas1985,,"2,320,699,900",11393,Boomers
+2363,Bahamas,1985,female,35-54 years,0,22500,0.0,Bahamas1985,,"2,320,699,900",11393,Silent
+2364,Bahamas,1985,female,5-14 years,0,24500,0.0,Bahamas1985,,"2,320,699,900",11393,Generation X
+2365,Bahamas,1985,female,55-74 years,0,11200,0.0,Bahamas1985,,"2,320,699,900",11393,G.I. Generation
+2366,Bahamas,1985,female,75+ years,0,2700,0.0,Bahamas1985,,"2,320,699,900",11393,G.I. Generation
+2367,Bahamas,1985,male,15-24 years,0,23900,0.0,Bahamas1985,,"2,320,699,900",11393,Generation X
+2368,Bahamas,1985,male,25-34 years,0,19100,0.0,Bahamas1985,,"2,320,699,900",11393,Boomers
+2369,Bahamas,1985,male,5-14 years,0,25100,0.0,Bahamas1985,,"2,320,699,900",11393,Generation X
+2370,Bahamas,1985,male,55-74 years,0,9400,0.0,Bahamas1985,,"2,320,699,900",11393,G.I. Generation
+2371,Bahamas,1985,male,75+ years,0,1500,0.0,Bahamas1985,,"2,320,699,900",11393,G.I. Generation
+2372,Bahamas,1987,male,35-54 years,2,22700,8.81,Bahamas1987,,"2,713,999,900",12286,Silent
+2373,Bahamas,1987,male,25-34 years,1,20900,4.78,Bahamas1987,,"2,713,999,900",12286,Boomers
+2374,Bahamas,1987,female,15-24 years,0,25100,0.0,Bahamas1987,,"2,713,999,900",12286,Generation X
+2375,Bahamas,1987,female,25-34 years,0,21100,0.0,Bahamas1987,,"2,713,999,900",12286,Boomers
+2376,Bahamas,1987,female,35-54 years,0,24200,0.0,Bahamas1987,,"2,713,999,900",12286,Silent
+2377,Bahamas,1987,female,5-14 years,0,26400,0.0,Bahamas1987,,"2,713,999,900",12286,Generation X
+2378,Bahamas,1987,female,55-74 years,0,12100,0.0,Bahamas1987,,"2,713,999,900",12286,G.I. Generation
+2379,Bahamas,1987,female,75+ years,0,2900,0.0,Bahamas1987,,"2,713,999,900",12286,G.I. Generation
+2380,Bahamas,1987,male,15-24 years,0,26200,0.0,Bahamas1987,,"2,713,999,900",12286,Generation X
+2381,Bahamas,1987,male,5-14 years,0,27500,0.0,Bahamas1987,,"2,713,999,900",12286,Generation X
+2382,Bahamas,1987,male,55-74 years,0,10200,0.0,Bahamas1987,,"2,713,999,900",12286,G.I. Generation
+2383,Bahamas,1987,male,75+ years,0,1600,0.0,Bahamas1987,,"2,713,999,900",12286,G.I. Generation
+2384,Bahamas,1993,male,55-74 years,1,9900,10.1,Bahamas1993,,"3,092,000,000",12698,Silent
+2385,Bahamas,1993,female,55-74 years,1,11900,8.4,Bahamas1993,,"3,092,000,000",12698,Silent
+2386,Bahamas,1993,male,25-34 years,2,25400,7.87,Bahamas1993,,"3,092,000,000",12698,Boomers
+2387,Bahamas,1993,male,35-54 years,2,27000,7.41,Bahamas1993,,"3,092,000,000",12698,Boomers
+2388,Bahamas,1993,male,15-24 years,1,26800,3.73,Bahamas1993,,"3,092,000,000",12698,Generation X
+2389,Bahamas,1993,female,15-24 years,0,26800,0.0,Bahamas1993,,"3,092,000,000",12698,Generation X
+2390,Bahamas,1993,female,25-34 years,0,26300,0.0,Bahamas1993,,"3,092,000,000",12698,Boomers
+2391,Bahamas,1993,female,35-54 years,0,29300,0.0,Bahamas1993,,"3,092,000,000",12698,Boomers
+2392,Bahamas,1993,female,5-14 years,0,27200,0.0,Bahamas1993,,"3,092,000,000",12698,Millenials
+2393,Bahamas,1993,female,75+ years,0,2800,0.0,Bahamas1993,,"3,092,000,000",12698,G.I. Generation
+2394,Bahamas,1993,male,5-14 years,0,28100,0.0,Bahamas1993,,"3,092,000,000",12698,Millenials
+2395,Bahamas,1993,male,75+ years,0,2000,0.0,Bahamas1993,,"3,092,000,000",12698,G.I. Generation
+2396,Bahamas,1994,male,35-54 years,3,28300,10.6,Bahamas1994,,"3,259,000,000",13073,Boomers
+2397,Bahamas,1994,female,15-24 years,0,26900,0.0,Bahamas1994,,"3,259,000,000",13073,Generation X
+2398,Bahamas,1994,female,25-34 years,0,26800,0.0,Bahamas1994,,"3,259,000,000",13073,Boomers
+2399,Bahamas,1994,female,35-54 years,0,30800,0.0,Bahamas1994,,"3,259,000,000",13073,Boomers
+2400,Bahamas,1994,female,5-14 years,0,27600,0.0,Bahamas1994,,"3,259,000,000",13073,Millenials
+2401,Bahamas,1994,female,55-74 years,0,12300,0.0,Bahamas1994,,"3,259,000,000",13073,Silent
+2402,Bahamas,1994,female,75+ years,0,3000,0.0,Bahamas1994,,"3,259,000,000",13073,G.I. Generation
+2403,Bahamas,1994,male,15-24 years,0,26900,0.0,Bahamas1994,,"3,259,000,000",13073,Generation X
+2404,Bahamas,1994,male,25-34 years,0,26000,0.0,Bahamas1994,,"3,259,000,000",13073,Boomers
+2405,Bahamas,1994,male,5-14 years,0,28300,0.0,Bahamas1994,,"3,259,000,000",13073,Millenials
+2406,Bahamas,1994,male,55-74 years,0,10300,0.0,Bahamas1994,,"3,259,000,000",13073,Silent
+2407,Bahamas,1994,male,75+ years,0,2100,0.0,Bahamas1994,,"3,259,000,000",13073,G.I. Generation
+2408,Bahamas,1995,male,25-34 years,1,26300,3.8,Bahamas1995,,"3,429,000,000",13473,Generation X
+2409,Bahamas,1995,male,35-54 years,1,29800,3.36,Bahamas1995,,"3,429,000,000",13473,Boomers
+2410,Bahamas,1995,female,15-24 years,0,26900,0.0,Bahamas1995,,"3,429,000,000",13473,Generation X
+2411,Bahamas,1995,female,25-34 years,0,27100,0.0,Bahamas1995,,"3,429,000,000",13473,Generation X
+2412,Bahamas,1995,female,35-54 years,0,32300,0.0,Bahamas1995,,"3,429,000,000",13473,Boomers
+2413,Bahamas,1995,female,5-14 years,0,27700,0.0,Bahamas1995,,"3,429,000,000",13473,Millenials
+2414,Bahamas,1995,female,55-74 years,0,12800,0.0,Bahamas1995,,"3,429,000,000",13473,Silent
+2415,Bahamas,1995,female,75+ years,0,3100,0.0,Bahamas1995,,"3,429,000,000",13473,G.I. Generation
+2416,Bahamas,1995,male,15-24 years,0,27000,0.0,Bahamas1995,,"3,429,000,000",13473,Generation X
+2417,Bahamas,1995,male,5-14 years,0,28600,0.0,Bahamas1995,,"3,429,000,000",13473,Millenials
+2418,Bahamas,1995,male,55-74 years,0,10600,0.0,Bahamas1995,,"3,429,000,000",13473,Silent
+2419,Bahamas,1995,male,75+ years,0,2300,0.0,Bahamas1995,,"3,429,000,000",13473,G.I. Generation
+2420,Bahamas,1996,male,35-54 years,3,30549,9.82,Bahamas1996,,"3,609,000,000",14297,Boomers
+2421,Bahamas,1996,female,15-24 years,0,25694,0.0,Bahamas1996,,"3,609,000,000",14297,Generation X
+2422,Bahamas,1996,female,25-34 years,0,25178,0.0,Bahamas1996,,"3,609,000,000",14297,Generation X
+2423,Bahamas,1996,female,35-54 years,0,32794,0.0,Bahamas1996,,"3,609,000,000",14297,Boomers
+2424,Bahamas,1996,female,5-14 years,0,28250,0.0,Bahamas1996,,"3,609,000,000",14297,Millenials
+2425,Bahamas,1996,female,55-74 years,0,13723,0.0,Bahamas1996,,"3,609,000,000",14297,Silent
+2426,Bahamas,1996,female,75+ years,0,2927,0.0,Bahamas1996,,"3,609,000,000",14297,G.I. Generation
+2427,Bahamas,1996,male,15-24 years,0,26103,0.0,Bahamas1996,,"3,609,000,000",14297,Generation X
+2428,Bahamas,1996,male,25-34 years,0,25040,0.0,Bahamas1996,,"3,609,000,000",14297,Generation X
+2429,Bahamas,1996,male,5-14 years,0,28956,0.0,Bahamas1996,,"3,609,000,000",14297,Millenials
+2430,Bahamas,1996,male,55-74 years,0,11476,0.0,Bahamas1996,,"3,609,000,000",14297,Silent
+2431,Bahamas,1996,male,75+ years,0,1748,0.0,Bahamas1996,,"3,609,000,000",14297,G.I. Generation
+2432,Bahamas,1997,male,25-34 years,1,24917,4.01,Bahamas1997,,"6,332,360,000",24740,Generation X
+2433,Bahamas,1997,male,35-54 years,1,31867,3.14,Bahamas1997,,"6,332,360,000",24740,Boomers
+2434,Bahamas,1997,female,15-24 years,0,25605,0.0,Bahamas1997,,"6,332,360,000",24740,Generation X
+2435,Bahamas,1997,female,25-34 years,0,25276,0.0,Bahamas1997,,"6,332,360,000",24740,Generation X
+2436,Bahamas,1997,female,35-54 years,0,34332,0.0,Bahamas1997,,"6,332,360,000",24740,Boomers
+2437,Bahamas,1997,female,5-14 years,0,28389,0.0,Bahamas1997,,"6,332,360,000",24740,Millenials
+2438,Bahamas,1997,female,55-74 years,0,14127,0.0,Bahamas1997,,"6,332,360,000",24740,Silent
+2439,Bahamas,1997,female,75+ years,0,3054,0.0,Bahamas1997,,"6,332,360,000",24740,G.I. Generation
+2440,Bahamas,1997,male,15-24 years,0,25815,0.0,Bahamas1997,,"6,332,360,000",24740,Generation X
+2441,Bahamas,1997,male,5-14 years,0,28929,0.0,Bahamas1997,,"6,332,360,000",24740,Millenials
+2442,Bahamas,1997,male,55-74 years,0,11798,0.0,Bahamas1997,,"6,332,360,000",24740,Silent
+2443,Bahamas,1997,male,75+ years,0,1847,0.0,Bahamas1997,,"6,332,360,000",24740,G.I. Generation
+2444,Bahamas,1998,male,25-34 years,2,24751,8.08,Bahamas1998,,"6,833,220,000",26269,Generation X
+2445,Bahamas,1998,male,35-54 years,1,33276,3.01,Bahamas1998,,"6,833,220,000",26269,Boomers
+2446,Bahamas,1998,female,15-24 years,0,25583,0.0,Bahamas1998,,"6,833,220,000",26269,Generation X
+2447,Bahamas,1998,female,25-34 years,0,25347,0.0,Bahamas1998,,"6,833,220,000",26269,Generation X
+2448,Bahamas,1998,female,35-54 years,0,36034,0.0,Bahamas1998,,"6,833,220,000",26269,Boomers
+2449,Bahamas,1998,female,5-14 years,0,28660,0.0,Bahamas1998,,"6,833,220,000",26269,Millenials
+2450,Bahamas,1998,female,55-74 years,0,14541,0.0,Bahamas1998,,"6,833,220,000",26269,Silent
+2451,Bahamas,1998,female,75+ years,0,3187,0.0,Bahamas1998,,"6,833,220,000",26269,G.I. Generation
+2452,Bahamas,1998,male,15-24 years,0,25619,0.0,Bahamas1998,,"6,833,220,000",26269,Generation X
+2453,Bahamas,1998,male,5-14 years,0,29048,0.0,Bahamas1998,,"6,833,220,000",26269,Millenials
+2454,Bahamas,1998,male,55-74 years,0,12140,0.0,Bahamas1998,,"6,833,220,000",26269,Silent
+2455,Bahamas,1998,male,75+ years,0,1939,0.0,Bahamas1998,,"6,833,220,000",26269,G.I. Generation
+2456,Bahamas,1999,male,25-34 years,3,24557,12.22,Bahamas1999,,"7,683,870,000",29019,Generation X
+2457,Bahamas,1999,female,25-34 years,1,25368,3.94,Bahamas1999,,"7,683,870,000",29019,Generation X
+2458,Bahamas,1999,male,15-24 years,1,25536,3.92,Bahamas1999,,"7,683,870,000",29019,Generation X
+2459,Bahamas,1999,male,35-54 years,1,34691,2.88,Bahamas1999,,"7,683,870,000",29019,Boomers
+2460,Bahamas,1999,female,15-24 years,0,25625,0.0,Bahamas1999,,"7,683,870,000",29019,Generation X
+2461,Bahamas,1999,female,35-54 years,0,37759,0.0,Bahamas1999,,"7,683,870,000",29019,Boomers
+2462,Bahamas,1999,female,5-14 years,0,29048,0.0,Bahamas1999,,"7,683,870,000",29019,Millenials
+2463,Bahamas,1999,female,55-74 years,0,14983,0.0,Bahamas1999,,"7,683,870,000",29019,Silent
+2464,Bahamas,1999,female,75+ years,0,3335,0.0,Bahamas1999,,"7,683,870,000",29019,G.I. Generation
+2465,Bahamas,1999,male,5-14 years,0,29327,0.0,Bahamas1999,,"7,683,870,000",29019,Millenials
+2466,Bahamas,1999,male,55-74 years,0,12526,0.0,Bahamas1999,,"7,683,870,000",29019,Silent
+2467,Bahamas,1999,male,75+ years,0,2036,0.0,Bahamas1999,,"7,683,870,000",29019,G.I. Generation
+2468,Bahamas,2000,male,25-34 years,4,24338,16.44,Bahamas2000,0.778,"8,076,470,000",29942,Generation X
+2469,Bahamas,2000,male,35-54 years,5,36060,13.87,Bahamas2000,0.778,"8,076,470,000",29942,Boomers
+2470,Bahamas,2000,female,55-74 years,1,15459,6.47,Bahamas2000,0.778,"8,076,470,000",29942,Silent
+2471,Bahamas,2000,female,15-24 years,1,25774,3.88,Bahamas2000,0.778,"8,076,470,000",29942,Generation X
+2472,Bahamas,2000,female,25-34 years,0,25314,0.0,Bahamas2000,0.778,"8,076,470,000",29942,Generation X
+2473,Bahamas,2000,female,35-54 years,0,39420,0.0,Bahamas2000,0.778,"8,076,470,000",29942,Boomers
+2474,Bahamas,2000,female,5-14 years,0,29453,0.0,Bahamas2000,0.778,"8,076,470,000",29942,Millenials
+2475,Bahamas,2000,female,75+ years,0,3494,0.0,Bahamas2000,0.778,"8,076,470,000",29942,G.I. Generation
+2476,Bahamas,2000,male,15-24 years,0,25606,0.0,Bahamas2000,0.778,"8,076,470,000",29942,Generation X
+2477,Bahamas,2000,male,5-14 years,0,29702,0.0,Bahamas2000,0.778,"8,076,470,000",29942,Millenials
+2478,Bahamas,2000,male,55-74 years,0,12981,0.0,Bahamas2000,0.778,"8,076,470,000",29942,Silent
+2479,Bahamas,2000,male,75+ years,0,2137,0.0,Bahamas2000,0.778,"8,076,470,000",29942,G.I. Generation
+2480,Bahamas,2001,male,35-54 years,1,37335,2.68,Bahamas2001,,"8,317,830,000",30122,Boomers
+2481,Bahamas,2001,female,15-24 years,0,26565,0.0,Bahamas2001,,"8,317,830,000",30122,Millenials
+2482,Bahamas,2001,female,25-34 years,0,25447,0.0,Bahamas2001,,"8,317,830,000",30122,Generation X
+2483,Bahamas,2001,female,35-54 years,0,40803,0.0,Bahamas2001,,"8,317,830,000",30122,Boomers
+2484,Bahamas,2001,female,5-14 years,0,29545,0.0,Bahamas2001,,"8,317,830,000",30122,Millenials
+2485,Bahamas,2001,female,55-74 years,0,16236,0.0,Bahamas2001,,"8,317,830,000",30122,Silent
+2486,Bahamas,2001,female,75+ years,0,3680,0.0,Bahamas2001,,"8,317,830,000",30122,Silent
+2487,Bahamas,2001,male,15-24 years,0,26361,0.0,Bahamas2001,,"8,317,830,000",30122,Millenials
+2488,Bahamas,2001,male,25-34 years,0,24515,0.0,Bahamas2001,,"8,317,830,000",30122,Generation X
+2489,Bahamas,2001,male,5-14 years,0,29815,0.0,Bahamas2001,,"8,317,830,000",30122,Millenials
+2490,Bahamas,2001,male,55-74 years,0,13606,0.0,Bahamas2001,,"8,317,830,000",30122,Silent
+2491,Bahamas,2001,male,75+ years,0,2232,0.0,Bahamas2001,,"8,317,830,000",30122,Silent
+2492,Bahamas,2002,male,15-24 years,2,27106,7.38,Bahamas2002,,"8,881,160,000",31432,Millenials
+2493,Bahamas,2002,male,35-54 years,1,38667,2.59,Bahamas2002,,"8,881,160,000",31432,Boomers
+2494,Bahamas,2002,female,15-24 years,0,27307,0.0,Bahamas2002,,"8,881,160,000",31432,Millenials
+2495,Bahamas,2002,female,25-34 years,0,25644,0.0,Bahamas2002,,"8,881,160,000",31432,Generation X
+2496,Bahamas,2002,female,35-54 years,0,42134,0.0,Bahamas2002,,"8,881,160,000",31432,Boomers
+2497,Bahamas,2002,female,5-14 years,0,29453,0.0,Bahamas2002,,"8,881,160,000",31432,Millenials
+2498,Bahamas,2002,female,55-74 years,0,17111,0.0,Bahamas2002,,"8,881,160,000",31432,Silent
+2499,Bahamas,2002,female,75+ years,0,3880,0.0,Bahamas2002,,"8,881,160,000",31432,Silent
+2500,Bahamas,2002,male,25-34 years,0,24798,0.0,Bahamas2002,,"8,881,160,000",31432,Generation X
+2501,Bahamas,2002,male,5-14 years,0,29792,0.0,Bahamas2002,,"8,881,160,000",31432,Millenials
+2502,Bahamas,2002,male,55-74 years,0,14336,0.0,Bahamas2002,,"8,881,160,000",31432,Silent
+2503,Bahamas,2002,male,75+ years,0,2327,0.0,Bahamas2002,,"8,881,160,000",31432,Silent
+2504,Bahamas,2003,male,35-54 years,1,40113,2.49,Bahamas2003,,"8,870,090,000",30704,Boomers
+2505,Bahamas,2003,female,15-24 years,0,27919,0.0,Bahamas2003,,"8,870,090,000",30704,Millenials
+2506,Bahamas,2003,female,25-34 years,0,25941,0.0,Bahamas2003,,"8,870,090,000",30704,Generation X
+2507,Bahamas,2003,female,35-54 years,0,43511,0.0,Bahamas2003,,"8,870,090,000",30704,Boomers
+2508,Bahamas,2003,female,5-14 years,0,29130,0.0,Bahamas2003,,"8,870,090,000",30704,Millenials
+2509,Bahamas,2003,female,55-74 years,0,18079,0.0,Bahamas2003,,"8,870,090,000",30704,Silent
+2510,Bahamas,2003,female,75+ years,0,4092,0.0,Bahamas2003,,"8,870,090,000",30704,Silent
+2511,Bahamas,2003,male,15-24 years,0,27766,0.0,Bahamas2003,,"8,870,090,000",30704,Millenials
+2512,Bahamas,2003,male,25-34 years,0,25200,0.0,Bahamas2003,,"8,870,090,000",30704,Generation X
+2513,Bahamas,2003,male,5-14 years,0,29553,0.0,Bahamas2003,,"8,870,090,000",30704,Millenials
+2514,Bahamas,2003,male,55-74 years,0,15166,0.0,Bahamas2003,,"8,870,090,000",30704,Silent
+2515,Bahamas,2003,male,75+ years,0,2418,0.0,Bahamas2003,,"8,870,090,000",30704,Silent
+2516,Bahamas,2004,male,15-24 years,1,28309,3.53,Bahamas2004,,"9,055,290,000",30671,Millenials
+2517,Bahamas,2004,male,35-54 years,1,41662,2.4,Bahamas2004,,"9,055,290,000",30671,Boomers
+2518,Bahamas,2004,female,15-24 years,0,28385,0.0,Bahamas2004,,"9,055,290,000",30671,Millenials
+2519,Bahamas,2004,female,25-34 years,0,26367,0.0,Bahamas2004,,"9,055,290,000",30671,Generation X
+2520,Bahamas,2004,female,35-54 years,0,44948,0.0,Bahamas2004,,"9,055,290,000",30671,Boomers
+2521,Bahamas,2004,female,5-14 years,0,28634,0.0,Bahamas2004,,"9,055,290,000",30671,Millenials
+2522,Bahamas,2004,female,55-74 years,0,19143,0.0,Bahamas2004,,"9,055,290,000",30671,Silent
+2523,Bahamas,2004,female,75+ years,0,4327,0.0,Bahamas2004,,"9,055,290,000",30671,Silent
+2524,Bahamas,2004,male,25-34 years,0,25733,0.0,Bahamas2004,,"9,055,290,000",30671,Generation X
+2525,Bahamas,2004,male,5-14 years,0,29136,0.0,Bahamas2004,,"9,055,290,000",30671,Millenials
+2526,Bahamas,2004,male,55-74 years,0,16082,0.0,Bahamas2004,,"9,055,290,000",30671,Silent
+2527,Bahamas,2004,male,75+ years,0,2511,0.0,Bahamas2004,,"9,055,290,000",30671,Silent
+2528,Bahamas,2005,male,25-34 years,1,26366,3.79,Bahamas2005,0.78,"9,836,200,000",32596,Generation X
+2529,Bahamas,2005,female,25-34 years,1,26917,3.72,Bahamas2005,0.78,"9,836,200,000",32596,Generation X
+2530,Bahamas,2005,male,5-14 years,1,28690,3.49,Bahamas2005,0.78,"9,836,200,000",32596,Millenials
+2531,Bahamas,2005,male,35-54 years,1,43193,2.32,Bahamas2005,0.78,"9,836,200,000",32596,Boomers
+2532,Bahamas,2005,female,15-24 years,0,28757,0.0,Bahamas2005,0.78,"9,836,200,000",32596,Millenials
+2533,Bahamas,2005,female,35-54 years,0,46362,0.0,Bahamas2005,0.78,"9,836,200,000",32596,Boomers
+2534,Bahamas,2005,female,5-14 years,0,28118,0.0,Bahamas2005,0.78,"9,836,200,000",32596,Millenials
+2535,Bahamas,2005,female,55-74 years,0,20307,0.0,Bahamas2005,0.78,"9,836,200,000",32596,Silent
+2536,Bahamas,2005,female,75+ years,0,4589,0.0,Bahamas2005,0.78,"9,836,200,000",32596,Silent
+2537,Bahamas,2005,male,15-24 years,0,28762,0.0,Bahamas2005,0.78,"9,836,200,000",32596,Millenials
+2538,Bahamas,2005,male,55-74 years,0,17085,0.0,Bahamas2005,0.78,"9,836,200,000",32596,Silent
+2539,Bahamas,2005,male,75+ years,0,2617,0.0,Bahamas2005,0.78,"9,836,200,000",32596,Silent
+2540,Bahamas,2006,male,15-24 years,1,29472,3.39,Bahamas2006,,"10,167,250,000",32957,Millenials
+2541,Bahamas,2006,male,35-54 years,1,44490,2.25,Bahamas2006,,"10,167,250,000",32957,Boomers
+2542,Bahamas,2006,female,15-24 years,0,29420,0.0,Bahamas2006,,"10,167,250,000",32957,Millenials
+2543,Bahamas,2006,female,25-34 years,0,27172,0.0,Bahamas2006,,"10,167,250,000",32957,Generation X
+2544,Bahamas,2006,female,35-54 years,0,47679,0.0,Bahamas2006,,"10,167,250,000",32957,Boomers
+2545,Bahamas,2006,female,5-14 years,0,28256,0.0,Bahamas2006,,"10,167,250,000",32957,Millenials
+2546,Bahamas,2006,female,55-74 years,0,21081,0.0,Bahamas2006,,"10,167,250,000",32957,Silent
+2547,Bahamas,2006,female,75+ years,0,4817,0.0,Bahamas2006,,"10,167,250,000",32957,Silent
+2548,Bahamas,2006,male,25-34 years,0,26713,0.0,Bahamas2006,,"10,167,250,000",32957,Generation X
+2549,Bahamas,2006,male,5-14 years,0,28912,0.0,Bahamas2006,,"10,167,250,000",32957,Millenials
+2550,Bahamas,2006,male,55-74 years,0,17743,0.0,Bahamas2006,,"10,167,250,000",32957,Silent
+2551,Bahamas,2006,male,75+ years,0,2744,0.0,Bahamas2006,,"10,167,250,000",32957,Silent
+2552,Bahamas,2007,male,35-54 years,2,45790,4.37,Bahamas2007,,"10,618,340,000",33710,Boomers
+2553,Bahamas,2007,male,25-34 years,1,27047,3.7,Bahamas2007,,"10,618,340,000",33710,Generation X
+2554,Bahamas,2007,male,15-24 years,1,30182,3.31,Bahamas2007,,"10,618,340,000",33710,Millenials
+2555,Bahamas,2007,female,35-54 years,1,48976,2.04,Bahamas2007,,"10,618,340,000",33710,Boomers
+2556,Bahamas,2007,female,15-24 years,0,30101,0.0,Bahamas2007,,"10,618,340,000",33710,Millenials
+2557,Bahamas,2007,female,25-34 years,0,27419,0.0,Bahamas2007,,"10,618,340,000",33710,Generation X
+2558,Bahamas,2007,female,5-14 years,0,28225,0.0,Bahamas2007,,"10,618,340,000",33710,Generation Z
+2559,Bahamas,2007,female,55-74 years,0,21936,0.0,Bahamas2007,,"10,618,340,000",33710,Silent
+2560,Bahamas,2007,female,75+ years,0,5046,0.0,Bahamas2007,,"10,618,340,000",33710,Silent
+2561,Bahamas,2007,male,5-14 years,0,28953,0.0,Bahamas2007,,"10,618,340,000",33710,Generation Z
+2562,Bahamas,2007,male,55-74 years,0,18460,0.0,Bahamas2007,,"10,618,340,000",33710,Silent
+2563,Bahamas,2007,male,75+ years,0,2854,0.0,Bahamas2007,,"10,618,340,000",33710,Silent
+2564,Bahamas,2008,male,25-34 years,1,27416,3.65,Bahamas2008,,"10,526,000,000",32746,Generation X
+2565,Bahamas,2008,male,5-14 years,1,28759,3.48,Bahamas2008,,"10,526,000,000",32746,Generation Z
+2566,Bahamas,2008,male,15-24 years,1,30842,3.24,Bahamas2008,,"10,526,000,000",32746,Millenials
+2567,Bahamas,2008,male,35-54 years,1,47227,2.12,Bahamas2008,,"10,526,000,000",32746,Boomers
+2568,Bahamas,2008,female,15-24 years,0,30739,0.0,Bahamas2008,,"10,526,000,000",32746,Millenials
+2569,Bahamas,2008,female,25-34 years,0,27705,0.0,Bahamas2008,,"10,526,000,000",32746,Generation X
+2570,Bahamas,2008,female,35-54 years,0,50385,0.0,Bahamas2008,,"10,526,000,000",32746,Boomers
+2571,Bahamas,2008,female,5-14 years,0,27972,0.0,Bahamas2008,,"10,526,000,000",32746,Generation Z
+2572,Bahamas,2008,female,55-74 years,0,22905,0.0,Bahamas2008,,"10,526,000,000",32746,Silent
+2573,Bahamas,2008,female,75+ years,0,5272,0.0,Bahamas2008,,"10,526,000,000",32746,Silent
+2574,Bahamas,2008,male,55-74 years,0,19279,0.0,Bahamas2008,,"10,526,000,000",32746,Silent
+2575,Bahamas,2008,male,75+ years,0,2946,0.0,Bahamas2008,,"10,526,000,000",32746,Silent
+2576,Bahamas,2009,male,15-24 years,2,31432,6.36,Bahamas2009,,"9,981,960,000",30450,Millenials
+2577,Bahamas,2009,male,35-54 years,2,48784,4.1,Bahamas2009,,"9,981,960,000",30450,Boomers
+2578,Bahamas,2009,male,25-34 years,1,27862,3.59,Bahamas2009,,"9,981,960,000",30450,Generation X
+2579,Bahamas,2009,female,35-54 years,1,51877,1.93,Bahamas2009,,"9,981,960,000",30450,Boomers
+2580,Bahamas,2009,female,15-24 years,0,31298,0.0,Bahamas2009,,"9,981,960,000",30450,Millenials
+2581,Bahamas,2009,female,25-34 years,0,28059,0.0,Bahamas2009,,"9,981,960,000",30450,Generation X
+2582,Bahamas,2009,female,5-14 years,0,27474,0.0,Bahamas2009,,"9,981,960,000",30450,Generation Z
+2583,Bahamas,2009,female,55-74 years,0,23987,0.0,Bahamas2009,,"9,981,960,000",30450,Silent
+2584,Bahamas,2009,female,75+ years,0,5515,0.0,Bahamas2009,,"9,981,960,000",30450,Silent
+2585,Bahamas,2009,male,5-14 years,0,28311,0.0,Bahamas2009,,"9,981,960,000",30450,Generation Z
+2586,Bahamas,2009,male,55-74 years,0,20196,0.0,Bahamas2009,,"9,981,960,000",30450,Silent
+2587,Bahamas,2009,male,75+ years,0,3018,0.0,Bahamas2009,,"9,981,960,000",30450,Silent
+2588,Bahamas,2010,male,75+ years,1,3090,32.36,Bahamas2010,0.774,"10,095,760,000",30239,Silent
+2589,Bahamas,2010,female,15-24 years,2,31792,6.29,Bahamas2010,0.774,"10,095,760,000",30239,Millenials
+2590,Bahamas,2010,male,35-54 years,3,50326,5.96,Bahamas2010,0.774,"10,095,760,000",30239,Generation X
+2591,Bahamas,2010,male,55-74 years,1,21188,4.72,Bahamas2010,0.774,"10,095,760,000",30239,Silent
+2592,Bahamas,2010,female,55-74 years,1,25150,3.98,Bahamas2010,0.774,"10,095,760,000",30239,Silent
+2593,Bahamas,2010,male,15-24 years,1,31968,3.13,Bahamas2010,0.774,"10,095,760,000",30239,Millenials
+2594,Bahamas,2010,female,35-54 years,1,53312,1.88,Bahamas2010,0.774,"10,095,760,000",30239,Generation X
+2595,Bahamas,2010,female,25-34 years,0,28521,0.0,Bahamas2010,0.774,"10,095,760,000",30239,Generation X
+2596,Bahamas,2010,female,5-14 years,0,26732,0.0,Bahamas2010,0.774,"10,095,760,000",30239,Generation Z
+2597,Bahamas,2010,female,75+ years,0,5772,0.0,Bahamas2010,0.774,"10,095,760,000",30239,Silent
+2598,Bahamas,2010,male,25-34 years,0,28398,0.0,Bahamas2010,0.774,"10,095,760,000",30239,Generation X
+2599,Bahamas,2010,male,5-14 years,0,27620,0.0,Bahamas2010,0.774,"10,095,760,000",30239,Generation Z
+2600,Bahamas,2011,male,55-74 years,1,22178,4.51,Bahamas2011,0.778,"10,070,450,000",29761,Boomers
+2601,Bahamas,2011,female,25-34 years,1,29138,3.43,Bahamas2011,0.778,"10,070,450,000",29761,Millenials
+2602,Bahamas,2011,male,15-24 years,1,32343,3.09,Bahamas2011,0.778,"10,070,450,000",29761,Millenials
+2603,Bahamas,2011,male,35-54 years,1,50932,1.96,Bahamas2011,0.778,"10,070,450,000",29761,Generation X
+2604,Bahamas,2011,female,15-24 years,0,32120,0.0,Bahamas2011,0.778,"10,070,450,000",29761,Millenials
+2605,Bahamas,2011,female,35-54 years,0,53821,0.0,Bahamas2011,0.778,"10,070,450,000",29761,Generation X
+2606,Bahamas,2011,female,5-14 years,0,26108,0.0,Bahamas2011,0.778,"10,070,450,000",29761,Generation Z
+2607,Bahamas,2011,female,55-74 years,0,26262,0.0,Bahamas2011,0.778,"10,070,450,000",29761,Boomers
+2608,Bahamas,2011,female,75+ years,0,6106,0.0,Bahamas2011,0.778,"10,070,450,000",29761,Silent
+2609,Bahamas,2011,male,25-34 years,0,28997,0.0,Bahamas2011,0.778,"10,070,450,000",29761,Millenials
+2610,Bahamas,2011,male,5-14 years,0,27054,0.0,Bahamas2011,0.778,"10,070,450,000",29761,Generation Z
+2611,Bahamas,2011,male,75+ years,0,3324,0.0,Bahamas2011,0.778,"10,070,450,000",29761,Silent
+2612,Bahamas,2012,male,15-24 years,2,32716,6.11,Bahamas2012,0.7829999999999999,"10,720,500,000",31204,Millenials
+2613,Bahamas,2012,male,35-54 years,2,51466,3.89,Bahamas2012,0.7829999999999999,"10,720,500,000",31204,Generation X
+2614,Bahamas,2012,female,35-54 years,1,54245,1.84,Bahamas2012,0.7829999999999999,"10,720,500,000",31204,Generation X
+2615,Bahamas,2012,female,15-24 years,0,32430,0.0,Bahamas2012,0.7829999999999999,"10,720,500,000",31204,Millenials
+2616,Bahamas,2012,female,25-34 years,0,29909,0.0,Bahamas2012,0.7829999999999999,"10,720,500,000",31204,Millenials
+2617,Bahamas,2012,female,5-14 years,0,25670,0.0,Bahamas2012,0.7829999999999999,"10,720,500,000",31204,Generation Z
+2618,Bahamas,2012,female,55-74 years,0,27444,0.0,Bahamas2012,0.7829999999999999,"10,720,500,000",31204,Boomers
+2619,Bahamas,2012,female,75+ years,0,6463,0.0,Bahamas2012,0.7829999999999999,"10,720,500,000",31204,Silent
+2620,Bahamas,2012,male,25-34 years,0,29740,0.0,Bahamas2012,0.7829999999999999,"10,720,500,000",31204,Millenials
+2621,Bahamas,2012,male,5-14 years,0,26675,0.0,Bahamas2012,0.7829999999999999,"10,720,500,000",31204,Generation Z
+2622,Bahamas,2012,male,55-74 years,0,23216,0.0,Bahamas2012,0.7829999999999999,"10,720,500,000",31204,Boomers
+2623,Bahamas,2012,male,75+ years,0,3584,0.0,Bahamas2012,0.7829999999999999,"10,720,500,000",31204,Silent
+2624,Bahamas,2013,male,55-74 years,2,24298,8.23,Bahamas2013,0.7859999999999999,"10,627,600,000",30455,Boomers
+2625,Bahamas,2013,male,35-54 years,2,51912,3.85,Bahamas2013,0.7859999999999999,"10,627,600,000",30455,Generation X
+2626,Bahamas,2013,female,35-54 years,1,54567,1.83,Bahamas2013,0.7859999999999999,"10,627,600,000",30455,Generation X
+2627,Bahamas,2013,female,15-24 years,0,32613,0.0,Bahamas2013,0.7859999999999999,"10,627,600,000",30455,Millenials
+2628,Bahamas,2013,female,25-34 years,0,30751,0.0,Bahamas2013,0.7859999999999999,"10,627,600,000",30455,Millenials
+2629,Bahamas,2013,female,5-14 years,0,25435,0.0,Bahamas2013,0.7859999999999999,"10,627,600,000",30455,Generation Z
+2630,Bahamas,2013,female,55-74 years,0,28689,0.0,Bahamas2013,0.7859999999999999,"10,627,600,000",30455,Boomers
+2631,Bahamas,2013,female,75+ years,0,6828,0.0,Bahamas2013,0.7859999999999999,"10,627,600,000",30455,Silent
+2632,Bahamas,2013,male,15-24 years,0,32971,0.0,Bahamas2013,0.7859999999999999,"10,627,600,000",30455,Millenials
+2633,Bahamas,2013,male,25-34 years,0,30545,0.0,Bahamas2013,0.7859999999999999,"10,627,600,000",30455,Millenials
+2634,Bahamas,2013,male,5-14 years,0,26496,0.0,Bahamas2013,0.7859999999999999,"10,627,600,000",30455,Generation Z
+2635,Bahamas,2013,male,75+ years,0,3854,0.0,Bahamas2013,0.7859999999999999,"10,627,600,000",30455,Silent

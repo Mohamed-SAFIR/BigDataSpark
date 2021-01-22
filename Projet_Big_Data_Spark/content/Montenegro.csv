@@ -1,0 +1,121 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+16946,Montenegro,2000,female,15-24 years,0,48660,0.0,Montenegro2000,,"984,297,589",1701,Generation X
+16947,Montenegro,2000,female,25-34 years,0,43578,0.0,Montenegro2000,,"984,297,589",1701,Generation X
+16948,Montenegro,2000,female,35-54 years,0,86210,0.0,Montenegro2000,,"984,297,589",1701,Boomers
+16949,Montenegro,2000,female,5-14 years,0,43461,0.0,Montenegro2000,,"984,297,589",1701,Millenials
+16950,Montenegro,2000,female,55-74 years,0,58144,0.0,Montenegro2000,,"984,297,589",1701,Silent
+16951,Montenegro,2000,female,75+ years,0,14322,0.0,Montenegro2000,,"984,297,589",1701,G.I. Generation
+16952,Montenegro,2000,male,15-24 years,0,50621,0.0,Montenegro2000,,"984,297,589",1701,Generation X
+16953,Montenegro,2000,male,25-34 years,0,43146,0.0,Montenegro2000,,"984,297,589",1701,Generation X
+16954,Montenegro,2000,male,35-54 years,0,85940,0.0,Montenegro2000,,"984,297,589",1701,Boomers
+16955,Montenegro,2000,male,5-14 years,0,46337,0.0,Montenegro2000,,"984,297,589",1701,Millenials
+16956,Montenegro,2000,male,55-74 years,0,49448,0.0,Montenegro2000,,"984,297,589",1701,Silent
+16957,Montenegro,2000,male,75+ years,0,8801,0.0,Montenegro2000,,"984,297,589",1701,G.I. Generation
+16958,Montenegro,2001,female,15-24 years,0,48660,0.0,Montenegro2001,,"1,159,869,246",2004,Millenials
+16959,Montenegro,2001,female,25-34 years,0,43578,0.0,Montenegro2001,,"1,159,869,246",2004,Generation X
+16960,Montenegro,2001,female,35-54 years,0,86210,0.0,Montenegro2001,,"1,159,869,246",2004,Boomers
+16961,Montenegro,2001,female,5-14 years,0,43461,0.0,Montenegro2001,,"1,159,869,246",2004,Millenials
+16962,Montenegro,2001,female,55-74 years,0,58144,0.0,Montenegro2001,,"1,159,869,246",2004,Silent
+16963,Montenegro,2001,female,75+ years,0,14322,0.0,Montenegro2001,,"1,159,869,246",2004,Silent
+16964,Montenegro,2001,male,15-24 years,0,50621,0.0,Montenegro2001,,"1,159,869,246",2004,Millenials
+16965,Montenegro,2001,male,25-34 years,0,43146,0.0,Montenegro2001,,"1,159,869,246",2004,Generation X
+16966,Montenegro,2001,male,35-54 years,0,85940,0.0,Montenegro2001,,"1,159,869,246",2004,Boomers
+16967,Montenegro,2001,male,5-14 years,0,46337,0.0,Montenegro2001,,"1,159,869,246",2004,Millenials
+16968,Montenegro,2001,male,55-74 years,0,49448,0.0,Montenegro2001,,"1,159,869,246",2004,Silent
+16969,Montenegro,2001,male,75+ years,0,8801,0.0,Montenegro2001,,"1,159,869,246",2004,Silent
+16970,Montenegro,2002,female,15-24 years,0,48660,0.0,Montenegro2002,,"1,284,685,051",2220,Millenials
+16971,Montenegro,2002,female,25-34 years,0,43578,0.0,Montenegro2002,,"1,284,685,051",2220,Generation X
+16972,Montenegro,2002,female,35-54 years,0,86210,0.0,Montenegro2002,,"1,284,685,051",2220,Boomers
+16973,Montenegro,2002,female,5-14 years,0,43461,0.0,Montenegro2002,,"1,284,685,051",2220,Millenials
+16974,Montenegro,2002,female,55-74 years,0,58144,0.0,Montenegro2002,,"1,284,685,051",2220,Silent
+16975,Montenegro,2002,female,75+ years,0,14322,0.0,Montenegro2002,,"1,284,685,051",2220,Silent
+16976,Montenegro,2002,male,15-24 years,0,50621,0.0,Montenegro2002,,"1,284,685,051",2220,Millenials
+16977,Montenegro,2002,male,25-34 years,0,43146,0.0,Montenegro2002,,"1,284,685,051",2220,Generation X
+16978,Montenegro,2002,male,35-54 years,0,85940,0.0,Montenegro2002,,"1,284,685,051",2220,Boomers
+16979,Montenegro,2002,male,5-14 years,0,46337,0.0,Montenegro2002,,"1,284,685,051",2220,Millenials
+16980,Montenegro,2002,male,55-74 years,0,49448,0.0,Montenegro2002,,"1,284,685,051",2220,Silent
+16981,Montenegro,2002,male,75+ years,0,8801,0.0,Montenegro2002,,"1,284,685,051",2220,Silent
+16982,Montenegro,2003,female,15-24 years,0,48662,0.0,Montenegro2003,,"1,707,710,053",2946,Millenials
+16983,Montenegro,2003,female,25-34 years,0,43857,0.0,Montenegro2003,,"1,707,710,053",2946,Generation X
+16984,Montenegro,2003,female,35-54 years,0,86276,0.0,Montenegro2003,,"1,707,710,053",2946,Boomers
+16985,Montenegro,2003,female,5-14 years,0,43122,0.0,Montenegro2003,,"1,707,710,053",2946,Millenials
+16986,Montenegro,2003,female,55-74 years,0,58393,0.0,Montenegro2003,,"1,707,710,053",2946,Silent
+16987,Montenegro,2003,female,75+ years,0,14696,0.0,Montenegro2003,,"1,707,710,053",2946,Silent
+16988,Montenegro,2003,male,15-24 years,0,50688,0.0,Montenegro2003,,"1,707,710,053",2946,Millenials
+16989,Montenegro,2003,male,25-34 years,0,43303,0.0,Montenegro2003,,"1,707,710,053",2946,Generation X
+16990,Montenegro,2003,male,35-54 years,0,86015,0.0,Montenegro2003,,"1,707,710,053",2946,Boomers
+16991,Montenegro,2003,male,5-14 years,0,46019,0.0,Montenegro2003,,"1,707,710,053",2946,Millenials
+16992,Montenegro,2003,male,55-74 years,0,49464,0.0,Montenegro2003,,"1,707,710,053",2946,Silent
+16993,Montenegro,2003,male,75+ years,0,9193,0.0,Montenegro2003,,"1,707,710,053",2946,Silent
+16994,Montenegro,2004,female,15-24 years,0,48581,0.0,Montenegro2004,,"2,073,234,418",3565,Millenials
+16995,Montenegro,2004,female,25-34 years,0,44333,0.0,Montenegro2004,,"2,073,234,418",3565,Generation X
+16996,Montenegro,2004,female,35-54 years,0,86342,0.0,Montenegro2004,,"2,073,234,418",3565,Boomers
+16997,Montenegro,2004,female,5-14 years,0,42415,0.0,Montenegro2004,,"2,073,234,418",3565,Millenials
+16998,Montenegro,2004,female,55-74 years,0,59168,0.0,Montenegro2004,,"2,073,234,418",3565,Silent
+16999,Montenegro,2004,female,75+ years,0,15351,0.0,Montenegro2004,,"2,073,234,418",3565,Silent
+17000,Montenegro,2004,male,15-24 years,0,50659,0.0,Montenegro2004,,"2,073,234,418",3565,Millenials
+17001,Montenegro,2004,male,25-34 years,0,43672,0.0,Montenegro2004,,"2,073,234,418",3565,Generation X
+17002,Montenegro,2004,male,35-54 years,0,86065,0.0,Montenegro2004,,"2,073,234,418",3565,Boomers
+17003,Montenegro,2004,male,5-14 years,0,45411,0.0,Montenegro2004,,"2,073,234,418",3565,Millenials
+17004,Montenegro,2004,male,55-74 years,0,49788,0.0,Montenegro2004,,"2,073,234,418",3565,Silent
+17005,Montenegro,2004,male,75+ years,0,9838,0.0,Montenegro2004,,"2,073,234,418",3565,Silent
+17006,Montenegro,2005,male,75+ years,6,10389,57.75,Montenegro2005,0.75,"2,257,174,481",3870,Silent
+17007,Montenegro,2005,male,55-74 years,29,50541,57.38,Montenegro2005,0.75,"2,257,174,481",3870,Silent
+17008,Montenegro,2005,female,75+ years,6,16010,37.48,Montenegro2005,0.75,"2,257,174,481",3870,Silent
+17009,Montenegro,2005,male,25-34 years,16,44188,36.21,Montenegro2005,0.75,"2,257,174,481",3870,Generation X
+17010,Montenegro,2005,male,35-54 years,29,85719,33.83,Montenegro2005,0.75,"2,257,174,481",3870,Boomers
+17011,Montenegro,2005,female,55-74 years,16,60185,26.58,Montenegro2005,0.75,"2,257,174,481",3870,Silent
+17012,Montenegro,2005,female,35-54 years,9,86115,10.45,Montenegro2005,0.75,"2,257,174,481",3870,Boomers
+17013,Montenegro,2005,female,25-34 years,3,44869,6.69,Montenegro2005,0.75,"2,257,174,481",3870,Generation X
+17014,Montenegro,2005,female,15-24 years,2,48228,4.15,Montenegro2005,0.75,"2,257,174,481",3870,Millenials
+17015,Montenegro,2005,male,15-24 years,2,50447,3.96,Montenegro2005,0.75,"2,257,174,481",3870,Millenials
+17016,Montenegro,2005,female,5-14 years,0,41763,0.0,Montenegro2005,0.75,"2,257,174,481",3870,Millenials
+17017,Montenegro,2005,male,5-14 years,0,44778,0.0,Montenegro2005,0.75,"2,257,174,481",3870,Millenials
+17018,Montenegro,2006,female,15-24 years,0,47824,0.0,Montenegro2006,,"2,721,904,403",4654,Millenials
+17019,Montenegro,2006,female,25-34 years,0,45421,0.0,Montenegro2006,,"2,721,904,403",4654,Generation X
+17020,Montenegro,2006,female,35-54 years,0,86005,0.0,Montenegro2006,,"2,721,904,403",4654,Boomers
+17021,Montenegro,2006,female,5-14 years,0,41138,0.0,Montenegro2006,,"2,721,904,403",4654,Millenials
+17022,Montenegro,2006,female,55-74 years,0,61112,0.0,Montenegro2006,,"2,721,904,403",4654,Silent
+17023,Montenegro,2006,female,75+ years,0,16606,0.0,Montenegro2006,,"2,721,904,403",4654,Silent
+17024,Montenegro,2006,male,15-24 years,0,50183,0.0,Montenegro2006,,"2,721,904,403",4654,Millenials
+17025,Montenegro,2006,male,25-34 years,0,44741,0.0,Montenegro2006,,"2,721,904,403",4654,Generation X
+17026,Montenegro,2006,male,35-54 years,0,85461,0.0,Montenegro2006,,"2,721,904,403",4654,Boomers
+17027,Montenegro,2006,male,5-14 years,0,44115,0.0,Montenegro2006,,"2,721,904,403",4654,Millenials
+17028,Montenegro,2006,male,55-74 years,0,51354,0.0,Montenegro2006,,"2,721,904,403",4654,Silent
+17029,Montenegro,2006,male,75+ years,0,10925,0.0,Montenegro2006,,"2,721,904,403",4654,Silent
+17030,Montenegro,2007,male,75+ years,15,11416,131.39,Montenegro2007,,"3,680,710,375",6268,Silent
+17031,Montenegro,2007,male,55-74 years,29,52283,55.47,Montenegro2007,,"3,680,710,375",6268,Silent
+17032,Montenegro,2007,female,75+ years,7,17124,40.88,Montenegro2007,,"3,680,710,375",6268,Silent
+17033,Montenegro,2007,male,35-54 years,27,85387,31.62,Montenegro2007,,"3,680,710,375",6268,Boomers
+17034,Montenegro,2007,male,25-34 years,12,45516,26.36,Montenegro2007,,"3,680,710,375",6268,Generation X
+17035,Montenegro,2007,female,55-74 years,12,61941,19.37,Montenegro2007,,"3,680,710,375",6268,Silent
+17036,Montenegro,2007,female,35-54 years,10,86182,11.6,Montenegro2007,,"3,680,710,375",6268,Boomers
+17037,Montenegro,2007,male,15-24 years,5,49885,10.02,Montenegro2007,,"3,680,710,375",6268,Millenials
+17038,Montenegro,2007,female,25-34 years,3,46000,6.52,Montenegro2007,,"3,680,710,375",6268,Generation X
+17039,Montenegro,2007,male,5-14 years,1,43529,2.3,Montenegro2007,,"3,680,710,375",6268,Generation Z
+17040,Montenegro,2007,female,15-24 years,0,47411,0.0,Montenegro2007,,"3,680,710,375",6268,Millenials
+17041,Montenegro,2007,female,5-14 years,0,40570,0.0,Montenegro2007,,"3,680,710,375",6268,Generation Z
+17042,Montenegro,2008,male,75+ years,9,11937,75.4,Montenegro2008,,"4,545,674,528",7705,Silent
+17043,Montenegro,2008,male,55-74 years,30,53422,56.16,Montenegro2008,,"4,545,674,528",7705,Silent
+17044,Montenegro,2008,female,75+ years,10,17836,56.07,Montenegro2008,,"4,545,674,528",7705,Silent
+17045,Montenegro,2008,male,35-54 years,22,85049,25.87,Montenegro2008,,"4,545,674,528",7705,Boomers
+17046,Montenegro,2008,female,55-74 years,15,62838,23.87,Montenegro2008,,"4,545,674,528",7705,Silent
+17047,Montenegro,2008,male,25-34 years,9,46505,19.35,Montenegro2008,,"4,545,674,528",7705,Generation X
+17048,Montenegro,2008,female,35-54 years,15,86228,17.4,Montenegro2008,,"4,545,674,528",7705,Boomers
+17049,Montenegro,2008,male,15-24 years,7,49423,14.16,Montenegro2008,,"4,545,674,528",7705,Millenials
+17050,Montenegro,2008,female,25-34 years,5,46653,10.72,Montenegro2008,,"4,545,674,528",7705,Generation X
+17051,Montenegro,2008,male,5-14 years,3,43139,6.95,Montenegro2008,,"4,545,674,528",7705,Generation Z
+17052,Montenegro,2008,female,15-24 years,1,46646,2.14,Montenegro2008,,"4,545,674,528",7705,Millenials
+17053,Montenegro,2008,female,5-14 years,0,40277,0.0,Montenegro2008,,"4,545,674,528",7705,Generation Z
+17054,Montenegro,2009,male,75+ years,15,12568,119.35,Montenegro2009,,"4,159,330,370",7023,Silent
+17055,Montenegro,2009,male,55-74 years,23,54561,42.15,Montenegro2009,,"4,159,330,370",7023,Silent
+17056,Montenegro,2009,male,35-54 years,34,84584,40.2,Montenegro2009,,"4,159,330,370",7023,Boomers
+17057,Montenegro,2009,female,75+ years,5,18663,26.79,Montenegro2009,,"4,159,330,370",7023,Silent
+17058,Montenegro,2009,female,55-74 years,12,63879,18.79,Montenegro2009,,"4,159,330,370",7023,Silent
+17059,Montenegro,2009,female,35-54 years,10,86065,11.62,Montenegro2009,,"4,159,330,370",7023,Boomers
+17060,Montenegro,2009,male,15-24 years,3,48709,6.16,Montenegro2009,,"4,159,330,370",7023,Millenials
+17061,Montenegro,2009,female,25-34 years,2,47127,4.24,Montenegro2009,,"4,159,330,370",7023,Generation X
+17062,Montenegro,2009,male,5-14 years,1,42803,2.34,Montenegro2009,,"4,159,330,370",7023,Generation Z
+17063,Montenegro,2009,female,15-24 years,1,45885,2.18,Montenegro2009,,"4,159,330,370",7023,Millenials
+17064,Montenegro,2009,male,25-34 years,1,47403,2.11,Montenegro2009,,"4,159,330,370",7023,Generation X
+17065,Montenegro,2009,female,5-14 years,0,39987,0.0,Montenegro2009,,"4,159,330,370",7023,Generation Z

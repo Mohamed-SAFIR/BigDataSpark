@@ -1,0 +1,383 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+1786,Austria,1985,male,75+ years,152,156535,97.1,Austria1985,0.764,"69,386,774,475",9759,G.I. Generation
+1787,Austria,1985,male,55-74 years,355,584253,60.76,Austria1985,0.764,"69,386,774,475",9759,G.I. Generation
+1788,Austria,1985,male,35-54 years,515,940526,54.76,Austria1985,0.764,"69,386,774,475",9759,Silent
+1789,Austria,1985,male,25-34 years,232,548783,42.28,Austria1985,0.764,"69,386,774,475",9759,Boomers
+1790,Austria,1985,female,75+ years,110,339223,32.43,Austria1985,0.764,"69,386,774,475",9759,G.I. Generation
+1791,Austria,1985,male,15-24 years,207,653728,31.66,Austria1985,0.764,"69,386,774,475",9759,Generation X
+1792,Austria,1985,female,55-74 years,220,842978,26.1,Austria1985,0.764,"69,386,774,475",9759,G.I. Generation
+1793,Austria,1985,female,35-54 years,186,936799,19.85,Austria1985,0.764,"69,386,774,475",9759,Silent
+1794,Austria,1985,female,25-34 years,56,544765,10.28,Austria1985,0.764,"69,386,774,475",9759,Boomers
+1795,Austria,1985,female,15-24 years,50,633592,7.89,Austria1985,0.764,"69,386,774,475",9759,Generation X
+1796,Austria,1985,male,5-14 years,6,475074,1.26,Austria1985,0.764,"69,386,774,475",9759,Generation X
+1797,Austria,1985,female,5-14 years,2,453859,0.44,Austria1985,0.764,"69,386,774,475",9759,Generation X
+1798,Austria,1986,male,75+ years,173,158694,109.01,Austria1986,,"99,036,165,210",13911,G.I. Generation
+1799,Austria,1986,male,55-74 years,355,588309,60.34,Austria1986,,"99,036,165,210",13911,G.I. Generation
+1800,Austria,1986,male,35-54 years,507,944245,53.69,Austria1986,,"99,036,165,210",13911,Silent
+1801,Austria,1986,male,25-34 years,272,564104,48.22,Austria1986,,"99,036,165,210",13911,Boomers
+1802,Austria,1986,female,75+ years,110,345431,31.84,Austria1986,,"99,036,165,210",13911,G.I. Generation
+1803,Austria,1986,male,15-24 years,199,645787,30.82,Austria1986,,"99,036,165,210",13911,Generation X
+1804,Austria,1986,female,55-74 years,195,835145,23.35,Austria1986,,"99,036,165,210",13911,G.I. Generation
+1805,Austria,1986,female,35-54 years,182,941348,19.33,Austria1986,,"99,036,165,210",13911,Silent
+1806,Austria,1986,female,25-34 years,80,558561,14.32,Austria1986,,"99,036,165,210",13911,Boomers
+1807,Austria,1986,female,15-24 years,60,625356,9.59,Austria1986,,"99,036,165,210",13911,Generation X
+1808,Austria,1986,male,5-14 years,5,466847,1.07,Austria1986,,"99,036,165,210",13911,Generation X
+1809,Austria,1986,female,5-14 years,1,445322,0.22,Austria1986,,"99,036,165,210",13911,Generation X
+1810,Austria,1987,male,75+ years,208,161591,128.72,Austria1987,,"124,168,442,860",17415,G.I. Generation
+1811,Austria,1987,male,55-74 years,332,591322,56.15,Austria1987,,"124,168,442,860",17415,G.I. Generation
+1812,Austria,1987,male,35-54 years,471,949485,49.61,Austria1987,,"124,168,442,860",17415,Silent
+1813,Austria,1987,male,25-34 years,247,581153,42.5,Austria1987,,"124,168,442,860",17415,Boomers
+1814,Austria,1987,female,75+ years,126,352121,35.78,Austria1987,,"124,168,442,860",17415,G.I. Generation
+1815,Austria,1987,male,15-24 years,185,632704,29.24,Austria1987,,"124,168,442,860",17415,Generation X
+1816,Austria,1987,female,55-74 years,230,826662,27.82,Austria1987,,"124,168,442,860",17415,G.I. Generation
+1817,Austria,1987,female,35-54 years,155,947458,16.36,Austria1987,,"124,168,442,860",17415,Silent
+1818,Austria,1987,female,25-34 years,62,573764,10.81,Austria1987,,"124,168,442,860",17415,Boomers
+1819,Austria,1987,female,15-24 years,49,611922,8.01,Austria1987,,"124,168,442,860",17415,Generation X
+1820,Austria,1987,female,5-14 years,2,440140,0.45,Austria1987,,"124,168,442,860",17415,Generation X
+1821,Austria,1987,male,5-14 years,2,461684,0.43,Austria1987,,"124,168,442,860",17415,Generation X
+1822,Austria,1988,male,75+ years,183,164555,111.21,Austria1988,,"133,339,397,080",18663,G.I. Generation
+1823,Austria,1988,male,55-74 years,309,593425,52.07,Austria1988,,"133,339,397,080",18663,G.I. Generation
+1824,Austria,1988,male,35-54 years,431,957006,45.04,Austria1988,,"133,339,397,080",18663,Silent
+1825,Austria,1988,male,25-34 years,229,599279,38.21,Austria1988,,"133,339,397,080",18663,Boomers
+1826,Austria,1988,female,75+ years,108,359018,30.08,Austria1988,,"133,339,397,080",18663,G.I. Generation
+1827,Austria,1988,male,15-24 years,168,616255,27.26,Austria1988,,"133,339,397,080",18663,Generation X
+1828,Austria,1988,female,55-74 years,186,817219,22.76,Austria1988,,"133,339,397,080",18663,G.I. Generation
+1829,Austria,1988,female,35-54 years,144,955925,15.06,Austria1988,,"133,339,397,080",18663,Silent
+1830,Austria,1988,female,25-34 years,61,589460,10.35,Austria1988,,"133,339,397,080",18663,Boomers
+1831,Austria,1988,female,15-24 years,28,595218,4.7,Austria1988,,"133,339,397,080",18663,Generation X
+1832,Austria,1988,female,5-14 years,2,437734,0.46,Austria1988,,"133,339,397,080",18663,Generation X
+1833,Austria,1988,male,5-14 years,2,459316,0.44,Austria1988,,"133,339,397,080",18663,Generation X
+1834,Austria,1989,male,75+ years,166,166370,99.78,Austria1989,,"133,105,805,928",18544,G.I. Generation
+1835,Austria,1989,male,55-74 years,358,594776,60.19,Austria1989,,"133,105,805,928",18544,G.I. Generation
+1836,Austria,1989,male,35-54 years,402,968546,41.51,Austria1989,,"133,105,805,928",18544,Silent
+1837,Austria,1989,female,75+ years,134,364652,36.75,Austria1989,,"133,105,805,928",18544,G.I. Generation
+1838,Austria,1989,male,25-34 years,218,621738,35.06,Austria1989,,"133,105,805,928",18544,Boomers
+1839,Austria,1989,male,15-24 years,163,601397,27.1,Austria1989,,"133,105,805,928",18544,Generation X
+1840,Austria,1989,female,55-74 years,182,807459,22.54,Austria1989,,"133,105,805,928",18544,G.I. Generation
+1841,Austria,1989,female,35-54 years,156,967898,16.12,Austria1989,,"133,105,805,928",18544,Silent
+1842,Austria,1989,female,25-34 years,65,607791,10.69,Austria1989,,"133,105,805,928",18544,Boomers
+1843,Austria,1989,female,15-24 years,48,580616,8.27,Austria1989,,"133,105,805,928",18544,Generation X
+1844,Austria,1989,male,5-14 years,6,459307,1.31,Austria1989,,"133,105,805,928",18544,Generation X
+1845,Austria,1989,female,5-14 years,0,437116,0.0,Austria1989,,"133,105,805,928",18544,Generation X
+1846,Austria,1990,male,75+ years,186,165206,112.59,Austria1990,0.794,"166,463,386,663",23020,G.I. Generation
+1847,Austria,1990,male,55-74 years,320,598225,53.49,Austria1990,0.794,"166,463,386,663",23020,G.I. Generation
+1848,Austria,1990,male,35-54 years,418,985787,42.4,Austria1990,0.794,"166,463,386,663",23020,Silent
+1849,Austria,1990,female,75+ years,132,365227,36.14,Austria1990,0.794,"166,463,386,663",23020,G.I. Generation
+1850,Austria,1990,male,25-34 years,209,646830,32.31,Austria1990,0.794,"166,463,386,663",23020,Boomers
+1851,Austria,1990,male,15-24 years,150,589106,25.46,Austria1990,0.794,"166,463,386,663",23020,Generation X
+1852,Austria,1990,female,55-74 years,173,802079,21.57,Austria1990,0.794,"166,463,386,663",23020,G.I. Generation
+1853,Austria,1990,female,35-54 years,150,984274,15.24,Austria1990,0.794,"166,463,386,663",23020,Silent
+1854,Austria,1990,female,25-34 years,53,626994,8.45,Austria1990,0.794,"166,463,386,663",23020,Boomers
+1855,Austria,1990,female,15-24 years,31,568627,5.45,Austria1990,0.794,"166,463,386,663",23020,Generation X
+1856,Austria,1990,female,5-14 years,2,437872,0.46,Austria1990,0.794,"166,463,386,663",23020,Generation X
+1857,Austria,1990,male,5-14 years,1,461126,0.22,Austria1990,0.794,"166,463,386,663",23020,Generation X
+1858,Austria,1991,male,75+ years,209,160210,130.45,Austria1991,,"173,794,177,725",23808,G.I. Generation
+1859,Austria,1991,male,55-74 years,336,605807,55.46,Austria1991,,"173,794,177,725",23808,Silent
+1860,Austria,1991,male,35-54 years,402,1008702,39.85,Austria1991,,"173,794,177,725",23808,Boomers
+1861,Austria,1991,male,25-34 years,197,670763,29.37,Austria1991,,"173,794,177,725",23808,Boomers
+1862,Austria,1991,female,75+ years,98,358612,27.33,Austria1991,,"173,794,177,725",23808,G.I. Generation
+1863,Austria,1991,male,15-24 years,153,576378,26.55,Austria1991,,"173,794,177,725",23808,Generation X
+1864,Austria,1991,female,55-74 years,144,804082,17.91,Austria1991,,"173,794,177,725",23808,Silent
+1865,Austria,1991,female,35-54 years,145,1006052,14.41,Austria1991,,"173,794,177,725",23808,Boomers
+1866,Austria,1991,female,25-34 years,49,644696,7.6,Austria1991,,"173,794,177,725",23808,Boomers
+1867,Austria,1991,female,15-24 years,34,556831,6.11,Austria1991,,"173,794,177,725",23808,Generation X
+1868,Austria,1991,male,5-14 years,2,465821,0.43,Austria1991,,"173,794,177,725",23808,Millenials
+1869,Austria,1991,female,5-14 years,0,441774,0.0,Austria1991,,"173,794,177,725",23808,Millenials
+1870,Austria,1992,male,75+ years,179,153805,116.38,Austria1992,,"195,078,126,346",26450,G.I. Generation
+1871,Austria,1992,male,55-74 years,347,615819,56.35,Austria1992,,"195,078,126,346",26450,Silent
+1872,Austria,1992,male,35-54 years,405,1034871,39.14,Austria1992,,"195,078,126,346",26450,Boomers
+1873,Austria,1992,male,25-34 years,204,691098,29.52,Austria1992,,"195,078,126,346",26450,Boomers
+1874,Austria,1992,female,75+ years,98,348912,28.09,Austria1992,,"195,078,126,346",26450,G.I. Generation
+1875,Austria,1992,male,15-24 years,142,562276,25.25,Austria1992,,"195,078,126,346",26450,Generation X
+1876,Austria,1992,female,55-74 years,132,809987,16.3,Austria1992,,"195,078,126,346",26450,Silent
+1877,Austria,1992,female,35-54 years,163,1031440,15.8,Austria1992,,"195,078,126,346",26450,Boomers
+1878,Austria,1992,female,25-34 years,50,660870,7.57,Austria1992,,"195,078,126,346",26450,Boomers
+1879,Austria,1992,female,15-24 years,33,544520,6.06,Austria1992,,"195,078,126,346",26450,Generation X
+1880,Austria,1992,male,5-14 years,5,472966,1.06,Austria1992,,"195,078,126,346",26450,Millenials
+1881,Austria,1992,female,5-14 years,1,448804,0.22,Austria1992,,"195,078,126,346",26450,Millenials
+1882,Austria,1993,male,75+ years,200,147907,135.22,Austria1993,,"190,379,720,927",25611,G.I. Generation
+1883,Austria,1993,male,55-74 years,314,627612,50.03,Austria1993,,"190,379,720,927",25611,Silent
+1884,Austria,1993,male,35-54 years,377,1059028,35.6,Austria1993,,"190,379,720,927",25611,Boomers
+1885,Austria,1993,male,25-34 years,228,706145,32.29,Austria1993,,"190,379,720,927",25611,Boomers
+1886,Austria,1993,female,75+ years,88,339249,25.94,Austria1993,,"190,379,720,927",25611,G.I. Generation
+1887,Austria,1993,male,15-24 years,119,544899,21.84,Austria1993,,"190,379,720,927",25611,Generation X
+1888,Austria,1993,female,55-74 years,139,817689,17.0,Austria1993,,"190,379,720,927",25611,Silent
+1889,Austria,1993,female,35-54 years,140,1054036,13.28,Austria1993,,"190,379,720,927",25611,Boomers
+1890,Austria,1993,female,25-34 years,54,673654,8.02,Austria1993,,"190,379,720,927",25611,Boomers
+1891,Austria,1993,female,15-24 years,35,529287,6.61,Austria1993,,"190,379,720,927",25611,Generation X
+1892,Austria,1993,male,5-14 years,6,479134,1.25,Austria1993,,"190,379,720,927",25611,Millenials
+1893,Austria,1993,female,5-14 years,4,454929,0.88,Austria1993,,"190,379,720,927",25611,Millenials
+1894,Austria,1994,male,75+ years,174,145328,119.73,Austria1994,,"203,535,242,742",27274,G.I. Generation
+1895,Austria,1994,male,55-74 years,331,646545,51.2,Austria1994,,"203,535,242,742",27274,Silent
+1896,Austria,1994,male,35-54 years,432,1071436,40.32,Austria1994,,"203,535,242,742",27274,Boomers
+1897,Austria,1994,male,25-34 years,207,711945,29.08,Austria1994,,"203,535,242,742",27274,Boomers
+1898,Austria,1994,female,75+ years,93,335528,27.72,Austria1994,,"203,535,242,742",27274,G.I. Generation
+1899,Austria,1994,male,15-24 years,136,525346,25.89,Austria1994,,"203,535,242,742",27274,Generation X
+1900,Austria,1994,female,55-74 years,149,830130,17.95,Austria1994,,"203,535,242,742",27274,Silent
+1901,Austria,1994,female,35-54 years,151,1064408,14.19,Austria1994,,"203,535,242,742",27274,Boomers
+1902,Austria,1994,female,25-34 years,58,679708,8.53,Austria1994,,"203,535,242,742",27274,Boomers
+1903,Austria,1994,female,15-24 years,34,510791,6.66,Austria1994,,"203,535,242,742",27274,Generation X
+1904,Austria,1994,female,5-14 years,6,458807,1.31,Austria1994,,"203,535,242,742",27274,Millenials
+1905,Austria,1994,male,5-14 years,5,482580,1.04,Austria1994,,"203,535,242,742",27274,Millenials
+1906,Austria,1995,male,75+ years,184,147262,124.95,Austria1995,0.815,"241,038,283,063",32237,G.I. Generation
+1907,Austria,1995,male,55-74 years,333,670553,49.66,Austria1995,0.815,"241,038,283,063",32237,Silent
+1908,Austria,1995,male,35-54 years,437,1074328,40.68,Austria1995,0.815,"241,038,283,063",32237,Boomers
+1909,Austria,1995,male,25-34 years,237,707468,33.5,Austria1995,0.815,"241,038,283,063",32237,Generation X
+1910,Austria,1995,female,75+ years,100,341098,29.32,Austria1995,0.815,"241,038,283,063",32237,G.I. Generation
+1911,Austria,1995,male,15-24 years,134,509262,26.31,Austria1995,0.815,"241,038,283,063",32237,Generation X
+1912,Austria,1995,female,55-74 years,141,843210,16.72,Austria1995,0.815,"241,038,283,063",32237,Silent
+1913,Austria,1995,female,35-54 years,136,1065630,12.76,Austria1995,0.815,"241,038,283,063",32237,Boomers
+1914,Austria,1995,female,25-34 years,59,678262,8.7,Austria1995,0.815,"241,038,283,063",32237,Generation X
+1915,Austria,1995,female,15-24 years,19,495368,3.84,Austria1995,0.815,"241,038,283,063",32237,Generation X
+1916,Austria,1995,male,5-14 years,8,483644,1.65,Austria1995,0.815,"241,038,283,063",32237,Millenials
+1917,Austria,1995,female,5-14 years,0,460945,0.0,Austria1995,0.815,"241,038,283,063",32237,Millenials
+1918,Austria,1996,male,75+ years,188,151691,123.94,Austria1996,,"237,250,948,791",31660,G.I. Generation
+1919,Austria,1996,male,55-74 years,381,690803,55.15,Austria1996,,"237,250,948,791",31660,Silent
+1920,Austria,1996,male,35-54 years,452,1080848,41.82,Austria1996,,"237,250,948,791",31660,Boomers
+1921,Austria,1996,female,75+ years,112,351514,31.86,Austria1996,,"237,250,948,791",31660,G.I. Generation
+1922,Austria,1996,male,25-34 years,203,696869,29.13,Austria1996,,"237,250,948,791",31660,Generation X
+1923,Austria,1996,male,15-24 years,108,498112,21.68,Austria1996,,"237,250,948,791",31660,Generation X
+1924,Austria,1996,female,55-74 years,126,850049,14.82,Austria1996,,"237,250,948,791",31660,Silent
+1925,Austria,1996,female,35-54 years,140,1070879,13.07,Austria1996,,"237,250,948,791",31660,Boomers
+1926,Austria,1996,female,25-34 years,53,672341,7.88,Austria1996,,"237,250,948,791",31660,Generation X
+1927,Austria,1996,female,15-24 years,12,485090,2.47,Austria1996,,"237,250,948,791",31660,Generation X
+1928,Austria,1996,male,5-14 years,4,483799,0.83,Austria1996,,"237,250,948,791",31660,Millenials
+1929,Austria,1996,female,5-14 years,0,461711,0.0,Austria1996,,"237,250,948,791",31660,Millenials
+1930,Austria,1997,male,75+ years,159,156997,101.28,Austria1997,,"212,790,348,405",28325,G.I. Generation
+1931,Austria,1997,male,55-74 years,313,704226,44.45,Austria1997,,"212,790,348,405",28325,Silent
+1932,Austria,1997,male,35-54 years,379,1095317,34.6,Austria1997,,"212,790,348,405",28325,Boomers
+1933,Austria,1997,male,25-34 years,201,682210,29.46,Austria1997,,"212,790,348,405",28325,Generation X
+1934,Austria,1997,male,15-24 years,121,490385,24.67,Austria1997,,"212,790,348,405",28325,Generation X
+1935,Austria,1997,female,75+ years,83,363002,22.86,Austria1997,,"212,790,348,405",28325,G.I. Generation
+1936,Austria,1997,female,55-74 years,131,850056,15.41,Austria1997,,"212,790,348,405",28325,Silent
+1937,Austria,1997,female,35-54 years,131,1084510,12.08,Austria1997,,"212,790,348,405",28325,Boomers
+1938,Austria,1997,female,25-34 years,48,663325,7.24,Austria1997,,"212,790,348,405",28325,Generation X
+1939,Austria,1997,female,15-24 years,23,477550,4.82,Austria1997,,"212,790,348,405",28325,Generation X
+1940,Austria,1997,male,5-14 years,2,483890,0.41,Austria1997,,"212,790,348,405",28325,Millenials
+1941,Austria,1997,female,5-14 years,1,461121,0.22,Austria1997,,"212,790,348,405",28325,Millenials
+1942,Austria,1998,male,75+ years,165,162132,101.77,Austria1998,,"218,259,904,402",28972,G.I. Generation
+1943,Austria,1998,male,55-74 years,334,714245,46.76,Austria1998,,"218,259,904,402",28972,Silent
+1944,Austria,1998,male,35-54 years,407,1114719,36.51,Austria1998,,"218,259,904,402",28972,Boomers
+1945,Austria,1998,male,25-34 years,166,663510,25.02,Austria1998,,"218,259,904,402",28972,Generation X
+1946,Austria,1998,female,75+ years,79,374674,21.08,Austria1998,,"218,259,904,402",28972,G.I. Generation
+1947,Austria,1998,male,15-24 years,99,486438,20.35,Austria1998,,"218,259,904,402",28972,Generation X
+1948,Austria,1998,female,55-74 years,116,846818,13.7,Austria1998,,"218,259,904,402",28972,Silent
+1949,Austria,1998,female,35-54 years,116,1103422,10.51,Austria1998,,"218,259,904,402",28972,Boomers
+1950,Austria,1998,female,25-34 years,45,649694,6.93,Austria1998,,"218,259,904,402",28972,Generation X
+1951,Austria,1998,female,15-24 years,24,472685,5.08,Austria1998,,"218,259,904,402",28972,Generation X
+1952,Austria,1998,male,5-14 years,6,484321,1.24,Austria1998,,"218,259,904,402",28972,Millenials
+1953,Austria,1998,female,5-14 years,2,460861,0.43,Austria1998,,"218,259,904,402",28972,Millenials
+1954,Austria,1999,male,75+ years,149,167112,89.16,Austria1999,,"217,185,787,343",28722,G.I. Generation
+1955,Austria,1999,male,55-74 years,329,725044,45.38,Austria1999,,"217,185,787,343",28722,Silent
+1956,Austria,1999,male,35-54 years,386,1135873,33.98,Austria1999,,"217,185,787,343",28722,Boomers
+1957,Austria,1999,female,75+ years,108,385369,28.03,Austria1999,,"217,185,787,343",28722,G.I. Generation
+1958,Austria,1999,male,25-34 years,161,643115,25.03,Austria1999,,"217,185,787,343",28722,Generation X
+1959,Austria,1999,male,15-24 years,99,485374,20.4,Austria1999,,"217,185,787,343",28722,Generation X
+1960,Austria,1999,female,55-74 years,122,845401,14.43,Austria1999,,"217,185,787,343",28722,Silent
+1961,Austria,1999,female,35-54 years,136,1123652,12.1,Austria1999,,"217,185,787,343",28722,Boomers
+1962,Austria,1999,female,25-34 years,37,633829,5.84,Austria1999,,"217,185,787,343",28722,Generation X
+1963,Austria,1999,female,15-24 years,25,470179,5.32,Austria1999,,"217,185,787,343",28722,Generation X
+1964,Austria,1999,male,5-14 years,2,485188,0.41,Austria1999,,"217,185,787,343",28722,Millenials
+1965,Austria,1999,female,5-14 years,1,461473,0.22,Austria1999,,"217,185,787,343",28722,Millenials
+1966,Austria,2000,male,75+ years,172,172839,99.51,Austria2000,0.836,"196,799,778,883",25922,G.I. Generation
+1967,Austria,2000,male,55-74 years,342,730447,46.82,Austria2000,0.836,"196,799,778,883",25922,Silent
+1968,Austria,2000,male,35-54 years,383,1163122,32.93,Austria2000,0.836,"196,799,778,883",25922,Boomers
+1969,Austria,2000,male,25-34 years,149,622975,23.92,Austria2000,0.836,"196,799,778,883",25922,Generation X
+1970,Austria,2000,female,75+ years,92,394864,23.3,Austria2000,0.836,"196,799,778,883",25922,G.I. Generation
+1971,Austria,2000,male,15-24 years,106,485710,21.82,Austria2000,0.836,"196,799,778,883",25922,Generation X
+1972,Austria,2000,female,55-74 years,143,840225,17.02,Austria2000,0.836,"196,799,778,883",25922,Silent
+1973,Austria,2000,female,35-54 years,132,1149412,11.48,Austria2000,0.836,"196,799,778,883",25922,Boomers
+1974,Austria,2000,female,15-24 years,27,469025,5.76,Austria2000,0.836,"196,799,778,883",25922,Generation X
+1975,Austria,2000,female,25-34 years,34,617481,5.51,Austria2000,0.836,"196,799,778,883",25922,Generation X
+1976,Austria,2000,female,5-14 years,4,461175,0.87,Austria2000,0.836,"196,799,778,883",25922,Millenials
+1977,Austria,2000,male,5-14 years,4,484798,0.83,Austria2000,0.836,"196,799,778,883",25922,Millenials
+1978,Austria,2001,male,75+ years,151,180006,83.89,Austria2001,,"197,337,879,195",25848,Silent
+1979,Austria,2001,male,55-74 years,309,735296,42.02,Austria2001,,"197,337,879,195",25848,Silent
+1980,Austria,2001,male,35-54 years,377,1193029,31.6,Austria2001,,"197,337,879,195",25848,Boomers
+1981,Austria,2001,male,25-34 years,142,604064,23.51,Austria2001,,"197,337,879,195",25848,Generation X
+1982,Austria,2001,female,75+ years,93,404458,22.99,Austria2001,,"197,337,879,195",25848,Silent
+1983,Austria,2001,male,15-24 years,101,488478,20.68,Austria2001,,"197,337,879,195",25848,Millenials
+1984,Austria,2001,female,55-74 years,129,835836,15.43,Austria2001,,"197,337,879,195",25848,Silent
+1985,Austria,2001,female,35-54 years,126,1177652,10.7,Austria2001,,"197,337,879,195",25848,Boomers
+1986,Austria,2001,female,25-34 years,41,600540,6.83,Austria2001,,"197,337,879,195",25848,Generation X
+1987,Austria,2001,female,15-24 years,18,470456,3.83,Austria2001,,"197,337,879,195",25848,Millenials
+1988,Austria,2001,female,5-14 years,1,460720,0.22,Austria2001,,"197,337,879,195",25848,Millenials
+1989,Austria,2001,male,5-14 years,1,484025,0.21,Austria2001,,"197,337,879,195",25848,Millenials
+1990,Austria,2002,male,75+ years,187,187295,99.84,Austria2002,,"213,377,771,504",27772,Silent
+1991,Austria,2002,male,55-74 years,322,747406,43.08,Austria2002,,"213,377,771,504",27772,Silent
+1992,Austria,2002,male,35-54 years,422,1214866,34.74,Austria2002,,"213,377,771,504",27772,Boomers
+1993,Austria,2002,male,25-34 years,158,586771,26.93,Austria2002,,"213,377,771,504",27772,Generation X
+1994,Austria,2002,male,15-24 years,99,494122,20.04,Austria2002,,"213,377,771,504",27772,Millenials
+1995,Austria,2002,female,75+ years,80,410636,19.48,Austria2002,,"213,377,771,504",27772,Silent
+1996,Austria,2002,female,55-74 years,105,841432,12.48,Austria2002,,"213,377,771,504",27772,Silent
+1997,Austria,2002,female,35-54 years,129,1197653,10.77,Austria2002,,"213,377,771,504",27772,Boomers
+1998,Austria,2002,female,25-34 years,30,583877,5.14,Austria2002,,"213,377,771,504",27772,Generation X
+1999,Austria,2002,female,15-24 years,17,475095,3.58,Austria2002,,"213,377,771,504",27772,Millenials
+2000,Austria,2002,female,5-14 years,2,460277,0.43,Austria2002,,"213,377,771,504",27772,Millenials
+2001,Austria,2002,male,5-14 years,2,483732,0.41,Austria2002,,"213,377,771,504",27772,Millenials
+2002,Austria,2003,male,75+ years,177,193846,91.31,Austria2003,,"261,695,778,781",33889,Silent
+2003,Austria,2003,male,55-74 years,308,759680,40.54,Austria2003,,"261,695,778,781",33889,Silent
+2004,Austria,2003,male,35-54 years,371,1231545,30.12,Austria2003,,"261,695,778,781",33889,Boomers
+2005,Austria,2003,male,25-34 years,118,569434,20.72,Austria2003,,"261,695,778,781",33889,Generation X
+2006,Austria,2003,female,75+ years,84,412619,20.36,Austria2003,,"261,695,778,781",33889,Silent
+2007,Austria,2003,male,15-24 years,91,501938,18.13,Austria2003,,"261,695,778,781",33889,Millenials
+2008,Austria,2003,female,55-74 years,102,851030,11.99,Austria2003,,"261,695,778,781",33889,Silent
+2009,Austria,2003,female,35-54 years,141,1213566,11.62,Austria2003,,"261,695,778,781",33889,Boomers
+2010,Austria,2003,female,15-24 years,29,482866,6.01,Austria2003,,"261,695,778,781",33889,Millenials
+2011,Austria,2003,female,25-34 years,32,567665,5.64,Austria2003,,"261,695,778,781",33889,Generation X
+2012,Austria,2003,male,5-14 years,3,480502,0.62,Austria2003,,"261,695,778,781",33889,Millenials
+2013,Austria,2003,female,5-14 years,0,457342,0.0,Austria2003,,"261,695,778,781",33889,Millenials
+2014,Austria,2004,male,75+ years,189,201792,93.66,Austria2004,,"300,904,221,505",38711,Silent
+2015,Austria,2004,male,55-74 years,308,771847,39.9,Austria2004,,"300,904,221,505",38711,Silent
+2016,Austria,2004,male,35-54 years,347,1248808,27.79,Austria2004,,"300,904,221,505",38711,Boomers
+2017,Austria,2004,male,15-24 years,110,509514,21.59,Austria2004,,"300,904,221,505",38711,Millenials
+2018,Austria,2004,male,25-34 years,120,555892,21.59,Austria2004,,"300,904,221,505",38711,Generation X
+2019,Austria,2004,female,75+ years,73,416777,17.52,Austria2004,,"300,904,221,505",38711,Silent
+2020,Austria,2004,female,55-74 years,118,860913,13.71,Austria2004,,"300,904,221,505",38711,Silent
+2021,Austria,2004,female,35-54 years,107,1231774,8.69,Austria2004,,"300,904,221,505",38711,Boomers
+2022,Austria,2004,female,25-34 years,26,554568,4.69,Austria2004,,"300,904,221,505",38711,Generation X
+2023,Austria,2004,female,15-24 years,22,491309,4.48,Austria2004,,"300,904,221,505",38711,Millenials
+2024,Austria,2004,male,5-14 years,2,476337,0.42,Austria2004,,"300,904,221,505",38711,Millenials
+2025,Austria,2004,female,5-14 years,0,453574,0.0,Austria2004,,"300,904,221,505",38711,Millenials
+2026,Austria,2005,male,75+ years,166,210054,79.03,Austria2005,0.853,"315,974,418,605",40367,Silent
+2027,Austria,2005,male,55-74 years,331,782050,42.32,Austria2005,0.853,"315,974,418,605",40367,Silent
+2028,Austria,2005,male,35-54 years,364,1266464,28.74,Austria2005,0.853,"315,974,418,605",40367,Boomers
+2029,Austria,2005,female,75+ years,81,421281,19.23,Austria2005,0.853,"315,974,418,605",40367,Silent
+2030,Austria,2005,male,25-34 years,102,548943,18.58,Austria2005,0.853,"315,974,418,605",40367,Generation X
+2031,Austria,2005,male,15-24 years,83,515674,16.1,Austria2005,0.853,"315,974,418,605",40367,Millenials
+2032,Austria,2005,female,55-74 years,96,869065,11.05,Austria2005,0.853,"315,974,418,605",40367,Silent
+2033,Austria,2005,female,35-54 years,121,1250028,9.68,Austria2005,0.853,"315,974,418,605",40367,Boomers
+2034,Austria,2005,female,25-34 years,33,546238,6.04,Austria2005,0.853,"315,974,418,605",40367,Generation X
+2035,Austria,2005,female,15-24 years,18,497688,3.62,Austria2005,0.853,"315,974,418,605",40367,Millenials
+2036,Austria,2005,male,5-14 years,3,471447,0.64,Austria2005,0.853,"315,974,418,605",40367,Millenials
+2037,Austria,2005,female,5-14 years,1,448529,0.22,Austria2005,0.853,"315,974,418,605",40367,Millenials
+2038,Austria,2006,male,75+ years,171,218168,78.38,Austria2006,,"335,998,557,270",42698,Silent
+2039,Austria,2006,male,55-74 years,266,791509,33.61,Austria2006,,"335,998,557,270",42698,Silent
+2040,Austria,2006,male,35-54 years,382,1281251,29.81,Austria2006,,"335,998,557,270",42698,Boomers
+2041,Austria,2006,female,75+ years,81,425747,19.03,Austria2006,,"335,998,557,270",42698,Silent
+2042,Austria,2006,male,25-34 years,103,545467,18.88,Austria2006,,"335,998,557,270",42698,Generation X
+2043,Austria,2006,male,15-24 years,77,517546,14.88,Austria2006,,"335,998,557,270",42698,Millenials
+2044,Austria,2006,female,55-74 years,91,876832,10.38,Austria2006,,"335,998,557,270",42698,Silent
+2045,Austria,2006,female,35-54 years,91,1265873,7.19,Austria2006,,"335,998,557,270",42698,Boomers
+2046,Austria,2006,female,25-34 years,18,542011,3.32,Austria2006,,"335,998,557,270",42698,Generation X
+2047,Austria,2006,female,15-24 years,16,499388,3.2,Austria2006,,"335,998,557,270",42698,Millenials
+2048,Austria,2006,male,5-14 years,1,464213,0.22,Austria2006,,"335,998,557,270",42698,Millenials
+2049,Austria,2006,female,5-14 years,0,441264,0.0,Austria2006,,"335,998,557,270",42698,Millenials
+2050,Austria,2007,male,75+ years,170,225285,75.46,Austria2007,,"388,691,445,387",49218,Silent
+2051,Austria,2007,male,55-74 years,273,800509,34.1,Austria2007,,"388,691,445,387",49218,Silent
+2052,Austria,2007,male,35-54 years,331,1291260,25.63,Austria2007,,"388,691,445,387",49218,Boomers
+2053,Austria,2007,female,75+ years,80,428921,18.65,Austria2007,,"388,691,445,387",49218,Silent
+2054,Austria,2007,male,25-34 years,99,542760,18.24,Austria2007,,"388,691,445,387",49218,Generation X
+2055,Austria,2007,male,15-24 years,93,517817,17.96,Austria2007,,"388,691,445,387",49218,Millenials
+2056,Austria,2007,female,55-74 years,109,885212,12.31,Austria2007,,"388,691,445,387",49218,Silent
+2057,Austria,2007,female,35-54 years,88,1277479,6.89,Austria2007,,"388,691,445,387",49218,Boomers
+2058,Austria,2007,female,25-34 years,25,539763,4.63,Austria2007,,"388,691,445,387",49218,Generation X
+2059,Austria,2007,female,15-24 years,15,499804,3.0,Austria2007,,"388,691,445,387",49218,Millenials
+2060,Austria,2007,male,5-14 years,2,455269,0.44,Austria2007,,"388,691,445,387",49218,Generation Z
+2061,Austria,2007,female,5-14 years,0,433193,0.0,Austria2007,,"388,691,445,387",49218,Generation Z
+2062,Austria,2008,male,75+ years,200,231083,86.55,Austria2008,,"430,294,287,388",54294,Silent
+2063,Austria,2008,male,55-74 years,276,811538,34.01,Austria2008,,"430,294,287,388",54294,Silent
+2064,Austria,2008,male,35-54 years,340,1295943,26.24,Austria2008,,"430,294,287,388",54294,Boomers
+2065,Austria,2008,female,75+ years,72,430534,16.72,Austria2008,,"430,294,287,388",54294,Silent
+2066,Austria,2008,male,25-34 years,86,542606,15.85,Austria2008,,"430,294,287,388",54294,Generation X
+2067,Austria,2008,male,15-24 years,59,519137,11.37,Austria2008,,"430,294,287,388",54294,Millenials
+2068,Austria,2008,female,55-74 years,82,895882,9.15,Austria2008,,"430,294,287,388",54294,Silent
+2069,Austria,2008,female,35-54 years,112,1285210,8.71,Austria2008,,"430,294,287,388",54294,Boomers
+2070,Austria,2008,female,15-24 years,18,500763,3.59,Austria2008,,"430,294,287,388",54294,Millenials
+2071,Austria,2008,female,25-34 years,18,539635,3.34,Austria2008,,"430,294,287,388",54294,Generation X
+2072,Austria,2008,female,5-14 years,2,425776,0.47,Austria2008,,"430,294,287,388",54294,Generation Z
+2073,Austria,2008,male,5-14 years,2,447151,0.45,Austria2008,,"430,294,287,388",54294,Generation Z
+2074,Austria,2009,male,75+ years,187,235822,79.3,Austria2009,,"400,172,297,861",50356,Silent
+2075,Austria,2009,male,55-74 years,279,823727,33.87,Austria2009,,"400,172,297,861",50356,Silent
+2076,Austria,2009,male,35-54 years,332,1297322,25.59,Austria2009,,"400,172,297,861",50356,Boomers
+2077,Austria,2009,male,25-34 years,99,542799,18.24,Austria2009,,"400,172,297,861",50356,Generation X
+2078,Austria,2009,female,75+ years,68,430726,15.79,Austria2009,,"400,172,297,861",50356,Silent
+2079,Austria,2009,male,15-24 years,72,519901,13.85,Austria2009,,"400,172,297,861",50356,Millenials
+2080,Austria,2009,female,55-74 years,103,908213,11.34,Austria2009,,"400,172,297,861",50356,Silent
+2081,Austria,2009,female,35-54 years,101,1289816,7.83,Austria2009,,"400,172,297,861",50356,Boomers
+2082,Austria,2009,female,25-34 years,18,539304,3.34,Austria2009,,"400,172,297,861",50356,Generation X
+2083,Austria,2009,female,15-24 years,11,501225,2.19,Austria2009,,"400,172,297,861",50356,Millenials
+2084,Austria,2009,female,5-14 years,5,418410,1.2,Austria2009,,"400,172,297,861",50356,Generation Z
+2085,Austria,2009,male,5-14 years,3,439629,0.68,Austria2009,,"400,172,297,861",50356,Generation Z
+2086,Austria,2010,male,75+ years,180,240431,74.87,Austria2010,0.879,"391,892,746,545",49181,Silent
+2087,Austria,2010,male,55-74 years,287,838208,34.24,Austria2010,0.879,"391,892,746,545",49181,Silent
+2088,Austria,2010,male,35-54 years,325,1296607,25.07,Austria2010,0.879,"391,892,746,545",49181,Generation X
+2089,Austria,2010,male,15-24 years,91,518657,17.55,Austria2010,0.879,"391,892,746,545",49181,Millenials
+2090,Austria,2010,male,25-34 years,85,542986,15.65,Austria2010,0.879,"391,892,746,545",49181,Generation X
+2091,Austria,2010,female,75+ years,62,431151,14.38,Austria2010,0.879,"391,892,746,545",49181,Silent
+2092,Austria,2010,female,55-74 years,90,923411,9.75,Austria2010,0.879,"391,892,746,545",49181,Silent
+2093,Austria,2010,female,35-54 years,102,1291400,7.9,Austria2010,0.879,"391,892,746,545",49181,Generation X
+2094,Austria,2010,female,25-34 years,25,539299,4.64,Austria2010,0.879,"391,892,746,545",49181,Generation X
+2095,Austria,2010,female,15-24 years,14,499638,2.8,Austria2010,0.879,"391,892,746,545",49181,Millenials
+2096,Austria,2010,male,5-14 years,2,433795,0.46,Austria2010,0.879,"391,892,746,545",49181,Generation Z
+2097,Austria,2010,female,5-14 years,1,412838,0.24,Austria2010,0.879,"391,892,746,545",49181,Generation Z
+2098,Austria,2011,male,75+ years,196,245207,79.93,Austria2011,0.8809999999999999,"431,120,310,089",53923,Silent
+2099,Austria,2011,male,55-74 years,276,855700,32.25,Austria2011,0.8809999999999999,"431,120,310,089",53923,Boomers
+2100,Austria,2011,male,35-54 years,336,1292255,26.0,Austria2011,0.8809999999999999,"431,120,310,089",53923,Generation X
+2101,Austria,2011,male,25-34 years,97,546027,17.76,Austria2011,0.8809999999999999,"431,120,310,089",53923,Millenials
+2102,Austria,2011,female,75+ years,58,431128,13.45,Austria2011,0.8809999999999999,"431,120,310,089",53923,Silent
+2103,Austria,2011,male,15-24 years,67,518095,12.93,Austria2011,0.8809999999999999,"431,120,310,089",53923,Millenials
+2104,Austria,2011,female,55-74 years,113,942311,11.99,Austria2011,0.8809999999999999,"431,120,310,089",53923,Boomers
+2105,Austria,2011,female,35-54 years,95,1288452,7.37,Austria2011,0.8809999999999999,"431,120,310,089",53923,Generation X
+2106,Austria,2011,female,15-24 years,23,498172,4.62,Austria2011,0.8809999999999999,"431,120,310,089",53923,Millenials
+2107,Austria,2011,female,25-34 years,23,542031,4.24,Austria2011,0.8809999999999999,"431,120,310,089",53923,Millenials
+2108,Austria,2011,male,5-14 years,3,428198,0.7,Austria2011,0.8809999999999999,"431,120,310,089",53923,Generation Z
+2109,Austria,2011,female,5-14 years,1,407570,0.25,Austria2011,0.8809999999999999,"431,120,310,089",53923,Generation Z
+2110,Austria,2012,male,75+ years,189,250032,75.59,Austria2012,0.884,"409,425,234,155",50979,Silent
+2111,Austria,2012,male,55-74 years,298,874391,34.08,Austria2012,0.884,"409,425,234,155",50979,Boomers
+2112,Austria,2012,male,35-54 years,332,1286522,25.81,Austria2012,0.884,"409,425,234,155",50979,Generation X
+2113,Austria,2012,male,25-34 years,99,553047,17.9,Austria2012,0.884,"409,425,234,155",50979,Millenials
+2114,Austria,2012,female,75+ years,76,430436,17.66,Austria2012,0.884,"409,425,234,155",50979,Silent
+2115,Austria,2012,male,15-24 years,66,519503,12.7,Austria2012,0.884,"409,425,234,155",50979,Millenials
+2116,Austria,2012,female,55-74 years,99,962372,10.29,Austria2012,0.884,"409,425,234,155",50979,Boomers
+2117,Austria,2012,female,35-54 years,87,1283769,6.78,Austria2012,0.884,"409,425,234,155",50979,Generation X
+2118,Austria,2012,female,25-34 years,20,547787,3.65,Austria2012,0.884,"409,425,234,155",50979,Millenials
+2119,Austria,2012,female,15-24 years,6,497838,1.21,Austria2012,0.884,"409,425,234,155",50979,Millenials
+2120,Austria,2012,male,5-14 years,3,422849,0.71,Austria2012,0.884,"409,425,234,155",50979,Generation Z
+2121,Austria,2012,female,5-14 years,1,402730,0.25,Austria2012,0.884,"409,425,234,155",50979,Generation Z
+2122,Austria,2013,male,75+ years,221,255540,86.48,Austria2013,0.884,"430,068,712,972",53229,Silent
+2123,Austria,2013,male,55-74 years,299,893602,33.46,Austria2013,0.884,"430,068,712,972",53229,Boomers
+2124,Austria,2013,male,35-54 years,317,1282009,24.73,Austria2013,0.884,"430,068,712,972",53229,Generation X
+2125,Austria,2013,female,75+ years,64,431074,14.85,Austria2013,0.884,"430,068,712,972",53229,Silent
+2126,Austria,2013,male,25-34 years,75,563630,13.31,Austria2013,0.884,"430,068,712,972",53229,Millenials
+2127,Austria,2013,female,55-74 years,118,981829,12.02,Austria2013,0.884,"430,068,712,972",53229,Boomers
+2128,Austria,2013,male,15-24 years,54,518852,10.41,Austria2013,0.884,"430,068,712,972",53229,Millenials
+2129,Austria,2013,female,35-54 years,94,1279480,7.35,Austria2013,0.884,"430,068,712,972",53229,Generation X
+2130,Austria,2013,female,25-34 years,25,556475,4.49,Austria2013,0.884,"430,068,712,972",53229,Millenials
+2131,Austria,2013,female,15-24 years,20,496526,4.03,Austria2013,0.884,"430,068,712,972",53229,Millenials
+2132,Austria,2013,female,5-14 years,3,400256,0.75,Austria2013,0.884,"430,068,712,972",53229,Generation Z
+2133,Austria,2013,male,5-14 years,1,420342,0.24,Austria2013,0.884,"430,068,712,972",53229,Generation Z
+2134,Austria,2014,male,75+ years,206,269625,76.4,Austria2014,0.885,"441,885,415,806",54278,Silent
+2135,Austria,2014,male,55-74 years,282,906857,31.1,Austria2014,0.885,"441,885,415,806",54278,Boomers
+2136,Austria,2014,male,35-54 years,321,1280204,25.07,Austria2014,0.885,"441,885,415,806",54278,Generation X
+2137,Austria,2014,female,75+ years,77,442472,17.4,Austria2014,0.885,"441,885,415,806",54278,Silent
+2138,Austria,2014,male,25-34 years,100,576126,17.36,Austria2014,0.885,"441,885,415,806",54278,Millenials
+2139,Austria,2014,male,15-24 years,79,516580,15.29,Austria2014,0.885,"441,885,415,806",54278,Millenials
+2140,Austria,2014,female,55-74 years,108,993973,10.87,Austria2014,0.885,"441,885,415,806",54278,Boomers
+2141,Austria,2014,female,35-54 years,93,1276047,7.29,Austria2014,0.885,"441,885,415,806",54278,Generation X
+2142,Austria,2014,female,25-34 years,29,566622,5.12,Austria2014,0.885,"441,885,415,806",54278,Millenials
+2143,Austria,2014,female,15-24 years,17,493605,3.44,Austria2014,0.885,"441,885,415,806",54278,Millenials
+2144,Austria,2014,male,5-14 years,2,419646,0.48,Austria2014,0.885,"441,885,415,806",54278,Generation Z
+2145,Austria,2014,female,5-14 years,0,399408,0.0,Austria2014,0.885,"441,885,415,806",54278,Generation Z
+2146,Austria,2015,male,75+ years,214,290329,73.71,Austria2015,,"382,065,930,308",46484,Silent
+2147,Austria,2015,male,55-74 years,294,915115,32.13,Austria2015,,"382,065,930,308",46484,Boomers
+2148,Austria,2015,male,35-54 years,313,1279822,24.46,Austria2015,,"382,065,930,308",46484,Generation X
+2149,Austria,2015,female,75+ years,70,461676,15.16,Austria2015,,"382,065,930,308",46484,Silent
+2150,Austria,2015,male,25-34 years,78,590968,13.2,Austria2015,,"382,065,930,308",46484,Millenials
+2151,Austria,2015,male,15-24 years,61,519646,11.74,Austria2015,,"382,065,930,308",46484,Millenials
+2152,Austria,2015,female,55-74 years,100,998854,10.01,Austria2015,,"382,065,930,308",46484,Boomers
+2153,Austria,2015,female,35-54 years,79,1273034,6.21,Austria2015,,"382,065,930,308",46484,Generation X
+2154,Austria,2015,female,15-24 years,19,490742,3.87,Austria2015,,"382,065,930,308",46484,Millenials
+2155,Austria,2015,female,25-34 years,21,576661,3.64,Austria2015,,"382,065,930,308",46484,Millenials
+2156,Austria,2015,female,5-14 years,1,400831,0.25,Austria2015,,"382,065,930,308",46484,Generation Z
+2157,Austria,2015,male,5-14 years,1,421708,0.24,Austria2015,,"382,065,930,308",46484,Generation Z
+2158,Austria,2016,male,75+ years,212,307692,68.9,Austria2016,,"390,799,991,147",46976,Silent
+2159,Austria,2016,male,55-74 years,290,928992,31.22,Austria2016,,"390,799,991,147",46976,Boomers
+2160,Austria,2016,male,35-54 years,260,1281202,20.29,Austria2016,,"390,799,991,147",46976,Generation X
+2161,Austria,2016,male,25-34 years,86,605922,14.19,Austria2016,,"390,799,991,147",46976,Millenials
+2162,Austria,2016,female,75+ years,61,478267,12.75,Austria2016,,"390,799,991,147",46976,Silent
+2163,Austria,2016,male,15-24 years,58,525977,11.03,Austria2016,,"390,799,991,147",46976,Millenials
+2164,Austria,2016,female,55-74 years,99,1009403,9.81,Austria2016,,"390,799,991,147",46976,Boomers
+2165,Austria,2016,female,35-54 years,95,1273241,7.46,Austria2016,,"390,799,991,147",46976,Generation X
+2166,Austria,2016,female,15-24 years,22,488020,4.51,Austria2016,,"390,799,991,147",46976,Millenials
+2167,Austria,2016,female,25-34 years,18,585913,3.07,Austria2016,,"390,799,991,147",46976,Millenials

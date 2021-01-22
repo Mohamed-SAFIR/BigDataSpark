@@ -1,0 +1,373 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+19680,Puerto Rico,1985,male,75+ years,25,46600,53.65,Puerto Rico1985,,"20,289,200,000",6582,G.I. Generation
+19681,Puerto Rico,1985,male,55-74 years,66,200900,32.85,Puerto Rico1985,,"20,289,200,000",6582,G.I. Generation
+19682,Puerto Rico,1985,male,35-54 years,70,322500,21.71,Puerto Rico1985,,"20,289,200,000",6582,Silent
+19683,Puerto Rico,1985,male,25-34 years,43,235800,18.24,Puerto Rico1985,,"20,289,200,000",6582,Boomers
+19684,Puerto Rico,1985,male,15-24 years,28,321500,8.71,Puerto Rico1985,,"20,289,200,000",6582,Generation X
+19685,Puerto Rico,1985,female,75+ years,4,53900,7.42,Puerto Rico1985,,"20,289,200,000",6582,G.I. Generation
+19686,Puerto Rico,1985,female,55-74 years,11,214700,5.12,Puerto Rico1985,,"20,289,200,000",6582,G.I. Generation
+19687,Puerto Rico,1985,female,25-34 years,8,267500,2.99,Puerto Rico1985,,"20,289,200,000",6582,Boomers
+19688,Puerto Rico,1985,female,35-54 years,8,361600,2.21,Puerto Rico1985,,"20,289,200,000",6582,Silent
+19689,Puerto Rico,1985,female,15-24 years,3,336300,0.89,Puerto Rico1985,,"20,289,200,000",6582,Generation X
+19690,Puerto Rico,1985,male,5-14 years,2,368000,0.54,Puerto Rico1985,,"20,289,200,000",6582,Generation X
+19691,Puerto Rico,1985,female,5-14 years,1,353200,0.28,Puerto Rico1985,,"20,289,200,000",6582,Generation X
+19692,Puerto Rico,1986,male,75+ years,35,49800,70.28,Puerto Rico1986,,"22,009,300,000",7002,G.I. Generation
+19693,Puerto Rico,1986,male,55-74 years,64,198000,32.32,Puerto Rico1986,,"22,009,300,000",7002,G.I. Generation
+19694,Puerto Rico,1986,male,35-54 years,94,342800,27.42,Puerto Rico1986,,"22,009,300,000",7002,Silent
+19695,Puerto Rico,1986,male,25-34 years,60,241300,24.87,Puerto Rico1986,,"22,009,300,000",7002,Boomers
+19696,Puerto Rico,1986,female,75+ years,4,58800,6.8,Puerto Rico1986,,"22,009,300,000",7002,G.I. Generation
+19697,Puerto Rico,1986,male,15-24 years,18,343800,5.24,Puerto Rico1986,,"22,009,300,000",7002,Generation X
+19698,Puerto Rico,1986,female,35-54 years,16,392500,4.08,Puerto Rico1986,,"22,009,300,000",7002,Silent
+19699,Puerto Rico,1986,female,55-74 years,7,225300,3.11,Puerto Rico1986,,"22,009,300,000",7002,G.I. Generation
+19700,Puerto Rico,1986,female,25-34 years,8,271700,2.94,Puerto Rico1986,,"22,009,300,000",7002,Boomers
+19701,Puerto Rico,1986,female,15-24 years,3,339700,0.88,Puerto Rico1986,,"22,009,300,000",7002,Generation X
+19702,Puerto Rico,1986,male,5-14 years,1,345800,0.29,Puerto Rico1986,,"22,009,300,000",7002,Generation X
+19703,Puerto Rico,1986,female,5-14 years,0,333700,0.0,Puerto Rico1986,,"22,009,300,000",7002,Generation X
+19704,Puerto Rico,1987,male,75+ years,23,50100,45.91,Puerto Rico1987,,"24,025,800,000",7533,G.I. Generation
+19705,Puerto Rico,1987,male,55-74 years,67,200800,33.37,Puerto Rico1987,,"24,025,800,000",7533,G.I. Generation
+19706,Puerto Rico,1987,male,35-54 years,72,348000,20.69,Puerto Rico1987,,"24,025,800,000",7533,Silent
+19707,Puerto Rico,1987,male,25-34 years,46,244900,18.78,Puerto Rico1987,,"24,025,800,000",7533,Boomers
+19708,Puerto Rico,1987,male,15-24 years,25,348900,7.17,Puerto Rico1987,,"24,025,800,000",7533,Generation X
+19709,Puerto Rico,1987,female,75+ years,4,59700,6.7,Puerto Rico1987,,"24,025,800,000",7533,G.I. Generation
+19710,Puerto Rico,1987,female,35-54 years,16,398300,4.02,Puerto Rico1987,,"24,025,800,000",7533,Silent
+19711,Puerto Rico,1987,female,55-74 years,9,228600,3.94,Puerto Rico1987,,"24,025,800,000",7533,G.I. Generation
+19712,Puerto Rico,1987,female,15-24 years,5,344700,1.45,Puerto Rico1987,,"24,025,800,000",7533,Generation X
+19713,Puerto Rico,1987,female,25-34 years,4,275800,1.45,Puerto Rico1987,,"24,025,800,000",7533,Boomers
+19714,Puerto Rico,1987,male,5-14 years,1,351000,0.28,Puerto Rico1987,,"24,025,800,000",7533,Generation X
+19715,Puerto Rico,1987,female,5-14 years,0,338600,0.0,Puerto Rico1987,,"24,025,800,000",7533,Generation X
+19716,Puerto Rico,1988,male,75+ years,31,51200,60.55,Puerto Rico1988,,"26,385,800,000",8155,G.I. Generation
+19717,Puerto Rico,1988,male,55-74 years,61,203700,29.95,Puerto Rico1988,,"26,385,800,000",8155,G.I. Generation
+19718,Puerto Rico,1988,male,35-54 years,97,352800,27.49,Puerto Rico1988,,"26,385,800,000",8155,Silent
+19719,Puerto Rico,1988,male,25-34 years,60,248400,24.15,Puerto Rico1988,,"26,385,800,000",8155,Boomers
+19720,Puerto Rico,1988,male,15-24 years,32,354000,9.04,Puerto Rico1988,,"26,385,800,000",8155,Generation X
+19721,Puerto Rico,1988,female,55-74 years,7,232000,3.02,Puerto Rico1988,,"26,385,800,000",8155,G.I. Generation
+19722,Puerto Rico,1988,female,35-54 years,11,404000,2.72,Puerto Rico1988,,"26,385,800,000",8155,Silent
+19723,Puerto Rico,1988,female,25-34 years,7,279800,2.5,Puerto Rico1988,,"26,385,800,000",8155,Boomers
+19724,Puerto Rico,1988,female,15-24 years,4,349700,1.14,Puerto Rico1988,,"26,385,800,000",8155,Generation X
+19725,Puerto Rico,1988,male,5-14 years,3,356100,0.84,Puerto Rico1988,,"26,385,800,000",8155,Generation X
+19726,Puerto Rico,1988,female,5-14 years,1,343400,0.29,Puerto Rico1988,,"26,385,800,000",8155,Generation X
+19727,Puerto Rico,1988,female,75+ years,0,60500,0.0,Puerto Rico1988,,"26,385,800,000",8155,G.I. Generation
+19728,Puerto Rico,1989,male,75+ years,32,52000,61.54,Puerto Rico1989,,"28,161,200,000",8576,G.I. Generation
+19729,Puerto Rico,1989,male,55-74 years,63,206700,30.48,Puerto Rico1989,,"28,161,200,000",8576,G.I. Generation
+19730,Puerto Rico,1989,male,35-54 years,107,358100,29.88,Puerto Rico1989,,"28,161,200,000",8576,Silent
+19731,Puerto Rico,1989,male,25-34 years,67,252100,26.58,Puerto Rico1989,,"28,161,200,000",8576,Boomers
+19732,Puerto Rico,1989,male,15-24 years,22,359300,6.12,Puerto Rico1989,,"28,161,200,000",8576,Generation X
+19733,Puerto Rico,1989,female,75+ years,3,61400,4.89,Puerto Rico1989,,"28,161,200,000",8576,G.I. Generation
+19734,Puerto Rico,1989,female,35-54 years,16,410100,3.9,Puerto Rico1989,,"28,161,200,000",8576,Silent
+19735,Puerto Rico,1989,female,55-74 years,7,235400,2.97,Puerto Rico1989,,"28,161,200,000",8576,G.I. Generation
+19736,Puerto Rico,1989,female,25-34 years,5,283900,1.76,Puerto Rico1989,,"28,161,200,000",8576,Boomers
+19737,Puerto Rico,1989,female,15-24 years,3,354900,0.85,Puerto Rico1989,,"28,161,200,000",8576,Generation X
+19738,Puerto Rico,1989,female,5-14 years,1,348500,0.29,Puerto Rico1989,,"28,161,200,000",8576,Generation X
+19739,Puerto Rico,1989,male,5-14 years,1,361400,0.28,Puerto Rico1989,,"28,161,200,000",8576,Generation X
+19740,Puerto Rico,1990,male,75+ years,32,53000,60.38,Puerto Rico1990,,"30,603,919,000",9552,G.I. Generation
+19741,Puerto Rico,1990,male,55-74 years,79,194000,40.72,Puerto Rico1990,,"30,603,919,000",9552,G.I. Generation
+19742,Puerto Rico,1990,male,35-54 years,115,359000,32.03,Puerto Rico1990,,"30,603,919,000",9552,Silent
+19743,Puerto Rico,1990,male,25-34 years,71,283000,25.09,Puerto Rico1990,,"30,603,919,000",9552,Boomers
+19744,Puerto Rico,1990,male,15-24 years,34,327000,10.4,Puerto Rico1990,,"30,603,919,000",9552,Generation X
+19745,Puerto Rico,1990,female,55-74 years,10,231000,4.33,Puerto Rico1990,,"30,603,919,000",9552,G.I. Generation
+19746,Puerto Rico,1990,female,35-54 years,13,416000,3.13,Puerto Rico1990,,"30,603,919,000",9552,Silent
+19747,Puerto Rico,1990,female,25-34 years,9,299000,3.01,Puerto Rico1990,,"30,603,919,000",9552,Boomers
+19748,Puerto Rico,1990,female,15-24 years,5,316000,1.58,Puerto Rico1990,,"30,603,919,000",9552,Generation X
+19749,Puerto Rico,1990,male,5-14 years,2,335000,0.6,Puerto Rico1990,,"30,603,919,000",9552,Generation X
+19750,Puerto Rico,1990,female,5-14 years,1,321000,0.31,Puerto Rico1990,,"30,603,919,000",9552,Generation X
+19751,Puerto Rico,1990,female,75+ years,0,70000,0.0,Puerto Rico1990,,"30,603,919,000",9552,G.I. Generation
+19752,Puerto Rico,1991,male,75+ years,43,57200,75.17,Puerto Rico1991,,"32,287,031,000",9974,G.I. Generation
+19753,Puerto Rico,1991,male,55-74 years,68,195000,34.87,Puerto Rico1991,,"32,287,031,000",9974,Silent
+19754,Puerto Rico,1991,male,35-54 years,121,364000,33.24,Puerto Rico1991,,"32,287,031,000",9974,Boomers
+19755,Puerto Rico,1991,male,25-34 years,47,292000,16.1,Puerto Rico1991,,"32,287,031,000",9974,Boomers
+19756,Puerto Rico,1991,male,15-24 years,39,326000,11.96,Puerto Rico1991,,"32,287,031,000",9974,Generation X
+19757,Puerto Rico,1991,female,35-54 years,17,424000,4.01,Puerto Rico1991,,"32,287,031,000",9974,Boomers
+19758,Puerto Rico,1991,female,55-74 years,8,235000,3.4,Puerto Rico1991,,"32,287,031,000",9974,Silent
+19759,Puerto Rico,1991,female,75+ years,2,71000,2.82,Puerto Rico1991,,"32,287,031,000",9974,G.I. Generation
+19760,Puerto Rico,1991,female,25-34 years,7,305000,2.3,Puerto Rico1991,,"32,287,031,000",9974,Boomers
+19761,Puerto Rico,1991,female,15-24 years,2,314000,0.64,Puerto Rico1991,,"32,287,031,000",9974,Generation X
+19762,Puerto Rico,1991,male,5-14 years,1,334000,0.3,Puerto Rico1991,,"32,287,031,000",9974,Millenials
+19763,Puerto Rico,1991,female,5-14 years,0,320000,0.0,Puerto Rico1991,,"32,287,031,000",9974,Millenials
+19764,Puerto Rico,1992,male,75+ years,23,66100,34.8,Puerto Rico1992,,"34,630,430,000",10533,G.I. Generation
+19765,Puerto Rico,1992,male,55-74 years,66,221400,29.81,Puerto Rico1992,,"34,630,430,000",10533,Silent
+19766,Puerto Rico,1992,male,35-54 years,98,397100,24.68,Puerto Rico1992,,"34,630,430,000",10533,Boomers
+19767,Puerto Rico,1992,male,25-34 years,61,253800,24.03,Puerto Rico1992,,"34,630,430,000",10533,Boomers
+19768,Puerto Rico,1992,male,15-24 years,31,318000,9.75,Puerto Rico1992,,"34,630,430,000",10533,Generation X
+19769,Puerto Rico,1992,female,55-74 years,10,259300,3.86,Puerto Rico1992,,"34,630,430,000",10533,Silent
+19770,Puerto Rico,1992,female,35-54 years,15,455200,3.3,Puerto Rico1992,,"34,630,430,000",10533,Boomers
+19771,Puerto Rico,1992,female,75+ years,2,82500,2.42,Puerto Rico1992,,"34,630,430,000",10533,G.I. Generation
+19772,Puerto Rico,1992,female,15-24 years,5,314100,1.59,Puerto Rico1992,,"34,630,430,000",10533,Generation X
+19773,Puerto Rico,1992,female,25-34 years,3,280600,1.07,Puerto Rico1992,,"34,630,430,000",10533,Boomers
+19774,Puerto Rico,1992,female,5-14 years,0,314000,0.0,Puerto Rico1992,,"34,630,430,000",10533,Millenials
+19775,Puerto Rico,1992,male,5-14 years,0,325800,0.0,Puerto Rico1992,,"34,630,430,000",10533,Millenials
+19776,Puerto Rico,1993,male,75+ years,34,68936,49.32,Puerto Rico1993,,"36,922,456,000",11146,G.I. Generation
+19777,Puerto Rico,1993,male,35-54 years,116,408115,28.42,Puerto Rico1993,,"36,922,456,000",11146,Boomers
+19778,Puerto Rico,1993,male,25-34 years,69,250629,27.53,Puerto Rico1993,,"36,922,456,000",11146,Boomers
+19779,Puerto Rico,1993,male,55-74 years,59,229549,25.7,Puerto Rico1993,,"36,922,456,000",11146,Silent
+19780,Puerto Rico,1993,male,15-24 years,33,312503,10.56,Puerto Rico1993,,"36,922,456,000",11146,Generation X
+19781,Puerto Rico,1993,female,35-54 years,16,467965,3.42,Puerto Rico1993,,"36,922,456,000",11146,Boomers
+19782,Puerto Rico,1993,female,55-74 years,7,268361,2.61,Puerto Rico1993,,"36,922,456,000",11146,Silent
+19783,Puerto Rico,1993,female,15-24 years,6,310130,1.93,Puerto Rico1993,,"36,922,456,000",11146,Generation X
+19784,Puerto Rico,1993,female,25-34 years,4,277006,1.44,Puerto Rico1993,,"36,922,456,000",11146,Boomers
+19785,Puerto Rico,1993,female,5-14 years,1,310642,0.32,Puerto Rico1993,,"36,922,456,000",11146,Millenials
+19786,Puerto Rico,1993,female,75+ years,0,86920,0.0,Puerto Rico1993,,"36,922,456,000",11146,G.I. Generation
+19787,Puerto Rico,1993,male,5-14 years,0,321716,0.0,Puerto Rico1993,,"36,922,456,000",11146,Millenials
+19788,Puerto Rico,1994,male,75+ years,28,70019,39.99,Puerto Rico1994,,"39,690,630,000",11871,G.I. Generation
+19789,Puerto Rico,1994,male,35-54 years,119,416464,28.57,Puerto Rico1994,,"39,690,630,000",11871,Boomers
+19790,Puerto Rico,1994,male,55-74 years,65,235516,27.6,Puerto Rico1994,,"39,690,630,000",11871,Silent
+19791,Puerto Rico,1994,male,25-34 years,68,249479,27.26,Puerto Rico1994,,"39,690,630,000",11871,Boomers
+19792,Puerto Rico,1994,male,15-24 years,35,315916,11.08,Puerto Rico1994,,"39,690,630,000",11871,Generation X
+19793,Puerto Rico,1994,female,35-54 years,18,478324,3.76,Puerto Rico1994,,"39,690,630,000",11871,Boomers
+19794,Puerto Rico,1994,female,75+ years,2,89539,2.23,Puerto Rico1994,,"39,690,630,000",11871,G.I. Generation
+19795,Puerto Rico,1994,female,55-74 years,6,276151,2.17,Puerto Rico1994,,"39,690,630,000",11871,Silent
+19796,Puerto Rico,1994,female,15-24 years,5,312389,1.6,Puerto Rico1994,,"39,690,630,000",11871,Generation X
+19797,Puerto Rico,1994,male,5-14 years,5,317830,1.57,Puerto Rico1994,,"39,690,630,000",11871,Millenials
+19798,Puerto Rico,1994,female,25-34 years,4,275045,1.45,Puerto Rico1994,,"39,690,630,000",11871,Boomers
+19799,Puerto Rico,1994,female,5-14 years,0,306952,0.0,Puerto Rico1994,,"39,690,630,000",11871,Millenials
+19800,Puerto Rico,1995,male,75+ years,26,71169,36.53,Puerto Rico1995,,"42,647,331,000",12636,G.I. Generation
+19801,Puerto Rico,1995,male,35-54 years,94,424318,22.15,Puerto Rico1995,,"42,647,331,000",12636,Boomers
+19802,Puerto Rico,1995,male,25-34 years,50,247971,20.16,Puerto Rico1995,,"42,647,331,000",12636,Generation X
+19803,Puerto Rico,1995,male,55-74 years,47,242286,19.4,Puerto Rico1995,,"42,647,331,000",12636,Silent
+19804,Puerto Rico,1995,male,15-24 years,38,319165,11.91,Puerto Rico1995,,"42,647,331,000",12636,Generation X
+19805,Puerto Rico,1995,female,55-74 years,10,284606,3.51,Puerto Rico1995,,"42,647,331,000",12636,Silent
+19806,Puerto Rico,1995,female,35-54 years,13,487958,2.66,Puerto Rico1995,,"42,647,331,000",12636,Boomers
+19807,Puerto Rico,1995,female,25-34 years,6,272632,2.2,Puerto Rico1995,,"42,647,331,000",12636,Generation X
+19808,Puerto Rico,1995,female,15-24 years,4,314481,1.27,Puerto Rico1995,,"42,647,331,000",12636,Generation X
+19809,Puerto Rico,1995,female,75+ years,1,92485,1.08,Puerto Rico1995,,"42,647,331,000",12636,G.I. Generation
+19810,Puerto Rico,1995,female,5-14 years,0,303666,0.0,Puerto Rico1995,,"42,647,331,000",12636,Millenials
+19811,Puerto Rico,1995,male,5-14 years,0,314417,0.0,Puerto Rico1995,,"42,647,331,000",12636,Millenials
+19812,Puerto Rico,1996,male,75+ years,31,73432,42.22,Puerto Rico1996,,"45,340,835,000",13328,G.I. Generation
+19813,Puerto Rico,1996,male,35-54 years,113,430008,26.28,Puerto Rico1996,,"45,340,835,000",13328,Boomers
+19814,Puerto Rico,1996,male,25-34 years,62,251033,24.7,Puerto Rico1996,,"45,340,835,000",13328,Generation X
+19815,Puerto Rico,1996,male,55-74 years,55,246870,22.28,Puerto Rico1996,,"45,340,835,000",13328,Silent
+19816,Puerto Rico,1996,male,15-24 years,35,317510,11.02,Puerto Rico1996,,"45,340,835,000",13328,Generation X
+19817,Puerto Rico,1996,female,75+ years,4,95751,4.18,Puerto Rico1996,,"45,340,835,000",13328,G.I. Generation
+19818,Puerto Rico,1996,female,15-24 years,8,313521,2.55,Puerto Rico1996,,"45,340,835,000",13328,Generation X
+19819,Puerto Rico,1996,female,55-74 years,7,290912,2.41,Puerto Rico1996,,"45,340,835,000",13328,Silent
+19820,Puerto Rico,1996,female,35-54 years,10,495701,2.02,Puerto Rico1996,,"45,340,835,000",13328,Boomers
+19821,Puerto Rico,1996,female,25-34 years,5,273883,1.83,Puerto Rico1996,,"45,340,835,000",13328,Generation X
+19822,Puerto Rico,1996,male,5-14 years,1,312022,0.32,Puerto Rico1996,,"45,340,835,000",13328,Millenials
+19823,Puerto Rico,1996,female,5-14 years,0,301180,0.0,Puerto Rico1996,,"45,340,835,000",13328,Millenials
+19824,Puerto Rico,1997,male,35-54 years,107,436249,24.53,Puerto Rico1997,,"48,187,039,000",14037,Boomers
+19825,Puerto Rico,1997,male,55-74 years,57,252076,22.61,Puerto Rico1997,,"48,187,039,000",14037,Silent
+19826,Puerto Rico,1997,male,75+ years,16,75620,21.16,Puerto Rico1997,,"48,187,039,000",14037,G.I. Generation
+19827,Puerto Rico,1997,male,25-34 years,36,254232,14.16,Puerto Rico1997,,"48,187,039,000",14037,Generation X
+19828,Puerto Rico,1997,male,15-24 years,37,315165,11.74,Puerto Rico1997,,"48,187,039,000",14037,Generation X
+19829,Puerto Rico,1997,female,35-54 years,12,503717,2.38,Puerto Rico1997,,"48,187,039,000",14037,Boomers
+19830,Puerto Rico,1997,female,55-74 years,5,297772,1.68,Puerto Rico1997,,"48,187,039,000",14037,Silent
+19831,Puerto Rico,1997,female,25-34 years,1,275007,0.36,Puerto Rico1997,,"48,187,039,000",14037,Generation X
+19832,Puerto Rico,1997,male,5-14 years,1,311608,0.32,Puerto Rico1997,,"48,187,039,000",14037,Millenials
+19833,Puerto Rico,1997,female,15-24 years,1,311937,0.32,Puerto Rico1997,,"48,187,039,000",14037,Generation X
+19834,Puerto Rico,1997,female,5-14 years,0,300253,0.0,Puerto Rico1997,,"48,187,039,000",14037,Millenials
+19835,Puerto Rico,1997,female,75+ years,0,99121,0.0,Puerto Rico1997,,"48,187,039,000",14037,G.I. Generation
+19836,Puerto Rico,1998,male,75+ years,32,77560,41.26,Puerto Rico1998,,"54,086,400,000",15610,G.I. Generation
+19837,Puerto Rico,1998,male,35-54 years,103,442734,23.26,Puerto Rico1998,,"54,086,400,000",15610,Boomers
+19838,Puerto Rico,1998,male,25-34 years,55,256954,21.4,Puerto Rico1998,,"54,086,400,000",15610,Generation X
+19839,Puerto Rico,1998,male,55-74 years,55,257733,21.34,Puerto Rico1998,,"54,086,400,000",15610,Silent
+19840,Puerto Rico,1998,male,15-24 years,42,312752,13.43,Puerto Rico1998,,"54,086,400,000",15610,Generation X
+19841,Puerto Rico,1998,female,55-74 years,8,305106,2.62,Puerto Rico1998,,"54,086,400,000",15610,Silent
+19842,Puerto Rico,1998,female,15-24 years,8,310034,2.58,Puerto Rico1998,,"54,086,400,000",15610,Generation X
+19843,Puerto Rico,1998,female,35-54 years,11,511564,2.15,Puerto Rico1998,,"54,086,400,000",15610,Boomers
+19844,Puerto Rico,1998,female,25-34 years,3,275628,1.09,Puerto Rico1998,,"54,086,400,000",15610,Generation X
+19845,Puerto Rico,1998,female,75+ years,1,102476,0.98,Puerto Rico1998,,"54,086,400,000",15610,G.I. Generation
+19846,Puerto Rico,1998,male,5-14 years,3,312182,0.96,Puerto Rico1998,,"54,086,400,000",15610,Millenials
+19847,Puerto Rico,1998,female,5-14 years,0,300111,0.0,Puerto Rico1998,,"54,086,400,000",15610,Millenials
+19848,Puerto Rico,1999,male,75+ years,29,79062,36.68,Puerto Rico1999,,"57,841,000,000",16560,G.I. Generation
+19849,Puerto Rico,1999,male,35-54 years,103,448569,22.96,Puerto Rico1999,,"57,841,000,000",16560,Boomers
+19850,Puerto Rico,1999,male,55-74 years,54,263761,20.47,Puerto Rico1999,,"57,841,000,000",16560,Silent
+19851,Puerto Rico,1999,male,25-34 years,48,258647,18.56,Puerto Rico1999,,"57,841,000,000",16560,Generation X
+19852,Puerto Rico,1999,male,15-24 years,22,310365,7.09,Puerto Rico1999,,"57,841,000,000",16560,Generation X
+19853,Puerto Rico,1999,female,55-74 years,11,312915,3.52,Puerto Rico1999,,"57,841,000,000",16560,Silent
+19854,Puerto Rico,1999,female,75+ years,3,105573,2.84,Puerto Rico1999,,"57,841,000,000",16560,G.I. Generation
+19855,Puerto Rico,1999,female,25-34 years,5,275536,1.81,Puerto Rico1999,,"57,841,000,000",16560,Generation X
+19856,Puerto Rico,1999,female,35-54 years,9,518263,1.74,Puerto Rico1999,,"57,841,000,000",16560,Boomers
+19857,Puerto Rico,1999,female,5-14 years,2,299738,0.67,Puerto Rico1999,,"57,841,000,000",16560,Millenials
+19858,Puerto Rico,1999,female,15-24 years,2,307757,0.65,Puerto Rico1999,,"57,841,000,000",16560,Generation X
+19859,Puerto Rico,1999,male,5-14 years,1,312535,0.32,Puerto Rico1999,,"57,841,000,000",16560,Millenials
+19860,Puerto Rico,2000,male,35-54 years,127,453001,28.04,Puerto Rico2000,,"61,701,800,000",17569,Boomers
+19861,Puerto Rico,2000,male,75+ years,19,80076,23.73,Puerto Rico2000,,"61,701,800,000",17569,G.I. Generation
+19862,Puerto Rico,2000,male,55-74 years,57,270196,21.1,Puerto Rico2000,,"61,701,800,000",17569,Silent
+19863,Puerto Rico,2000,male,25-34 years,43,258901,16.61,Puerto Rico2000,,"61,701,800,000",17569,Generation X
+19864,Puerto Rico,2000,male,15-24 years,32,307961,10.39,Puerto Rico2000,,"61,701,800,000",17569,Generation X
+19865,Puerto Rico,2000,female,25-34 years,8,274613,2.91,Puerto Rico2000,,"61,701,800,000",17569,Generation X
+19866,Puerto Rico,2000,female,55-74 years,7,321269,2.18,Puerto Rico2000,,"61,701,800,000",17569,Silent
+19867,Puerto Rico,2000,female,35-54 years,9,523033,1.72,Puerto Rico2000,,"61,701,800,000",17569,Boomers
+19868,Puerto Rico,2000,female,75+ years,1,108286,0.92,Puerto Rico2000,,"61,701,800,000",17569,G.I. Generation
+19869,Puerto Rico,2000,female,15-24 years,2,305040,0.66,Puerto Rico2000,,"61,701,800,000",17569,Generation X
+19870,Puerto Rico,2000,female,5-14 years,0,298109,0.0,Puerto Rico2000,,"61,701,800,000",17569,Millenials
+19871,Puerto Rico,2000,male,5-14 years,0,311462,0.0,Puerto Rico2000,,"61,701,800,000",17569,Millenials
+19872,Puerto Rico,2001,male,75+ years,20,81513,24.54,Puerto Rico2001,,"69,208,400,000",19649,Silent
+19873,Puerto Rico,2001,male,55-74 years,61,274330,22.24,Puerto Rico2001,,"69,208,400,000",19649,Silent
+19874,Puerto Rico,2001,male,35-54 years,93,452544,20.55,Puerto Rico2001,,"69,208,400,000",19649,Boomers
+19875,Puerto Rico,2001,male,25-34 years,41,260445,15.74,Puerto Rico2001,,"69,208,400,000",19649,Generation X
+19876,Puerto Rico,2001,male,15-24 years,38,306820,12.39,Puerto Rico2001,,"69,208,400,000",19649,Millenials
+19877,Puerto Rico,2001,female,35-54 years,15,522777,2.87,Puerto Rico2001,,"69,208,400,000",19649,Boomers
+19878,Puerto Rico,2001,female,75+ years,3,111602,2.69,Puerto Rico2001,,"69,208,400,000",19649,Silent
+19879,Puerto Rico,2001,female,55-74 years,8,326573,2.45,Puerto Rico2001,,"69,208,400,000",19649,Silent
+19880,Puerto Rico,2001,female,25-34 years,4,275480,1.45,Puerto Rico2001,,"69,208,400,000",19649,Generation X
+19881,Puerto Rico,2001,female,15-24 years,4,303110,1.32,Puerto Rico2001,,"69,208,400,000",19649,Millenials
+19882,Puerto Rico,2001,male,5-14 years,2,310009,0.65,Puerto Rico2001,,"69,208,400,000",19649,Millenials
+19883,Puerto Rico,2001,female,5-14 years,0,297009,0.0,Puerto Rico2001,,"69,208,400,000",19649,Millenials
+19884,Puerto Rico,2002,male,75+ years,22,82408,26.7,Puerto Rico2002,,"71,623,500,000",20325,Silent
+19885,Puerto Rico,2002,male,35-54 years,80,451276,17.73,Puerto Rico2002,,"71,623,500,000",20325,Boomers
+19886,Puerto Rico,2002,male,55-74 years,47,278010,16.91,Puerto Rico2002,,"71,623,500,000",20325,Silent
+19887,Puerto Rico,2002,male,25-34 years,37,261506,14.15,Puerto Rico2002,,"71,623,500,000",20325,Generation X
+19888,Puerto Rico,2002,male,15-24 years,16,304764,5.25,Puerto Rico2002,,"71,623,500,000",20325,Millenials
+19889,Puerto Rico,2002,female,25-34 years,9,275792,3.26,Puerto Rico2002,,"71,623,500,000",20325,Generation X
+19890,Puerto Rico,2002,female,55-74 years,10,331501,3.02,Puerto Rico2002,,"71,623,500,000",20325,Silent
+19891,Puerto Rico,2002,female,35-54 years,14,521365,2.69,Puerto Rico2002,,"71,623,500,000",20325,Boomers
+19892,Puerto Rico,2002,female,75+ years,1,114357,0.87,Puerto Rico2002,,"71,623,500,000",20325,Silent
+19893,Puerto Rico,2002,female,15-24 years,2,300542,0.67,Puerto Rico2002,,"71,623,500,000",20325,Millenials
+19894,Puerto Rico,2002,female,5-14 years,1,294844,0.34,Puerto Rico2002,,"71,623,500,000",20325,Millenials
+19895,Puerto Rico,2002,male,5-14 years,0,307586,0.0,Puerto Rico2002,,"71,623,500,000",20325,Millenials
+19896,Puerto Rico,2003,male,75+ years,23,82868,27.75,Puerto Rico2003,,"74,827,400,000",21264,Silent
+19897,Puerto Rico,2003,male,35-54 years,102,450073,22.66,Puerto Rico2003,,"74,827,400,000",21264,Boomers
+19898,Puerto Rico,2003,male,55-74 years,51,280807,18.16,Puerto Rico2003,,"74,827,400,000",21264,Silent
+19899,Puerto Rico,2003,male,15-24 years,34,302523,11.24,Puerto Rico2003,,"74,827,400,000",21264,Millenials
+19900,Puerto Rico,2003,male,25-34 years,29,261935,11.07,Puerto Rico2003,,"74,827,400,000",21264,Generation X
+19901,Puerto Rico,2003,female,35-54 years,11,519735,2.12,Puerto Rico2003,,"74,827,400,000",21264,Boomers
+19902,Puerto Rico,2003,female,15-24 years,5,298065,1.68,Puerto Rico2003,,"74,827,400,000",21264,Millenials
+19903,Puerto Rico,2003,female,25-34 years,3,275189,1.09,Puerto Rico2003,,"74,827,400,000",21264,Generation X
+19904,Puerto Rico,2003,female,55-74 years,3,335704,0.89,Puerto Rico2003,,"74,827,400,000",21264,Silent
+19905,Puerto Rico,2003,male,5-14 years,1,304000,0.33,Puerto Rico2003,,"74,827,400,000",21264,Millenials
+19906,Puerto Rico,2003,female,5-14 years,0,291486,0.0,Puerto Rico2003,,"74,827,400,000",21264,Millenials
+19907,Puerto Rico,2003,female,75+ years,0,116641,0.0,Puerto Rico2003,,"74,827,400,000",21264,Silent
+19908,Puerto Rico,2004,male,75+ years,28,83003,33.73,Puerto Rico2004,,"80,322,313,000",22874,Silent
+19909,Puerto Rico,2004,male,35-54 years,101,449605,22.46,Puerto Rico2004,,"80,322,313,000",22874,Boomers
+19910,Puerto Rico,2004,male,25-34 years,49,261853,18.71,Puerto Rico2004,,"80,322,313,000",22874,Generation X
+19911,Puerto Rico,2004,male,55-74 years,52,282860,18.38,Puerto Rico2004,,"80,322,313,000",22874,Silent
+19912,Puerto Rico,2004,male,15-24 years,25,300813,8.31,Puerto Rico2004,,"80,322,313,000",22874,Millenials
+19913,Puerto Rico,2004,female,25-34 years,6,273756,2.19,Puerto Rico2004,,"80,322,313,000",22874,Generation X
+19914,Puerto Rico,2004,female,55-74 years,6,339277,1.77,Puerto Rico2004,,"80,322,313,000",22874,Silent
+19915,Puerto Rico,2004,female,35-54 years,8,518614,1.54,Puerto Rico2004,,"80,322,313,000",22874,Boomers
+19916,Puerto Rico,2004,female,75+ years,1,118620,0.84,Puerto Rico2004,,"80,322,313,000",22874,Silent
+19917,Puerto Rico,2004,female,5-14 years,1,287120,0.35,Puerto Rico2004,,"80,322,313,000",22874,Millenials
+19918,Puerto Rico,2004,female,15-24 years,1,296310,0.34,Puerto Rico2004,,"80,322,313,000",22874,Millenials
+19919,Puerto Rico,2004,male,5-14 years,1,299631,0.33,Puerto Rico2004,,"80,322,313,000",22874,Millenials
+19920,Puerto Rico,2005,male,75+ years,20,82848,24.14,Puerto Rico2005,,"83,914,521,300",23944,Silent
+19921,Puerto Rico,2005,male,55-74 years,61,284745,21.42,Puerto Rico2005,,"83,914,521,300",23944,Silent
+19922,Puerto Rico,2005,male,35-54 years,96,449867,21.34,Puerto Rico2005,,"83,914,521,300",23944,Boomers
+19923,Puerto Rico,2005,male,25-34 years,39,261481,14.92,Puerto Rico2005,,"83,914,521,300",23944,Generation X
+19924,Puerto Rico,2005,male,15-24 years,29,299874,9.67,Puerto Rico2005,,"83,914,521,300",23944,Millenials
+19925,Puerto Rico,2005,female,55-74 years,13,342743,3.79,Puerto Rico2005,,"83,914,521,300",23944,Silent
+19926,Puerto Rico,2005,female,35-54 years,16,517943,3.09,Puerto Rico2005,,"83,914,521,300",23944,Boomers
+19927,Puerto Rico,2005,female,75+ years,3,120440,2.49,Puerto Rico2005,,"83,914,521,300",23944,Silent
+19928,Puerto Rico,2005,female,25-34 years,6,271874,2.21,Puerto Rico2005,,"83,914,521,300",23944,Generation X
+19929,Puerto Rico,2005,male,5-14 years,3,295231,1.02,Puerto Rico2005,,"83,914,521,300",23944,Millenials
+19930,Puerto Rico,2005,female,15-24 years,3,295371,1.02,Puerto Rico2005,,"83,914,521,300",23944,Millenials
+19931,Puerto Rico,2005,female,5-14 years,0,282182,0.0,Puerto Rico2005,,"83,914,521,300",23944,Millenials
+19932,Puerto Rico,2006,male,75+ years,18,84087,21.41,Puerto Rico2006,,"87,276,164,400",24943,Silent
+19933,Puerto Rico,2006,male,55-74 years,61,287227,21.24,Puerto Rico2006,,"87,276,164,400",24943,Silent
+19934,Puerto Rico,2006,male,35-54 years,90,449039,20.04,Puerto Rico2006,,"87,276,164,400",24943,Boomers
+19935,Puerto Rico,2006,male,25-34 years,36,262664,13.71,Puerto Rico2006,,"87,276,164,400",24943,Generation X
+19936,Puerto Rico,2006,male,15-24 years,38,296984,12.8,Puerto Rico2006,,"87,276,164,400",24943,Millenials
+19937,Puerto Rico,2006,female,35-54 years,12,515654,2.33,Puerto Rico2006,,"87,276,164,400",24943,Boomers
+19938,Puerto Rico,2006,female,15-24 years,4,292349,1.37,Puerto Rico2006,,"87,276,164,400",24943,Millenials
+19939,Puerto Rico,2006,female,55-74 years,3,346943,0.86,Puerto Rico2006,,"87,276,164,400",24943,Silent
+19940,Puerto Rico,2006,female,75+ years,1,122755,0.81,Puerto Rico2006,,"87,276,164,400",24943,Silent
+19941,Puerto Rico,2006,female,25-34 years,2,272125,0.73,Puerto Rico2006,,"87,276,164,400",24943,Generation X
+19942,Puerto Rico,2006,female,5-14 years,0,277415,0.0,Puerto Rico2006,,"87,276,164,400",24943,Millenials
+19943,Puerto Rico,2006,male,5-14 years,0,291794,0.0,Puerto Rico2006,,"87,276,164,400",24943,Millenials
+19944,Puerto Rico,2007,male,35-54 years,96,448825,21.39,Puerto Rico2007,,"89,524,131,600",25625,Boomers
+19945,Puerto Rico,2007,male,25-34 years,52,263585,19.73,Puerto Rico2007,,"89,524,131,600",25625,Generation X
+19946,Puerto Rico,2007,male,75+ years,14,84940,16.48,Puerto Rico2007,,"89,524,131,600",25625,Silent
+19947,Puerto Rico,2007,male,55-74 years,47,289540,16.23,Puerto Rico2007,,"89,524,131,600",25625,Silent
+19948,Puerto Rico,2007,male,15-24 years,16,294490,5.43,Puerto Rico2007,,"89,524,131,600",25625,Millenials
+19949,Puerto Rico,2007,female,55-74 years,14,351052,3.99,Puerto Rico2007,,"89,524,131,600",25625,Silent
+19950,Puerto Rico,2007,female,35-54 years,15,513804,2.92,Puerto Rico2007,,"89,524,131,600",25625,Boomers
+19951,Puerto Rico,2007,female,25-34 years,6,272334,2.2,Puerto Rico2007,,"89,524,131,600",25625,Generation X
+19952,Puerto Rico,2007,female,15-24 years,6,289832,2.07,Puerto Rico2007,,"89,524,131,600",25625,Millenials
+19953,Puerto Rico,2007,female,75+ years,2,124729,1.6,Puerto Rico2007,,"89,524,131,600",25625,Silent
+19954,Puerto Rico,2007,male,5-14 years,3,288317,1.04,Puerto Rico2007,,"89,524,131,600",25625,Generation Z
+19955,Puerto Rico,2007,female,5-14 years,0,272183,0.0,Puerto Rico2007,,"89,524,131,600",25625,Generation Z
+19956,Puerto Rico,2008,male,75+ years,22,85490,25.73,Puerto Rico2008,,"93,639,316,000",26840,Silent
+19957,Puerto Rico,2008,male,35-54 years,107,449809,23.79,Puerto Rico2008,,"93,639,316,000",26840,Boomers
+19958,Puerto Rico,2008,male,55-74 years,65,291349,22.31,Puerto Rico2008,,"93,639,316,000",26840,Silent
+19959,Puerto Rico,2008,male,25-34 years,37,264001,14.02,Puerto Rico2008,,"93,639,316,000",26840,Generation X
+19960,Puerto Rico,2008,male,15-24 years,21,292754,7.17,Puerto Rico2008,,"93,639,316,000",26840,Millenials
+19961,Puerto Rico,2008,female,55-74 years,18,354699,5.07,Puerto Rico2008,,"93,639,316,000",26840,Silent
+19962,Puerto Rico,2008,female,35-54 years,16,512979,3.12,Puerto Rico2008,,"93,639,316,000",26840,Boomers
+19963,Puerto Rico,2008,female,25-34 years,6,272186,2.2,Puerto Rico2008,,"93,639,316,000",26840,Generation X
+19964,Puerto Rico,2008,female,15-24 years,5,288120,1.74,Puerto Rico2008,,"93,639,316,000",26840,Millenials
+19965,Puerto Rico,2008,female,75+ years,2,126441,1.58,Puerto Rico2008,,"93,639,316,000",26840,Silent
+19966,Puerto Rico,2008,male,5-14 years,1,284529,0.35,Puerto Rico2008,,"93,639,316,000",26840,Generation Z
+19967,Puerto Rico,2008,female,5-14 years,0,266454,0.0,Puerto Rico2008,,"93,639,316,000",26840,Generation Z
+19968,Puerto Rico,2009,male,75+ years,31,85763,36.15,Puerto Rico2009,,"96,385,638,000",27661,Silent
+19969,Puerto Rico,2009,male,55-74 years,82,292914,27.99,Puerto Rico2009,,"96,385,638,000",27661,Silent
+19970,Puerto Rico,2009,male,35-54 years,111,451905,24.56,Puerto Rico2009,,"96,385,638,000",27661,Boomers
+19971,Puerto Rico,2009,male,25-34 years,51,263724,19.34,Puerto Rico2009,,"96,385,638,000",27661,Generation X
+19972,Puerto Rico,2009,male,15-24 years,25,291774,8.57,Puerto Rico2009,,"96,385,638,000",27661,Millenials
+19973,Puerto Rico,2009,female,25-34 years,7,271400,2.58,Puerto Rico2009,,"96,385,638,000",27661,Generation X
+19974,Puerto Rico,2009,female,35-54 years,12,513239,2.34,Puerto Rico2009,,"96,385,638,000",27661,Boomers
+19975,Puerto Rico,2009,female,55-74 years,7,357988,1.96,Puerto Rico2009,,"96,385,638,000",27661,Silent
+19976,Puerto Rico,2009,female,15-24 years,3,287058,1.05,Puerto Rico2009,,"96,385,638,000",27661,Millenials
+19977,Puerto Rico,2009,male,5-14 years,1,280317,0.36,Puerto Rico2009,,"96,385,638,000",27661,Generation Z
+19978,Puerto Rico,2009,female,5-14 years,0,260415,0.0,Puerto Rico2009,,"96,385,638,000",27661,Generation Z
+19979,Puerto Rico,2009,female,75+ years,0,127977,0.0,Puerto Rico2009,,"96,385,638,000",27661,Silent
+19980,Puerto Rico,2010,male,75+ years,24,85716,28.0,Puerto Rico2010,,"98,381,268,000",28267,Silent
+19981,Puerto Rico,2010,male,35-54 years,100,454479,22.0,Puerto Rico2010,,"98,381,268,000",28267,Generation X
+19982,Puerto Rico,2010,male,55-74 years,60,294917,20.34,Puerto Rico2010,,"98,381,268,000",28267,Silent
+19983,Puerto Rico,2010,male,25-34 years,39,262714,14.85,Puerto Rico2010,,"98,381,268,000",28267,Generation X
+19984,Puerto Rico,2010,male,15-24 years,18,291351,6.18,Puerto Rico2010,,"98,381,268,000",28267,Millenials
+19985,Puerto Rico,2010,female,55-74 years,15,361444,4.15,Puerto Rico2010,,"98,381,268,000",28267,Silent
+19986,Puerto Rico,2010,female,35-54 years,20,514121,3.89,Puerto Rico2010,,"98,381,268,000",28267,Generation X
+19987,Puerto Rico,2010,female,75+ years,2,129428,1.55,Puerto Rico2010,,"98,381,268,000",28267,Silent
+19988,Puerto Rico,2010,female,25-34 years,4,269903,1.48,Puerto Rico2010,,"98,381,268,000",28267,Generation X
+19989,Puerto Rico,2010,female,15-24 years,4,286261,1.4,Puerto Rico2010,,"98,381,268,000",28267,Millenials
+19990,Puerto Rico,2010,female,5-14 years,0,254282,0.0,Puerto Rico2010,,"98,381,268,000",28267,Generation Z
+19991,Puerto Rico,2010,male,5-14 years,0,275763,0.0,Puerto Rico2010,,"98,381,268,000",28267,Generation Z
+19992,Puerto Rico,2011,male,55-74 years,60,298080,20.13,Puerto Rico2011,,"100,351,670,000",28876,Boomers
+19993,Puerto Rico,2011,male,75+ years,17,87017,19.54,Puerto Rico2011,,"100,351,670,000",28876,Silent
+19994,Puerto Rico,2011,male,35-54 years,80,455006,17.58,Puerto Rico2011,,"100,351,670,000",28876,Generation X
+19995,Puerto Rico,2011,male,25-34 years,42,262837,15.98,Puerto Rico2011,,"100,351,670,000",28876,Millenials
+19996,Puerto Rico,2011,male,15-24 years,16,289288,5.53,Puerto Rico2011,,"100,351,670,000",28876,Millenials
+19997,Puerto Rico,2011,female,35-54 years,22,512691,4.29,Puerto Rico2011,,"100,351,670,000",28876,Generation X
+19998,Puerto Rico,2011,female,25-34 years,7,269310,2.6,Puerto Rico2011,,"100,351,670,000",28876,Millenials
+19999,Puerto Rico,2011,female,55-74 years,7,365982,1.91,Puerto Rico2011,,"100,351,670,000",28876,Boomers
+20000,Puerto Rico,2011,female,15-24 years,3,283416,1.06,Puerto Rico2011,,"100,351,670,000",28876,Millenials
+20001,Puerto Rico,2011,female,5-14 years,2,248914,0.8,Puerto Rico2011,,"100,351,670,000",28876,Generation Z
+20002,Puerto Rico,2011,female,75+ years,1,132081,0.76,Puerto Rico2011,,"100,351,670,000",28876,Silent
+20003,Puerto Rico,2011,male,5-14 years,1,270676,0.37,Puerto Rico2011,,"100,351,670,000",28876,Generation Z
+20004,Puerto Rico,2012,male,55-74 years,60,301891,19.87,Puerto Rico2012,,"101,564,800,000",29247,Boomers
+20005,Puerto Rico,2012,male,75+ years,17,88081,19.3,Puerto Rico2012,,"101,564,800,000",29247,Silent
+20006,Puerto Rico,2012,male,35-54 years,71,456110,15.57,Puerto Rico2012,,"101,564,800,000",29247,Generation X
+20007,Puerto Rico,2012,male,15-24 years,30,287397,10.44,Puerto Rico2012,,"101,564,800,000",29247,Millenials
+20008,Puerto Rico,2012,male,25-34 years,24,262555,9.14,Puerto Rico2012,,"101,564,800,000",29247,Millenials
+20009,Puerto Rico,2012,female,55-74 years,18,370902,4.85,Puerto Rico2012,,"101,564,800,000",29247,Boomers
+20010,Puerto Rico,2012,female,35-54 years,16,512033,3.12,Puerto Rico2012,,"101,564,800,000",29247,Generation X
+20011,Puerto Rico,2012,female,25-34 years,7,268351,2.61,Puerto Rico2012,,"101,564,800,000",29247,Millenials
+20012,Puerto Rico,2012,male,5-14 years,2,265879,0.75,Puerto Rico2012,,"101,564,800,000",29247,Generation Z
+20013,Puerto Rico,2012,female,75+ years,1,134700,0.74,Puerto Rico2012,,"101,564,800,000",29247,Silent
+20014,Puerto Rico,2012,female,15-24 years,2,280632,0.71,Puerto Rico2012,,"101,564,800,000",29247,Millenials
+20015,Puerto Rico,2012,female,5-14 years,0,244141,0.0,Puerto Rico2012,,"101,564,800,000",29247,Generation Z
+20016,Puerto Rico,2013,male,75+ years,26,88987,29.22,Puerto Rico2013,,"102,450,000,000",29510,Silent
+20017,Puerto Rico,2013,male,55-74 years,62,305754,20.28,Puerto Rico2013,,"102,450,000,000",29510,Boomers
+20018,Puerto Rico,2013,male,35-54 years,75,458071,16.37,Puerto Rico2013,,"102,450,000,000",29510,Generation X
+20019,Puerto Rico,2013,male,25-34 years,21,261857,8.02,Puerto Rico2013,,"102,450,000,000",29510,Millenials
+20020,Puerto Rico,2013,male,15-24 years,19,285809,6.65,Puerto Rico2013,,"102,450,000,000",29510,Millenials
+20021,Puerto Rico,2013,female,35-54 years,18,512297,3.51,Puerto Rico2013,,"102,450,000,000",29510,Generation X
+20022,Puerto Rico,2013,female,25-34 years,7,267016,2.62,Puerto Rico2013,,"102,450,000,000",29510,Millenials
+20023,Puerto Rico,2013,female,55-74 years,9,375735,2.4,Puerto Rico2013,,"102,450,000,000",29510,Boomers
+20024,Puerto Rico,2013,female,15-24 years,2,278008,0.72,Puerto Rico2013,,"102,450,000,000",29510,Millenials
+20025,Puerto Rico,2013,female,5-14 years,1,239617,0.42,Puerto Rico2013,,"102,450,000,000",29510,Generation Z
+20026,Puerto Rico,2013,male,5-14 years,1,261151,0.38,Puerto Rico2013,,"102,450,000,000",29510,Generation Z
+20027,Puerto Rico,2013,female,75+ years,0,137363,0.0,Puerto Rico2013,,"102,450,000,000",29510,Silent
+20028,Puerto Rico,2014,male,55-74 years,75,309364,24.24,Puerto Rico2014,,"102,445,800,000",29515,Boomers
+20029,Puerto Rico,2014,male,75+ years,15,89765,16.71,Puerto Rico2014,,"102,445,800,000",29515,Silent
+20030,Puerto Rico,2014,male,35-54 years,56,460685,12.16,Puerto Rico2014,,"102,445,800,000",29515,Generation X
+20031,Puerto Rico,2014,male,25-34 years,20,260905,7.67,Puerto Rico2014,,"102,445,800,000",29515,Millenials
+20032,Puerto Rico,2014,male,15-24 years,20,284397,7.03,Puerto Rico2014,,"102,445,800,000",29515,Millenials
+20033,Puerto Rico,2014,female,35-54 years,15,513217,2.92,Puerto Rico2014,,"102,445,800,000",29515,Generation X
+20034,Puerto Rico,2014,female,55-74 years,10,380342,2.63,Puerto Rico2014,,"102,445,800,000",29515,Boomers
+20035,Puerto Rico,2014,female,25-34 years,4,265511,1.51,Puerto Rico2014,,"102,445,800,000",29515,Millenials
+20036,Puerto Rico,2014,male,5-14 years,2,256354,0.78,Puerto Rico2014,,"102,445,800,000",29515,Generation Z
+20037,Puerto Rico,2014,female,15-24 years,2,275354,0.73,Puerto Rico2014,,"102,445,800,000",29515,Millenials
+20038,Puerto Rico,2014,female,75+ years,1,140033,0.71,Puerto Rico2014,,"102,445,800,000",29515,Silent
+20039,Puerto Rico,2014,female,5-14 years,0,235029,0.0,Puerto Rico2014,,"102,445,800,000",29515,Generation Z
+20040,Puerto Rico,2015,male,75+ years,25,90392,27.66,Puerto Rico2015,,"103,143,500,000",29728,Silent
+20041,Puerto Rico,2015,male,55-74 years,66,312933,21.09,Puerto Rico2015,,"103,143,500,000",29728,Boomers
+20042,Puerto Rico,2015,male,35-54 years,74,463417,15.97,Puerto Rico2015,,"103,143,500,000",29728,Generation X
+20043,Puerto Rico,2015,male,25-34 years,26,259881,10.0,Puerto Rico2015,,"103,143,500,000",29728,Millenials
+20044,Puerto Rico,2015,male,15-24 years,9,282974,3.18,Puerto Rico2015,,"103,143,500,000",29728,Millenials
+20045,Puerto Rico,2015,female,55-74 years,10,384967,2.6,Puerto Rico2015,,"103,143,500,000",29728,Boomers
+20046,Puerto Rico,2015,female,25-34 years,5,264053,1.89,Puerto Rico2015,,"103,143,500,000",29728,Millenials
+20047,Puerto Rico,2015,female,35-54 years,7,514290,1.36,Puerto Rico2015,,"103,143,500,000",29728,Generation X
+20048,Puerto Rico,2015,female,15-24 years,2,272389,0.73,Puerto Rico2015,,"103,143,500,000",29728,Millenials
+20049,Puerto Rico,2015,female,75+ years,1,142678,0.7,Puerto Rico2015,,"103,143,500,000",29728,Silent
+20050,Puerto Rico,2015,male,5-14 years,1,251369,0.4,Puerto Rico2015,,"103,143,500,000",29728,Generation Z
+20051,Puerto Rico,2015,female,5-14 years,0,230178,0.0,Puerto Rico2015,,"103,143,500,000",29728,Generation Z

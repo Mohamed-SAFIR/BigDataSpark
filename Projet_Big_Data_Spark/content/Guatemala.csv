@@ -1,0 +1,361 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+10704,Guatemala,1986,male,25-34 years,46,522775,8.8,Guatemala1986,,"7,231,963,516",1044,Boomers
+10705,Guatemala,1986,male,75+ years,3,36473,8.23,Guatemala1986,,"7,231,963,516",1044,G.I. Generation
+10706,Guatemala,1986,male,15-24 years,65,804664,8.08,Guatemala1986,,"7,231,963,516",1044,Generation X
+10707,Guatemala,1986,male,55-74 years,19,278407,6.82,Guatemala1986,,"7,231,963,516",1044,G.I. Generation
+10708,Guatemala,1986,male,35-54 years,32,577043,5.55,Guatemala1986,,"7,231,963,516",1044,Silent
+10709,Guatemala,1986,female,15-24 years,17,807507,2.11,Guatemala1986,,"7,231,963,516",1044,Generation X
+10710,Guatemala,1986,female,35-54 years,9,608676,1.48,Guatemala1986,,"7,231,963,516",1044,Silent
+10711,Guatemala,1986,female,25-34 years,8,554851,1.44,Guatemala1986,,"7,231,963,516",1044,Boomers
+10712,Guatemala,1986,female,5-14 years,2,1184961,0.17,Guatemala1986,,"7,231,963,516",1044,Generation X
+10713,Guatemala,1986,male,5-14 years,2,1221857,0.16,Guatemala1986,,"7,231,963,516",1044,Generation X
+10714,Guatemala,1986,female,55-74 years,0,284393,0.0,Guatemala1986,,"7,231,963,516",1044,G.I. Generation
+10715,Guatemala,1986,female,75+ years,0,42581,0.0,Guatemala1986,,"7,231,963,516",1044,G.I. Generation
+10716,Guatemala,1987,male,75+ years,5,38144,13.11,Guatemala1987,,"7,084,399,840",997,G.I. Generation
+10717,Guatemala,1987,male,25-34 years,63,531366,11.86,Guatemala1987,,"7,084,399,840",997,Boomers
+10718,Guatemala,1987,male,35-54 years,49,588914,8.32,Guatemala1987,,"7,084,399,840",997,Silent
+10719,Guatemala,1987,male,55-74 years,16,286727,5.58,Guatemala1987,,"7,084,399,840",997,G.I. Generation
+10720,Guatemala,1987,male,15-24 years,45,826321,5.45,Guatemala1987,,"7,084,399,840",997,Generation X
+10721,Guatemala,1987,female,75+ years,2,44390,4.51,Guatemala1987,,"7,084,399,840",997,G.I. Generation
+10722,Guatemala,1987,female,25-34 years,16,567102,2.82,Guatemala1987,,"7,084,399,840",997,Boomers
+10723,Guatemala,1987,female,15-24 years,21,831270,2.53,Guatemala1987,,"7,084,399,840",997,Generation X
+10724,Guatemala,1987,female,35-54 years,13,625628,2.08,Guatemala1987,,"7,084,399,840",997,Silent
+10725,Guatemala,1987,female,55-74 years,3,293688,1.02,Guatemala1987,,"7,084,399,840",997,G.I. Generation
+10726,Guatemala,1987,male,5-14 years,6,1256693,0.48,Guatemala1987,,"7,084,399,840",997,Generation X
+10727,Guatemala,1987,female,5-14 years,2,1218497,0.16,Guatemala1987,,"7,084,399,840",997,Generation X
+10728,Guatemala,1988,male,75+ years,8,39641,20.18,Guatemala1988,,"7,841,602,824",1074,G.I. Generation
+10729,Guatemala,1988,male,35-54 years,43,602425,7.14,Guatemala1988,,"7,841,602,824",1074,Silent
+10730,Guatemala,1988,male,25-34 years,38,539024,7.05,Guatemala1988,,"7,841,602,824",1074,Boomers
+10731,Guatemala,1988,male,15-24 years,41,850454,4.82,Guatemala1988,,"7,841,602,824",1074,Generation X
+10732,Guatemala,1988,male,55-74 years,10,295096,3.39,Guatemala1988,,"7,841,602,824",1074,G.I. Generation
+10733,Guatemala,1988,female,15-24 years,14,857407,1.63,Guatemala1988,,"7,841,602,824",1074,Generation X
+10734,Guatemala,1988,female,25-34 years,8,578654,1.38,Guatemala1988,,"7,841,602,824",1074,Boomers
+10735,Guatemala,1988,female,35-54 years,6,644602,0.93,Guatemala1988,,"7,841,602,824",1074,Silent
+10736,Guatemala,1988,female,55-74 years,1,303222,0.33,Guatemala1988,,"7,841,602,824",1074,G.I. Generation
+10737,Guatemala,1988,male,5-14 years,3,1291517,0.23,Guatemala1988,,"7,841,602,824",1074,Generation X
+10738,Guatemala,1988,female,5-14 years,2,1251951,0.16,Guatemala1988,,"7,841,602,824",1074,Generation X
+10739,Guatemala,1988,female,75+ years,0,46083,0.0,Guatemala1988,,"7,841,602,824",1074,G.I. Generation
+10740,Guatemala,1989,male,75+ years,4,40886,9.78,Guatemala1989,,"8,410,724,361",1122,G.I. Generation
+10741,Guatemala,1989,male,25-34 years,36,546765,6.58,Guatemala1989,,"8,410,724,361",1122,Boomers
+10742,Guatemala,1989,male,55-74 years,18,303352,5.93,Guatemala1989,,"8,410,724,361",1122,G.I. Generation
+10743,Guatemala,1989,male,35-54 years,31,616089,5.03,Guatemala1989,,"8,410,724,361",1122,Silent
+10744,Guatemala,1989,male,15-24 years,31,876831,3.54,Guatemala1989,,"8,410,724,361",1122,Generation X
+10745,Guatemala,1989,female,25-34 years,12,590425,2.03,Guatemala1989,,"8,410,724,361",1122,Boomers
+10746,Guatemala,1989,female,35-54 years,8,664347,1.2,Guatemala1989,,"8,410,724,361",1122,Silent
+10747,Guatemala,1989,female,15-24 years,6,885511,0.68,Guatemala1989,,"8,410,724,361",1122,Generation X
+10748,Guatemala,1989,female,5-14 years,4,1283852,0.31,Guatemala1989,,"8,410,724,361",1122,Generation X
+10749,Guatemala,1989,male,5-14 years,2,1324615,0.15,Guatemala1989,,"8,410,724,361",1122,Generation X
+10750,Guatemala,1989,female,55-74 years,0,312844,0.0,Guatemala1989,,"8,410,724,361",1122,G.I. Generation
+10751,Guatemala,1989,female,75+ years,0,47591,0.0,Guatemala1989,,"8,410,724,361",1122,G.I. Generation
+10752,Guatemala,1990,male,75+ years,4,41850,9.56,Guatemala1990,0.483,"7,650,125,217",996,G.I. Generation
+10753,Guatemala,1990,male,25-34 years,45,555151,8.11,Guatemala1990,0.483,"7,650,125,217",996,Boomers
+10754,Guatemala,1990,male,35-54 years,37,628848,5.88,Guatemala1990,0.483,"7,650,125,217",996,Silent
+10755,Guatemala,1990,male,15-24 years,34,905373,3.76,Guatemala1990,0.483,"7,650,125,217",996,Generation X
+10756,Guatemala,1990,male,55-74 years,9,311351,2.89,Guatemala1990,0.483,"7,650,125,217",996,G.I. Generation
+10757,Guatemala,1990,female,35-54 years,8,684099,1.17,Guatemala1990,0.483,"7,650,125,217",996,Silent
+10758,Guatemala,1990,female,15-24 years,10,915256,1.09,Guatemala1990,0.483,"7,650,125,217",996,Generation X
+10759,Guatemala,1990,female,25-34 years,6,603010,1.0,Guatemala1990,0.483,"7,650,125,217",996,Boomers
+10760,Guatemala,1990,female,55-74 years,1,322429,0.31,Guatemala1990,0.483,"7,650,125,217",996,G.I. Generation
+10761,Guatemala,1990,female,5-14 years,2,1312953,0.15,Guatemala1990,0.483,"7,650,125,217",996,Generation X
+10762,Guatemala,1990,male,5-14 years,2,1354763,0.15,Guatemala1990,0.483,"7,650,125,217",996,Generation X
+10763,Guatemala,1990,female,75+ years,0,48909,0.0,Guatemala1990,0.483,"7,650,125,217",996,G.I. Generation
+10764,Guatemala,1991,male,75+ years,4,44056,9.08,Guatemala1991,,"9,406,097,735",1194,G.I. Generation
+10765,Guatemala,1991,male,35-54 years,45,642940,7.0,Guatemala1991,,"9,406,097,735",1194,Boomers
+10766,Guatemala,1991,male,25-34 years,36,566970,6.35,Guatemala1991,,"9,406,097,735",1194,Boomers
+10767,Guatemala,1991,male,55-74 years,11,318299,3.46,Guatemala1991,,"9,406,097,735",1194,Silent
+10768,Guatemala,1991,male,15-24 years,24,931649,2.58,Guatemala1991,,"9,406,097,735",1194,Generation X
+10769,Guatemala,1991,female,15-24 years,15,943849,1.59,Guatemala1991,,"9,406,097,735",1194,Generation X
+10770,Guatemala,1991,female,55-74 years,4,331253,1.21,Guatemala1991,,"9,406,097,735",1194,Silent
+10771,Guatemala,1991,female,35-54 years,7,705012,0.99,Guatemala1991,,"9,406,097,735",1194,Boomers
+10772,Guatemala,1991,female,25-34 years,6,618151,0.97,Guatemala1991,,"9,406,097,735",1194,Boomers
+10773,Guatemala,1991,male,5-14 years,4,1384596,0.29,Guatemala1991,,"9,406,097,735",1194,Millenials
+10774,Guatemala,1991,female,5-14 years,0,1342485,0.0,Guatemala1991,,"9,406,097,735",1194,Millenials
+10775,Guatemala,1991,female,75+ years,0,51405,0.0,Guatemala1991,,"9,406,097,735",1194,G.I. Generation
+10776,Guatemala,1992,male,75+ years,5,45943,10.88,Guatemala1992,,"10,440,842,165",1294,G.I. Generation
+10777,Guatemala,1992,male,35-54 years,52,656247,7.92,Guatemala1992,,"10,440,842,165",1294,Boomers
+10778,Guatemala,1992,male,15-24 years,43,958307,4.49,Guatemala1992,,"10,440,842,165",1294,Generation X
+10779,Guatemala,1992,male,55-74 years,13,324698,4.0,Guatemala1992,,"10,440,842,165",1294,Silent
+10780,Guatemala,1992,male,25-34 years,22,578709,3.8,Guatemala1992,,"10,440,842,165",1294,Boomers
+10781,Guatemala,1992,female,35-54 years,14,725674,1.93,Guatemala1992,,"10,440,842,165",1294,Boomers
+10782,Guatemala,1992,female,75+ years,1,53676,1.86,Guatemala1992,,"10,440,842,165",1294,G.I. Generation
+10783,Guatemala,1992,female,25-34 years,8,633652,1.26,Guatemala1992,,"10,440,842,165",1294,Boomers
+10784,Guatemala,1992,female,15-24 years,12,973024,1.23,Guatemala1992,,"10,440,842,165",1294,Generation X
+10785,Guatemala,1992,female,55-74 years,3,339788,0.88,Guatemala1992,,"10,440,842,165",1294,Silent
+10786,Guatemala,1992,female,5-14 years,0,1368743,0.0,Guatemala1992,,"10,440,842,165",1294,Millenials
+10787,Guatemala,1992,male,5-14 years,0,1411211,0.0,Guatemala1992,,"10,440,842,165",1294,Millenials
+10788,Guatemala,1993,male,25-34 years,40,590858,6.77,Guatemala1993,,"11,399,942,453",1381,Boomers
+10789,Guatemala,1993,male,75+ years,3,47600,6.3,Guatemala1993,,"11,399,942,453",1381,G.I. Generation
+10790,Guatemala,1993,male,35-54 years,41,669216,6.13,Guatemala1993,,"11,399,942,453",1381,Boomers
+10791,Guatemala,1993,male,55-74 years,14,330703,4.23,Guatemala1993,,"11,399,942,453",1381,Silent
+10792,Guatemala,1993,male,15-24 years,32,986185,3.24,Guatemala1993,,"11,399,942,453",1381,Generation X
+10793,Guatemala,1993,female,55-74 years,4,348142,1.15,Guatemala1993,,"11,399,942,453",1381,Silent
+10794,Guatemala,1993,female,15-24 years,10,1003449,1.0,Guatemala1993,,"11,399,942,453",1381,Generation X
+10795,Guatemala,1993,female,35-54 years,7,746296,0.94,Guatemala1993,,"11,399,942,453",1381,Boomers
+10796,Guatemala,1993,female,25-34 years,5,649869,0.77,Guatemala1993,,"11,399,942,453",1381,Boomers
+10797,Guatemala,1993,male,5-14 years,5,1434745,0.35,Guatemala1993,,"11,399,942,453",1381,Millenials
+10798,Guatemala,1993,female,5-14 years,4,1392070,0.29,Guatemala1993,,"11,399,942,453",1381,Millenials
+10799,Guatemala,1993,female,75+ years,0,55825,0.0,Guatemala1993,,"11,399,942,453",1381,G.I. Generation
+10800,Guatemala,1994,male,75+ years,3,49144,6.1,Guatemala1994,,"12,983,235,568",1538,G.I. Generation
+10801,Guatemala,1994,male,25-34 years,30,603841,4.97,Guatemala1994,,"12,983,235,568",1538,Boomers
+10802,Guatemala,1994,male,35-54 years,32,682516,4.69,Guatemala1994,,"12,983,235,568",1538,Boomers
+10803,Guatemala,1994,male,15-24 years,42,1016187,4.13,Guatemala1994,,"12,983,235,568",1538,Generation X
+10804,Guatemala,1994,male,55-74 years,10,336518,2.97,Guatemala1994,,"12,983,235,568",1538,Silent
+10805,Guatemala,1994,female,15-24 years,11,1035674,1.06,Guatemala1994,,"12,983,235,568",1538,Generation X
+10806,Guatemala,1994,female,55-74 years,3,356534,0.84,Guatemala1994,,"12,983,235,568",1538,Silent
+10807,Guatemala,1994,female,25-34 years,4,667227,0.6,Guatemala1994,,"12,983,235,568",1538,Boomers
+10808,Guatemala,1994,male,5-14 years,5,1456798,0.34,Guatemala1994,,"12,983,235,568",1538,Millenials
+10809,Guatemala,1994,female,35-54 years,1,767533,0.13,Guatemala1994,,"12,983,235,568",1538,Boomers
+10810,Guatemala,1994,female,5-14 years,1,1413928,0.07,Guatemala1994,,"12,983,235,568",1538,Millenials
+10811,Guatemala,1994,female,75+ years,0,58014,0.0,Guatemala1994,,"12,983,235,568",1538,G.I. Generation
+10812,Guatemala,1995,male,25-34 years,43,617700,6.96,Guatemala1995,0.513,"14,655,404,433",1696,Generation X
+10813,Guatemala,1995,male,35-54 years,47,696270,6.75,Guatemala1995,0.513,"14,655,404,433",1696,Boomers
+10814,Guatemala,1995,male,15-24 years,56,1048793,5.34,Guatemala1995,0.513,"14,655,404,433",1696,Generation X
+10815,Guatemala,1995,male,75+ years,2,50656,3.95,Guatemala1995,0.513,"14,655,404,433",1696,G.I. Generation
+10816,Guatemala,1995,male,55-74 years,13,342226,3.8,Guatemala1995,0.513,"14,655,404,433",1696,Silent
+10817,Guatemala,1995,female,15-24 years,18,1069684,1.68,Guatemala1995,0.513,"14,655,404,433",1696,Generation X
+10818,Guatemala,1995,female,75+ years,1,60348,1.66,Guatemala1995,0.513,"14,655,404,433",1696,G.I. Generation
+10819,Guatemala,1995,female,35-54 years,13,789773,1.65,Guatemala1995,0.513,"14,655,404,433",1696,Boomers
+10820,Guatemala,1995,female,25-34 years,9,685827,1.31,Guatemala1995,0.513,"14,655,404,433",1696,Generation X
+10821,Guatemala,1995,female,55-74 years,2,365062,0.55,Guatemala1995,0.513,"14,655,404,433",1696,Silent
+10822,Guatemala,1995,female,5-14 years,4,1435874,0.28,Guatemala1995,0.513,"14,655,404,433",1696,Millenials
+10823,Guatemala,1995,male,5-14 years,3,1479299,0.2,Guatemala1995,0.513,"14,655,404,433",1696,Millenials
+10824,Guatemala,1996,male,75+ years,4,53865,7.43,Guatemala1996,,"15,674,835,615",1775,G.I. Generation
+10825,Guatemala,1996,male,25-34 years,41,634452,6.46,Guatemala1996,,"15,674,835,615",1775,Generation X
+10826,Guatemala,1996,male,35-54 years,35,711024,4.92,Guatemala1996,,"15,674,835,615",1775,Boomers
+10827,Guatemala,1996,male,55-74 years,17,346994,4.9,Guatemala1996,,"15,674,835,615",1775,Silent
+10828,Guatemala,1996,male,15-24 years,25,1075948,2.32,Guatemala1996,,"15,674,835,615",1775,Generation X
+10829,Guatemala,1996,female,15-24 years,17,1098841,1.55,Guatemala1996,,"15,674,835,615",1775,Generation X
+10830,Guatemala,1996,female,25-34 years,7,706026,0.99,Guatemala1996,,"15,674,835,615",1775,Generation X
+10831,Guatemala,1996,female,35-54 years,6,812204,0.74,Guatemala1996,,"15,674,835,615",1775,Boomers
+10832,Guatemala,1996,female,55-74 years,2,372293,0.54,Guatemala1996,,"15,674,835,615",1775,Silent
+10833,Guatemala,1996,male,5-14 years,2,1499270,0.13,Guatemala1996,,"15,674,835,615",1775,Millenials
+10834,Guatemala,1996,female,5-14 years,1,1457269,0.07,Guatemala1996,,"15,674,835,615",1775,Millenials
+10835,Guatemala,1996,female,75+ years,0,64140,0.0,Guatemala1996,,"15,674,835,615",1775,G.I. Generation
+10836,Guatemala,1997,male,35-54 years,40,727096,5.5,Guatemala1997,,"17,790,026,222",1967,Boomers
+10837,Guatemala,1997,male,25-34 years,29,652379,4.45,Guatemala1997,,"17,790,026,222",1967,Generation X
+10838,Guatemala,1997,male,15-24 years,48,1105530,4.34,Guatemala1997,,"17,790,026,222",1967,Generation X
+10839,Guatemala,1997,male,55-74 years,13,352178,3.69,Guatemala1997,,"17,790,026,222",1967,Silent
+10840,Guatemala,1997,male,75+ years,2,57054,3.51,Guatemala1997,,"17,790,026,222",1967,G.I. Generation
+10841,Guatemala,1997,female,15-24 years,22,1130115,1.95,Guatemala1997,,"17,790,026,222",1967,Generation X
+10842,Guatemala,1997,female,35-54 years,11,836324,1.32,Guatemala1997,,"17,790,026,222",1967,Boomers
+10843,Guatemala,1997,female,25-34 years,6,728049,0.82,Guatemala1997,,"17,790,026,222",1967,Generation X
+10844,Guatemala,1997,female,55-74 years,2,380152,0.53,Guatemala1997,,"17,790,026,222",1967,Silent
+10845,Guatemala,1997,female,5-14 years,3,1483012,0.2,Guatemala1997,,"17,790,026,222",1967,Millenials
+10846,Guatemala,1997,male,5-14 years,3,1524274,0.2,Guatemala1997,,"17,790,026,222",1967,Millenials
+10847,Guatemala,1997,female,75+ years,0,68042,0.0,Guatemala1997,,"17,790,026,222",1967,G.I. Generation
+10848,Guatemala,1998,male,75+ years,6,60230,9.96,Guatemala1998,,"19,395,491,993",2091,G.I. Generation
+10849,Guatemala,1998,male,25-34 years,41,671525,6.11,Guatemala1998,,"19,395,491,993",2091,Generation X
+10850,Guatemala,1998,male,35-54 years,36,744377,4.84,Guatemala1998,,"19,395,491,993",2091,Boomers
+10851,Guatemala,1998,male,15-24 years,54,1136859,4.75,Guatemala1998,,"19,395,491,993",2091,Generation X
+10852,Guatemala,1998,male,55-74 years,14,357635,3.91,Guatemala1998,,"19,395,491,993",2091,Silent
+10853,Guatemala,1998,female,75+ years,2,72064,2.78,Guatemala1998,,"19,395,491,993",2091,G.I. Generation
+10854,Guatemala,1998,female,15-24 years,24,1162699,2.06,Guatemala1998,,"19,395,491,993",2091,Generation X
+10855,Guatemala,1998,female,35-54 years,10,861697,1.16,Guatemala1998,,"19,395,491,993",2091,Boomers
+10856,Guatemala,1998,female,55-74 years,2,388431,0.51,Guatemala1998,,"19,395,491,993",2091,Silent
+10857,Guatemala,1998,female,25-34 years,3,751641,0.4,Guatemala1998,,"19,395,491,993",2091,Generation X
+10858,Guatemala,1998,male,5-14 years,5,1553770,0.32,Guatemala1998,,"19,395,491,993",2091,Millenials
+10859,Guatemala,1998,female,5-14 years,4,1512601,0.26,Guatemala1998,,"19,395,491,993",2091,Millenials
+10860,Guatemala,1999,male,75+ years,5,63409,7.89,Guatemala1999,,"18,318,412,251",1926,G.I. Generation
+10861,Guatemala,1999,male,25-34 years,54,691691,7.81,Guatemala1999,,"18,318,412,251",1926,Generation X
+10862,Guatemala,1999,male,35-54 years,55,762548,7.21,Guatemala1999,,"18,318,412,251",1926,Boomers
+10863,Guatemala,1999,male,15-24 years,59,1168283,5.05,Guatemala1999,,"18,318,412,251",1926,Generation X
+10864,Guatemala,1999,male,55-74 years,14,363067,3.86,Guatemala1999,,"18,318,412,251",1926,Silent
+10865,Guatemala,1999,female,15-24 years,18,1194770,1.51,Guatemala1999,,"18,318,412,251",1926,Generation X
+10866,Guatemala,1999,female,35-54 years,10,887894,1.13,Guatemala1999,,"18,318,412,251",1926,Boomers
+10867,Guatemala,1999,female,25-34 years,7,776336,0.9,Guatemala1999,,"18,318,412,251",1926,Generation X
+10868,Guatemala,1999,female,55-74 years,2,396778,0.5,Guatemala1999,,"18,318,412,251",1926,Silent
+10869,Guatemala,1999,female,5-14 years,5,1544869,0.32,Guatemala1999,,"18,318,412,251",1926,Millenials
+10870,Guatemala,1999,male,5-14 years,5,1586803,0.32,Guatemala1999,,"18,318,412,251",1926,Millenials
+10871,Guatemala,1999,female,75+ years,0,76218,0.0,Guatemala1999,,"18,318,412,251",1926,G.I. Generation
+10872,Guatemala,2000,male,25-34 years,45,712716,6.31,Guatemala2000,0.552,"19,288,827,159",1977,Generation X
+10873,Guatemala,2000,male,55-74 years,21,368401,5.7,Guatemala2000,0.552,"19,288,827,159",1977,Silent
+10874,Guatemala,2000,male,75+ years,3,66627,4.5,Guatemala2000,0.552,"19,288,827,159",1977,G.I. Generation
+10875,Guatemala,2000,male,15-24 years,49,1199179,4.09,Guatemala2000,0.552,"19,288,827,159",1977,Generation X
+10876,Guatemala,2000,male,35-54 years,19,781304,2.43,Guatemala2000,0.552,"19,288,827,159",1977,Boomers
+10877,Guatemala,2000,female,15-24 years,20,1225314,1.63,Guatemala2000,0.552,"19,288,827,159",1977,Generation X
+10878,Guatemala,2000,female,25-34 years,8,801834,1.0,Guatemala2000,0.552,"19,288,827,159",1977,Generation X
+10879,Guatemala,2000,female,35-54 years,7,914858,0.77,Guatemala2000,0.552,"19,288,827,159",1977,Boomers
+10880,Guatemala,2000,female,55-74 years,2,405113,0.49,Guatemala2000,0.552,"19,288,827,159",1977,Silent
+10881,Guatemala,2000,male,5-14 years,5,1621778,0.31,Guatemala2000,0.552,"19,288,827,159",1977,Millenials
+10882,Guatemala,2000,female,5-14 years,3,1577920,0.19,Guatemala2000,0.552,"19,288,827,159",1977,Millenials
+10883,Guatemala,2000,female,75+ years,0,80541,0.0,Guatemala2000,0.552,"19,288,827,159",1977,G.I. Generation
+10884,Guatemala,2001,male,75+ years,5,71336,7.01,Guatemala2001,,"18,702,802,395",1867,Silent
+10885,Guatemala,2001,male,35-54 years,39,802949,4.86,Guatemala2001,,"18,702,802,395",1867,Boomers
+10886,Guatemala,2001,male,25-34 years,35,741173,4.72,Guatemala2001,,"18,702,802,395",1867,Generation X
+10887,Guatemala,2001,male,55-74 years,17,372875,4.56,Guatemala2001,,"18,702,802,395",1867,Silent
+10888,Guatemala,2001,male,15-24 years,52,1229384,4.23,Guatemala2001,,"18,702,802,395",1867,Millenials
+10889,Guatemala,2001,female,15-24 years,30,1253297,2.39,Guatemala2001,,"18,702,802,395",1867,Millenials
+10890,Guatemala,2001,female,25-34 years,9,831947,1.08,Guatemala2001,,"18,702,802,395",1867,Generation X
+10891,Guatemala,2001,female,55-74 years,3,412890,0.73,Guatemala2001,,"18,702,802,395",1867,Silent
+10892,Guatemala,2001,female,35-54 years,6,944723,0.64,Guatemala2001,,"18,702,802,395",1867,Boomers
+10893,Guatemala,2001,female,5-14 years,4,1611925,0.25,Guatemala2001,,"18,702,802,395",1867,Millenials
+10894,Guatemala,2001,male,5-14 years,2,1656505,0.12,Guatemala2001,,"18,702,802,395",1867,Millenials
+10895,Guatemala,2001,female,75+ years,0,86093,0.0,Guatemala2001,,"18,702,802,395",1867,Silent
+10896,Guatemala,2002,male,55-74 years,26,377333,6.89,Guatemala2002,,"20,776,669,467",2022,Silent
+10897,Guatemala,2002,male,25-34 years,47,770700,6.1,Guatemala2002,,"20,776,669,467",2022,Generation X
+10898,Guatemala,2002,male,35-54 years,50,826155,6.05,Guatemala2002,,"20,776,669,467",2022,Boomers
+10899,Guatemala,2002,male,75+ years,4,76028,5.26,Guatemala2002,,"20,776,669,467",2022,Silent
+10900,Guatemala,2002,male,15-24 years,60,1257598,4.77,Guatemala2002,,"20,776,669,467",2022,Millenials
+10901,Guatemala,2002,female,75+ years,4,91705,4.36,Guatemala2002,,"20,776,669,467",2022,Silent
+10902,Guatemala,2002,female,15-24 years,28,1278693,2.19,Guatemala2002,,"20,776,669,467",2022,Millenials
+10903,Guatemala,2002,female,55-74 years,8,420750,1.9,Guatemala2002,,"20,776,669,467",2022,Silent
+10904,Guatemala,2002,female,25-34 years,14,862814,1.62,Guatemala2002,,"20,776,669,467",2022,Generation X
+10905,Guatemala,2002,female,35-54 years,9,975928,0.92,Guatemala2002,,"20,776,669,467",2022,Boomers
+10906,Guatemala,2002,male,5-14 years,7,1692961,0.41,Guatemala2002,,"20,776,669,467",2022,Millenials
+10907,Guatemala,2002,female,5-14 years,1,1646501,0.06,Guatemala2002,,"20,776,669,467",2022,Millenials
+10908,Guatemala,2003,male,75+ years,8,80652,9.92,Guatemala2003,,"21,917,706,491",2079,Silent
+10909,Guatemala,2003,male,25-34 years,51,801449,6.36,Guatemala2003,,"21,917,706,491",2079,Generation X
+10910,Guatemala,2003,male,35-54 years,51,850642,6.0,Guatemala2003,,"21,917,706,491",2079,Boomers
+10911,Guatemala,2003,male,15-24 years,67,1285345,5.21,Guatemala2003,,"21,917,706,491",2079,Millenials
+10912,Guatemala,2003,male,55-74 years,17,382491,4.44,Guatemala2003,,"21,917,706,491",2079,Silent
+10913,Guatemala,2003,female,15-24 years,24,1303216,1.84,Guatemala2003,,"21,917,706,491",2079,Millenials
+10914,Guatemala,2003,female,35-54 years,11,1008123,1.09,Guatemala2003,,"21,917,706,491",2079,Boomers
+10915,Guatemala,2003,female,55-74 years,4,429408,0.93,Guatemala2003,,"21,917,706,491",2079,Silent
+10916,Guatemala,2003,female,25-34 years,7,894464,0.78,Guatemala2003,,"21,917,706,491",2079,Generation X
+10917,Guatemala,2003,female,5-14 years,7,1680330,0.42,Guatemala2003,,"21,917,706,491",2079,Millenials
+10918,Guatemala,2003,male,5-14 years,6,1729518,0.35,Guatemala2003,,"21,917,706,491",2079,Millenials
+10919,Guatemala,2003,female,75+ years,0,97342,0.0,Guatemala2003,,"21,917,706,491",2079,Silent
+10920,Guatemala,2004,male,25-34 years,48,833813,5.76,Guatemala2004,,"23,965,275,996",2215,Generation X
+10921,Guatemala,2004,male,15-24 years,72,1314940,5.48,Guatemala2004,,"23,965,275,996",2215,Millenials
+10922,Guatemala,2004,male,55-74 years,18,389441,4.62,Guatemala2004,,"23,965,275,996",2215,Silent
+10923,Guatemala,2004,male,35-54 years,37,876065,4.22,Guatemala2004,,"23,965,275,996",2215,Boomers
+10924,Guatemala,2004,male,75+ years,3,85192,3.52,Guatemala2004,,"23,965,275,996",2215,Silent
+10925,Guatemala,2004,female,15-24 years,28,1329347,2.11,Guatemala2004,,"23,965,275,996",2215,Millenials
+10926,Guatemala,2004,female,35-54 years,15,1041132,1.44,Guatemala2004,,"23,965,275,996",2215,Boomers
+10927,Guatemala,2004,female,25-34 years,12,927173,1.29,Guatemala2004,,"23,965,275,996",2215,Generation X
+10928,Guatemala,2004,female,55-74 years,3,439994,0.68,Guatemala2004,,"23,965,275,996",2215,Silent
+10929,Guatemala,2004,female,5-14 years,8,1712578,0.47,Guatemala2004,,"23,965,275,996",2215,Millenials
+10930,Guatemala,2004,male,5-14 years,6,1765148,0.34,Guatemala2004,,"23,965,275,996",2215,Millenials
+10931,Guatemala,2004,female,75+ years,0,102985,0.0,Guatemala2004,,"23,965,275,996",2215,Silent
+10932,Guatemala,2005,male,75+ years,8,89636,8.92,Guatemala2005,0.5760000000000001,"27,211,377,225",2450,Silent
+10933,Guatemala,2005,male,25-34 years,42,867772,4.84,Guatemala2005,0.5760000000000001,"27,211,377,225",2450,Generation X
+10934,Guatemala,2005,male,35-54 years,43,902079,4.77,Guatemala2005,0.5760000000000001,"27,211,377,225",2450,Boomers
+10935,Guatemala,2005,male,15-24 years,61,1347811,4.53,Guatemala2005,0.5760000000000001,"27,211,377,225",2450,Millenials
+10936,Guatemala,2005,male,55-74 years,17,398755,4.26,Guatemala2005,0.5760000000000001,"27,211,377,225",2450,Silent
+10937,Guatemala,2005,female,15-24 years,40,1358448,2.94,Guatemala2005,0.5760000000000001,"27,211,377,225",2450,Millenials
+10938,Guatemala,2005,female,25-34 years,11,960871,1.14,Guatemala2005,0.5760000000000001,"27,211,377,225",2450,Generation X
+10939,Guatemala,2005,female,35-54 years,4,1074912,0.37,Guatemala2005,0.5760000000000001,"27,211,377,225",2450,Boomers
+10940,Guatemala,2005,male,5-14 years,6,1799665,0.33,Guatemala2005,0.5760000000000001,"27,211,377,225",2450,Millenials
+10941,Guatemala,2005,female,5-14 years,5,1743164,0.29,Guatemala2005,0.5760000000000001,"27,211,377,225",2450,Millenials
+10942,Guatemala,2005,female,55-74 years,1,453146,0.22,Guatemala2005,0.5760000000000001,"27,211,377,225",2450,Silent
+10943,Guatemala,2005,female,75+ years,0,108647,0.0,Guatemala2005,0.5760000000000001,"27,211,377,225",2450,Silent
+10944,Guatemala,2006,male,75+ years,10,94659,10.56,Guatemala2006,,"30,231,249,362",2653,Silent
+10945,Guatemala,2006,male,25-34 years,54,906782,5.96,Guatemala2006,,"30,231,249,362",2653,Generation X
+10946,Guatemala,2006,male,35-54 years,55,928162,5.93,Guatemala2006,,"30,231,249,362",2653,Boomers
+10947,Guatemala,2006,male,15-24 years,81,1382701,5.86,Guatemala2006,,"30,231,249,362",2653,Millenials
+10948,Guatemala,2006,male,55-74 years,23,407941,5.64,Guatemala2006,,"30,231,249,362",2653,Silent
+10949,Guatemala,2006,female,15-24 years,30,1388465,2.16,Guatemala2006,,"30,231,249,362",2653,Millenials
+10950,Guatemala,2006,female,75+ years,2,114662,1.74,Guatemala2006,,"30,231,249,362",2653,Silent
+10951,Guatemala,2006,female,25-34 years,17,997533,1.7,Guatemala2006,,"30,231,249,362",2653,Generation X
+10952,Guatemala,2006,female,35-54 years,14,1108838,1.26,Guatemala2006,,"30,231,249,362",2653,Boomers
+10953,Guatemala,2006,female,55-74 years,3,466943,0.64,Guatemala2006,,"30,231,249,362",2653,Silent
+10954,Guatemala,2006,female,5-14 years,5,1770281,0.28,Guatemala2006,,"30,231,249,362",2653,Millenials
+10955,Guatemala,2006,male,5-14 years,4,1830167,0.22,Guatemala2006,,"30,231,249,362",2653,Millenials
+10956,Guatemala,2007,male,35-54 years,74,956182,7.74,Guatemala2007,,"34,113,107,086",2914,Boomers
+10957,Guatemala,2007,male,25-34 years,69,948435,7.28,Guatemala2007,,"34,113,107,086",2914,Generation X
+10958,Guatemala,2007,male,75+ years,7,99526,7.03,Guatemala2007,,"34,113,107,086",2914,Silent
+10959,Guatemala,2007,male,55-74 years,26,419760,6.19,Guatemala2007,,"34,113,107,086",2914,Silent
+10960,Guatemala,2007,male,15-24 years,84,1420153,5.91,Guatemala2007,,"34,113,107,086",2914,Millenials
+10961,Guatemala,2007,female,15-24 years,34,1420815,2.39,Guatemala2007,,"34,113,107,086",2914,Millenials
+10962,Guatemala,2007,female,35-54 years,12,1144742,1.05,Guatemala2007,,"34,113,107,086",2914,Boomers
+10963,Guatemala,2007,female,75+ years,1,120646,0.83,Guatemala2007,,"34,113,107,086",2914,Silent
+10964,Guatemala,2007,female,25-34 years,7,1036031,0.68,Guatemala2007,,"34,113,107,086",2914,Generation X
+10965,Guatemala,2007,female,55-74 years,3,483657,0.62,Guatemala2007,,"34,113,107,086",2914,Silent
+10966,Guatemala,2007,female,5-14 years,7,1797379,0.39,Guatemala2007,,"34,113,107,086",2914,Generation Z
+10967,Guatemala,2007,male,5-14 years,3,1861071,0.16,Guatemala2007,,"34,113,107,086",2914,Generation Z
+10968,Guatemala,2008,male,25-34 years,92,991424,9.28,Guatemala2008,,"39,136,893,345",3252,Generation X
+10969,Guatemala,2008,male,35-54 years,91,986586,9.22,Guatemala2008,,"39,136,893,345",3252,Boomers
+10970,Guatemala,2008,male,15-24 years,132,1459853,9.04,Guatemala2008,,"39,136,893,345",3252,Millenials
+10971,Guatemala,2008,male,55-74 years,39,433507,9.0,Guatemala2008,,"39,136,893,345",3252,Silent
+10972,Guatemala,2008,male,75+ years,9,104188,8.64,Guatemala2008,,"39,136,893,345",3252,Silent
+10973,Guatemala,2008,female,15-24 years,57,1455218,3.92,Guatemala2008,,"39,136,893,345",3252,Millenials
+10974,Guatemala,2008,female,35-54 years,25,1182879,2.11,Guatemala2008,,"39,136,893,345",3252,Boomers
+10975,Guatemala,2008,female,25-34 years,22,1075126,2.05,Guatemala2008,,"39,136,893,345",3252,Generation X
+10976,Guatemala,2008,female,5-14 years,16,1823676,0.88,Guatemala2008,,"39,136,893,345",3252,Generation Z
+10977,Guatemala,2008,male,5-14 years,8,1891253,0.42,Guatemala2008,,"39,136,893,345",3252,Generation Z
+10978,Guatemala,2008,female,55-74 years,1,502605,0.2,Guatemala2008,,"39,136,893,345",3252,Silent
+10979,Guatemala,2008,female,75+ years,0,126570,0.0,Guatemala2008,,"39,136,893,345",3252,Silent
+10980,Guatemala,2009,male,75+ years,12,108534,11.06,Guatemala2009,,"37,733,994,976",3053,Silent
+10981,Guatemala,2009,male,35-54 years,109,1019866,10.69,Guatemala2009,,"37,733,994,976",3053,Boomers
+10982,Guatemala,2009,male,55-74 years,38,448004,8.48,Guatemala2009,,"37,733,994,976",3053,Silent
+10983,Guatemala,2009,male,25-34 years,82,1033623,7.93,Guatemala2009,,"37,733,994,976",3053,Generation X
+10984,Guatemala,2009,male,15-24 years,118,1500901,7.86,Guatemala2009,,"37,733,994,976",3053,Millenials
+10985,Guatemala,2009,female,15-24 years,69,1490780,4.63,Guatemala2009,,"37,733,994,976",3053,Millenials
+10986,Guatemala,2009,female,25-34 years,38,1112873,3.41,Guatemala2009,,"37,733,994,976",3053,Generation X
+10987,Guatemala,2009,female,35-54 years,25,1223531,2.04,Guatemala2009,,"37,733,994,976",3053,Boomers
+10988,Guatemala,2009,female,55-74 years,3,522645,0.57,Guatemala2009,,"37,733,994,976",3053,Silent
+10989,Guatemala,2009,female,5-14 years,10,1847847,0.54,Guatemala2009,,"37,733,994,976",3053,Generation Z
+10990,Guatemala,2009,male,5-14 years,7,1919024,0.36,Guatemala2009,,"37,733,994,976",3053,Generation Z
+10991,Guatemala,2009,female,75+ years,0,132317,0.0,Guatemala2009,,"37,733,994,976",3053,Silent
+10992,Guatemala,2010,male,25-34 years,76,1073765,7.08,Guatemala2010,0.611,"41,338,595,381",3260,Generation X
+10993,Guatemala,2010,male,35-54 years,69,1056351,6.53,Guatemala2010,0.611,"41,338,595,381",3260,Generation X
+10994,Guatemala,2010,male,15-24 years,91,1542758,5.9,Guatemala2010,0.611,"41,338,595,381",3260,Millenials
+10995,Guatemala,2010,male,55-74 years,23,462550,4.97,Guatemala2010,0.611,"41,338,595,381",3260,Silent
+10996,Guatemala,2010,male,75+ years,5,112524,4.44,Guatemala2010,0.611,"41,338,595,381",3260,Silent
+10997,Guatemala,2010,female,15-24 years,43,1526942,2.82,Guatemala2010,0.611,"41,338,595,381",3260,Millenials
+10998,Guatemala,2010,female,25-34 years,21,1148170,1.83,Guatemala2010,0.611,"41,338,595,381",3260,Generation X
+10999,Guatemala,2010,female,35-54 years,8,1266987,0.63,Guatemala2010,0.611,"41,338,595,381",3260,Generation X
+11000,Guatemala,2010,female,55-74 years,3,543090,0.55,Guatemala2010,0.611,"41,338,595,381",3260,Silent
+11001,Guatemala,2010,female,5-14 years,7,1868422,0.37,Guatemala2010,0.611,"41,338,595,381",3260,Generation Z
+11002,Guatemala,2010,male,5-14 years,6,1942723,0.31,Guatemala2010,0.611,"41,338,595,381",3260,Generation Z
+11003,Guatemala,2010,female,75+ years,0,137869,0.0,Guatemala2010,0.611,"41,338,595,381",3260,Silent
+11004,Guatemala,2011,male,15-24 years,105,1586755,6.62,Guatemala2011,0.617,"47,654,841,113",3661,Millenials
+11005,Guatemala,2011,male,25-34 years,58,1115150,5.2,Guatemala2011,0.617,"47,654,841,113",3661,Millenials
+11006,Guatemala,2011,male,35-54 years,55,1097919,5.01,Guatemala2011,0.617,"47,654,841,113",3661,Generation X
+11007,Guatemala,2011,male,55-74 years,23,476741,4.82,Guatemala2011,0.617,"47,654,841,113",3661,Boomers
+11008,Guatemala,2011,male,75+ years,5,117667,4.25,Guatemala2011,0.617,"47,654,841,113",3661,Silent
+11009,Guatemala,2011,female,15-24 years,59,1565706,3.77,Guatemala2011,0.617,"47,654,841,113",3661,Millenials
+11010,Guatemala,2011,female,25-34 years,23,1184080,1.94,Guatemala2011,0.617,"47,654,841,113",3661,Millenials
+11011,Guatemala,2011,female,55-74 years,5,563744,0.89,Guatemala2011,0.617,"47,654,841,113",3661,Boomers
+11012,Guatemala,2011,female,75+ years,1,144272,0.69,Guatemala2011,0.617,"47,654,841,113",3661,Silent
+11013,Guatemala,2011,female,5-14 years,12,1886847,0.64,Guatemala2011,0.617,"47,654,841,113",3661,Generation Z
+11014,Guatemala,2011,female,35-54 years,8,1314716,0.61,Guatemala2011,0.617,"47,654,841,113",3661,Generation X
+11015,Guatemala,2011,male,5-14 years,5,1963745,0.25,Guatemala2011,0.617,"47,654,841,113",3661,Generation Z
+11016,Guatemala,2012,male,15-24 years,118,1629819,7.24,Guatemala2012,0.624,"50,388,454,861",3779,Millenials
+11017,Guatemala,2012,male,55-74 years,34,490894,6.93,Guatemala2012,0.624,"50,388,454,861",3779,Boomers
+11018,Guatemala,2012,male,35-54 years,77,1142067,6.74,Guatemala2012,0.624,"50,388,454,861",3779,Generation X
+11019,Guatemala,2012,male,75+ years,8,122325,6.54,Guatemala2012,0.624,"50,388,454,861",3779,Silent
+11020,Guatemala,2012,male,25-34 years,61,1153737,5.29,Guatemala2012,0.624,"50,388,454,861",3779,Millenials
+11021,Guatemala,2012,female,15-24 years,63,1603593,3.93,Guatemala2012,0.624,"50,388,454,861",3779,Millenials
+11022,Guatemala,2012,female,25-34 years,20,1216962,1.64,Guatemala2012,0.624,"50,388,454,861",3779,Millenials
+11023,Guatemala,2012,female,35-54 years,12,1364473,0.88,Guatemala2012,0.624,"50,388,454,861",3779,Generation X
+11024,Guatemala,2012,female,55-74 years,5,584720,0.86,Guatemala2012,0.624,"50,388,454,861",3779,Boomers
+11025,Guatemala,2012,female,75+ years,1,150302,0.67,Guatemala2012,0.624,"50,388,454,861",3779,Silent
+11026,Guatemala,2012,male,5-14 years,12,1977712,0.61,Guatemala2012,0.624,"50,388,454,861",3779,Generation Z
+11027,Guatemala,2012,female,5-14 years,9,1898821,0.47,Guatemala2012,0.624,"50,388,454,861",3779,Generation Z
+11028,Guatemala,2013,male,15-24 years,124,1672018,7.42,Guatemala2013,0.626,"53,851,058,955",3947,Millenials
+11029,Guatemala,2013,male,35-54 years,83,1189282,6.98,Guatemala2013,0.626,"53,851,058,955",3947,Generation X
+11030,Guatemala,2013,male,25-34 years,79,1190771,6.63,Guatemala2013,0.626,"53,851,058,955",3947,Millenials
+11031,Guatemala,2013,male,55-74 years,31,505337,6.13,Guatemala2013,0.626,"53,851,058,955",3947,Boomers
+11032,Guatemala,2013,male,75+ years,6,126586,4.74,Guatemala2013,0.626,"53,851,058,955",3947,Silent
+11033,Guatemala,2013,female,15-24 years,73,1640626,4.45,Guatemala2013,0.626,"53,851,058,955",3947,Millenials
+11034,Guatemala,2013,female,25-34 years,26,1248143,2.08,Guatemala2013,0.626,"53,851,058,955",3947,Millenials
+11035,Guatemala,2013,female,35-54 years,12,1416674,0.85,Guatemala2013,0.626,"53,851,058,955",3947,Generation X
+11036,Guatemala,2013,female,5-14 years,10,1904849,0.52,Guatemala2013,0.626,"53,851,058,955",3947,Generation Z
+11037,Guatemala,2013,female,55-74 years,3,606295,0.49,Guatemala2013,0.626,"53,851,058,955",3947,Boomers
+11038,Guatemala,2013,male,5-14 years,8,1985171,0.4,Guatemala2013,0.626,"53,851,058,955",3947,Generation Z
+11039,Guatemala,2013,female,75+ years,0,156126,0.0,Guatemala2013,0.626,"53,851,058,955",3947,Silent
+11040,Guatemala,2014,male,35-54 years,101,1240265,8.14,Guatemala2014,0.627,"58,722,323,918",4210,Generation X
+11041,Guatemala,2014,male,55-74 years,39,520628,7.49,Guatemala2014,0.627,"58,722,323,918",4210,Boomers
+11042,Guatemala,2014,male,25-34 years,87,1228328,7.08,Guatemala2014,0.627,"58,722,323,918",4210,Millenials
+11043,Guatemala,2014,male,15-24 years,116,1713439,6.77,Guatemala2014,0.627,"58,722,323,918",4210,Millenials
+11044,Guatemala,2014,male,75+ years,7,130569,5.36,Guatemala2014,0.627,"58,722,323,918",4210,Silent
+11045,Guatemala,2014,female,15-24 years,85,1676831,5.07,Guatemala2014,0.627,"58,722,323,918",4210,Millenials
+11046,Guatemala,2014,female,25-34 years,32,1279793,2.5,Guatemala2014,0.627,"58,722,323,918",4210,Millenials
+11047,Guatemala,2014,female,55-74 years,8,629002,1.27,Guatemala2014,0.627,"58,722,323,918",4210,Boomers
+11048,Guatemala,2014,female,35-54 years,18,1471960,1.22,Guatemala2014,0.627,"58,722,323,918",4210,Generation X
+11049,Guatemala,2014,female,5-14 years,13,1906536,0.68,Guatemala2014,0.627,"58,722,323,918",4210,Generation Z
+11050,Guatemala,2014,male,5-14 years,6,1987907,0.3,Guatemala2014,0.627,"58,722,323,918",4210,Generation Z
+11051,Guatemala,2014,female,75+ years,0,161932,0.0,Guatemala2014,0.627,"58,722,323,918",4210,Silent
+11052,Guatemala,2015,male,15-24 years,125,1753669,7.13,Guatemala2015,,"63,767,597,194",4472,Millenials
+11053,Guatemala,2015,male,25-34 years,86,1267501,6.79,Guatemala2015,,"63,767,597,194",4472,Millenials
+11054,Guatemala,2015,male,35-54 years,87,1295156,6.72,Guatemala2015,,"63,767,597,194",4472,Generation X
+11055,Guatemala,2015,male,75+ years,9,134357,6.7,Guatemala2015,,"63,767,597,194",4472,Silent
+11056,Guatemala,2015,male,55-74 years,32,537002,5.96,Guatemala2015,,"63,767,597,194",4472,Boomers
+11057,Guatemala,2015,female,15-24 years,83,1711787,4.85,Guatemala2015,,"63,767,597,194",4472,Millenials
+11058,Guatemala,2015,female,75+ years,3,167861,1.79,Guatemala2015,,"63,767,597,194",4472,Silent
+11059,Guatemala,2015,female,25-34 years,19,1313068,1.45,Guatemala2015,,"63,767,597,194",4472,Millenials
+11060,Guatemala,2015,female,35-54 years,20,1530419,1.31,Guatemala2015,,"63,767,597,194",4472,Generation X
+11061,Guatemala,2015,female,55-74 years,6,653079,0.92,Guatemala2015,,"63,767,597,194",4472,Boomers
+11062,Guatemala,2015,female,5-14 years,13,1906150,0.68,Guatemala2015,,"63,767,597,194",4472,Generation Z
+11063,Guatemala,2015,male,5-14 years,11,1988348,0.55,Guatemala2015,,"63,767,597,194",4472,Generation Z

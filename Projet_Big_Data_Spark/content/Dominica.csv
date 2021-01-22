@@ -1,0 +1,13 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+7682,Dominica,1985,female,15-24 years,0,8900,0.0,Dominica1985,,"98,585,185",1485,Generation X
+7683,Dominica,1985,female,25-34 years,0,5100,0.0,Dominica1985,,"98,585,185",1485,Boomers
+7684,Dominica,1985,female,35-54 years,0,5400,0.0,Dominica1985,,"98,585,185",1485,Silent
+7685,Dominica,1985,female,5-14 years,0,8600,0.0,Dominica1985,,"98,585,185",1485,Generation X
+7686,Dominica,1985,female,55-74 years,0,3800,0.0,Dominica1985,,"98,585,185",1485,G.I. Generation
+7687,Dominica,1985,female,75+ years,0,1200,0.0,Dominica1985,,"98,585,185",1485,G.I. Generation
+7688,Dominica,1985,male,15-24 years,0,9500,0.0,Dominica1985,,"98,585,185",1485,Generation X
+7689,Dominica,1985,male,25-34 years,0,5800,0.0,Dominica1985,,"98,585,185",1485,Boomers
+7690,Dominica,1985,male,35-54 years,0,4900,0.0,Dominica1985,,"98,585,185",1485,Silent
+7691,Dominica,1985,male,5-14 years,0,9300,0.0,Dominica1985,,"98,585,185",1485,Generation X
+7692,Dominica,1985,male,55-74 years,0,3200,0.0,Dominica1985,,"98,585,185",1485,G.I. Generation
+7693,Dominica,1985,male,75+ years,0,700,0.0,Dominica1985,,"98,585,185",1485,G.I. Generation

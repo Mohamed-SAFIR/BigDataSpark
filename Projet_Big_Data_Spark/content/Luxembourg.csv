@@ -1,0 +1,373 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+15306,Luxembourg,1985,male,75+ years,6,6900,86.96,Luxembourg1985,0.752,"4,738,559,685",13743,G.I. Generation
+15307,Luxembourg,1985,male,55-74 years,14,30200,46.36,Luxembourg1985,0.752,"4,738,559,685",13743,G.I. Generation
+15308,Luxembourg,1985,female,75+ years,4,13500,29.63,Luxembourg1985,0.752,"4,738,559,685",13743,G.I. Generation
+15309,Luxembourg,1985,male,35-54 years,12,50200,23.9,Luxembourg1985,0.752,"4,738,559,685",13743,Silent
+15310,Luxembourg,1985,female,25-34 years,6,29800,20.13,Luxembourg1985,0.752,"4,738,559,685",13743,Boomers
+15311,Luxembourg,1985,female,35-54 years,5,47900,10.44,Luxembourg1985,0.752,"4,738,559,685",13743,Silent
+15312,Luxembourg,1985,male,25-34 years,3,29900,10.03,Luxembourg1985,0.752,"4,738,559,685",13743,Boomers
+15313,Luxembourg,1985,male,5-14 years,2,21700,9.22,Luxembourg1985,0.752,"4,738,559,685",13743,Generation X
+15314,Luxembourg,1985,male,15-24 years,2,28100,7.12,Luxembourg1985,0.752,"4,738,559,685",13743,Generation X
+15315,Luxembourg,1985,female,15-24 years,1,27800,3.6,Luxembourg1985,0.752,"4,738,559,685",13743,Generation X
+15316,Luxembourg,1985,female,5-14 years,0,20500,0.0,Luxembourg1985,0.752,"4,738,559,685",13743,Generation X
+15317,Luxembourg,1985,female,55-74 years,0,38300,0.0,Luxembourg1985,0.752,"4,738,559,685",13743,G.I. Generation
+15318,Luxembourg,1986,male,75+ years,3,7100,42.25,Luxembourg1986,,"6,921,264,132",20004,G.I. Generation
+15319,Luxembourg,1986,male,55-74 years,13,30800,42.21,Luxembourg1986,,"6,921,264,132",20004,G.I. Generation
+15320,Luxembourg,1986,male,25-34 years,7,30200,23.18,Luxembourg1986,,"6,921,264,132",20004,Boomers
+15321,Luxembourg,1986,male,35-54 years,11,50300,21.87,Luxembourg1986,,"6,921,264,132",20004,Silent
+15322,Luxembourg,1986,female,55-74 years,7,38600,18.13,Luxembourg1986,,"6,921,264,132",20004,G.I. Generation
+15323,Luxembourg,1986,female,25-34 years,4,30200,13.25,Luxembourg1986,,"6,921,264,132",20004,Boomers
+15324,Luxembourg,1986,male,15-24 years,3,27800,10.79,Luxembourg1986,,"6,921,264,132",20004,Generation X
+15325,Luxembourg,1986,female,75+ years,1,13900,7.19,Luxembourg1986,,"6,921,264,132",20004,G.I. Generation
+15326,Luxembourg,1986,female,35-54 years,2,47900,4.18,Luxembourg1986,,"6,921,264,132",20004,Silent
+15327,Luxembourg,1986,female,15-24 years,0,27500,0.0,Luxembourg1986,,"6,921,264,132",20004,Generation X
+15328,Luxembourg,1986,female,5-14 years,0,20300,0.0,Luxembourg1986,,"6,921,264,132",20004,Generation X
+15329,Luxembourg,1986,male,5-14 years,0,21400,0.0,Luxembourg1986,,"6,921,264,132",20004,Generation X
+15330,Luxembourg,1987,male,75+ years,3,7200,41.67,Luxembourg1987,,"8,614,215,559",24654,G.I. Generation
+15331,Luxembourg,1987,male,35-54 years,19,51000,37.25,Luxembourg1987,,"8,614,215,559",24654,Silent
+15332,Luxembourg,1987,male,25-34 years,10,31100,32.15,Luxembourg1987,,"8,614,215,559",24654,Boomers
+15333,Luxembourg,1987,female,55-74 years,12,39000,30.77,Luxembourg1987,,"8,614,215,559",24654,G.I. Generation
+15334,Luxembourg,1987,male,55-74 years,9,31500,28.57,Luxembourg1987,,"8,614,215,559",24654,G.I. Generation
+15335,Luxembourg,1987,female,75+ years,3,14400,20.83,Luxembourg1987,,"8,614,215,559",24654,G.I. Generation
+15336,Luxembourg,1987,female,35-54 years,8,48600,16.46,Luxembourg1987,,"8,614,215,559",24654,Silent
+15337,Luxembourg,1987,male,15-24 years,4,27400,14.6,Luxembourg1987,,"8,614,215,559",24654,Generation X
+15338,Luxembourg,1987,female,15-24 years,3,26500,11.32,Luxembourg1987,,"8,614,215,559",24654,Generation X
+15339,Luxembourg,1987,female,25-34 years,3,31200,9.62,Luxembourg1987,,"8,614,215,559",24654,Boomers
+15340,Luxembourg,1987,female,5-14 years,0,20200,0.0,Luxembourg1987,,"8,614,215,559",24654,Generation X
+15341,Luxembourg,1987,male,5-14 years,0,21300,0.0,Luxembourg1987,,"8,614,215,559",24654,Generation X
+15342,Luxembourg,1988,male,25-34 years,15,31700,47.32,Luxembourg1988,,"9,750,161,053",27676,Boomers
+15343,Luxembourg,1988,male,55-74 years,14,31700,44.16,Luxembourg1988,,"9,750,161,053",27676,G.I. Generation
+15344,Luxembourg,1988,male,35-54 years,18,51900,34.68,Luxembourg1988,,"9,750,161,053",27676,Silent
+15345,Luxembourg,1988,male,75+ years,2,7300,27.4,Luxembourg1988,,"9,750,161,053",27676,G.I. Generation
+15346,Luxembourg,1988,female,55-74 years,8,39000,20.51,Luxembourg1988,,"9,750,161,053",27676,G.I. Generation
+15347,Luxembourg,1988,male,15-24 years,3,27000,11.11,Luxembourg1988,,"9,750,161,053",27676,Generation X
+15348,Luxembourg,1988,female,35-54 years,5,49400,10.12,Luxembourg1988,,"9,750,161,053",27676,Silent
+15349,Luxembourg,1988,female,25-34 years,3,31600,9.49,Luxembourg1988,,"9,750,161,053",27676,Boomers
+15350,Luxembourg,1988,female,75+ years,1,14900,6.71,Luxembourg1988,,"9,750,161,053",27676,G.I. Generation
+15351,Luxembourg,1988,female,15-24 years,0,25900,0.0,Luxembourg1988,,"9,750,161,053",27676,Generation X
+15352,Luxembourg,1988,female,5-14 years,0,20400,0.0,Luxembourg1988,,"9,750,161,053",27676,Generation X
+15353,Luxembourg,1988,male,5-14 years,0,21500,0.0,Luxembourg1988,,"9,750,161,053",27676,Generation X
+15354,Luxembourg,1989,male,75+ years,5,7600,65.79,Luxembourg1989,,"10,391,504,709",29239,G.I. Generation
+15355,Luxembourg,1989,male,55-74 years,13,32000,40.63,Luxembourg1989,,"10,391,504,709",29239,G.I. Generation
+15356,Luxembourg,1989,male,35-54 years,20,52900,37.81,Luxembourg1989,,"10,391,504,709",29239,Silent
+15357,Luxembourg,1989,male,25-34 years,9,32500,27.69,Luxembourg1989,,"10,391,504,709",29239,Boomers
+15358,Luxembourg,1989,male,15-24 years,6,26300,22.81,Luxembourg1989,,"10,391,504,709",29239,Generation X
+15359,Luxembourg,1989,female,75+ years,3,15300,19.61,Luxembourg1989,,"10,391,504,709",29239,G.I. Generation
+15360,Luxembourg,1989,female,35-54 years,7,50200,13.94,Luxembourg1989,,"10,391,504,709",29239,Silent
+15361,Luxembourg,1989,female,55-74 years,4,39100,10.23,Luxembourg1989,,"10,391,504,709",29239,G.I. Generation
+15362,Luxembourg,1989,female,25-34 years,3,31900,9.4,Luxembourg1989,,"10,391,504,709",29239,Boomers
+15363,Luxembourg,1989,female,5-14 years,1,20700,4.83,Luxembourg1989,,"10,391,504,709",29239,Generation X
+15364,Luxembourg,1989,male,5-14 years,1,21700,4.61,Luxembourg1989,,"10,391,504,709",29239,Generation X
+15365,Luxembourg,1989,female,15-24 years,1,25200,3.97,Luxembourg1989,,"10,391,504,709",29239,Generation X
+15366,Luxembourg,1990,male,75+ years,4,7700,51.95,Luxembourg1990,0.779,"13,229,247,948",36871,G.I. Generation
+15367,Luxembourg,1990,male,55-74 years,12,32400,37.04,Luxembourg1990,0.779,"13,229,247,948",36871,G.I. Generation
+15368,Luxembourg,1990,male,35-54 years,16,53800,29.74,Luxembourg1990,0.779,"13,229,247,948",36871,Silent
+15369,Luxembourg,1990,male,25-34 years,9,33200,27.11,Luxembourg1990,0.779,"13,229,247,948",36871,Boomers
+15370,Luxembourg,1990,female,75+ years,4,15500,25.81,Luxembourg1990,0.779,"13,229,247,948",36871,G.I. Generation
+15371,Luxembourg,1990,male,15-24 years,6,25900,23.17,Luxembourg1990,0.779,"13,229,247,948",36871,Generation X
+15372,Luxembourg,1990,female,35-54 years,10,51100,19.57,Luxembourg1990,0.779,"13,229,247,948",36871,Silent
+15373,Luxembourg,1990,female,55-74 years,5,39200,12.76,Luxembourg1990,0.779,"13,229,247,948",36871,G.I. Generation
+15374,Luxembourg,1990,female,25-34 years,2,32300,6.19,Luxembourg1990,0.779,"13,229,247,948",36871,Boomers
+15375,Luxembourg,1990,female,15-24 years,0,24700,0.0,Luxembourg1990,0.779,"13,229,247,948",36871,Generation X
+15376,Luxembourg,1990,female,5-14 years,0,21000,0.0,Luxembourg1990,0.779,"13,229,247,948",36871,Generation X
+15377,Luxembourg,1990,male,5-14 years,0,22000,0.0,Luxembourg1990,0.779,"13,229,247,948",36871,Generation X
+15378,Luxembourg,1991,male,75+ years,8,7700,103.9,Luxembourg1991,,"14,321,878,795",39465,G.I. Generation
+15379,Luxembourg,1991,male,55-74 years,16,32900,48.63,Luxembourg1991,,"14,321,878,795",39465,Silent
+15380,Luxembourg,1991,male,35-54 years,17,55000,30.91,Luxembourg1991,,"14,321,878,795",39465,Boomers
+15381,Luxembourg,1991,male,25-34 years,9,34000,26.47,Luxembourg1991,,"14,321,878,795",39465,Boomers
+15382,Luxembourg,1991,female,35-54 years,12,52100,23.03,Luxembourg1991,,"14,321,878,795",39465,Boomers
+15383,Luxembourg,1991,female,55-74 years,9,39500,22.78,Luxembourg1991,,"14,321,878,795",39465,Silent
+15384,Luxembourg,1991,male,15-24 years,4,25600,15.63,Luxembourg1991,,"14,321,878,795",39465,Generation X
+15385,Luxembourg,1991,female,75+ years,1,15600,6.41,Luxembourg1991,,"14,321,878,795",39465,G.I. Generation
+15386,Luxembourg,1991,female,25-34 years,1,32600,3.07,Luxembourg1991,,"14,321,878,795",39465,Boomers
+15387,Luxembourg,1991,female,15-24 years,0,24300,0.0,Luxembourg1991,,"14,321,878,795",39465,Generation X
+15388,Luxembourg,1991,female,5-14 years,0,21200,0.0,Luxembourg1991,,"14,321,878,795",39465,Millenials
+15389,Luxembourg,1991,male,5-14 years,0,22400,0.0,Luxembourg1991,,"14,321,878,795",39465,Millenials
+15390,Luxembourg,1992,male,75+ years,6,7600,78.95,Luxembourg1992,,"16,065,740,778",43740,G.I. Generation
+15391,Luxembourg,1992,female,75+ years,4,15500,25.81,Luxembourg1992,,"16,065,740,778",43740,G.I. Generation
+15392,Luxembourg,1992,female,55-74 years,10,40100,24.94,Luxembourg1992,,"16,065,740,778",43740,Silent
+15393,Luxembourg,1992,male,55-74 years,7,33400,20.96,Luxembourg1992,,"16,065,740,778",43740,Silent
+15394,Luxembourg,1992,female,35-54 years,10,53200,18.8,Luxembourg1992,,"16,065,740,778",43740,Boomers
+15395,Luxembourg,1992,male,35-54 years,9,56100,16.04,Luxembourg1992,,"16,065,740,778",43740,Boomers
+15396,Luxembourg,1992,male,25-34 years,5,34600,14.45,Luxembourg1992,,"16,065,740,778",43740,Boomers
+15397,Luxembourg,1992,female,25-34 years,4,33100,12.08,Luxembourg1992,,"16,065,740,778",43740,Boomers
+15398,Luxembourg,1992,female,15-24 years,2,23800,8.4,Luxembourg1992,,"16,065,740,778",43740,Generation X
+15399,Luxembourg,1992,male,15-24 years,2,25200,7.94,Luxembourg1992,,"16,065,740,778",43740,Generation X
+15400,Luxembourg,1992,female,5-14 years,0,21800,0.0,Luxembourg1992,,"16,065,740,778",43740,Millenials
+15401,Luxembourg,1992,male,5-14 years,0,22900,0.0,Luxembourg1992,,"16,065,740,778",43740,Millenials
+15402,Luxembourg,1993,male,75+ years,4,7500,53.33,Luxembourg1993,,"16,486,900,187",44320,G.I. Generation
+15403,Luxembourg,1993,male,15-24 years,10,24900,40.16,Luxembourg1993,,"16,486,900,187",44320,Generation X
+15404,Luxembourg,1993,male,35-54 years,22,57300,38.39,Luxembourg1993,,"16,486,900,187",44320,Boomers
+15405,Luxembourg,1993,female,55-74 years,8,40800,19.61,Luxembourg1993,,"16,486,900,187",44320,Silent
+15406,Luxembourg,1993,male,55-74 years,6,34200,17.54,Luxembourg1993,,"16,486,900,187",44320,Silent
+15407,Luxembourg,1993,male,25-34 years,6,34900,17.19,Luxembourg1993,,"16,486,900,187",44320,Boomers
+15408,Luxembourg,1993,female,35-54 years,5,54200,9.23,Luxembourg1993,,"16,486,900,187",44320,Boomers
+15409,Luxembourg,1993,female,75+ years,1,15300,6.54,Luxembourg1993,,"16,486,900,187",44320,G.I. Generation
+15410,Luxembourg,1993,female,25-34 years,2,33500,5.97,Luxembourg1993,,"16,486,900,187",44320,Boomers
+15411,Luxembourg,1993,female,15-24 years,0,23700,0.0,Luxembourg1993,,"16,486,900,187",44320,Generation X
+15412,Luxembourg,1993,female,5-14 years,0,22300,0.0,Luxembourg1993,,"16,486,900,187",44320,Millenials
+15413,Luxembourg,1993,male,5-14 years,0,23400,0.0,Luxembourg1993,,"16,486,900,187",44320,Millenials
+15414,Luxembourg,1994,male,75+ years,8,7500,106.67,Luxembourg1994,,"18,325,791,415",48610,G.I. Generation
+15415,Luxembourg,1994,male,55-74 years,15,35000,42.86,Luxembourg1994,,"18,325,791,415",48610,Silent
+15416,Luxembourg,1994,male,35-54 years,22,58400,37.67,Luxembourg1994,,"18,325,791,415",48610,Boomers
+15417,Luxembourg,1994,male,15-24 years,7,24700,28.34,Luxembourg1994,,"18,325,791,415",48610,Generation X
+15418,Luxembourg,1994,male,25-34 years,9,35000,25.71,Luxembourg1994,,"18,325,791,415",48610,Boomers
+15419,Luxembourg,1994,female,55-74 years,5,41300,12.11,Luxembourg1994,,"18,325,791,415",48610,Silent
+15420,Luxembourg,1994,female,35-54 years,4,55400,7.22,Luxembourg1994,,"18,325,791,415",48610,Boomers
+15421,Luxembourg,1994,female,75+ years,1,15300,6.54,Luxembourg1994,,"18,325,791,415",48610,G.I. Generation
+15422,Luxembourg,1994,female,25-34 years,2,33900,5.9,Luxembourg1994,,"18,325,791,415",48610,Boomers
+15423,Luxembourg,1994,female,15-24 years,1,23700,4.22,Luxembourg1994,,"18,325,791,415",48610,Generation X
+15424,Luxembourg,1994,female,5-14 years,0,22900,0.0,Luxembourg1994,,"18,325,791,415",48610,Millenials
+15425,Luxembourg,1994,male,5-14 years,0,23900,0.0,Luxembourg1994,,"18,325,791,415",48610,Millenials
+15426,Luxembourg,1995,male,75+ years,4,7400,54.05,Luxembourg1995,0.805,"21,588,170,498",56499,G.I. Generation
+15427,Luxembourg,1995,male,55-74 years,11,35500,30.99,Luxembourg1995,0.805,"21,588,170,498",56499,Silent
+15428,Luxembourg,1995,male,35-54 years,17,59600,28.52,Luxembourg1995,0.805,"21,588,170,498",56499,Boomers
+15429,Luxembourg,1995,male,25-34 years,8,35300,22.66,Luxembourg1995,0.805,"21,588,170,498",56499,Generation X
+15430,Luxembourg,1995,male,15-24 years,5,24500,20.41,Luxembourg1995,0.805,"21,588,170,498",56499,Generation X
+15431,Luxembourg,1995,female,75+ years,3,15700,19.11,Luxembourg1995,0.805,"21,588,170,498",56499,G.I. Generation
+15432,Luxembourg,1995,female,35-54 years,8,56600,14.13,Luxembourg1995,0.805,"21,588,170,498",56499,Boomers
+15433,Luxembourg,1995,female,25-34 years,3,34100,8.8,Luxembourg1995,0.805,"21,588,170,498",56499,Generation X
+15434,Luxembourg,1995,female,55-74 years,3,41700,7.19,Luxembourg1995,0.805,"21,588,170,498",56499,Silent
+15435,Luxembourg,1995,female,15-24 years,1,23700,4.22,Luxembourg1995,0.805,"21,588,170,498",56499,Generation X
+15436,Luxembourg,1995,female,5-14 years,0,23400,0.0,Luxembourg1995,0.805,"21,588,170,498",56499,Millenials
+15437,Luxembourg,1995,male,5-14 years,0,24600,0.0,Luxembourg1995,0.805,"21,588,170,498",56499,Millenials
+15438,Luxembourg,1996,male,75+ years,5,7600,65.79,Luxembourg1996,,"21,776,609,772",56169,G.I. Generation
+15439,Luxembourg,1996,male,55-74 years,18,36000,50.0,Luxembourg1996,,"21,776,609,772",56169,Silent
+15440,Luxembourg,1996,male,35-54 years,22,61000,36.07,Luxembourg1996,,"21,776,609,772",56169,Boomers
+15441,Luxembourg,1996,female,35-54 years,10,58100,17.21,Luxembourg1996,,"21,776,609,772",56169,Boomers
+15442,Luxembourg,1996,male,25-34 years,5,35400,14.12,Luxembourg1996,,"21,776,609,772",56169,Generation X
+15443,Luxembourg,1996,female,75+ years,2,16200,12.35,Luxembourg1996,,"21,776,609,772",56169,G.I. Generation
+15444,Luxembourg,1996,male,15-24 years,3,24400,12.3,Luxembourg1996,,"21,776,609,772",56169,Generation X
+15445,Luxembourg,1996,female,15-24 years,2,23800,8.4,Luxembourg1996,,"21,776,609,772",56169,Generation X
+15446,Luxembourg,1996,female,55-74 years,3,41800,7.18,Luxembourg1996,,"21,776,609,772",56169,Silent
+15447,Luxembourg,1996,female,25-34 years,2,34300,5.83,Luxembourg1996,,"21,776,609,772",56169,Generation X
+15448,Luxembourg,1996,female,5-14 years,0,23900,0.0,Luxembourg1996,,"21,776,609,772",56169,Millenials
+15449,Luxembourg,1996,male,5-14 years,0,25200,0.0,Luxembourg1996,,"21,776,609,772",56169,Millenials
+15450,Luxembourg,1997,male,75+ years,10,7600,131.58,Luxembourg1997,,"19,731,912,494",50260,G.I. Generation
+15451,Luxembourg,1997,male,35-54 years,23,62500,36.8,Luxembourg1997,,"19,731,912,494",50260,Boomers
+15452,Luxembourg,1997,male,55-74 years,13,36500,35.62,Luxembourg1997,,"19,731,912,494",50260,Silent
+15453,Luxembourg,1997,male,15-24 years,7,24400,28.69,Luxembourg1997,,"19,731,912,494",50260,Generation X
+15454,Luxembourg,1997,male,25-34 years,7,35500,19.72,Luxembourg1997,,"19,731,912,494",50260,Generation X
+15455,Luxembourg,1997,female,55-74 years,8,42000,19.05,Luxembourg1997,,"19,731,912,494",50260,Silent
+15456,Luxembourg,1997,female,25-34 years,6,34400,17.44,Luxembourg1997,,"19,731,912,494",50260,Generation X
+15457,Luxembourg,1997,female,35-54 years,5,59500,8.4,Luxembourg1997,,"19,731,912,494",50260,Boomers
+15458,Luxembourg,1997,female,75+ years,1,16500,6.06,Luxembourg1997,,"19,731,912,494",50260,G.I. Generation
+15459,Luxembourg,1997,female,15-24 years,1,23600,4.24,Luxembourg1997,,"19,731,912,494",50260,Generation X
+15460,Luxembourg,1997,female,5-14 years,0,24500,0.0,Luxembourg1997,,"19,731,912,494",50260,Millenials
+15461,Luxembourg,1997,male,5-14 years,0,25600,0.0,Luxembourg1997,,"19,731,912,494",50260,Millenials
+15462,Luxembourg,1998,male,75+ years,4,7766,51.51,Luxembourg1998,,"20,209,122,027",50788,G.I. Generation
+15463,Luxembourg,1998,male,35-54 years,22,63893,34.43,Luxembourg1998,,"20,209,122,027",50788,Boomers
+15464,Luxembourg,1998,male,55-74 years,11,37286,29.5,Luxembourg1998,,"20,209,122,027",50788,Silent
+15465,Luxembourg,1998,male,25-34 years,7,35156,19.91,Luxembourg1998,,"20,209,122,027",50788,Generation X
+15466,Luxembourg,1998,female,75+ years,3,16885,17.77,Luxembourg1998,,"20,209,122,027",50788,G.I. Generation
+15467,Luxembourg,1998,male,15-24 years,4,24415,16.38,Luxembourg1998,,"20,209,122,027",50788,Generation X
+15468,Luxembourg,1998,female,55-74 years,4,42149,9.49,Luxembourg1998,,"20,209,122,027",50788,Silent
+15469,Luxembourg,1998,female,35-54 years,5,61065,8.19,Luxembourg1998,,"20,209,122,027",50788,Boomers
+15470,Luxembourg,1998,female,25-34 years,2,34112,5.86,Luxembourg1998,,"20,209,122,027",50788,Generation X
+15471,Luxembourg,1998,female,15-24 years,1,23701,4.22,Luxembourg1998,,"20,209,122,027",50788,Generation X
+15472,Luxembourg,1998,female,5-14 years,1,25057,3.99,Luxembourg1998,,"20,209,122,027",50788,Millenials
+15473,Luxembourg,1998,male,5-14 years,0,26430,0.0,Luxembourg1998,,"20,209,122,027",50788,Millenials
+15474,Luxembourg,1999,male,75+ years,4,7879,50.77,Luxembourg1999,,"22,235,929,043",55054,G.I. Generation
+15475,Luxembourg,1999,male,35-54 years,20,65502,30.53,Luxembourg1999,,"22,235,929,043",55054,Boomers
+15476,Luxembourg,1999,male,55-74 years,11,37992,28.95,Luxembourg1999,,"22,235,929,043",55054,Silent
+15477,Luxembourg,1999,male,25-34 years,9,34774,25.88,Luxembourg1999,,"22,235,929,043",55054,Generation X
+15478,Luxembourg,1999,male,15-24 years,5,24781,20.18,Luxembourg1999,,"22,235,929,043",55054,Generation X
+15479,Luxembourg,1999,female,75+ years,3,17336,17.31,Luxembourg1999,,"22,235,929,043",55054,G.I. Generation
+15480,Luxembourg,1999,female,35-54 years,9,62509,14.4,Luxembourg1999,,"22,235,929,043",55054,Boomers
+15481,Luxembourg,1999,female,55-74 years,6,42307,14.18,Luxembourg1999,,"22,235,929,043",55054,Silent
+15482,Luxembourg,1999,female,25-34 years,2,33805,5.92,Luxembourg1999,,"22,235,929,043",55054,Generation X
+15483,Luxembourg,1999,female,5-14 years,1,25830,3.87,Luxembourg1999,,"22,235,929,043",55054,Millenials
+15484,Luxembourg,1999,female,15-24 years,0,23941,0.0,Luxembourg1999,,"22,235,929,043",55054,Generation X
+15485,Luxembourg,1999,male,5-14 years,0,27234,0.0,Luxembourg1999,,"22,235,929,043",55054,Millenials
+15486,Luxembourg,2000,male,75+ years,7,8005,87.45,Luxembourg2000,0.851,"21,263,514,833",51841,G.I. Generation
+15487,Luxembourg,2000,male,55-74 years,15,38593,38.87,Luxembourg2000,0.851,"21,263,514,833",51841,Silent
+15488,Luxembourg,2000,male,35-54 years,15,67181,22.33,Luxembourg2000,0.851,"21,263,514,833",51841,Boomers
+15489,Luxembourg,2000,male,25-34 years,7,34441,20.32,Luxembourg2000,0.851,"21,263,514,833",51841,Generation X
+15490,Luxembourg,2000,female,55-74 years,8,42411,18.86,Luxembourg2000,0.851,"21,263,514,833",51841,Silent
+15491,Luxembourg,2000,male,15-24 years,3,25108,11.95,Luxembourg2000,0.851,"21,263,514,833",51841,Generation X
+15492,Luxembourg,2000,female,75+ years,2,18093,11.05,Luxembourg2000,0.851,"21,263,514,833",51841,G.I. Generation
+15493,Luxembourg,2000,female,35-54 years,3,64046,4.68,Luxembourg2000,0.851,"21,263,514,833",51841,Boomers
+15494,Luxembourg,2000,female,15-24 years,1,24072,4.15,Luxembourg2000,0.851,"21,263,514,833",51841,Generation X
+15495,Luxembourg,2000,female,25-34 years,1,33595,2.98,Luxembourg2000,0.851,"21,263,514,833",51841,Generation X
+15496,Luxembourg,2000,female,5-14 years,0,26627,0.0,Luxembourg2000,0.851,"21,263,514,833",51841,Millenials
+15497,Luxembourg,2000,male,5-14 years,0,27992,0.0,Luxembourg2000,0.851,"21,263,514,833",51841,Millenials
+15498,Luxembourg,2001,male,75+ years,5,8307,60.19,Luxembourg2001,,"21,272,418,792",51391,Silent
+15499,Luxembourg,2001,male,55-74 years,15,38220,39.25,Luxembourg2001,,"21,272,418,792",51391,Silent
+15500,Luxembourg,2001,female,75+ years,5,17274,28.95,Luxembourg2001,,"21,272,418,792",51391,Silent
+15501,Luxembourg,2001,male,35-54 years,19,68558,27.71,Luxembourg2001,,"21,272,418,792",51391,Boomers
+15502,Luxembourg,2001,female,55-74 years,10,41330,24.2,Luxembourg2001,,"21,272,418,792",51391,Silent
+15503,Luxembourg,2001,male,25-34 years,8,34180,23.41,Luxembourg2001,,"21,272,418,792",51391,Generation X
+15504,Luxembourg,2001,female,25-34 years,7,34217,20.46,Luxembourg2001,,"21,272,418,792",51391,Generation X
+15505,Luxembourg,2001,male,15-24 years,3,25762,11.65,Luxembourg2001,,"21,272,418,792",51391,Millenials
+15506,Luxembourg,2001,female,15-24 years,1,24980,4.0,Luxembourg2001,,"21,272,418,792",51391,Millenials
+15507,Luxembourg,2001,female,35-54 years,0,65725,0.0,Luxembourg2001,,"21,272,418,792",51391,Boomers
+15508,Luxembourg,2001,female,5-14 years,0,27034,0.0,Luxembourg2001,,"21,272,418,792",51391,Millenials
+15509,Luxembourg,2001,male,5-14 years,0,28343,0.0,Luxembourg2001,,"21,272,418,792",51391,Millenials
+15510,Luxembourg,2002,male,55-74 years,27,38724,69.72,Luxembourg2002,,"23,616,328,816",56484,Silent
+15511,Luxembourg,2002,male,75+ years,6,8635,69.48,Luxembourg2002,,"23,616,328,816",56484,Silent
+15512,Luxembourg,2002,male,25-34 years,8,33839,23.64,Luxembourg2002,,"23,616,328,816",56484,Generation X
+15513,Luxembourg,2002,male,15-24 years,6,25897,23.17,Luxembourg2002,,"23,616,328,816",56484,Millenials
+15514,Luxembourg,2002,male,35-54 years,16,69685,22.96,Luxembourg2002,,"23,616,328,816",56484,Boomers
+15515,Luxembourg,2002,female,55-74 years,8,41566,19.25,Luxembourg2002,,"23,616,328,816",56484,Silent
+15516,Luxembourg,2002,female,75+ years,3,17636,17.01,Luxembourg2002,,"23,616,328,816",56484,Silent
+15517,Luxembourg,2002,female,35-54 years,10,67029,14.92,Luxembourg2002,,"23,616,328,816",56484,Boomers
+15518,Luxembourg,2002,female,15-24 years,1,25089,3.99,Luxembourg2002,,"23,616,328,816",56484,Millenials
+15519,Luxembourg,2002,female,25-34 years,0,33876,0.0,Luxembourg2002,,"23,616,328,816",56484,Generation X
+15520,Luxembourg,2002,female,5-14 years,0,27411,0.0,Luxembourg2002,,"23,616,328,816",56484,Millenials
+15521,Luxembourg,2002,male,5-14 years,0,28719,0.0,Luxembourg2002,,"23,616,328,816",56484,Millenials
+15522,Luxembourg,2003,male,75+ years,6,9133,65.7,Luxembourg2003,,"29,557,325,056",69768,Silent
+15523,Luxembourg,2003,male,15-24 years,6,26415,22.71,Luxembourg2003,,"29,557,325,056",69768,Millenials
+15524,Luxembourg,2003,male,55-74 years,8,39335,20.34,Luxembourg2003,,"29,557,325,056",69768,Silent
+15525,Luxembourg,2003,male,35-54 years,14,70996,19.72,Luxembourg2003,,"29,557,325,056",69768,Boomers
+15526,Luxembourg,2003,male,25-34 years,5,33450,14.95,Luxembourg2003,,"29,557,325,056",69768,Generation X
+15527,Luxembourg,2003,female,35-54 years,4,68468,5.84,Luxembourg2003,,"29,557,325,056",69768,Boomers
+15528,Luxembourg,2003,female,55-74 years,2,41982,4.76,Luxembourg2003,,"29,557,325,056",69768,Silent
+15529,Luxembourg,2003,female,15-24 years,1,25512,3.92,Luxembourg2003,,"29,557,325,056",69768,Millenials
+15530,Luxembourg,2003,male,5-14 years,1,29105,3.44,Luxembourg2003,,"29,557,325,056",69768,Millenials
+15531,Luxembourg,2003,female,25-34 years,1,33475,2.99,Luxembourg2003,,"29,557,325,056",69768,Generation X
+15532,Luxembourg,2003,female,5-14 years,0,27721,0.0,Luxembourg2003,,"29,557,325,056",69768,Millenials
+15533,Luxembourg,2003,female,75+ years,0,18062,0.0,Luxembourg2003,,"29,557,325,056",69768,Silent
+15534,Luxembourg,2004,male,75+ years,6,9641,62.23,Luxembourg2004,,"34,685,281,848",80639,Silent
+15535,Luxembourg,2004,male,25-34 years,9,33259,27.06,Luxembourg2004,,"34,685,281,848",80639,Generation X
+15536,Luxembourg,2004,male,35-54 years,19,72279,26.29,Luxembourg2004,,"34,685,281,848",80639,Boomers
+15537,Luxembourg,2004,male,55-74 years,7,40050,17.48,Luxembourg2004,,"34,685,281,848",80639,Silent
+15538,Luxembourg,2004,female,75+ years,3,18524,16.2,Luxembourg2004,,"34,685,281,848",80639,Silent
+15539,Luxembourg,2004,male,15-24 years,4,27235,14.69,Luxembourg2004,,"34,685,281,848",80639,Millenials
+15540,Luxembourg,2004,female,55-74 years,6,42429,14.14,Luxembourg2004,,"34,685,281,848",80639,Silent
+15541,Luxembourg,2004,female,35-54 years,8,69884,11.45,Luxembourg2004,,"34,685,281,848",80639,Boomers
+15542,Luxembourg,2004,female,15-24 years,0,26128,0.0,Luxembourg2004,,"34,685,281,848",80639,Millenials
+15543,Luxembourg,2004,female,25-34 years,0,33179,0.0,Luxembourg2004,,"34,685,281,848",80639,Generation X
+15544,Luxembourg,2004,female,5-14 years,0,28020,0.0,Luxembourg2004,,"34,685,281,848",80639,Millenials
+15545,Luxembourg,2004,male,5-14 years,0,29500,0.0,Luxembourg2004,,"34,685,281,848",80639,Millenials
+15546,Luxembourg,2005,male,75+ years,7,10242,68.35,Luxembourg2005,0.88,"37,347,394,603",85397,Silent
+15547,Luxembourg,2005,male,35-54 years,16,73579,21.75,Luxembourg2005,0.88,"37,347,394,603",85397,Boomers
+15548,Luxembourg,2005,male,15-24 years,6,27957,21.46,Luxembourg2005,0.88,"37,347,394,603",85397,Millenials
+15549,Luxembourg,2005,male,55-74 years,7,40759,17.17,Luxembourg2005,0.88,"37,347,394,603",85397,Silent
+15550,Luxembourg,2005,male,25-34 years,3,33273,9.02,Luxembourg2005,0.88,"37,347,394,603",85397,Generation X
+15551,Luxembourg,2005,female,35-54 years,6,71364,8.41,Luxembourg2005,0.88,"37,347,394,603",85397,Boomers
+15552,Luxembourg,2005,female,75+ years,1,19135,5.23,Luxembourg2005,0.88,"37,347,394,603",85397,Silent
+15553,Luxembourg,2005,female,55-74 years,2,42875,4.66,Luxembourg2005,0.88,"37,347,394,603",85397,Silent
+15554,Luxembourg,2005,female,25-34 years,1,33120,3.02,Luxembourg2005,0.88,"37,347,394,603",85397,Generation X
+15555,Luxembourg,2005,female,15-24 years,0,26691,0.0,Luxembourg2005,0.88,"37,347,394,603",85397,Millenials
+15556,Luxembourg,2005,female,5-14 years,0,28450,0.0,Luxembourg2005,0.88,"37,347,394,603",85397,Millenials
+15557,Luxembourg,2005,male,5-14 years,0,29893,0.0,Luxembourg2005,0.88,"37,347,394,603",85397,Millenials
+15558,Luxembourg,2006,male,75+ years,8,10878,73.54,Luxembourg2006,,"42,414,308,117",95351,Silent
+15559,Luxembourg,2006,male,35-54 years,22,75006,29.33,Luxembourg2006,,"42,414,308,117",95351,Boomers
+15560,Luxembourg,2006,male,55-74 years,10,41414,24.15,Luxembourg2006,,"42,414,308,117",95351,Silent
+15561,Luxembourg,2006,female,35-54 years,12,72885,16.46,Luxembourg2006,,"42,414,308,117",95351,Boomers
+15562,Luxembourg,2006,male,15-24 years,4,28509,14.03,Luxembourg2006,,"42,414,308,117",95351,Millenials
+15563,Luxembourg,2006,female,55-74 years,4,43289,9.24,Luxembourg2006,,"42,414,308,117",95351,Silent
+15564,Luxembourg,2006,male,25-34 years,3,33484,8.96,Luxembourg2006,,"42,414,308,117",95351,Generation X
+15565,Luxembourg,2006,female,75+ years,1,19651,5.09,Luxembourg2006,,"42,414,308,117",95351,Silent
+15566,Luxembourg,2006,female,25-34 years,1,33421,2.99,Luxembourg2006,,"42,414,308,117",95351,Generation X
+15567,Luxembourg,2006,female,15-24 years,0,27217,0.0,Luxembourg2006,,"42,414,308,117",95351,Millenials
+15568,Luxembourg,2006,female,5-14 years,0,28857,0.0,Luxembourg2006,,"42,414,308,117",95351,Millenials
+15569,Luxembourg,2006,male,5-14 years,0,30210,0.0,Luxembourg2006,,"42,414,308,117",95351,Millenials
+15570,Luxembourg,2007,male,55-74 years,14,42200,33.18,Luxembourg2007,,"50,888,134,410",112581,Silent
+15571,Luxembourg,2007,male,35-54 years,25,76346,32.75,Luxembourg2007,,"50,888,134,410",112581,Boomers
+15572,Luxembourg,2007,male,25-34 years,9,33901,26.55,Luxembourg2007,,"50,888,134,410",112581,Generation X
+15573,Luxembourg,2007,male,75+ years,3,11340,26.46,Luxembourg2007,,"50,888,134,410",112581,Silent
+15574,Luxembourg,2007,female,55-74 years,10,43834,22.81,Luxembourg2007,,"50,888,134,410",112581,Silent
+15575,Luxembourg,2007,female,35-54 years,9,74214,12.13,Luxembourg2007,,"50,888,134,410",112581,Boomers
+15576,Luxembourg,2007,female,75+ years,2,20040,9.98,Luxembourg2007,,"50,888,134,410",112581,Silent
+15577,Luxembourg,2007,female,15-24 years,2,27674,7.23,Luxembourg2007,,"50,888,134,410",112581,Millenials
+15578,Luxembourg,2007,male,15-24 years,2,28964,6.91,Luxembourg2007,,"50,888,134,410",112581,Millenials
+15579,Luxembourg,2007,female,25-34 years,2,33942,5.89,Luxembourg2007,,"50,888,134,410",112581,Generation X
+15580,Luxembourg,2007,female,5-14 years,0,29088,0.0,Luxembourg2007,,"50,888,134,410",112581,Generation Z
+15581,Luxembourg,2007,male,5-14 years,0,30469,0.0,Luxembourg2007,,"50,888,134,410",112581,Generation Z
+15582,Luxembourg,2008,male,75+ years,5,11706,42.71,Luxembourg2008,,"55,849,686,539",121315,Silent
+15583,Luxembourg,2008,male,35-54 years,20,77730,25.73,Luxembourg2008,,"55,849,686,539",121315,Boomers
+15584,Luxembourg,2008,male,55-74 years,6,43218,13.88,Luxembourg2008,,"55,849,686,539",121315,Silent
+15585,Luxembourg,2008,male,25-34 years,4,34724,11.52,Luxembourg2008,,"55,849,686,539",121315,Generation X
+15586,Luxembourg,2008,female,55-74 years,3,44697,6.71,Luxembourg2008,,"55,849,686,539",121315,Silent
+15587,Luxembourg,2008,female,75+ years,1,20350,4.91,Luxembourg2008,,"55,849,686,539",121315,Silent
+15588,Luxembourg,2008,female,35-54 years,3,75463,3.98,Luxembourg2008,,"55,849,686,539",121315,Boomers
+15589,Luxembourg,2008,female,25-34 years,1,34796,2.87,Luxembourg2008,,"55,849,686,539",121315,Generation X
+15590,Luxembourg,2008,female,15-24 years,0,28190,0.0,Luxembourg2008,,"55,849,686,539",121315,Millenials
+15591,Luxembourg,2008,female,5-14 years,0,29210,0.0,Luxembourg2008,,"55,849,686,539",121315,Generation Z
+15592,Luxembourg,2008,male,15-24 years,0,29576,0.0,Luxembourg2008,,"55,849,686,539",121315,Millenials
+15593,Luxembourg,2008,male,5-14 years,0,30711,0.0,Luxembourg2008,,"55,849,686,539",121315,Generation Z
+15594,Luxembourg,2009,male,75+ years,3,12114,24.76,Luxembourg2009,,"51,370,543,206",109483,Silent
+15595,Luxembourg,2009,male,55-74 years,10,44418,22.51,Luxembourg2009,,"51,370,543,206",109483,Silent
+15596,Luxembourg,2009,male,35-54 years,16,79077,20.23,Luxembourg2009,,"51,370,543,206",109483,Boomers
+15597,Luxembourg,2009,male,25-34 years,6,35713,16.8,Luxembourg2009,,"51,370,543,206",109483,Generation X
+15598,Luxembourg,2009,female,35-54 years,7,76687,9.13,Luxembourg2009,,"51,370,543,206",109483,Boomers
+15599,Luxembourg,2009,female,55-74 years,3,45716,6.56,Luxembourg2009,,"51,370,543,206",109483,Silent
+15600,Luxembourg,2009,female,75+ years,1,20687,4.83,Luxembourg2009,,"51,370,543,206",109483,Silent
+15601,Luxembourg,2009,male,15-24 years,1,30148,3.32,Luxembourg2009,,"51,370,543,206",109483,Millenials
+15602,Luxembourg,2009,female,25-34 years,1,35557,2.81,Luxembourg2009,,"51,370,543,206",109483,Generation X
+15603,Luxembourg,2009,female,15-24 years,0,28821,0.0,Luxembourg2009,,"51,370,543,206",109483,Millenials
+15604,Luxembourg,2009,female,5-14 years,0,29292,0.0,Luxembourg2009,,"51,370,543,206",109483,Generation Z
+15605,Luxembourg,2009,male,5-14 years,0,30979,0.0,Luxembourg2009,,"51,370,543,206",109483,Generation Z
+15606,Luxembourg,2010,male,75+ years,7,12469,56.14,Luxembourg2010,0.8859999999999999,"53,212,476,812",111328,Silent
+15607,Luxembourg,2010,male,35-54 years,24,80477,29.82,Luxembourg2010,0.8859999999999999,"53,212,476,812",111328,Generation X
+15608,Luxembourg,2010,male,55-74 years,5,45726,10.93,Luxembourg2010,0.8859999999999999,"53,212,476,812",111328,Silent
+15609,Luxembourg,2010,male,15-24 years,3,30768,9.75,Luxembourg2010,0.8859999999999999,"53,212,476,812",111328,Millenials
+15610,Luxembourg,2010,male,25-34 years,3,36519,8.21,Luxembourg2010,0.8859999999999999,"53,212,476,812",111328,Generation X
+15611,Luxembourg,2010,female,35-54 years,5,77946,6.41,Luxembourg2010,0.8859999999999999,"53,212,476,812",111328,Generation X
+15612,Luxembourg,2010,female,55-74 years,3,46835,6.41,Luxembourg2010,0.8859999999999999,"53,212,476,812",111328,Silent
+15613,Luxembourg,2010,female,25-34 years,2,36069,5.54,Luxembourg2010,0.8859999999999999,"53,212,476,812",111328,Generation X
+15614,Luxembourg,2010,female,75+ years,1,21038,4.75,Luxembourg2010,0.8859999999999999,"53,212,476,812",111328,Silent
+15615,Luxembourg,2010,male,5-14 years,1,31209,3.2,Luxembourg2010,0.8859999999999999,"53,212,476,812",111328,Generation Z
+15616,Luxembourg,2010,female,15-24 years,0,29539,0.0,Luxembourg2010,0.8859999999999999,"53,212,476,812",111328,Millenials
+15617,Luxembourg,2010,female,5-14 years,0,29384,0.0,Luxembourg2010,0.8859999999999999,"53,212,476,812",111328,Generation Z
+15618,Luxembourg,2011,male,75+ years,4,12991,30.79,Luxembourg2011,0.888,"60,004,630,234",122729,Silent
+15619,Luxembourg,2011,male,35-54 years,20,82530,24.23,Luxembourg2011,0.888,"60,004,630,234",122729,Generation X
+15620,Luxembourg,2011,female,75+ years,5,21428,23.33,Luxembourg2011,0.888,"60,004,630,234",122729,Silent
+15621,Luxembourg,2011,male,55-74 years,7,47058,14.88,Luxembourg2011,0.888,"60,004,630,234",122729,Boomers
+15622,Luxembourg,2011,male,25-34 years,4,37499,10.67,Luxembourg2011,0.888,"60,004,630,234",122729,Millenials
+15623,Luxembourg,2011,female,15-24 years,3,30482,9.84,Luxembourg2011,0.888,"60,004,630,234",122729,Millenials
+15624,Luxembourg,2011,female,35-54 years,6,79200,7.58,Luxembourg2011,0.888,"60,004,630,234",122729,Generation X
+15625,Luxembourg,2011,male,15-24 years,2,31906,6.27,Luxembourg2011,0.888,"60,004,630,234",122729,Millenials
+15626,Luxembourg,2011,female,55-74 years,3,48023,6.25,Luxembourg2011,0.888,"60,004,630,234",122729,Boomers
+15627,Luxembourg,2011,female,25-34 years,1,37231,2.69,Luxembourg2011,0.888,"60,004,630,234",122729,Millenials
+15628,Luxembourg,2011,female,5-14 years,0,29358,0.0,Luxembourg2011,0.888,"60,004,630,234",122729,Generation Z
+15629,Luxembourg,2011,male,5-14 years,0,31212,0.0,Luxembourg2011,0.888,"60,004,630,234",122729,Generation Z
+15630,Luxembourg,2012,male,75+ years,7,13581,51.54,Luxembourg2012,0.888,"56,677,961,787",113120,Silent
+15631,Luxembourg,2012,male,55-74 years,10,48506,20.62,Luxembourg2012,0.888,"56,677,961,787",113120,Boomers
+15632,Luxembourg,2012,male,35-54 years,13,84570,15.37,Luxembourg2012,0.888,"56,677,961,787",113120,Generation X
+15633,Luxembourg,2012,male,15-24 years,5,33062,15.12,Luxembourg2012,0.888,"56,677,961,787",113120,Millenials
+15634,Luxembourg,2012,male,25-34 years,4,38866,10.29,Luxembourg2012,0.888,"56,677,961,787",113120,Millenials
+15635,Luxembourg,2012,female,75+ years,2,21770,9.19,Luxembourg2012,0.888,"56,677,961,787",113120,Silent
+15636,Luxembourg,2012,female,35-54 years,5,80598,6.2,Luxembourg2012,0.888,"56,677,961,787",113120,Generation X
+15637,Luxembourg,2012,female,55-74 years,3,49311,6.08,Luxembourg2012,0.888,"56,677,961,787",113120,Boomers
+15638,Luxembourg,2012,female,15-24 years,1,31459,3.18,Luxembourg2012,0.888,"56,677,961,787",113120,Millenials
+15639,Luxembourg,2012,female,25-34 years,1,38629,2.59,Luxembourg2012,0.888,"56,677,961,787",113120,Millenials
+15640,Luxembourg,2012,female,5-14 years,0,29466,0.0,Luxembourg2012,0.888,"56,677,961,787",113120,Generation Z
+15641,Luxembourg,2012,male,5-14 years,0,31226,0.0,Luxembourg2012,0.888,"56,677,961,787",113120,Generation Z
+15642,Luxembourg,2013,male,75+ years,3,14046,21.36,Luxembourg2013,0.89,"61,739,352,212",120423,Silent
+15643,Luxembourg,2013,male,55-74 years,9,50291,17.9,Luxembourg2013,0.89,"61,739,352,212",120423,Boomers
+15644,Luxembourg,2013,female,55-74 years,8,50752,15.76,Luxembourg2013,0.89,"61,739,352,212",120423,Boomers
+15645,Luxembourg,2013,male,35-54 years,10,86356,11.58,Luxembourg2013,0.89,"61,739,352,212",120423,Generation X
+15646,Luxembourg,2013,female,75+ years,2,22111,9.05,Luxembourg2013,0.89,"61,739,352,212",120423,Silent
+15647,Luxembourg,2013,male,15-24 years,2,33718,5.93,Luxembourg2013,0.89,"61,739,352,212",120423,Millenials
+15648,Luxembourg,2013,female,25-34 years,2,39688,5.04,Luxembourg2013,0.89,"61,739,352,212",120423,Millenials
+15649,Luxembourg,2013,female,35-54 years,4,82301,4.86,Luxembourg2013,0.89,"61,739,352,212",120423,Generation X
+15650,Luxembourg,2013,female,15-24 years,0,32027,0.0,Luxembourg2013,0.89,"61,739,352,212",120423,Millenials
+15651,Luxembourg,2013,female,5-14 years,0,29800,0.0,Luxembourg2013,0.89,"61,739,352,212",120423,Generation Z
+15652,Luxembourg,2013,male,25-34 years,0,40174,0.0,Luxembourg2013,0.89,"61,739,352,212",120423,Millenials
+15653,Luxembourg,2013,male,5-14 years,0,31425,0.0,Luxembourg2013,0.89,"61,739,352,212",120423,Generation Z
+15654,Luxembourg,2014,male,55-74 years,18,52295,34.42,Luxembourg2014,0.892,"66,327,344,189",126352,Boomers
+15655,Luxembourg,2014,male,75+ years,4,14546,27.5,Luxembourg2014,0.892,"66,327,344,189",126352,Silent
+15656,Luxembourg,2014,male,35-54 years,20,88218,22.67,Luxembourg2014,0.892,"66,327,344,189",126352,Generation X
+15657,Luxembourg,2014,male,25-34 years,7,41442,16.89,Luxembourg2014,0.892,"66,327,344,189",126352,Millenials
+15658,Luxembourg,2014,female,75+ years,3,22669,13.23,Luxembourg2014,0.892,"66,327,344,189",126352,Silent
+15659,Luxembourg,2014,female,55-74 years,5,52260,9.57,Luxembourg2014,0.892,"66,327,344,189",126352,Boomers
+15660,Luxembourg,2014,female,15-24 years,2,32510,6.15,Luxembourg2014,0.892,"66,327,344,189",126352,Millenials
+15661,Luxembourg,2014,male,15-24 years,2,34219,5.84,Luxembourg2014,0.892,"66,327,344,189",126352,Millenials
+15662,Luxembourg,2014,female,25-34 years,2,40862,4.89,Luxembourg2014,0.892,"66,327,344,189",126352,Millenials
+15663,Luxembourg,2014,female,35-54 years,3,84147,3.57,Luxembourg2014,0.892,"66,327,344,189",126352,Generation X
+15664,Luxembourg,2014,male,5-14 years,1,31718,3.15,Luxembourg2014,0.892,"66,327,344,189",126352,Generation Z
+15665,Luxembourg,2014,female,5-14 years,0,30054,0.0,Luxembourg2014,0.892,"66,327,344,189",126352,Generation Z
+15666,Luxembourg,2015,male,55-74 years,16,54325,29.45,Luxembourg2015,,"57,784,495,265",107456,Boomers
+15667,Luxembourg,2015,male,75+ years,4,15011,26.65,Luxembourg2015,,"57,784,495,265",107456,Silent
+15668,Luxembourg,2015,male,35-54 years,17,90095,18.87,Luxembourg2015,,"57,784,495,265",107456,Generation X
+15669,Luxembourg,2015,female,55-74 years,9,53878,16.7,Luxembourg2015,,"57,784,495,265",107456,Boomers
+15670,Luxembourg,2015,male,15-24 years,4,34757,11.51,Luxembourg2015,,"57,784,495,265",107456,Millenials
+15671,Luxembourg,2015,male,25-34 years,4,42930,9.32,Luxembourg2015,,"57,784,495,265",107456,Millenials
+15672,Luxembourg,2015,female,75+ years,2,23189,8.62,Luxembourg2015,,"57,784,495,265",107456,Silent
+15673,Luxembourg,2015,female,35-54 years,6,85928,6.98,Luxembourg2015,,"57,784,495,265",107456,Generation X
+15674,Luxembourg,2015,female,5-14 years,1,30367,3.29,Luxembourg2015,,"57,784,495,265",107456,Generation Z
+15675,Luxembourg,2015,female,15-24 years,1,33170,3.01,Luxembourg2015,,"57,784,495,265",107456,Millenials
+15676,Luxembourg,2015,female,25-34 years,0,42000,0.0,Luxembourg2015,,"57,784,495,265",107456,Millenials
+15677,Luxembourg,2015,male,5-14 years,0,32098,0.0,Luxembourg2015,,"57,784,495,265",107456,Generation Z

@@ -1,0 +1,361 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+6008,Costa Rica,1985,male,35-54 years,32,218000,14.68,Costa Rica1985,0.623,"4,796,628,461",2145,Silent
+6009,Costa Rica,1985,male,25-34 years,32,219000,14.61,Costa Rica1985,0.623,"4,796,628,461",2145,Boomers
+6010,Costa Rica,1985,male,55-74 years,12,91000,13.19,Costa Rica1985,0.623,"4,796,628,461",2145,G.I. Generation
+6011,Costa Rica,1985,male,15-24 years,33,285800,11.55,Costa Rica1985,0.623,"4,796,628,461",2145,Generation X
+6012,Costa Rica,1985,male,75+ years,1,13000,7.69,Costa Rica1985,0.623,"4,796,628,461",2145,G.I. Generation
+6013,Costa Rica,1985,female,15-24 years,8,274800,2.91,Costa Rica1985,0.623,"4,796,628,461",2145,Generation X
+6014,Costa Rica,1985,female,25-34 years,3,214000,1.4,Costa Rica1985,0.623,"4,796,628,461",2145,Boomers
+6015,Costa Rica,1985,female,35-54 years,3,216000,1.39,Costa Rica1985,0.623,"4,796,628,461",2145,Silent
+6016,Costa Rica,1985,female,55-74 years,1,97000,1.03,Costa Rica1985,0.623,"4,796,628,461",2145,G.I. Generation
+6017,Costa Rica,1985,male,5-14 years,2,300800,0.66,Costa Rica1985,0.623,"4,796,628,461",2145,Generation X
+6018,Costa Rica,1985,female,5-14 years,1,288800,0.35,Costa Rica1985,0.623,"4,796,628,461",2145,Generation X
+6019,Costa Rica,1985,female,75+ years,0,18000,0.0,Costa Rica1985,0.623,"4,796,628,461",2145,G.I. Generation
+6020,Costa Rica,1986,male,75+ years,3,13300,22.56,Costa Rica1986,,"5,477,895,475",2389,G.I. Generation
+6021,Costa Rica,1986,male,35-54 years,48,223500,21.48,Costa Rica1986,,"5,477,895,475",2389,Silent
+6022,Costa Rica,1986,male,55-74 years,20,93300,21.44,Costa Rica1986,,"5,477,895,475",2389,G.I. Generation
+6023,Costa Rica,1986,male,25-34 years,26,224600,11.58,Costa Rica1986,,"5,477,895,475",2389,Boomers
+6024,Costa Rica,1986,male,15-24 years,20,293100,6.82,Costa Rica1986,,"5,477,895,475",2389,Generation X
+6025,Costa Rica,1986,female,15-24 years,7,281700,2.48,Costa Rica1986,,"5,477,895,475",2389,Generation X
+6026,Costa Rica,1986,female,55-74 years,1,99500,1.01,Costa Rica1986,,"5,477,895,475",2389,G.I. Generation
+6027,Costa Rica,1986,female,25-34 years,2,219400,0.91,Costa Rica1986,,"5,477,895,475",2389,Boomers
+6028,Costa Rica,1986,female,35-54 years,2,221500,0.9,Costa Rica1986,,"5,477,895,475",2389,Silent
+6029,Costa Rica,1986,female,5-14 years,1,296100,0.34,Costa Rica1986,,"5,477,895,475",2389,Generation X
+6030,Costa Rica,1986,male,5-14 years,1,308400,0.32,Costa Rica1986,,"5,477,895,475",2389,Generation X
+6031,Costa Rica,1986,female,75+ years,0,18500,0.0,Costa Rica1986,,"5,477,895,475",2389,G.I. Generation
+6032,Costa Rica,1987,male,75+ years,5,14000,35.71,Costa Rica1987,,"5,841,132,962",2433,G.I. Generation
+6033,Costa Rica,1987,male,35-54 years,34,234100,14.52,Costa Rica1987,,"5,841,132,962",2433,Silent
+6034,Costa Rica,1987,male,25-34 years,29,235100,12.34,Costa Rica1987,,"5,841,132,962",2433,Boomers
+6035,Costa Rica,1987,male,15-24 years,22,306700,7.17,Costa Rica1987,,"5,841,132,962",2433,Generation X
+6036,Costa Rica,1987,male,55-74 years,7,97700,7.16,Costa Rica1987,,"5,841,132,962",2433,G.I. Generation
+6037,Costa Rica,1987,female,25-34 years,8,229800,3.48,Costa Rica1987,,"5,841,132,962",2433,Boomers
+6038,Costa Rica,1987,female,15-24 years,7,295000,2.37,Costa Rica1987,,"5,841,132,962",2433,Generation X
+6039,Costa Rica,1987,female,35-54 years,5,231900,2.16,Costa Rica1987,,"5,841,132,962",2433,Silent
+6040,Costa Rica,1987,female,5-14 years,2,310000,0.65,Costa Rica1987,,"5,841,132,962",2433,Generation X
+6041,Costa Rica,1987,female,55-74 years,0,104200,0.0,Costa Rica1987,,"5,841,132,962",2433,G.I. Generation
+6042,Costa Rica,1987,female,75+ years,0,19300,0.0,Costa Rica1987,,"5,841,132,962",2433,G.I. Generation
+6043,Costa Rica,1987,male,5-14 years,0,322900,0.0,Costa Rica1987,,"5,841,132,962",2433,Generation X
+6044,Costa Rica,1988,male,75+ years,4,14300,27.97,Costa Rica1988,,"6,063,759,371",2460,G.I. Generation
+6045,Costa Rica,1988,male,35-54 years,49,240300,20.39,Costa Rica1988,,"6,063,759,371",2460,Silent
+6046,Costa Rica,1988,male,55-74 years,14,100400,13.94,Costa Rica1988,,"6,063,759,371",2460,G.I. Generation
+6047,Costa Rica,1988,male,25-34 years,32,241400,13.26,Costa Rica1988,,"6,063,759,371",2460,Boomers
+6048,Costa Rica,1988,male,15-24 years,22,315000,6.98,Costa Rica1988,,"6,063,759,371",2460,Generation X
+6049,Costa Rica,1988,female,15-24 years,8,302900,2.64,Costa Rica1988,,"6,063,759,371",2460,Generation X
+6050,Costa Rica,1988,female,25-34 years,6,235900,2.54,Costa Rica1988,,"6,063,759,371",2460,Boomers
+6051,Costa Rica,1988,female,35-54 years,3,238000,1.26,Costa Rica1988,,"6,063,759,371",2460,Silent
+6052,Costa Rica,1988,female,5-14 years,0,318500,0.0,Costa Rica1988,,"6,063,759,371",2460,Generation X
+6053,Costa Rica,1988,female,55-74 years,0,107000,0.0,Costa Rica1988,,"6,063,759,371",2460,G.I. Generation
+6054,Costa Rica,1988,female,75+ years,0,19900,0.0,Costa Rica1988,,"6,063,759,371",2460,G.I. Generation
+6055,Costa Rica,1988,male,5-14 years,0,331600,0.0,Costa Rica1988,,"6,063,759,371",2460,Generation X
+6056,Costa Rica,1989,male,25-34 years,50,259000,19.31,Costa Rica1989,,"6,866,402,028",2686,Boomers
+6057,Costa Rica,1989,male,55-74 years,19,109000,17.43,Costa Rica1989,,"6,866,402,028",2686,G.I. Generation
+6058,Costa Rica,1989,male,35-54 years,40,264000,15.15,Costa Rica1989,,"6,866,402,028",2686,Silent
+6059,Costa Rica,1989,male,75+ years,2,16000,12.5,Costa Rica1989,,"6,866,402,028",2686,G.I. Generation
+6060,Costa Rica,1989,male,15-24 years,23,293000,7.85,Costa Rica1989,,"6,866,402,028",2686,Generation X
+6061,Costa Rica,1989,female,15-24 years,12,282000,4.26,Costa Rica1989,,"6,866,402,028",2686,Generation X
+6062,Costa Rica,1989,female,35-54 years,9,262000,3.44,Costa Rica1989,,"6,866,402,028",2686,Silent
+6063,Costa Rica,1989,female,25-34 years,7,251000,2.79,Costa Rica1989,,"6,866,402,028",2686,Boomers
+6064,Costa Rica,1989,female,55-74 years,1,115000,0.87,Costa Rica1989,,"6,866,402,028",2686,G.I. Generation
+6065,Costa Rica,1989,female,5-14 years,2,334000,0.6,Costa Rica1989,,"6,866,402,028",2686,Generation X
+6066,Costa Rica,1989,male,5-14 years,2,349000,0.57,Costa Rica1989,,"6,866,402,028",2686,Generation X
+6067,Costa Rica,1989,female,75+ years,0,22000,0.0,Costa Rica1989,,"6,866,402,028",2686,G.I. Generation
+6068,Costa Rica,1990,male,75+ years,5,19000,26.32,Costa Rica1990,0.652,"7,403,457,319",2817,G.I. Generation
+6069,Costa Rica,1990,male,35-54 years,49,276000,17.75,Costa Rica1990,0.652,"7,403,457,319",2817,Silent
+6070,Costa Rica,1990,male,55-74 years,15,113000,13.27,Costa Rica1990,0.652,"7,403,457,319",2817,G.I. Generation
+6071,Costa Rica,1990,male,15-24 years,35,294000,11.9,Costa Rica1990,0.652,"7,403,457,319",2817,Generation X
+6072,Costa Rica,1990,male,25-34 years,31,267000,11.61,Costa Rica1990,0.652,"7,403,457,319",2817,Boomers
+6073,Costa Rica,1990,female,75+ years,1,23800,4.2,Costa Rica1990,0.652,"7,403,457,319",2817,G.I. Generation
+6074,Costa Rica,1990,female,35-54 years,6,273000,2.2,Costa Rica1990,0.652,"7,403,457,319",2817,Silent
+6075,Costa Rica,1990,female,15-24 years,5,283000,1.77,Costa Rica1990,0.652,"7,403,457,319",2817,Generation X
+6076,Costa Rica,1990,female,55-74 years,2,119000,1.68,Costa Rica1990,0.652,"7,403,457,319",2817,G.I. Generation
+6077,Costa Rica,1990,female,25-34 years,3,259000,1.16,Costa Rica1990,0.652,"7,403,457,319",2817,Boomers
+6078,Costa Rica,1990,male,5-14 years,4,358000,1.12,Costa Rica1990,0.652,"7,403,457,319",2817,Generation X
+6079,Costa Rica,1990,female,5-14 years,1,343000,0.29,Costa Rica1990,0.652,"7,403,457,319",2817,Generation X
+6080,Costa Rica,1991,male,35-54 years,41,289000,14.19,Costa Rica1991,,"7,168,999,428",2651,Boomers
+6081,Costa Rica,1991,male,55-74 years,16,117000,13.68,Costa Rica1991,,"7,168,999,428",2651,Silent
+6082,Costa Rica,1991,male,25-34 years,31,274000,11.31,Costa Rica1991,,"7,168,999,428",2651,Boomers
+6083,Costa Rica,1991,male,75+ years,2,19000,10.53,Costa Rica1991,,"7,168,999,428",2651,G.I. Generation
+6084,Costa Rica,1991,male,15-24 years,15,298000,5.03,Costa Rica1991,,"7,168,999,428",2651,Generation X
+6085,Costa Rica,1991,female,15-24 years,10,286000,3.5,Costa Rica1991,,"7,168,999,428",2651,Generation X
+6086,Costa Rica,1991,female,35-54 years,6,287000,2.09,Costa Rica1991,,"7,168,999,428",2651,Boomers
+6087,Costa Rica,1991,female,25-34 years,3,267000,1.12,Costa Rica1991,,"7,168,999,428",2651,Boomers
+6088,Costa Rica,1991,male,5-14 years,1,367000,0.27,Costa Rica1991,,"7,168,999,428",2651,Millenials
+6089,Costa Rica,1991,female,5-14 years,0,351000,0.0,Costa Rica1991,,"7,168,999,428",2651,Millenials
+6090,Costa Rica,1991,female,55-74 years,0,124000,0.0,Costa Rica1991,,"7,168,999,428",2651,Silent
+6091,Costa Rica,1991,female,75+ years,0,25000,0.0,Costa Rica1991,,"7,168,999,428",2651,G.I. Generation
+6092,Costa Rica,1992,male,35-54 years,48,303600,15.81,Costa Rica1992,,"8,528,593,084",3070,Boomers
+6093,Costa Rica,1992,male,75+ years,3,20200,14.85,Costa Rica1992,,"8,528,593,084",3070,G.I. Generation
+6094,Costa Rica,1992,male,55-74 years,15,121500,12.35,Costa Rica1992,,"8,528,593,084",3070,Silent
+6095,Costa Rica,1992,male,25-34 years,30,280800,10.68,Costa Rica1992,,"8,528,593,084",3070,Boomers
+6096,Costa Rica,1992,male,15-24 years,28,301000,9.3,Costa Rica1992,,"8,528,593,084",3070,Generation X
+6097,Costa Rica,1992,female,25-34 years,12,272500,4.4,Costa Rica1992,,"8,528,593,084",3070,Boomers
+6098,Costa Rica,1992,female,15-24 years,5,288800,1.73,Costa Rica1992,,"8,528,593,084",3070,Generation X
+6099,Costa Rica,1992,female,55-74 years,2,128100,1.56,Costa Rica1992,,"8,528,593,084",3070,Silent
+6100,Costa Rica,1992,female,35-54 years,4,300600,1.33,Costa Rica1992,,"8,528,593,084",3070,Boomers
+6101,Costa Rica,1992,male,5-14 years,2,375600,0.53,Costa Rica1992,,"8,528,593,084",3070,Millenials
+6102,Costa Rica,1992,female,5-14 years,0,359200,0.0,Costa Rica1992,,"8,528,593,084",3070,Millenials
+6103,Costa Rica,1992,female,75+ years,0,26500,0.0,Costa Rica1992,,"8,528,593,084",3070,G.I. Generation
+6104,Costa Rica,1993,male,75+ years,8,21300,37.56,Costa Rica1993,,"9,537,297,507",3342,G.I. Generation
+6105,Costa Rica,1993,male,35-54 years,47,318500,14.76,Costa Rica1993,,"9,537,297,507",3342,Boomers
+6106,Costa Rica,1993,male,55-74 years,18,125600,14.33,Costa Rica1993,,"9,537,297,507",3342,Silent
+6107,Costa Rica,1993,male,25-34 years,38,286500,13.26,Costa Rica1993,,"9,537,297,507",3342,Boomers
+6108,Costa Rica,1993,male,15-24 years,26,305800,8.5,Costa Rica1993,,"9,537,297,507",3342,Generation X
+6109,Costa Rica,1993,female,25-34 years,9,277700,3.24,Costa Rica1993,,"9,537,297,507",3342,Boomers
+6110,Costa Rica,1993,female,35-54 years,9,315100,2.86,Costa Rica1993,,"9,537,297,507",3342,Boomers
+6111,Costa Rica,1993,female,55-74 years,3,132400,2.27,Costa Rica1993,,"9,537,297,507",3342,Silent
+6112,Costa Rica,1993,female,15-24 years,6,293100,2.05,Costa Rica1993,,"9,537,297,507",3342,Generation X
+6113,Costa Rica,1993,female,5-14 years,0,366500,0.0,Costa Rica1993,,"9,537,297,507",3342,Millenials
+6114,Costa Rica,1993,female,75+ years,0,27800,0.0,Costa Rica1993,,"9,537,297,507",3342,G.I. Generation
+6115,Costa Rica,1993,male,5-14 years,0,383400,0.0,Costa Rica1993,,"9,537,297,507",3342,Millenials
+6116,Costa Rica,1994,male,75+ years,5,22300,22.42,Costa Rica1994,,"10,432,619,390",3562,G.I. Generation
+6117,Costa Rica,1994,male,35-54 years,44,333900,13.18,Costa Rica1994,,"10,432,619,390",3562,Boomers
+6118,Costa Rica,1994,male,25-34 years,36,290800,12.38,Costa Rica1994,,"10,432,619,390",3562,Boomers
+6119,Costa Rica,1994,male,55-74 years,15,129900,11.55,Costa Rica1994,,"10,432,619,390",3562,Silent
+6120,Costa Rica,1994,male,15-24 years,30,311600,9.63,Costa Rica1994,,"10,432,619,390",3562,Generation X
+6121,Costa Rica,1994,female,15-24 years,10,298600,3.35,Costa Rica1994,,"10,432,619,390",3562,Generation X
+6122,Costa Rica,1994,female,25-34 years,9,281600,3.2,Costa Rica1994,,"10,432,619,390",3562,Boomers
+6123,Costa Rica,1994,female,55-74 years,3,137000,2.19,Costa Rica1994,,"10,432,619,390",3562,Silent
+6124,Costa Rica,1994,female,35-54 years,7,330200,2.12,Costa Rica1994,,"10,432,619,390",3562,Boomers
+6125,Costa Rica,1994,male,5-14 years,3,390600,0.77,Costa Rica1994,,"10,432,619,390",3562,Millenials
+6126,Costa Rica,1994,female,5-14 years,0,373400,0.0,Costa Rica1994,,"10,432,619,390",3562,Millenials
+6127,Costa Rica,1994,female,75+ years,0,29200,0.0,Costa Rica1994,,"10,432,619,390",3562,G.I. Generation
+6128,Costa Rica,1995,male,35-54 years,62,362400,17.11,Costa Rica1995,0.682,"11,513,472,694",3672,Boomers
+6129,Costa Rica,1995,male,25-34 years,45,306500,14.68,Costa Rica1995,0.682,"11,513,472,694",3672,Generation X
+6130,Costa Rica,1995,male,55-74 years,19,140300,13.54,Costa Rica1995,0.682,"11,513,472,694",3672,Silent
+6131,Costa Rica,1995,male,15-24 years,40,339200,11.79,Costa Rica1995,0.682,"11,513,472,694",3672,Generation X
+6132,Costa Rica,1995,male,75+ years,2,23800,8.4,Costa Rica1995,0.682,"11,513,472,694",3672,G.I. Generation
+6133,Costa Rica,1995,female,15-24 years,13,322600,4.03,Costa Rica1995,0.682,"11,513,472,694",3672,Generation X
+6134,Costa Rica,1995,female,35-54 years,11,357400,3.08,Costa Rica1995,0.682,"11,513,472,694",3672,Boomers
+6135,Costa Rica,1995,female,55-74 years,4,146500,2.73,Costa Rica1995,0.682,"11,513,472,694",3672,Silent
+6136,Costa Rica,1995,female,25-34 years,7,296100,2.36,Costa Rica1995,0.682,"11,513,472,694",3672,Generation X
+6137,Costa Rica,1995,male,5-14 years,5,414500,1.21,Costa Rica1995,0.682,"11,513,472,694",3672,Millenials
+6138,Costa Rica,1995,female,5-14 years,1,395000,0.25,Costa Rica1995,0.682,"11,513,472,694",3672,Millenials
+6139,Costa Rica,1995,female,75+ years,0,30900,0.0,Costa Rica1995,0.682,"11,513,472,694",3672,G.I. Generation
+6140,Costa Rica,1996,male,75+ years,8,29520,27.1,Costa Rica1996,,"11,618,286,553",3639,G.I. Generation
+6141,Costa Rica,1996,male,25-34 years,60,300262,19.98,Costa Rica1996,,"11,618,286,553",3639,Generation X
+6142,Costa Rica,1996,male,15-24 years,47,320846,14.65,Costa Rica1996,,"11,618,286,553",3639,Generation X
+6143,Costa Rica,1996,male,35-54 years,49,393144,12.46,Costa Rica1996,,"11,618,286,553",3639,Boomers
+6144,Costa Rica,1996,male,55-74 years,19,156359,12.15,Costa Rica1996,,"11,618,286,553",3639,Silent
+6145,Costa Rica,1996,female,15-24 years,11,312158,3.52,Costa Rica1996,,"11,618,286,553",3639,Generation X
+6146,Costa Rica,1996,female,25-34 years,6,298831,2.01,Costa Rica1996,,"11,618,286,553",3639,Generation X
+6147,Costa Rica,1996,female,55-74 years,2,164906,1.21,Costa Rica1996,,"11,618,286,553",3639,Silent
+6148,Costa Rica,1996,female,35-54 years,4,391192,1.02,Costa Rica1996,,"11,618,286,553",3639,Boomers
+6149,Costa Rica,1996,male,5-14 years,2,401478,0.5,Costa Rica1996,,"11,618,286,553",3639,Millenials
+6150,Costa Rica,1996,female,5-14 years,1,385069,0.26,Costa Rica1996,,"11,618,286,553",3639,Millenials
+6151,Costa Rica,1996,female,75+ years,0,38681,0.0,Costa Rica1996,,"11,618,286,553",3639,G.I. Generation
+6152,Costa Rica,1997,male,55-74 years,28,162349,17.25,Costa Rica1997,,"12,552,071,367",3827,Silent
+6153,Costa Rica,1997,male,75+ years,5,30984,16.14,Costa Rica1997,,"12,552,071,367",3827,G.I. Generation
+6154,Costa Rica,1997,male,25-34 years,39,301566,12.93,Costa Rica1997,,"12,552,071,367",3827,Generation X
+6155,Costa Rica,1997,male,15-24 years,42,331912,12.65,Costa Rica1997,,"12,552,071,367",3827,Generation X
+6156,Costa Rica,1997,male,35-54 years,40,410741,9.74,Costa Rica1997,,"12,552,071,367",3827,Boomers
+6157,Costa Rica,1997,female,15-24 years,14,322577,4.34,Costa Rica1997,,"12,552,071,367",3827,Generation X
+6158,Costa Rica,1997,female,75+ years,1,40512,2.47,Costa Rica1997,,"12,552,071,367",3827,G.I. Generation
+6159,Costa Rica,1997,female,35-54 years,6,409574,1.46,Costa Rica1997,,"12,552,071,367",3827,Boomers
+6160,Costa Rica,1997,female,25-34 years,4,300896,1.33,Costa Rica1997,,"12,552,071,367",3827,Generation X
+6161,Costa Rica,1997,male,5-14 years,5,407029,1.23,Costa Rica1997,,"12,552,071,367",3827,Millenials
+6162,Costa Rica,1997,female,55-74 years,1,171045,0.58,Costa Rica1997,,"12,552,071,367",3827,Silent
+6163,Costa Rica,1997,female,5-14 years,2,390374,0.51,Costa Rica1997,,"12,552,071,367",3827,Millenials
+6164,Costa Rica,1998,male,75+ years,7,32456,21.57,Costa Rica1998,,"13,617,405,420",4046,G.I. Generation
+6165,Costa Rica,1998,male,25-34 years,55,302152,18.2,Costa Rica1998,,"13,617,405,420",4046,Generation X
+6166,Costa Rica,1998,male,35-54 years,68,428730,15.86,Costa Rica1998,,"13,617,405,420",4046,Boomers
+6167,Costa Rica,1998,male,55-74 years,24,168800,14.22,Costa Rica1998,,"13,617,405,420",4046,Silent
+6168,Costa Rica,1998,male,15-24 years,42,343821,12.22,Costa Rica1998,,"13,617,405,420",4046,Generation X
+6169,Costa Rica,1998,female,25-34 years,8,302192,2.65,Costa Rica1998,,"13,617,405,420",4046,Generation X
+6170,Costa Rica,1998,female,75+ years,1,42412,2.36,Costa Rica1998,,"13,617,405,420",4046,G.I. Generation
+6171,Costa Rica,1998,female,15-24 years,6,333728,1.8,Costa Rica1998,,"13,617,405,420",4046,Generation X
+6172,Costa Rica,1998,female,35-54 years,5,428449,1.17,Costa Rica1998,,"13,617,405,420",4046,Boomers
+6173,Costa Rica,1998,male,5-14 years,4,411117,0.97,Costa Rica1998,,"13,617,405,420",4046,Millenials
+6174,Costa Rica,1998,female,55-74 years,1,177615,0.56,Costa Rica1998,,"13,617,405,420",4046,Silent
+6175,Costa Rica,1998,female,5-14 years,2,394254,0.51,Costa Rica1998,,"13,617,405,420",4046,Millenials
+6176,Costa Rica,1999,male,35-54 years,80,446435,17.92,Costa Rica1999,,"14,195,623,425",4115,Boomers
+6177,Costa Rica,1999,male,25-34 years,52,303003,17.16,Costa Rica1999,,"14,195,623,425",4115,Generation X
+6178,Costa Rica,1999,male,55-74 years,27,175883,15.35,Costa Rica1999,,"14,195,623,425",4115,Silent
+6179,Costa Rica,1999,male,75+ years,5,33964,14.72,Costa Rica1999,,"14,195,623,425",4115,G.I. Generation
+6180,Costa Rica,1999,male,15-24 years,46,355592,12.94,Costa Rica1999,,"14,195,623,425",4115,Generation X
+6181,Costa Rica,1999,female,15-24 years,8,344682,2.32,Costa Rica1999,,"14,195,623,425",4115,Generation X
+6182,Costa Rica,1999,female,25-34 years,6,303573,1.98,Costa Rica1999,,"14,195,623,425",4115,Generation X
+6183,Costa Rica,1999,female,35-54 years,6,447153,1.34,Costa Rica1999,,"14,195,623,425",4115,Boomers
+6184,Costa Rica,1999,female,55-74 years,2,184770,1.08,Costa Rica1999,,"14,195,623,425",4115,Silent
+6185,Costa Rica,1999,female,5-14 years,1,396706,0.25,Costa Rica1999,,"14,195,623,425",4115,Millenials
+6186,Costa Rica,1999,female,75+ years,0,44418,0.0,Costa Rica1999,,"14,195,623,425",4115,G.I. Generation
+6187,Costa Rica,1999,male,5-14 years,0,413744,0.0,Costa Rica1999,,"14,195,623,425",4115,Millenials
+6188,Costa Rica,2000,male,75+ years,6,35531,16.89,Costa Rica2000,0.7040000000000001,"14,949,514,585",4233,G.I. Generation
+6189,Costa Rica,2000,male,35-54 years,77,463390,16.62,Costa Rica2000,0.7040000000000001,"14,949,514,585",4233,Boomers
+6190,Costa Rica,2000,male,25-34 years,50,304784,16.41,Costa Rica2000,0.7040000000000001,"14,949,514,585",4233,Generation X
+6191,Costa Rica,2000,male,15-24 years,53,366507,14.46,Costa Rica2000,0.7040000000000001,"14,949,514,585",4233,Generation X
+6192,Costa Rica,2000,male,55-74 years,24,183691,13.07,Costa Rica2000,0.7040000000000001,"14,949,514,585",4233,Silent
+6193,Costa Rica,2000,female,25-34 years,11,305607,3.6,Costa Rica2000,0.7040000000000001,"14,949,514,585",4233,Generation X
+6194,Costa Rica,2000,female,75+ years,1,46564,2.15,Costa Rica2000,0.7040000000000001,"14,949,514,585",4233,G.I. Generation
+6195,Costa Rica,2000,female,15-24 years,7,354767,1.97,Costa Rica2000,0.7040000000000001,"14,949,514,585",4233,Generation X
+6196,Costa Rica,2000,female,55-74 years,3,192579,1.56,Costa Rica2000,0.7040000000000001,"14,949,514,585",4233,Silent
+6197,Costa Rica,2000,female,35-54 years,5,465213,1.07,Costa Rica2000,0.7040000000000001,"14,949,514,585",4233,Boomers
+6198,Costa Rica,2000,female,5-14 years,1,397794,0.25,Costa Rica2000,0.7040000000000001,"14,949,514,585",4233,Millenials
+6199,Costa Rica,2000,male,5-14 years,1,414994,0.24,Costa Rica2000,0.7040000000000001,"14,949,514,585",4233,Millenials
+6200,Costa Rica,2001,male,75+ years,7,37569,18.63,Costa Rica2001,,"15,913,363,335",4412,Silent
+6201,Costa Rica,2001,male,25-34 years,44,306660,14.35,Costa Rica2001,,"15,913,363,335",4412,Generation X
+6202,Costa Rica,2001,male,35-54 years,61,478354,12.75,Costa Rica2001,,"15,913,363,335",4412,Boomers
+6203,Costa Rica,2001,male,55-74 years,22,191573,11.48,Costa Rica2001,,"15,913,363,335",4412,Silent
+6204,Costa Rica,2001,male,15-24 years,32,376105,8.51,Costa Rica2001,,"15,913,363,335",4412,Millenials
+6205,Costa Rica,2001,female,25-34 years,9,307251,2.93,Costa Rica2001,,"15,913,363,335",4412,Generation X
+6206,Costa Rica,2001,female,15-24 years,9,363807,2.47,Costa Rica2001,,"15,913,363,335",4412,Millenials
+6207,Costa Rica,2001,female,75+ years,1,48980,2.04,Costa Rica2001,,"15,913,363,335",4412,Silent
+6208,Costa Rica,2001,female,35-54 years,8,481374,1.66,Costa Rica2001,,"15,913,363,335",4412,Boomers
+6209,Costa Rica,2001,male,5-14 years,4,415961,0.96,Costa Rica2001,,"15,913,363,335",4412,Millenials
+6210,Costa Rica,2001,female,5-14 years,1,398691,0.25,Costa Rica2001,,"15,913,363,335",4412,Millenials
+6211,Costa Rica,2001,female,55-74 years,0,200525,0.0,Costa Rica2001,,"15,913,363,335",4412,Silent
+6212,Costa Rica,2002,male,75+ years,8,39629,20.19,Costa Rica2002,,"16,504,795,453",4485,Silent
+6213,Costa Rica,2002,male,25-34 years,54,309463,17.45,Costa Rica2002,,"16,504,795,453",4485,Generation X
+6214,Costa Rica,2002,male,35-54 years,84,492487,17.06,Costa Rica2002,,"16,504,795,453",4485,Boomers
+6215,Costa Rica,2002,male,15-24 years,58,384925,15.07,Costa Rica2002,,"16,504,795,453",4485,Millenials
+6216,Costa Rica,2002,male,55-74 years,28,200247,13.98,Costa Rica2002,,"16,504,795,453",4485,Silent
+6217,Costa Rica,2002,female,15-24 years,18,372135,4.84,Costa Rica2002,,"16,504,795,453",4485,Millenials
+6218,Costa Rica,2002,female,25-34 years,8,309561,2.58,Costa Rica2002,,"16,504,795,453",4485,Generation X
+6219,Costa Rica,2002,female,35-54 years,9,496715,1.81,Costa Rica2002,,"16,504,795,453",4485,Boomers
+6220,Costa Rica,2002,female,55-74 years,3,209232,1.43,Costa Rica2002,,"16,504,795,453",4485,Silent
+6221,Costa Rica,2002,male,5-14 years,4,415939,0.96,Costa Rica2002,,"16,504,795,453",4485,Millenials
+6222,Costa Rica,2002,female,5-14 years,1,398576,0.25,Costa Rica2002,,"16,504,795,453",4485,Millenials
+6223,Costa Rica,2002,female,75+ years,0,51463,0.0,Costa Rica2002,,"16,504,795,453",4485,Silent
+6224,Costa Rica,2003,male,75+ years,13,41697,31.18,Costa Rica2003,,"17,195,867,540",4583,Silent
+6225,Costa Rica,2003,male,55-74 years,39,209479,18.62,Costa Rica2003,,"17,195,867,540",4583,Silent
+6226,Costa Rica,2003,male,35-54 years,91,505821,17.99,Costa Rica2003,,"17,195,867,540",4583,Boomers
+6227,Costa Rica,2003,male,25-34 years,55,313369,17.55,Costa Rica2003,,"17,195,867,540",4583,Generation X
+6228,Costa Rica,2003,male,15-24 years,62,392847,15.78,Costa Rica2003,,"17,195,867,540",4583,Millenials
+6229,Costa Rica,2003,female,15-24 years,28,379600,7.38,Costa Rica2003,,"17,195,867,540",4583,Millenials
+6230,Costa Rica,2003,female,25-34 years,9,312775,2.88,Costa Rica2003,,"17,195,867,540",4583,Generation X
+6231,Costa Rica,2003,female,35-54 years,11,511236,2.15,Costa Rica2003,,"17,195,867,540",4583,Boomers
+6232,Costa Rica,2003,female,55-74 years,3,218504,1.37,Costa Rica2003,,"17,195,867,540",4583,Silent
+6233,Costa Rica,2003,female,5-14 years,2,397535,0.5,Costa Rica2003,,"17,195,867,540",4583,Millenials
+6234,Costa Rica,2003,male,5-14 years,2,414988,0.48,Costa Rica2003,,"17,195,867,540",4583,Millenials
+6235,Costa Rica,2003,female,75+ years,0,54020,0.0,Costa Rica2003,,"17,195,867,540",4583,Silent
+6236,Costa Rica,2004,male,35-54 years,104,518436,20.06,Costa Rica2004,,"18,529,767,934",4850,Boomers
+6237,Costa Rica,2004,male,55-74 years,42,218871,19.19,Costa Rica2004,,"18,529,767,934",4850,Silent
+6238,Costa Rica,2004,male,25-34 years,60,318518,18.84,Costa Rica2004,,"18,529,767,934",4850,Generation X
+6239,Costa Rica,2004,male,15-24 years,68,399768,17.01,Costa Rica2004,,"18,529,767,934",4850,Millenials
+6240,Costa Rica,2004,male,75+ years,5,43755,11.43,Costa Rica2004,,"18,529,767,934",4850,Silent
+6241,Costa Rica,2004,female,25-34 years,10,317112,3.15,Costa Rica2004,,"18,529,767,934",4850,Generation X
+6242,Costa Rica,2004,female,15-24 years,12,386068,3.11,Costa Rica2004,,"18,529,767,934",4850,Millenials
+6243,Costa Rica,2004,female,55-74 years,6,228002,2.63,Costa Rica2004,,"18,529,767,934",4850,Silent
+6244,Costa Rica,2004,female,35-54 years,12,524975,2.29,Costa Rica2004,,"18,529,767,934",4850,Boomers
+6245,Costa Rica,2004,female,75+ years,1,56632,1.77,Costa Rica2004,,"18,529,767,934",4850,Silent
+6246,Costa Rica,2004,female,5-14 years,3,395605,0.76,Costa Rica2004,,"18,529,767,934",4850,Millenials
+6247,Costa Rica,2004,male,5-14 years,2,413115,0.48,Costa Rica2004,,"18,529,767,934",4850,Millenials
+6248,Costa Rica,2005,male,35-54 years,98,530417,18.48,Costa Rica2005,0.723,"19,952,156,475",5133,Boomers
+6249,Costa Rica,2005,male,55-74 years,35,228210,15.34,Costa Rica2005,0.723,"19,952,156,475",5133,Silent
+6250,Costa Rica,2005,male,25-34 years,48,324955,14.77,Costa Rica2005,0.723,"19,952,156,475",5133,Generation X
+6251,Costa Rica,2005,male,15-24 years,44,405622,10.85,Costa Rica2005,0.723,"19,952,156,475",5133,Millenials
+6252,Costa Rica,2005,male,75+ years,4,45822,8.73,Costa Rica2005,0.723,"19,952,156,475",5133,Silent
+6253,Costa Rica,2005,female,15-24 years,14,391463,3.58,Costa Rica2005,0.723,"19,952,156,475",5133,Millenials
+6254,Costa Rica,2005,female,35-54 years,16,537986,2.97,Costa Rica2005,0.723,"19,952,156,475",5133,Boomers
+6255,Costa Rica,2005,female,25-34 years,7,322680,2.17,Costa Rica2005,0.723,"19,952,156,475",5133,Generation X
+6256,Costa Rica,2005,female,55-74 years,2,237549,0.84,Costa Rica2005,0.723,"19,952,156,475",5133,Silent
+6257,Costa Rica,2005,female,5-14 years,2,392773,0.51,Costa Rica2005,0.723,"19,952,156,475",5133,Millenials
+6258,Costa Rica,2005,male,5-14 years,2,410294,0.49,Costa Rica2005,0.723,"19,952,156,475",5133,Millenials
+6259,Costa Rica,2005,female,75+ years,0,59325,0.0,Costa Rica2005,0.723,"19,952,156,475",5133,Silent
+6260,Costa Rica,2006,male,35-54 years,123,541859,22.7,Costa Rica2006,,"22,600,431,878",5716,Boomers
+6261,Costa Rica,2006,male,25-34 years,61,332995,18.32,Costa Rica2006,,"22,600,431,878",5716,Generation X
+6262,Costa Rica,2006,male,55-74 years,37,236947,15.62,Costa Rica2006,,"22,600,431,878",5716,Silent
+6263,Costa Rica,2006,male,15-24 years,63,410875,15.33,Costa Rica2006,,"22,600,431,878",5716,Millenials
+6264,Costa Rica,2006,male,75+ years,5,48273,10.36,Costa Rica2006,,"22,600,431,878",5716,Silent
+6265,Costa Rica,2006,female,15-24 years,18,396374,4.54,Costa Rica2006,,"22,600,431,878",5716,Millenials
+6266,Costa Rica,2006,female,75+ years,2,62224,3.21,Costa Rica2006,,"22,600,431,878",5716,Silent
+6267,Costa Rica,2006,female,25-34 years,10,329678,3.03,Costa Rica2006,,"22,600,431,878",5716,Generation X
+6268,Costa Rica,2006,female,35-54 years,14,550398,2.54,Costa Rica2006,,"22,600,431,878",5716,Boomers
+6269,Costa Rica,2006,female,55-74 years,6,246771,2.43,Costa Rica2006,,"22,600,431,878",5716,Silent
+6270,Costa Rica,2006,male,5-14 years,6,407521,1.47,Costa Rica2006,,"22,600,431,878",5716,Millenials
+6271,Costa Rica,2006,female,5-14 years,5,390001,1.28,Costa Rica2006,,"22,600,431,878",5716,Millenials
+6272,Costa Rica,2007,male,35-54 years,90,552299,16.3,Costa Rica2007,,"26,743,874,206",6661,Boomers
+6273,Costa Rica,2007,male,25-34 years,53,342197,15.49,Costa Rica2007,,"26,743,874,206",6661,Generation X
+6274,Costa Rica,2007,male,55-74 years,32,245529,13.03,Costa Rica2007,,"26,743,874,206",6661,Silent
+6275,Costa Rica,2007,male,15-24 years,46,414675,11.09,Costa Rica2007,,"26,743,874,206",6661,Millenials
+6276,Costa Rica,2007,male,75+ years,4,50648,7.9,Costa Rica2007,,"26,743,874,206",6661,Silent
+6277,Costa Rica,2007,female,15-24 years,20,399875,5.0,Costa Rica2007,,"26,743,874,206",6661,Millenials
+6278,Costa Rica,2007,female,25-34 years,11,337810,3.26,Costa Rica2007,,"26,743,874,206",6661,Generation X
+6279,Costa Rica,2007,female,35-54 years,9,561684,1.6,Costa Rica2007,,"26,743,874,206",6661,Boomers
+6280,Costa Rica,2007,female,55-74 years,3,255955,1.17,Costa Rica2007,,"26,743,874,206",6661,Silent
+6281,Costa Rica,2007,female,5-14 years,1,386007,0.26,Costa Rica2007,,"26,743,874,206",6661,Generation Z
+6282,Costa Rica,2007,male,5-14 years,1,403466,0.25,Costa Rica2007,,"26,743,874,206",6661,Generation Z
+6283,Costa Rica,2007,female,75+ years,0,65096,0.0,Costa Rica2007,,"26,743,874,206",6661,Silent
+6284,Costa Rica,2008,male,35-54 years,101,562044,17.97,Costa Rica2008,,"30,612,932,876",7517,Boomers
+6285,Costa Rica,2008,male,15-24 years,52,417256,12.46,Costa Rica2008,,"30,612,932,876",7517,Millenials
+6286,Costa Rica,2008,male,55-74 years,31,254352,12.19,Costa Rica2008,,"30,612,932,876",7517,Silent
+6287,Costa Rica,2008,male,25-34 years,38,352104,10.79,Costa Rica2008,,"30,612,932,876",7517,Generation X
+6288,Costa Rica,2008,male,75+ years,4,53001,7.55,Costa Rica2008,,"30,612,932,876",7517,Silent
+6289,Costa Rica,2008,female,75+ years,2,68001,2.94,Costa Rica2008,,"30,612,932,876",7517,Silent
+6290,Costa Rica,2008,female,15-24 years,9,402172,2.24,Costa Rica2008,,"30,612,932,876",7517,Millenials
+6291,Costa Rica,2008,female,55-74 years,5,265460,1.88,Costa Rica2008,,"30,612,932,876",7517,Silent
+6292,Costa Rica,2008,female,35-54 years,10,572144,1.75,Costa Rica2008,,"30,612,932,876",7517,Boomers
+6293,Costa Rica,2008,female,25-34 years,6,346673,1.73,Costa Rica2008,,"30,612,932,876",7517,Generation X
+6294,Costa Rica,2008,female,5-14 years,2,381011,0.52,Costa Rica2008,,"30,612,932,876",7517,Generation Z
+6295,Costa Rica,2008,male,5-14 years,1,398343,0.25,Costa Rica2008,,"30,612,932,876",7517,Generation Z
+6296,Costa Rica,2009,male,25-34 years,60,362045,16.57,Costa Rica2009,,"30,562,361,123",7403,Generation X
+6297,Costa Rica,2009,male,35-54 years,86,571583,15.05,Costa Rica2009,,"30,562,361,123",7403,Boomers
+6298,Costa Rica,2009,male,15-24 years,51,418996,12.17,Costa Rica2009,,"30,562,361,123",7403,Millenials
+6299,Costa Rica,2009,male,55-74 years,32,264036,12.12,Costa Rica2009,,"30,562,361,123",7403,Silent
+6300,Costa Rica,2009,male,75+ years,6,55391,10.83,Costa Rica2009,,"30,562,361,123",7403,Silent
+6301,Costa Rica,2009,female,25-34 years,10,355653,2.81,Costa Rica2009,,"30,562,361,123",7403,Generation X
+6302,Costa Rica,2009,female,15-24 years,11,403629,2.73,Costa Rica2009,,"30,562,361,123",7403,Millenials
+6303,Costa Rica,2009,female,35-54 years,13,582223,2.23,Costa Rica2009,,"30,562,361,123",7403,Boomers
+6304,Costa Rica,2009,female,55-74 years,5,275859,1.81,Costa Rica2009,,"30,562,361,123",7403,Silent
+6305,Costa Rica,2009,female,5-14 years,3,375428,0.8,Costa Rica2009,,"30,562,361,123",7403,Generation Z
+6306,Costa Rica,2009,male,5-14 years,1,392594,0.25,Costa Rica2009,,"30,562,361,123",7403,Generation Z
+6307,Costa Rica,2009,female,75+ years,0,71022,0.0,Costa Rica2009,,"30,562,361,123",7403,Silent
+6308,Costa Rica,2010,male,25-34 years,74,371498,19.92,Costa Rica2010,0.75,"37,268,635,287",8906,Generation X
+6309,Costa Rica,2010,male,35-54 years,106,581171,18.24,Costa Rica2010,0.75,"37,268,635,287",8906,Generation X
+6310,Costa Rica,2010,male,55-74 years,36,274921,13.09,Costa Rica2010,0.75,"37,268,635,287",8906,Silent
+6311,Costa Rica,2010,male,75+ years,7,57885,12.09,Costa Rica2010,0.75,"37,268,635,287",8906,Silent
+6312,Costa Rica,2010,male,15-24 years,40,420069,9.52,Costa Rica2010,0.75,"37,268,635,287",8906,Millenials
+6313,Costa Rica,2010,female,25-34 years,12,364253,3.29,Costa Rica2010,0.75,"37,268,635,287",8906,Generation X
+6314,Costa Rica,2010,female,35-54 years,16,592166,2.7,Costa Rica2010,0.75,"37,268,635,287",8906,Generation X
+6315,Costa Rica,2010,female,15-24 years,10,404425,2.47,Costa Rica2010,0.75,"37,268,635,287",8906,Millenials
+6316,Costa Rica,2010,female,55-74 years,5,287471,1.74,Costa Rica2010,0.75,"37,268,635,287",8906,Silent
+6317,Costa Rica,2010,male,5-14 years,5,386778,1.29,Costa Rica2010,0.75,"37,268,635,287",8906,Generation Z
+6318,Costa Rica,2010,female,5-14 years,0,369792,0.0,Costa Rica2010,0.75,"37,268,635,287",8906,Generation Z
+6319,Costa Rica,2010,female,75+ years,0,74234,0.0,Costa Rica2010,0.75,"37,268,635,287",8906,Silent
+6320,Costa Rica,2011,male,25-34 years,72,379928,18.95,Costa Rica2011,0.7559999999999999,"42,262,697,840",9978,Millenials
+6321,Costa Rica,2011,male,75+ years,9,60741,14.82,Costa Rica2011,0.7559999999999999,"42,262,697,840",9978,Silent
+6322,Costa Rica,2011,male,35-54 years,85,589634,14.42,Costa Rica2011,0.7559999999999999,"42,262,697,840",9978,Generation X
+6323,Costa Rica,2011,male,55-74 years,40,285540,14.01,Costa Rica2011,0.7559999999999999,"42,262,697,840",9978,Boomers
+6324,Costa Rica,2011,male,15-24 years,52,419970,12.38,Costa Rica2011,0.7559999999999999,"42,262,697,840",9978,Millenials
+6325,Costa Rica,2011,female,15-24 years,20,404197,4.95,Costa Rica2011,0.7559999999999999,"42,262,697,840",9978,Millenials
+6326,Costa Rica,2011,female,55-74 years,8,299105,2.67,Costa Rica2011,0.7559999999999999,"42,262,697,840",9978,Boomers
+6327,Costa Rica,2011,female,35-54 years,14,600898,2.33,Costa Rica2011,0.7559999999999999,"42,262,697,840",9978,Generation X
+6328,Costa Rica,2011,female,25-34 years,8,371907,2.15,Costa Rica2011,0.7559999999999999,"42,262,697,840",9978,Millenials
+6329,Costa Rica,2011,male,5-14 years,5,381413,1.31,Costa Rica2011,0.7559999999999999,"42,262,697,840",9978,Generation Z
+6330,Costa Rica,2011,female,75+ years,1,77576,1.29,Costa Rica2011,0.7559999999999999,"42,262,697,840",9978,Silent
+6331,Costa Rica,2011,female,5-14 years,2,364605,0.55,Costa Rica2011,0.7559999999999999,"42,262,697,840",9978,Generation Z
+6332,Costa Rica,2012,male,35-54 years,94,598555,15.7,Costa Rica2012,0.7609999999999999,"46,473,128,286",10832,Generation X
+6333,Costa Rica,2012,male,25-34 years,55,387974,14.18,Costa Rica2012,0.7609999999999999,"46,473,128,286",10832,Millenials
+6334,Costa Rica,2012,male,15-24 years,58,419511,13.83,Costa Rica2012,0.7609999999999999,"46,473,128,286",10832,Millenials
+6335,Costa Rica,2012,male,55-74 years,40,297364,13.45,Costa Rica2012,0.7609999999999999,"46,473,128,286",10832,Boomers
+6336,Costa Rica,2012,male,75+ years,8,63663,12.57,Costa Rica2012,0.7609999999999999,"46,473,128,286",10832,Silent
+6337,Costa Rica,2012,female,35-54 years,16,609857,2.62,Costa Rica2012,0.7609999999999999,"46,473,128,286",10832,Generation X
+6338,Costa Rica,2012,female,15-24 years,10,403604,2.48,Costa Rica2012,0.7609999999999999,"46,473,128,286",10832,Millenials
+6339,Costa Rica,2012,female,55-74 years,6,311981,1.92,Costa Rica2012,0.7609999999999999,"46,473,128,286",10832,Boomers
+6340,Costa Rica,2012,female,25-34 years,7,379310,1.85,Costa Rica2012,0.7609999999999999,"46,473,128,286",10832,Millenials
+6341,Costa Rica,2012,male,5-14 years,5,377001,1.33,Costa Rica2012,0.7609999999999999,"46,473,128,286",10832,Generation Z
+6342,Costa Rica,2012,female,5-14 years,3,360319,0.83,Costa Rica2012,0.7609999999999999,"46,473,128,286",10832,Generation Z
+6343,Costa Rica,2012,female,75+ years,0,81071,0.0,Costa Rica2012,0.7609999999999999,"46,473,128,286",10832,Silent
+6344,Costa Rica,2013,male,25-34 years,75,395371,18.97,Costa Rica2013,0.764,"49,745,088,112",11443,Millenials
+6345,Costa Rica,2013,male,75+ years,12,66659,18.0,Costa Rica2013,0.764,"49,745,088,112",11443,Silent
+6346,Costa Rica,2013,male,55-74 years,49,310249,15.79,Costa Rica2013,0.764,"49,745,088,112",11443,Boomers
+6347,Costa Rica,2013,male,35-54 years,82,607709,13.49,Costa Rica2013,0.764,"49,745,088,112",11443,Generation X
+6348,Costa Rica,2013,male,15-24 years,48,418437,11.47,Costa Rica2013,0.764,"49,745,088,112",11443,Millenials
+6349,Costa Rica,2013,female,25-34 years,11,386168,2.85,Costa Rica2013,0.764,"49,745,088,112",11443,Millenials
+6350,Costa Rica,2013,female,35-54 years,13,618837,2.1,Costa Rica2013,0.764,"49,745,088,112",11443,Generation X
+6351,Costa Rica,2013,female,15-24 years,8,402392,1.99,Costa Rica2013,0.764,"49,745,088,112",11443,Millenials
+6352,Costa Rica,2013,male,5-14 years,6,373658,1.61,Costa Rica2013,0.764,"49,745,088,112",11443,Generation Z
+6353,Costa Rica,2013,female,55-74 years,5,325956,1.53,Costa Rica2013,0.764,"49,745,088,112",11443,Boomers
+6354,Costa Rica,2013,female,75+ years,1,84743,1.18,Costa Rica2013,0.764,"49,745,088,112",11443,Silent
+6355,Costa Rica,2013,female,5-14 years,1,357050,0.28,Costa Rica2013,0.764,"49,745,088,112",11443,Generation Z
+6356,Costa Rica,2014,male,55-74 years,46,323941,14.2,Costa Rica2014,0.7659999999999999,"50,577,769,838",11485,Boomers
+6357,Costa Rica,2014,male,35-54 years,76,616724,12.32,Costa Rica2014,0.7659999999999999,"50,577,769,838",11485,Generation X
+6358,Costa Rica,2014,male,25-34 years,49,401836,12.19,Costa Rica2014,0.7659999999999999,"50,577,769,838",11485,Millenials
+6359,Costa Rica,2014,male,15-24 years,43,416344,10.33,Costa Rica2014,0.7659999999999999,"50,577,769,838",11485,Millenials
+6360,Costa Rica,2014,male,75+ years,6,69706,8.61,Costa Rica2014,0.7659999999999999,"50,577,769,838",11485,Silent
+6361,Costa Rica,2014,female,25-34 years,12,392153,3.06,Costa Rica2014,0.7659999999999999,"50,577,769,838",11485,Millenials
+6362,Costa Rica,2014,female,15-24 years,12,400170,3.0,Costa Rica2014,0.7659999999999999,"50,577,769,838",11485,Millenials
+6363,Costa Rica,2014,female,75+ years,2,88574,2.26,Costa Rica2014,0.7659999999999999,"50,577,769,838",11485,Silent
+6364,Costa Rica,2014,female,35-54 years,11,627502,1.75,Costa Rica2014,0.7659999999999999,"50,577,769,838",11485,Generation X
+6365,Costa Rica,2014,female,55-74 years,5,340748,1.47,Costa Rica2014,0.7659999999999999,"50,577,769,838",11485,Boomers
+6366,Costa Rica,2014,female,5-14 years,3,354701,0.85,Costa Rica2014,0.7659999999999999,"50,577,769,838",11485,Generation Z
+6367,Costa Rica,2014,male,5-14 years,3,371275,0.81,Costa Rica2014,0.7659999999999999,"50,577,769,838",11485,Generation Z

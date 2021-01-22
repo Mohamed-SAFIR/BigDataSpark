@@ -1,0 +1,301 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+11064,Guyana,1988,male,25-34 years,15,60519,24.79,Guyana1988,,"413,799,990",632,Boomers
+11065,Guyana,1988,male,35-54 years,12,58974,20.35,Guyana1988,,"413,799,990",632,Silent
+11066,Guyana,1988,male,15-24 years,12,84290,14.24,Guyana1988,,"413,799,990",632,Generation X
+11067,Guyana,1988,male,55-74 years,3,24469,12.26,Guyana1988,,"413,799,990",632,G.I. Generation
+11068,Guyana,1988,female,15-24 years,10,87955,11.37,Guyana1988,,"413,799,990",632,Generation X
+11069,Guyana,1988,female,55-74 years,1,25128,3.98,Guyana1988,,"413,799,990",632,G.I. Generation
+11070,Guyana,1988,female,25-34 years,2,62428,3.2,Guyana1988,,"413,799,990",632,Boomers
+11071,Guyana,1988,female,35-54 years,1,57863,1.73,Guyana1988,,"413,799,990",632,Silent
+11072,Guyana,1988,female,5-14 years,0,91613,0.0,Guyana1988,,"413,799,990",632,Generation X
+11073,Guyana,1988,female,75+ years,0,5258,0.0,Guyana1988,,"413,799,990",632,G.I. Generation
+11074,Guyana,1988,male,5-14 years,0,91875,0.0,Guyana1988,,"413,799,990",632,Generation X
+11075,Guyana,1988,male,75+ years,0,4522,0.0,Guyana1988,,"413,799,990",632,G.I. Generation
+11076,Guyana,1989,male,25-34 years,20,61007,32.78,Guyana1989,,"379,779,390",581,Boomers
+11077,Guyana,1989,male,55-74 years,8,24423,32.76,Guyana1989,,"379,779,390",581,G.I. Generation
+11078,Guyana,1989,male,35-54 years,17,60728,27.99,Guyana1989,,"379,779,390",581,Silent
+11079,Guyana,1989,male,15-24 years,20,82060,24.37,Guyana1989,,"379,779,390",581,Generation X
+11080,Guyana,1989,male,75+ years,1,4304,23.23,Guyana1989,,"379,779,390",581,G.I. Generation
+11081,Guyana,1989,female,15-24 years,15,86230,17.4,Guyana1989,,"379,779,390",581,Generation X
+11082,Guyana,1989,female,55-74 years,3,25362,11.83,Guyana1989,,"379,779,390",581,G.I. Generation
+11083,Guyana,1989,female,25-34 years,5,63276,7.9,Guyana1989,,"379,779,390",581,Boomers
+11084,Guyana,1989,female,35-54 years,2,60363,3.31,Guyana1989,,"379,779,390",581,Silent
+11085,Guyana,1989,male,5-14 years,2,90510,2.21,Guyana1989,,"379,779,390",581,Generation X
+11086,Guyana,1989,female,5-14 years,1,90585,1.1,Guyana1989,,"379,779,390",581,Generation X
+11087,Guyana,1989,female,75+ years,0,5256,0.0,Guyana1989,,"379,779,390",581,G.I. Generation
+11088,Guyana,1990,male,25-34 years,23,61238,37.56,Guyana1990,0.542,"396,582,263",607,Boomers
+11089,Guyana,1990,male,55-74 years,7,24349,28.75,Guyana1990,0.542,"396,582,263",607,G.I. Generation
+11090,Guyana,1990,male,75+ years,1,4090,24.45,Guyana1990,0.542,"396,582,263",607,G.I. Generation
+11091,Guyana,1990,male,15-24 years,18,79963,22.51,Guyana1990,0.542,"396,582,263",607,Generation X
+11092,Guyana,1990,male,35-54 years,13,62629,20.76,Guyana1990,0.542,"396,582,263",607,Silent
+11093,Guyana,1990,female,15-24 years,12,84613,14.18,Guyana1990,0.542,"396,582,263",607,Generation X
+11094,Guyana,1990,female,55-74 years,3,25481,11.77,Guyana1990,0.542,"396,582,263",607,G.I. Generation
+11095,Guyana,1990,female,35-54 years,4,63070,6.34,Guyana1990,0.542,"396,582,263",607,Silent
+11096,Guyana,1990,female,25-34 years,4,63874,6.26,Guyana1990,0.542,"396,582,263",607,Boomers
+11097,Guyana,1990,male,5-14 years,2,89344,2.24,Guyana1990,0.542,"396,582,263",607,Generation X
+11098,Guyana,1990,female,5-14 years,2,89480,2.24,Guyana1990,0.542,"396,582,263",607,Generation X
+11099,Guyana,1990,female,75+ years,0,5295,0.0,Guyana1990,0.542,"396,582,263",607,G.I. Generation
+11100,Guyana,1991,male,75+ years,3,4103,73.12,Guyana1991,,"336,708,419",514,G.I. Generation
+11101,Guyana,1991,male,35-54 years,22,63902,34.43,Guyana1991,,"336,708,419",514,Boomers
+11102,Guyana,1991,male,25-34 years,20,61639,32.45,Guyana1991,,"336,708,419",514,Boomers
+11103,Guyana,1991,male,15-24 years,25,78590,31.81,Guyana1991,,"336,708,419",514,Generation X
+11104,Guyana,1991,female,15-24 years,20,83288,24.01,Guyana1991,,"336,708,419",514,Generation X
+11105,Guyana,1991,male,55-74 years,4,24589,16.27,Guyana1991,,"336,708,419",514,Silent
+11106,Guyana,1991,female,55-74 years,2,25913,7.72,Guyana1991,,"336,708,419",514,Silent
+11107,Guyana,1991,female,35-54 years,4,64883,6.16,Guyana1991,,"336,708,419",514,Boomers
+11108,Guyana,1991,female,25-34 years,3,64963,4.62,Guyana1991,,"336,708,419",514,Boomers
+11109,Guyana,1991,male,5-14 years,2,88752,2.25,Guyana1991,,"336,708,419",514,Millenials
+11110,Guyana,1991,female,5-14 years,0,88747,0.0,Guyana1991,,"336,708,419",514,Millenials
+11111,Guyana,1991,female,75+ years,0,5251,0.0,Guyana1991,,"336,708,419",514,G.I. Generation
+11112,Guyana,1992,male,55-74 years,10,24947,40.08,Guyana1992,,"368,281,379",561,Silent
+11113,Guyana,1992,male,35-54 years,20,65227,30.66,Guyana1992,,"368,281,379",561,Boomers
+11114,Guyana,1992,male,25-34 years,16,61900,25.85,Guyana1992,,"368,281,379",561,Boomers
+11115,Guyana,1992,male,75+ years,1,4113,24.31,Guyana1992,,"368,281,379",561,G.I. Generation
+11116,Guyana,1992,female,75+ years,1,5153,19.41,Guyana1992,,"368,281,379",561,G.I. Generation
+11117,Guyana,1992,male,15-24 years,12,77451,15.49,Guyana1992,,"368,281,379",561,Generation X
+11118,Guyana,1992,female,15-24 years,8,82022,9.75,Guyana1992,,"368,281,379",561,Generation X
+11119,Guyana,1992,female,25-34 years,4,65856,6.07,Guyana1992,,"368,281,379",561,Boomers
+11120,Guyana,1992,female,35-54 years,3,66839,4.49,Guyana1992,,"368,281,379",561,Boomers
+11121,Guyana,1992,female,55-74 years,1,26480,3.78,Guyana1992,,"368,281,379",561,Silent
+11122,Guyana,1992,female,5-14 years,1,88301,1.13,Guyana1992,,"368,281,379",561,Millenials
+11123,Guyana,1992,male,5-14 years,1,88424,1.13,Guyana1992,,"368,281,379",561,Millenials
+11124,Guyana,1993,male,25-34 years,19,61922,30.68,Guyana1993,,"442,273,433",671,Boomers
+11125,Guyana,1993,male,35-54 years,16,66569,24.04,Guyana1993,,"442,273,433",671,Boomers
+11126,Guyana,1993,male,15-24 years,18,76553,23.51,Guyana1993,,"442,273,433",671,Generation X
+11127,Guyana,1993,male,55-74 years,4,25346,15.78,Guyana1993,,"442,273,433",671,Silent
+11128,Guyana,1993,female,25-34 years,5,66401,7.53,Guyana1993,,"442,273,433",671,Boomers
+11129,Guyana,1993,female,15-24 years,4,80833,4.95,Guyana1993,,"442,273,433",671,Generation X
+11130,Guyana,1993,female,35-54 years,3,68847,4.36,Guyana1993,,"442,273,433",671,Boomers
+11131,Guyana,1993,female,55-74 years,1,27073,3.69,Guyana1993,,"442,273,433",671,Silent
+11132,Guyana,1993,female,5-14 years,2,87945,2.27,Guyana1993,,"442,273,433",671,Millenials
+11133,Guyana,1993,female,75+ years,0,5036,0.0,Guyana1993,,"442,273,433",671,G.I. Generation
+11134,Guyana,1993,male,5-14 years,0,88194,0.0,Guyana1993,,"442,273,433",671,Millenials
+11135,Guyana,1993,male,75+ years,0,4112,0.0,Guyana1993,,"442,273,433",671,G.I. Generation
+11136,Guyana,1994,male,25-34 years,19,61649,30.82,Guyana1994,,"540,874,934",819,Boomers
+11137,Guyana,1994,male,15-24 years,21,75958,27.65,Guyana1994,,"540,874,934",819,Generation X
+11138,Guyana,1994,male,75+ years,1,4083,24.49,Guyana1994,,"540,874,934",819,G.I. Generation
+11139,Guyana,1994,male,35-54 years,14,67952,20.6,Guyana1994,,"540,874,934",819,Boomers
+11140,Guyana,1994,male,55-74 years,4,25709,15.56,Guyana1994,,"540,874,934",819,Silent
+11141,Guyana,1994,female,15-24 years,9,79778,11.28,Guyana1994,,"540,874,934",819,Generation X
+11142,Guyana,1994,female,55-74 years,3,27573,10.88,Guyana1994,,"540,874,934",819,Silent
+11143,Guyana,1994,female,25-34 years,6,66495,9.02,Guyana1994,,"540,874,934",819,Boomers
+11144,Guyana,1994,female,35-54 years,6,70836,8.47,Guyana1994,,"540,874,934",819,Boomers
+11145,Guyana,1994,female,5-14 years,3,87580,3.43,Guyana1994,,"540,874,934",819,Millenials
+11146,Guyana,1994,female,75+ years,0,4955,0.0,Guyana1994,,"540,874,934",819,G.I. Generation
+11147,Guyana,1994,male,5-14 years,0,88014,0.0,Guyana1994,,"540,874,934",819,Millenials
+11148,Guyana,1995,male,75+ years,2,4016,49.8,Guyana1995,0.581,"621,626,786",939,G.I. Generation
+11149,Guyana,1995,male,35-54 years,32,69347,46.14,Guyana1995,0.581,"621,626,786",939,Boomers
+11150,Guyana,1995,male,25-34 years,20,61036,32.77,Guyana1995,0.581,"621,626,786",939,Generation X
+11151,Guyana,1995,male,55-74 years,7,25980,26.94,Guyana1995,0.581,"621,626,786",939,Silent
+11152,Guyana,1995,male,15-24 years,16,75684,21.14,Guyana1995,0.581,"621,626,786",939,Generation X
+11153,Guyana,1995,female,15-24 years,10,78904,12.67,Guyana1995,0.581,"621,626,786",939,Generation X
+11154,Guyana,1995,female,35-54 years,7,72700,9.63,Guyana1995,0.581,"621,626,786",939,Boomers
+11155,Guyana,1995,female,25-34 years,4,66078,6.05,Guyana1995,0.581,"621,626,786",939,Generation X
+11156,Guyana,1995,female,55-74 years,1,27922,3.58,Guyana1995,0.581,"621,626,786",939,Silent
+11157,Guyana,1995,female,5-14 years,0,87174,0.0,Guyana1995,0.581,"621,626,786",939,Millenials
+11158,Guyana,1995,female,75+ years,0,4933,0.0,Guyana1995,0.581,"621,626,786",939,G.I. Generation
+11159,Guyana,1995,male,5-14 years,0,87908,0.0,Guyana1995,0.581,"621,626,786",939,Millenials
+11160,Guyana,1996,male,25-34 years,18,61208,29.41,Guyana1996,,"705,406,001",1070,Generation X
+11161,Guyana,1996,male,75+ years,1,4206,23.78,Guyana1996,,"705,406,001",1070,G.I. Generation
+11162,Guyana,1996,male,55-74 years,5,25903,19.3,Guyana1996,,"705,406,001",1070,Silent
+11163,Guyana,1996,male,15-24 years,14,74989,18.67,Guyana1996,,"705,406,001",1070,Generation X
+11164,Guyana,1996,male,35-54 years,13,70760,18.37,Guyana1996,,"705,406,001",1070,Boomers
+11165,Guyana,1996,female,55-74 years,3,27838,10.78,Guyana1996,,"705,406,001",1070,Silent
+11166,Guyana,1996,female,15-24 years,4,77959,5.13,Guyana1996,,"705,406,001",1070,Generation X
+11167,Guyana,1996,female,25-34 years,1,66018,1.51,Guyana1996,,"705,406,001",1070,Generation X
+11168,Guyana,1996,female,35-54 years,1,73722,1.36,Guyana1996,,"705,406,001",1070,Boomers
+11169,Guyana,1996,female,5-14 years,0,85353,0.0,Guyana1996,,"705,406,001",1070,Millenials
+11170,Guyana,1996,female,75+ years,0,5226,0.0,Guyana1996,,"705,406,001",1070,G.I. Generation
+11171,Guyana,1996,male,5-14 years,0,85866,0.0,Guyana1996,,"705,406,001",1070,Millenials
+11172,Guyana,1997,male,25-34 years,14,61382,22.81,Guyana1997,,"749,138,010",1139,Generation X
+11173,Guyana,1997,female,75+ years,1,5573,17.94,Guyana1997,,"749,138,010",1139,G.I. Generation
+11174,Guyana,1997,male,35-54 years,10,72527,13.79,Guyana1997,,"749,138,010",1139,Boomers
+11175,Guyana,1997,male,15-24 years,9,73872,12.18,Guyana1997,,"749,138,010",1139,Generation X
+11176,Guyana,1997,male,55-74 years,3,25615,11.71,Guyana1997,,"749,138,010",1139,Silent
+11177,Guyana,1997,female,25-34 years,2,65815,3.04,Guyana1997,,"749,138,010",1139,Generation X
+11178,Guyana,1997,female,5-14 years,1,84446,1.18,Guyana1997,,"749,138,010",1139,Millenials
+11179,Guyana,1997,female,15-24 years,0,76589,0.0,Guyana1997,,"749,138,010",1139,Generation X
+11180,Guyana,1997,female,35-54 years,0,74845,0.0,Guyana1997,,"749,138,010",1139,Boomers
+11181,Guyana,1997,female,55-74 years,0,27455,0.0,Guyana1997,,"749,138,010",1139,Silent
+11182,Guyana,1997,male,5-14 years,0,85051,0.0,Guyana1997,,"749,138,010",1139,Millenials
+11183,Guyana,1997,male,75+ years,0,4414,0.0,Guyana1997,,"749,138,010",1139,G.I. Generation
+11184,Guyana,1998,male,55-74 years,6,25154,23.85,Guyana1998,,"717,530,683",1092,Silent
+11185,Guyana,1998,male,35-54 years,13,74495,17.45,Guyana1998,,"717,530,683",1092,Boomers
+11186,Guyana,1998,male,25-34 years,8,61554,13.0,Guyana1998,,"717,530,683",1092,Generation X
+11187,Guyana,1998,male,15-24 years,4,72158,5.54,Guyana1998,,"717,530,683",1092,Generation X
+11188,Guyana,1998,female,5-14 years,2,84570,2.36,Guyana1998,,"717,530,683",1092,Millenials
+11189,Guyana,1998,female,15-24 years,1,74682,1.34,Guyana1998,,"717,530,683",1092,Generation X
+11190,Guyana,1998,female,35-54 years,1,76045,1.32,Guyana1998,,"717,530,683",1092,Boomers
+11191,Guyana,1998,female,25-34 years,0,65510,0.0,Guyana1998,,"717,530,683",1092,Generation X
+11192,Guyana,1998,female,55-74 years,0,26825,0.0,Guyana1998,,"717,530,683",1092,Silent
+11193,Guyana,1998,female,75+ years,0,5921,0.0,Guyana1998,,"717,530,683",1092,G.I. Generation
+11194,Guyana,1998,male,5-14 years,0,85543,0.0,Guyana1998,,"717,530,683",1092,Millenials
+11195,Guyana,1998,male,75+ years,0,4632,0.0,Guyana1998,,"717,530,683",1092,G.I. Generation
+11196,Guyana,1999,male,25-34 years,41,61650,66.5,Guyana1999,,"694,754,988",1057,Generation X
+11197,Guyana,1999,male,35-54 years,38,76458,49.7,Guyana1999,,"694,754,988",1057,Boomers
+11198,Guyana,1999,male,15-24 years,32,69833,45.82,Guyana1999,,"694,754,988",1057,Generation X
+11199,Guyana,1999,male,75+ years,2,4820,41.49,Guyana1999,,"694,754,988",1057,G.I. Generation
+11200,Guyana,1999,male,55-74 years,7,24637,28.41,Guyana1999,,"694,754,988",1057,Silent
+11201,Guyana,1999,female,15-24 years,20,72293,27.67,Guyana1999,,"694,754,988",1057,Generation X
+11202,Guyana,1999,female,75+ years,1,6185,16.17,Guyana1999,,"694,754,988",1057,G.I. Generation
+11203,Guyana,1999,female,25-34 years,9,65117,13.82,Guyana1999,,"694,754,988",1057,Generation X
+11204,Guyana,1999,female,55-74 years,3,26117,11.49,Guyana1999,,"694,754,988",1057,Silent
+11205,Guyana,1999,female,35-54 years,7,77259,9.06,Guyana1999,,"694,754,988",1057,Boomers
+11206,Guyana,1999,female,5-14 years,2,85604,2.34,Guyana1999,,"694,754,988",1057,Millenials
+11207,Guyana,1999,male,5-14 years,1,87121,1.15,Guyana1999,,"694,754,988",1057,Millenials
+11208,Guyana,2001,male,55-74 years,21,24588,85.41,Guyana2001,,"696,281,472",1054,Silent
+11209,Guyana,2001,male,35-54 years,63,80183,78.57,Guyana2001,,"696,281,472",1054,Boomers
+11210,Guyana,2001,male,25-34 years,46,60741,75.73,Guyana2001,,"696,281,472",1054,Generation X
+11211,Guyana,2001,male,75+ years,2,5114,39.11,Guyana2001,,"696,281,472",1054,Silent
+11212,Guyana,2001,male,15-24 years,22,65739,33.47,Guyana2001,,"696,281,472",1054,Millenials
+11213,Guyana,2001,female,15-24 years,15,67250,22.3,Guyana2001,,"696,281,472",1054,Millenials
+11214,Guyana,2001,female,25-34 years,11,63575,17.3,Guyana2001,,"696,281,472",1054,Generation X
+11215,Guyana,2001,female,35-54 years,13,80682,16.11,Guyana2001,,"696,281,472",1054,Boomers
+11216,Guyana,2001,female,55-74 years,3,25805,11.63,Guyana2001,,"696,281,472",1054,Silent
+11217,Guyana,2001,female,5-14 years,1,88698,1.13,Guyana2001,,"696,281,472",1054,Millenials
+11218,Guyana,2001,female,75+ years,0,6483,0.0,Guyana2001,,"696,281,472",1054,Silent
+11219,Guyana,2001,male,5-14 years,0,91568,0.0,Guyana2001,,"696,281,472",1054,Millenials
+11220,Guyana,2002,male,35-54 years,59,81725,72.19,Guyana2002,,"722,460,886",1090,Boomers
+11221,Guyana,2002,male,55-74 years,15,25213,59.49,Guyana2002,,"722,460,886",1090,Silent
+11222,Guyana,2002,male,25-34 years,34,59613,57.03,Guyana2002,,"722,460,886",1090,Generation X
+11223,Guyana,2002,male,15-24 years,31,64530,48.04,Guyana2002,,"722,460,886",1090,Millenials
+11224,Guyana,2002,female,15-24 years,13,65044,19.99,Guyana2002,,"722,460,886",1090,Millenials
+11225,Guyana,2002,male,75+ years,1,5180,19.31,Guyana2002,,"722,460,886",1090,Silent
+11226,Guyana,2002,female,25-34 years,9,62180,14.47,Guyana2002,,"722,460,886",1090,Generation X
+11227,Guyana,2002,female,55-74 years,2,26413,7.57,Guyana2002,,"722,460,886",1090,Silent
+11228,Guyana,2002,female,35-54 years,6,82679,7.26,Guyana2002,,"722,460,886",1090,Boomers
+11229,Guyana,2002,female,5-14 years,4,90156,4.44,Guyana2002,,"722,460,886",1090,Millenials
+11230,Guyana,2002,male,5-14 years,2,93598,2.14,Guyana2002,,"722,460,886",1090,Millenials
+11231,Guyana,2002,female,75+ years,0,6508,0.0,Guyana2002,,"722,460,886",1090,Silent
+11232,Guyana,2003,male,35-54 years,63,83011,75.89,Guyana2003,,"741,929,343",1116,Boomers
+11233,Guyana,2003,male,25-34 years,42,58196,72.17,Guyana2003,,"741,929,343",1116,Generation X
+11234,Guyana,2003,male,55-74 years,17,26025,65.32,Guyana2003,,"741,929,343",1116,Silent
+11235,Guyana,2003,male,15-24 years,27,63808,42.31,Guyana2003,,"741,929,343",1116,Millenials
+11236,Guyana,2003,male,75+ years,2,5167,38.71,Guyana2003,,"741,929,343",1116,Silent
+11237,Guyana,2003,female,15-24 years,20,63364,31.56,Guyana2003,,"741,929,343",1116,Millenials
+11238,Guyana,2003,female,75+ years,1,6451,15.5,Guyana2003,,"741,929,343",1116,Silent
+11239,Guyana,2003,female,35-54 years,12,84488,14.2,Guyana2003,,"741,929,343",1116,Boomers
+11240,Guyana,2003,female,25-34 years,7,60458,11.58,Guyana2003,,"741,929,343",1116,Generation X
+11241,Guyana,2003,female,55-74 years,3,27246,11.01,Guyana2003,,"741,929,343",1116,Silent
+11242,Guyana,2003,female,5-14 years,2,91355,2.19,Guyana2003,,"741,929,343",1116,Millenials
+11243,Guyana,2003,male,5-14 years,2,95136,2.1,Guyana2003,,"741,929,343",1116,Millenials
+11244,Guyana,2004,male,75+ years,4,5077,78.79,Guyana2004,,"785,918,770",1180,Silent
+11245,Guyana,2004,male,25-34 years,42,56522,74.31,Guyana2004,,"785,918,770",1180,Generation X
+11246,Guyana,2004,male,35-54 years,48,84137,57.05,Guyana2004,,"785,918,770",1180,Boomers
+11247,Guyana,2004,male,55-74 years,15,26937,55.69,Guyana2004,,"785,918,770",1180,Silent
+11248,Guyana,2004,male,15-24 years,25,63853,39.15,Guyana2004,,"785,918,770",1180,Millenials
+11249,Guyana,2004,female,15-24 years,17,62536,27.18,Guyana2004,,"785,918,770",1180,Millenials
+11250,Guyana,2004,female,25-34 years,11,58410,18.83,Guyana2004,,"785,918,770",1180,Generation X
+11251,Guyana,2004,female,35-54 years,14,86168,16.25,Guyana2004,,"785,918,770",1180,Boomers
+11252,Guyana,2004,female,75+ years,1,6343,15.77,Guyana2004,,"785,918,770",1180,Silent
+11253,Guyana,2004,female,55-74 years,3,28195,10.64,Guyana2004,,"785,918,770",1180,Silent
+11254,Guyana,2004,male,5-14 years,4,96017,4.17,Guyana2004,,"785,918,770",1180,Millenials
+11255,Guyana,2004,female,5-14 years,2,92113,2.17,Guyana2004,,"785,918,770",1180,Millenials
+11256,Guyana,2005,male,25-34 years,41,54600,75.09,Guyana2005,0.618,"824,880,550",1235,Generation X
+11257,Guyana,2005,male,55-74 years,19,27890,68.12,Guyana2005,0.618,"824,880,550",1235,Silent
+11258,Guyana,2005,male,35-54 years,43,85091,50.53,Guyana2005,0.618,"824,880,550",1235,Boomers
+11259,Guyana,2005,male,75+ years,2,4913,40.71,Guyana2005,0.618,"824,880,550",1235,Silent
+11260,Guyana,2005,male,15-24 years,21,64802,32.41,Guyana2005,0.618,"824,880,550",1235,Millenials
+11261,Guyana,2005,female,15-24 years,16,62748,25.5,Guyana2005,0.618,"824,880,550",1235,Millenials
+11262,Guyana,2005,female,25-34 years,10,56021,17.85,Guyana2005,0.618,"824,880,550",1235,Generation X
+11263,Guyana,2005,female,35-54 years,12,87677,13.69,Guyana2005,0.618,"824,880,550",1235,Boomers
+11264,Guyana,2005,female,55-74 years,2,29185,6.85,Guyana2005,0.618,"824,880,550",1235,Silent
+11265,Guyana,2005,female,5-14 years,2,92359,2.17,Guyana2005,0.618,"824,880,550",1235,Millenials
+11266,Guyana,2005,male,5-14 years,1,96224,1.04,Guyana2005,0.618,"824,880,550",1235,Millenials
+11267,Guyana,2005,female,75+ years,0,6199,0.0,Guyana2005,0.618,"824,880,550",1235,Silent
+11268,Guyana,2006,male,25-34 years,46,54309,84.7,Guyana2006,,"1,458,449,453",2182,Generation X
+11269,Guyana,2006,male,55-74 years,18,28901,62.28,Guyana2006,,"1,458,449,453",2182,Silent
+11270,Guyana,2006,male,75+ years,3,4938,60.75,Guyana2006,,"1,458,449,453",2182,Silent
+11271,Guyana,2006,male,35-54 years,50,85783,58.29,Guyana2006,,"1,458,449,453",2182,Boomers
+11272,Guyana,2006,male,15-24 years,29,65453,44.31,Guyana2006,,"1,458,449,453",2182,Millenials
+11273,Guyana,2006,female,15-24 years,20,64182,31.16,Guyana2006,,"1,458,449,453",2182,Millenials
+11274,Guyana,2006,female,25-34 years,11,55372,19.87,Guyana2006,,"1,458,449,453",2182,Generation X
+11275,Guyana,2006,female,35-54 years,12,87754,13.67,Guyana2006,,"1,458,449,453",2182,Boomers
+11276,Guyana,2006,female,55-74 years,3,30405,9.87,Guyana2006,,"1,458,449,453",2182,Silent
+11277,Guyana,2006,male,5-14 years,5,94486,5.29,Guyana2006,,"1,458,449,453",2182,Millenials
+11278,Guyana,2006,female,5-14 years,4,90602,4.41,Guyana2006,,"1,458,449,453",2182,Millenials
+11279,Guyana,2006,female,75+ years,0,6223,0.0,Guyana2006,,"1,458,449,453",2182,Silent
+11280,Guyana,2007,male,35-54 years,73,86507,84.39,Guyana2007,,"1,740,334,782",2602,Boomers
+11281,Guyana,2007,male,75+ years,3,4901,61.21,Guyana2007,,"1,740,334,782",2602,Silent
+11282,Guyana,2007,male,25-34 years,28,54095,51.76,Guyana2007,,"1,740,334,782",2602,Generation X
+11283,Guyana,2007,male,15-24 years,27,66115,40.84,Guyana2007,,"1,740,334,782",2602,Millenials
+11284,Guyana,2007,male,55-74 years,11,29855,36.84,Guyana2007,,"1,740,334,782",2602,Silent
+11285,Guyana,2007,female,75+ years,2,6214,32.19,Guyana2007,,"1,740,334,782",2602,Silent
+11286,Guyana,2007,female,15-24 years,15,65585,22.87,Guyana2007,,"1,740,334,782",2602,Millenials
+11287,Guyana,2007,female,25-34 years,9,55201,16.3,Guyana2007,,"1,740,334,782",2602,Generation X
+11288,Guyana,2007,female,55-74 years,4,31718,12.61,Guyana2007,,"1,740,334,782",2602,Silent
+11289,Guyana,2007,female,35-54 years,9,87596,10.27,Guyana2007,,"1,740,334,782",2602,Boomers
+11290,Guyana,2007,female,5-14 years,3,88555,3.39,Guyana2007,,"1,740,334,782",2602,Generation Z
+11291,Guyana,2007,male,5-14 years,1,92446,1.08,Guyana2007,,"1,740,334,782",2602,Generation Z
+11292,Guyana,2008,male,75+ years,3,4848,61.88,Guyana2008,,"1,922,598,121",2873,Silent
+11293,Guyana,2008,male,35-54 years,53,87299,60.71,Guyana2008,,"1,922,598,121",2873,Boomers
+11294,Guyana,2008,male,55-74 years,18,30779,58.48,Guyana2008,,"1,922,598,121",2873,Silent
+11295,Guyana,2008,male,25-34 years,30,53990,55.57,Guyana2008,,"1,922,598,121",2873,Generation X
+11296,Guyana,2008,male,15-24 years,20,66792,29.94,Guyana2008,,"1,922,598,121",2873,Millenials
+11297,Guyana,2008,female,55-74 years,7,33157,21.11,Guyana2008,,"1,922,598,121",2873,Silent
+11298,Guyana,2008,female,15-24 years,13,66821,19.45,Guyana2008,,"1,922,598,121",2873,Millenials
+11299,Guyana,2008,female,75+ years,1,6197,16.14,Guyana2008,,"1,922,598,121",2873,Silent
+11300,Guyana,2008,female,35-54 years,13,87224,14.9,Guyana2008,,"1,922,598,121",2873,Boomers
+11301,Guyana,2008,female,25-34 years,6,55523,10.81,Guyana2008,,"1,922,598,121",2873,Generation X
+11302,Guyana,2008,female,5-14 years,4,86356,4.63,Guyana2008,,"1,922,598,121",2873,Generation Z
+11303,Guyana,2008,male,5-14 years,0,90267,0.0,Guyana2008,,"1,922,598,121",2873,Generation Z
+11304,Guyana,2009,male,35-54 years,51,88163,57.85,Guyana2009,,"2,061,323,854",3076,Boomers
+11305,Guyana,2009,male,25-34 years,26,53875,48.26,Guyana2009,,"2,061,323,854",3076,Generation X
+11306,Guyana,2009,male,55-74 years,15,31720,47.29,Guyana2009,,"2,061,323,854",3076,Silent
+11307,Guyana,2009,male,75+ years,2,4834,41.37,Guyana2009,,"2,061,323,854",3076,Silent
+11308,Guyana,2009,male,15-24 years,14,67457,20.75,Guyana2009,,"2,061,323,854",3076,Millenials
+11309,Guyana,2009,female,15-24 years,14,67774,20.66,Guyana2009,,"2,061,323,854",3076,Millenials
+11310,Guyana,2009,female,35-54 years,15,86706,17.3,Guyana2009,,"2,061,323,854",3076,Boomers
+11311,Guyana,2009,female,75+ years,1,6229,16.05,Guyana2009,,"2,061,323,854",3076,Silent
+11312,Guyana,2009,female,25-34 years,7,56144,12.47,Guyana2009,,"2,061,323,854",3076,Generation X
+11313,Guyana,2009,female,55-74 years,4,34707,11.53,Guyana2009,,"2,061,323,854",3076,Silent
+11314,Guyana,2009,female,5-14 years,6,84273,7.12,Guyana2009,,"2,061,323,854",3076,Generation Z
+11315,Guyana,2009,male,5-14 years,1,88273,1.13,Guyana2009,,"2,061,323,854",3076,Generation Z
+11316,Guyana,2010,male,75+ years,5,4885,102.35,Guyana2010,0.624,"2,273,225,042",3384,Silent
+11317,Guyana,2010,male,35-54 years,80,89147,89.74,Guyana2010,0.624,"2,273,225,042",3384,Generation X
+11318,Guyana,2010,male,25-34 years,30,53501,56.07,Guyana2010,0.624,"2,273,225,042",3384,Generation X
+11319,Guyana,2010,male,15-24 years,27,68249,39.56,Guyana2010,0.624,"2,273,225,042",3384,Millenials
+11320,Guyana,2010,male,55-74 years,12,32734,36.66,Guyana2010,0.624,"2,273,225,042",3384,Silent
+11321,Guyana,2010,female,15-24 years,21,68563,30.63,Guyana2010,0.624,"2,273,225,042",3384,Millenials
+11322,Guyana,2010,female,25-34 years,11,56716,19.39,Guyana2010,0.624,"2,273,225,042",3384,Generation X
+11323,Guyana,2010,female,55-74 years,4,36294,11.02,Guyana2010,0.624,"2,273,225,042",3384,Silent
+11324,Guyana,2010,female,35-54 years,8,86183,9.28,Guyana2010,0.624,"2,273,225,042",3384,Generation X
+11325,Guyana,2010,female,5-14 years,5,82511,6.06,Guyana2010,0.624,"2,273,225,042",3384,Generation Z
+11326,Guyana,2010,male,5-14 years,2,86692,2.31,Guyana2010,0.624,"2,273,225,042",3384,Generation Z
+11327,Guyana,2010,female,75+ years,0,6350,0.0,Guyana2010,0.624,"2,273,225,042",3384,Silent
+11328,Guyana,2011,male,35-54 years,64,90085,71.04,Guyana2011,0.63,"2,576,024,116",3815,Generation X
+11329,Guyana,2011,male,25-34 years,34,52146,65.2,Guyana2011,0.63,"2,576,024,116",3815,Millenials
+11330,Guyana,2011,male,55-74 years,19,33737,56.32,Guyana2011,0.63,"2,576,024,116",3815,Boomers
+11331,Guyana,2011,male,15-24 years,31,71216,43.53,Guyana2011,0.63,"2,576,024,116",3815,Millenials
+11332,Guyana,2011,male,75+ years,2,5121,39.05,Guyana2011,0.63,"2,576,024,116",3815,Silent
+11333,Guyana,2011,female,35-54 years,14,87351,16.03,Guyana2011,0.63,"2,576,024,116",3815,Generation X
+11334,Guyana,2011,female,75+ years,1,6656,15.02,Guyana2011,0.63,"2,576,024,116",3815,Silent
+11335,Guyana,2011,female,15-24 years,10,70472,14.19,Guyana2011,0.63,"2,576,024,116",3815,Millenials
+11336,Guyana,2011,female,25-34 years,7,55527,12.61,Guyana2011,0.63,"2,576,024,116",3815,Millenials
+11337,Guyana,2011,female,55-74 years,3,37229,8.06,Guyana2011,0.63,"2,576,024,116",3815,Boomers
+11338,Guyana,2011,female,5-14 years,4,80748,4.95,Guyana2011,0.63,"2,576,024,116",3815,Generation Z
+11339,Guyana,2011,male,5-14 years,3,84995,3.53,Guyana2011,0.63,"2,576,024,116",3815,Generation Z
+11340,Guyana,2012,male,35-54 years,71,90968,78.05,Guyana2012,0.629,"2,861,562,266",4212,Generation X
+11341,Guyana,2012,male,55-74 years,21,34933,60.12,Guyana2012,0.629,"2,861,562,266",4212,Boomers
+11342,Guyana,2012,male,75+ years,3,5373,55.83,Guyana2012,0.629,"2,861,562,266",4212,Silent
+11343,Guyana,2012,male,25-34 years,27,50601,53.36,Guyana2012,0.629,"2,861,562,266",4212,Millenials
+11344,Guyana,2012,male,15-24 years,30,74548,40.24,Guyana2012,0.629,"2,861,562,266",4212,Millenials
+11345,Guyana,2012,female,25-34 years,11,53923,20.4,Guyana2012,0.629,"2,861,562,266",4212,Millenials
+11346,Guyana,2012,female,35-54 years,18,88544,20.33,Guyana2012,0.629,"2,861,562,266",4212,Generation X
+11347,Guyana,2012,female,15-24 years,14,72713,19.25,Guyana2012,0.629,"2,861,562,266",4212,Millenials
+11348,Guyana,2012,female,55-74 years,5,38249,13.07,Guyana2012,0.629,"2,861,562,266",4212,Boomers
+11349,Guyana,2012,male,5-14 years,4,83404,4.8,Guyana2012,0.629,"2,861,562,266",4212,Generation Z
+11350,Guyana,2012,female,5-14 years,2,79129,2.53,Guyana2012,0.629,"2,861,562,266",4212,Generation Z
+11351,Guyana,2012,female,75+ years,0,6971,0.0,Guyana2012,0.629,"2,861,562,266",4212,Silent
+11352,Guyana,2013,male,25-34 years,35,49177,71.17,Guyana2013,0.634,"2,990,006,534",4372,Millenials
+11353,Guyana,2013,male,35-54 years,65,91779,70.82,Guyana2013,0.634,"2,990,006,534",4372,Generation X
+11354,Guyana,2013,male,55-74 years,23,36325,63.32,Guyana2013,0.634,"2,990,006,534",4372,Boomers
+11355,Guyana,2013,male,15-24 years,34,77905,43.64,Guyana2013,0.634,"2,990,006,534",4372,Millenials
+11356,Guyana,2013,female,15-24 years,29,75001,38.67,Guyana2013,0.634,"2,990,006,534",4372,Millenials
+11357,Guyana,2013,male,75+ years,2,5578,35.86,Guyana2013,0.634,"2,990,006,534",4372,Silent
+11358,Guyana,2013,female,35-54 years,13,89706,14.49,Guyana2013,0.634,"2,990,006,534",4372,Generation X
+11359,Guyana,2013,female,55-74 years,4,39408,10.15,Guyana2013,0.634,"2,990,006,534",4372,Boomers
+11360,Guyana,2013,female,25-34 years,3,52213,5.75,Guyana2013,0.634,"2,990,006,534",4372,Millenials
+11361,Guyana,2013,female,5-14 years,1,77645,1.29,Guyana2013,0.634,"2,990,006,534",4372,Generation Z
+11362,Guyana,2013,male,5-14 years,1,81898,1.22,Guyana2013,0.634,"2,990,006,534",4372,Generation Z
+11363,Guyana,2013,female,75+ years,0,7232,0.0,Guyana2013,0.634,"2,990,006,534",4372,Silent

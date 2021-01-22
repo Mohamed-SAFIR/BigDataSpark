@@ -1,0 +1,311 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+10394,Grenada,1985,male,55-74 years,1,3987,25.08,Grenada1985,,"167,728,444",1965,G.I. Generation
+10395,Grenada,1985,female,15-24 years,0,11725,0.0,Grenada1985,,"167,728,444",1965,Generation X
+10396,Grenada,1985,female,25-34 years,0,7124,0.0,Grenada1985,,"167,728,444",1965,Boomers
+10397,Grenada,1985,female,35-54 years,0,6880,0.0,Grenada1985,,"167,728,444",1965,Silent
+10398,Grenada,1985,female,5-14 years,0,11584,0.0,Grenada1985,,"167,728,444",1965,Generation X
+10399,Grenada,1985,female,55-74 years,0,5254,0.0,Grenada1985,,"167,728,444",1965,G.I. Generation
+10400,Grenada,1985,female,75+ years,0,1510,0.0,Grenada1985,,"167,728,444",1965,G.I. Generation
+10401,Grenada,1985,male,15-24 years,0,11604,0.0,Grenada1985,,"167,728,444",1965,Generation X
+10402,Grenada,1985,male,25-34 years,0,6933,0.0,Grenada1985,,"167,728,444",1965,Boomers
+10403,Grenada,1985,male,35-54 years,0,5919,0.0,Grenada1985,,"167,728,444",1965,Silent
+10404,Grenada,1985,male,5-14 years,0,11950,0.0,Grenada1985,,"167,728,444",1965,Generation X
+10405,Grenada,1985,male,75+ years,0,905,0.0,Grenada1985,,"167,728,444",1965,G.I. Generation
+10406,Grenada,1988,male,25-34 years,2,6700,29.85,Grenada1988,,"236,357,519",2707,Boomers
+10407,Grenada,1988,female,15-24 years,1,11700,8.55,Grenada1988,,"236,357,519",2707,Generation X
+10408,Grenada,1988,male,15-24 years,1,11900,8.4,Grenada1988,,"236,357,519",2707,Generation X
+10409,Grenada,1988,female,25-34 years,0,6700,0.0,Grenada1988,,"236,357,519",2707,Boomers
+10410,Grenada,1988,female,35-54 years,0,6400,0.0,Grenada1988,,"236,357,519",2707,Silent
+10411,Grenada,1988,female,5-14 years,0,12300,0.0,Grenada1988,,"236,357,519",2707,Generation X
+10412,Grenada,1988,female,55-74 years,0,5200,0.0,Grenada1988,,"236,357,519",2707,G.I. Generation
+10413,Grenada,1988,female,75+ years,0,2000,0.0,Grenada1988,,"236,357,519",2707,G.I. Generation
+10414,Grenada,1988,male,35-54 years,0,5900,0.0,Grenada1988,,"236,357,519",2707,Silent
+10415,Grenada,1988,male,5-14 years,0,12800,0.0,Grenada1988,,"236,357,519",2707,Generation X
+10416,Grenada,1988,male,55-74 years,0,4500,0.0,Grenada1988,,"236,357,519",2707,G.I. Generation
+10417,Grenada,1988,male,75+ years,0,1200,0.0,Grenada1988,,"236,357,519",2707,G.I. Generation
+10418,Grenada,1989,male,25-34 years,2,7029,28.45,Grenada1989,,"267,327,630",3268,Boomers
+10419,Grenada,1989,male,55-74 years,1,4485,22.3,Grenada1989,,"267,327,630",3268,G.I. Generation
+10420,Grenada,1989,male,35-54 years,1,6973,14.34,Grenada1989,,"267,327,630",3268,Silent
+10421,Grenada,1989,female,15-24 years,0,9000,0.0,Grenada1989,,"267,327,630",3268,Generation X
+10422,Grenada,1989,female,25-34 years,0,7050,0.0,Grenada1989,,"267,327,630",3268,Boomers
+10423,Grenada,1989,female,35-54 years,0,7261,0.0,Grenada1989,,"267,327,630",3268,Silent
+10424,Grenada,1989,female,5-14 years,0,11045,0.0,Grenada1989,,"267,327,630",3268,Generation X
+10425,Grenada,1989,female,55-74 years,0,5946,0.0,Grenada1989,,"267,327,630",3268,G.I. Generation
+10426,Grenada,1989,female,75+ years,0,1490,0.0,Grenada1989,,"267,327,630",3268,G.I. Generation
+10427,Grenada,1989,male,15-24 years,0,9251,0.0,Grenada1989,,"267,327,630",3268,Generation X
+10428,Grenada,1989,male,5-14 years,0,11332,0.0,Grenada1989,,"267,327,630",3268,Generation X
+10429,Grenada,1989,male,75+ years,0,943,0.0,Grenada1989,,"267,327,630",3268,G.I. Generation
+10430,Grenada,1990,male,35-54 years,1,6200,16.13,Grenada1990,,"278,098,778",3391,Silent
+10431,Grenada,1990,male,15-24 years,1,11600,8.62,Grenada1990,,"278,098,778",3391,Generation X
+10432,Grenada,1990,female,15-24 years,0,10500,0.0,Grenada1990,,"278,098,778",3391,Generation X
+10433,Grenada,1990,female,25-34 years,0,4900,0.0,Grenada1990,,"278,098,778",3391,Boomers
+10434,Grenada,1990,female,35-54 years,0,6600,0.0,Grenada1990,,"278,098,778",3391,Silent
+10435,Grenada,1990,female,5-14 years,0,11500,0.0,Grenada1990,,"278,098,778",3391,Generation X
+10436,Grenada,1990,female,55-74 years,0,5000,0.0,Grenada1990,,"278,098,778",3391,G.I. Generation
+10437,Grenada,1990,female,75+ years,0,1700,0.0,Grenada1990,,"278,098,778",3391,G.I. Generation
+10438,Grenada,1990,male,25-34 years,0,5500,0.0,Grenada1990,,"278,098,778",3391,Boomers
+10439,Grenada,1990,male,5-14 years,0,13200,0.0,Grenada1990,,"278,098,778",3391,Generation X
+10440,Grenada,1990,male,55-74 years,0,4400,0.0,Grenada1990,,"278,098,778",3391,G.I. Generation
+10441,Grenada,1990,male,75+ years,0,900,0.0,Grenada1990,,"278,098,778",3391,G.I. Generation
+10442,Grenada,1991,female,15-24 years,0,8300,0.0,Grenada1991,,"300,757,889",3650,Generation X
+10443,Grenada,1991,female,25-34 years,0,7100,0.0,Grenada1991,,"300,757,889",3650,Boomers
+10444,Grenada,1991,female,35-54 years,0,7300,0.0,Grenada1991,,"300,757,889",3650,Boomers
+10445,Grenada,1991,female,5-14 years,0,11800,0.0,Grenada1991,,"300,757,889",3650,Millenials
+10446,Grenada,1991,female,55-74 years,0,5600,0.0,Grenada1991,,"300,757,889",3650,Silent
+10447,Grenada,1991,female,75+ years,0,1900,0.0,Grenada1991,,"300,757,889",3650,G.I. Generation
+10448,Grenada,1991,male,15-24 years,0,8600,0.0,Grenada1991,,"300,757,889",3650,Generation X
+10449,Grenada,1991,male,25-34 years,0,7100,0.0,Grenada1991,,"300,757,889",3650,Boomers
+10450,Grenada,1991,male,35-54 years,0,7100,0.0,Grenada1991,,"300,757,889",3650,Boomers
+10451,Grenada,1991,male,5-14 years,0,12100,0.0,Grenada1991,,"300,757,889",3650,Millenials
+10452,Grenada,1991,male,55-74 years,0,4400,0.0,Grenada1991,,"300,757,889",3650,Silent
+10453,Grenada,1991,male,75+ years,0,1100,0.0,Grenada1991,,"300,757,889",3650,G.I. Generation
+10454,Grenada,1992,female,15-24 years,0,8589,0.0,Grenada1992,,"310,160,444",3713,Generation X
+10455,Grenada,1992,female,25-34 years,0,6770,0.0,Grenada1992,,"310,160,444",3713,Boomers
+10456,Grenada,1992,female,35-54 years,0,7503,0.0,Grenada1992,,"310,160,444",3713,Boomers
+10457,Grenada,1992,female,5-14 years,0,11972,0.0,Grenada1992,,"310,160,444",3713,Millenials
+10458,Grenada,1992,female,55-74 years,0,5922,0.0,Grenada1992,,"310,160,444",3713,Silent
+10459,Grenada,1992,female,75+ years,0,1675,0.0,Grenada1992,,"310,160,444",3713,G.I. Generation
+10460,Grenada,1992,male,15-24 years,0,8935,0.0,Grenada1992,,"310,160,444",3713,Generation X
+10461,Grenada,1992,male,25-34 years,0,6831,0.0,Grenada1992,,"310,160,444",3713,Boomers
+10462,Grenada,1992,male,35-54 years,0,7405,0.0,Grenada1992,,"310,160,444",3713,Boomers
+10463,Grenada,1992,male,5-14 years,0,12358,0.0,Grenada1992,,"310,160,444",3713,Millenials
+10464,Grenada,1992,male,55-74 years,0,4530,0.0,Grenada1992,,"310,160,444",3713,Silent
+10465,Grenada,1992,male,75+ years,0,1038,0.0,Grenada1992,,"310,160,444",3713,G.I. Generation
+10466,Grenada,1993,male,35-54 years,2,7569,26.42,Grenada1993,,"309,812,185",3632,Boomers
+10467,Grenada,1993,male,5-14 years,1,12833,7.79,Grenada1993,,"309,812,185",3632,Millenials
+10468,Grenada,1993,female,15-24 years,0,8793,0.0,Grenada1993,,"309,812,185",3632,Generation X
+10469,Grenada,1993,female,25-34 years,0,6771,0.0,Grenada1993,,"309,812,185",3632,Boomers
+10470,Grenada,1993,female,35-54 years,0,7675,0.0,Grenada1993,,"309,812,185",3632,Boomers
+10471,Grenada,1993,female,5-14 years,0,12426,0.0,Grenada1993,,"309,812,185",3632,Millenials
+10472,Grenada,1993,female,55-74 years,0,5863,0.0,Grenada1993,,"309,812,185",3632,Silent
+10473,Grenada,1993,female,75+ years,0,1785,0.0,Grenada1993,,"309,812,185",3632,G.I. Generation
+10474,Grenada,1993,male,15-24 years,0,9153,0.0,Grenada1993,,"309,812,185",3632,Generation X
+10475,Grenada,1993,male,25-34 years,0,6845,0.0,Grenada1993,,"309,812,185",3632,Boomers
+10476,Grenada,1993,male,55-74 years,0,4505,0.0,Grenada1993,,"309,812,185",3632,Silent
+10477,Grenada,1993,male,75+ years,0,1086,0.0,Grenada1993,,"309,812,185",3632,G.I. Generation
+10478,Grenada,1994,male,35-54 years,3,7798,38.47,Grenada1994,,"325,111,815",3735,Boomers
+10479,Grenada,1994,male,55-74 years,1,4475,22.35,Grenada1994,,"325,111,815",3735,Silent
+10480,Grenada,1994,female,15-24 years,0,9108,0.0,Grenada1994,,"325,111,815",3735,Generation X
+10481,Grenada,1994,female,25-34 years,0,6714,0.0,Grenada1994,,"325,111,815",3735,Boomers
+10482,Grenada,1994,female,35-54 years,0,7908,0.0,Grenada1994,,"325,111,815",3735,Boomers
+10483,Grenada,1994,female,5-14 years,0,12779,0.0,Grenada1994,,"325,111,815",3735,Millenials
+10484,Grenada,1994,female,55-74 years,0,5796,0.0,Grenada1994,,"325,111,815",3735,Silent
+10485,Grenada,1994,female,75+ years,0,1873,0.0,Grenada1994,,"325,111,815",3735,G.I. Generation
+10486,Grenada,1994,male,15-24 years,0,9469,0.0,Grenada1994,,"325,111,815",3735,Generation X
+10487,Grenada,1994,male,25-34 years,0,6811,0.0,Grenada1994,,"325,111,815",3735,Boomers
+10488,Grenada,1994,male,5-14 years,0,13189,0.0,Grenada1994,,"325,111,815",3735,Millenials
+10489,Grenada,1994,male,75+ years,0,1116,0.0,Grenada1994,,"325,111,815",3735,G.I. Generation
+10490,Grenada,1995,female,75+ years,1,1925,51.95,Grenada1995,,"342,172,519",3869,G.I. Generation
+10491,Grenada,1995,female,15-24 years,0,9465,0.0,Grenada1995,,"342,172,519",3869,Generation X
+10492,Grenada,1995,female,25-34 years,0,6605,0.0,Grenada1995,,"342,172,519",3869,Generation X
+10493,Grenada,1995,female,35-54 years,0,8208,0.0,Grenada1995,,"342,172,519",3869,Boomers
+10494,Grenada,1995,female,5-14 years,0,12981,0.0,Grenada1995,,"342,172,519",3869,Millenials
+10495,Grenada,1995,female,55-74 years,0,5697,0.0,Grenada1995,,"342,172,519",3869,Silent
+10496,Grenada,1995,male,15-24 years,0,9818,0.0,Grenada1995,,"342,172,519",3869,Generation X
+10497,Grenada,1995,male,25-34 years,0,6748,0.0,Grenada1995,,"342,172,519",3869,Generation X
+10498,Grenada,1995,male,35-54 years,0,8087,0.0,Grenada1995,,"342,172,519",3869,Boomers
+10499,Grenada,1995,male,5-14 years,0,13374,0.0,Grenada1995,,"342,172,519",3869,Millenials
+10500,Grenada,1995,male,55-74 years,0,4407,0.0,Grenada1995,,"342,172,519",3869,Silent
+10501,Grenada,1995,male,75+ years,0,1118,0.0,Grenada1995,,"342,172,519",3869,G.I. Generation
+10502,Grenada,1996,male,35-54 years,1,8361,11.96,Grenada1996,,"366,911,444",4087,Boomers
+10503,Grenada,1996,female,15-24 years,0,9655,0.0,Grenada1996,,"366,911,444",4087,Generation X
+10504,Grenada,1996,female,25-34 years,0,6572,0.0,Grenada1996,,"366,911,444",4087,Generation X
+10505,Grenada,1996,female,35-54 years,0,8520,0.0,Grenada1996,,"366,911,444",4087,Boomers
+10506,Grenada,1996,female,5-14 years,0,13158,0.0,Grenada1996,,"366,911,444",4087,Millenials
+10507,Grenada,1996,female,55-74 years,0,5623,0.0,Grenada1996,,"366,911,444",4087,Silent
+10508,Grenada,1996,female,75+ years,0,2028,0.0,Grenada1996,,"366,911,444",4087,G.I. Generation
+10509,Grenada,1996,male,15-24 years,0,10001,0.0,Grenada1996,,"366,911,444",4087,Generation X
+10510,Grenada,1996,male,25-34 years,0,6761,0.0,Grenada1996,,"366,911,444",4087,Generation X
+10511,Grenada,1996,male,5-14 years,0,13546,0.0,Grenada1996,,"366,911,444",4087,Millenials
+10512,Grenada,1996,male,55-74 years,0,4403,0.0,Grenada1996,,"366,911,444",4087,Silent
+10513,Grenada,1996,male,75+ years,0,1144,0.0,Grenada1996,,"366,911,444",4087,G.I. Generation
+10514,Grenada,2001,female,15-24 years,0,10721,0.0,Grenada2001,,"520,444,185",5693,Millenials
+10515,Grenada,2001,female,25-34 years,0,6365,0.0,Grenada2001,,"520,444,185",5693,Generation X
+10516,Grenada,2001,female,35-54 years,0,9567,0.0,Grenada2001,,"520,444,185",5693,Boomers
+10517,Grenada,2001,female,5-14 years,0,12126,0.0,Grenada2001,,"520,444,185",5693,Millenials
+10518,Grenada,2001,female,55-74 years,0,5345,0.0,Grenada2001,,"520,444,185",5693,Silent
+10519,Grenada,2001,female,75+ years,0,2224,0.0,Grenada2001,,"520,444,185",5693,Silent
+10520,Grenada,2001,male,15-24 years,0,11057,0.0,Grenada2001,,"520,444,185",5693,Millenials
+10521,Grenada,2001,male,25-34 years,0,6962,0.0,Grenada2001,,"520,444,185",5693,Generation X
+10522,Grenada,2001,male,35-54 years,0,9382,0.0,Grenada2001,,"520,444,185",5693,Boomers
+10523,Grenada,2001,male,5-14 years,0,12280,0.0,Grenada2001,,"520,444,185",5693,Millenials
+10524,Grenada,2001,male,55-74 years,0,4209,0.0,Grenada2001,,"520,444,185",5693,Silent
+10525,Grenada,2001,male,75+ years,0,1177,0.0,Grenada2001,,"520,444,185",5693,Silent
+10526,Grenada,2002,female,15-24 years,0,11062,0.0,Grenada2002,,"540,336,926",5879,Millenials
+10527,Grenada,2002,female,25-34 years,0,6490,0.0,Grenada2002,,"540,336,926",5879,Generation X
+10528,Grenada,2002,female,35-54 years,0,9715,0.0,Grenada2002,,"540,336,926",5879,Boomers
+10529,Grenada,2002,female,5-14 years,0,11760,0.0,Grenada2002,,"540,336,926",5879,Millenials
+10530,Grenada,2002,female,55-74 years,0,5229,0.0,Grenada2002,,"540,336,926",5879,Silent
+10531,Grenada,2002,female,75+ years,0,2297,0.0,Grenada2002,,"540,336,926",5879,Silent
+10532,Grenada,2002,male,15-24 years,0,11415,0.0,Grenada2002,,"540,336,926",5879,Millenials
+10533,Grenada,2002,male,25-34 years,0,7095,0.0,Grenada2002,,"540,336,926",5879,Generation X
+10534,Grenada,2002,male,35-54 years,0,9549,0.0,Grenada2002,,"540,336,926",5879,Boomers
+10535,Grenada,2002,male,5-14 years,0,11910,0.0,Grenada2002,,"540,336,926",5879,Millenials
+10536,Grenada,2002,male,55-74 years,0,4151,0.0,Grenada2002,,"540,336,926",5879,Silent
+10537,Grenada,2002,male,75+ years,0,1235,0.0,Grenada2002,,"540,336,926",5879,Silent
+10538,Grenada,2003,male,55-74 years,2,4120,48.54,Grenada2003,,"591,018,407",6385,Silent
+10539,Grenada,2003,male,35-54 years,2,9689,20.64,Grenada2003,,"591,018,407",6385,Boomers
+10540,Grenada,2003,female,15-24 years,0,11417,0.0,Grenada2003,,"591,018,407",6385,Millenials
+10541,Grenada,2003,female,25-34 years,0,6685,0.0,Grenada2003,,"591,018,407",6385,Generation X
+10542,Grenada,2003,female,35-54 years,0,9831,0.0,Grenada2003,,"591,018,407",6385,Boomers
+10543,Grenada,2003,female,5-14 years,0,11396,0.0,Grenada2003,,"591,018,407",6385,Millenials
+10544,Grenada,2003,female,55-74 years,0,5131,0.0,Grenada2003,,"591,018,407",6385,Silent
+10545,Grenada,2003,female,75+ years,0,2362,0.0,Grenada2003,,"591,018,407",6385,Silent
+10546,Grenada,2003,male,15-24 years,0,11805,0.0,Grenada2003,,"591,018,407",6385,Millenials
+10547,Grenada,2003,male,25-34 years,0,7278,0.0,Grenada2003,,"591,018,407",6385,Generation X
+10548,Grenada,2003,male,5-14 years,0,11564,0.0,Grenada2003,,"591,018,407",6385,Millenials
+10549,Grenada,2003,male,75+ years,0,1289,0.0,Grenada2003,,"591,018,407",6385,Silent
+10550,Grenada,2004,male,25-34 years,1,7482,13.37,Grenada2004,,"599,118,593",6428,Generation X
+10551,Grenada,2004,female,15-24 years,0,11730,0.0,Grenada2004,,"599,118,593",6428,Millenials
+10552,Grenada,2004,female,25-34 years,0,6904,0.0,Grenada2004,,"599,118,593",6428,Generation X
+10553,Grenada,2004,female,35-54 years,0,9927,0.0,Grenada2004,,"599,118,593",6428,Boomers
+10554,Grenada,2004,female,5-14 years,0,11048,0.0,Grenada2004,,"599,118,593",6428,Millenials
+10555,Grenada,2004,female,55-74 years,0,5067,0.0,Grenada2004,,"599,118,593",6428,Silent
+10556,Grenada,2004,female,75+ years,0,2398,0.0,Grenada2004,,"599,118,593",6428,Silent
+10557,Grenada,2004,male,15-24 years,0,12138,0.0,Grenada2004,,"599,118,593",6428,Millenials
+10558,Grenada,2004,male,35-54 years,0,9820,0.0,Grenada2004,,"599,118,593",6428,Boomers
+10559,Grenada,2004,male,5-14 years,0,11248,0.0,Grenada2004,,"599,118,593",6428,Millenials
+10560,Grenada,2004,male,55-74 years,0,4120,0.0,Grenada2004,,"599,118,593",6428,Silent
+10561,Grenada,2004,male,75+ years,0,1320,0.0,Grenada2004,,"599,118,593",6428,Silent
+10562,Grenada,2005,male,75+ years,1,1321,75.7,Grenada2005,,"695,370,296",7422,Silent
+10563,Grenada,2005,male,55-74 years,2,4163,48.04,Grenada2005,,"695,370,296",7422,Silent
+10564,Grenada,2005,female,25-34 years,1,7134,14.02,Grenada2005,,"695,370,296",7422,Generation X
+10565,Grenada,2005,male,25-34 years,1,7688,13.01,Grenada2005,,"695,370,296",7422,Generation X
+10566,Grenada,2005,male,35-54 years,1,9947,10.05,Grenada2005,,"695,370,296",7422,Boomers
+10567,Grenada,2005,female,15-24 years,0,11956,0.0,Grenada2005,,"695,370,296",7422,Millenials
+10568,Grenada,2005,female,35-54 years,0,10010,0.0,Grenada2005,,"695,370,296",7422,Boomers
+10569,Grenada,2005,female,5-14 years,0,10711,0.0,Grenada2005,,"695,370,296",7422,Millenials
+10570,Grenada,2005,female,55-74 years,0,5049,0.0,Grenada2005,,"695,370,296",7422,Silent
+10571,Grenada,2005,female,75+ years,0,2393,0.0,Grenada2005,,"695,370,296",7422,Silent
+10572,Grenada,2005,male,15-24 years,0,12366,0.0,Grenada2005,,"695,370,296",7422,Millenials
+10573,Grenada,2005,male,5-14 years,0,10947,0.0,Grenada2005,,"695,370,296",7422,Millenials
+10574,Grenada,2006,male,35-54 years,1,10115,9.89,Grenada2006,,"698,700,667",7423,Boomers
+10575,Grenada,2006,female,15-24 years,0,12042,0.0,Grenada2006,,"698,700,667",7423,Millenials
+10576,Grenada,2006,female,25-34 years,0,7419,0.0,Grenada2006,,"698,700,667",7423,Generation X
+10577,Grenada,2006,female,35-54 years,0,10129,0.0,Grenada2006,,"698,700,667",7423,Boomers
+10578,Grenada,2006,female,5-14 years,0,10384,0.0,Grenada2006,,"698,700,667",7423,Millenials
+10579,Grenada,2006,female,55-74 years,0,5056,0.0,Grenada2006,,"698,700,667",7423,Silent
+10580,Grenada,2006,female,75+ years,0,2387,0.0,Grenada2006,,"698,700,667",7423,Silent
+10581,Grenada,2006,male,15-24 years,0,12437,0.0,Grenada2006,,"698,700,667",7423,Millenials
+10582,Grenada,2006,male,25-34 years,0,7940,0.0,Grenada2006,,"698,700,667",7423,Generation X
+10583,Grenada,2006,male,5-14 years,0,10658,0.0,Grenada2006,,"698,700,667",7423,Millenials
+10584,Grenada,2006,male,55-74 years,0,4223,0.0,Grenada2006,,"698,700,667",7423,Silent
+10585,Grenada,2006,male,75+ years,0,1336,0.0,Grenada2006,,"698,700,667",7423,Silent
+10586,Grenada,2007,male,55-74 years,1,4324,23.13,Grenada2007,,"758,683,593",8035,Silent
+10587,Grenada,2007,female,25-34 years,1,7699,12.99,Grenada2007,,"758,683,593",8035,Generation X
+10588,Grenada,2007,male,25-34 years,1,8183,12.22,Grenada2007,,"758,683,593",8035,Generation X
+10589,Grenada,2007,female,15-24 years,0,12038,0.0,Grenada2007,,"758,683,593",8035,Millenials
+10590,Grenada,2007,female,35-54 years,0,10234,0.0,Grenada2007,,"758,683,593",8035,Boomers
+10591,Grenada,2007,female,5-14 years,0,10089,0.0,Grenada2007,,"758,683,593",8035,Generation Z
+10592,Grenada,2007,female,55-74 years,0,5099,0.0,Grenada2007,,"758,683,593",8035,Silent
+10593,Grenada,2007,female,75+ years,0,2349,0.0,Grenada2007,,"758,683,593",8035,Silent
+10594,Grenada,2007,male,15-24 years,0,12395,0.0,Grenada2007,,"758,683,593",8035,Millenials
+10595,Grenada,2007,male,35-54 years,0,10277,0.0,Grenada2007,,"758,683,593",8035,Boomers
+10596,Grenada,2007,male,5-14 years,0,10404,0.0,Grenada2007,,"758,683,593",8035,Generation Z
+10597,Grenada,2007,male,75+ years,0,1327,0.0,Grenada2007,,"758,683,593",8035,Silent
+10598,Grenada,2008,female,15-24 years,0,11953,0.0,Grenada2008,,"825,977,889",8733,Millenials
+10599,Grenada,2008,female,25-34 years,0,7976,0.0,Grenada2008,,"825,977,889",8733,Generation X
+10600,Grenada,2008,female,35-54 years,0,10333,0.0,Grenada2008,,"825,977,889",8733,Boomers
+10601,Grenada,2008,female,5-14 years,0,9818,0.0,Grenada2008,,"825,977,889",8733,Generation Z
+10602,Grenada,2008,female,55-74 years,0,5178,0.0,Grenada2008,,"825,977,889",8733,Silent
+10603,Grenada,2008,female,75+ years,0,2286,0.0,Grenada2008,,"825,977,889",8733,Silent
+10604,Grenada,2008,male,15-24 years,0,12260,0.0,Grenada2008,,"825,977,889",8733,Millenials
+10605,Grenada,2008,male,25-34 years,0,8426,0.0,Grenada2008,,"825,977,889",8733,Generation X
+10606,Grenada,2008,male,35-54 years,0,10435,0.0,Grenada2008,,"825,977,889",8733,Boomers
+10607,Grenada,2008,male,5-14 years,0,10169,0.0,Grenada2008,,"825,977,889",8733,Generation Z
+10608,Grenada,2008,male,55-74 years,0,4444,0.0,Grenada2008,,"825,977,889",8733,Silent
+10609,Grenada,2008,male,75+ years,0,1307,0.0,Grenada2008,,"825,977,889",8733,Silent
+10610,Grenada,2009,female,15-24 years,0,11815,0.0,Grenada2009,,"771,278,111",8140,Millenials
+10611,Grenada,2009,female,25-34 years,0,8276,0.0,Grenada2009,,"771,278,111",8140,Generation X
+10612,Grenada,2009,female,35-54 years,0,10420,0.0,Grenada2009,,"771,278,111",8140,Boomers
+10613,Grenada,2009,female,5-14 years,0,9570,0.0,Grenada2009,,"771,278,111",8140,Generation Z
+10614,Grenada,2009,female,55-74 years,0,5271,0.0,Grenada2009,,"771,278,111",8140,Silent
+10615,Grenada,2009,female,75+ years,0,2227,0.0,Grenada2009,,"771,278,111",8140,Silent
+10616,Grenada,2009,male,15-24 years,0,12076,0.0,Grenada2009,,"771,278,111",8140,Millenials
+10617,Grenada,2009,male,25-34 years,0,8697,0.0,Grenada2009,,"771,278,111",8140,Generation X
+10618,Grenada,2009,male,35-54 years,0,10585,0.0,Grenada2009,,"771,278,111",8140,Boomers
+10619,Grenada,2009,male,5-14 years,0,9952,0.0,Grenada2009,,"771,278,111",8140,Generation Z
+10620,Grenada,2009,male,55-74 years,0,4580,0.0,Grenada2009,,"771,278,111",8140,Silent
+10621,Grenada,2009,male,75+ years,0,1277,0.0,Grenada2009,,"771,278,111",8140,Silent
+10622,Grenada,2010,female,15-24 years,0,11637,0.0,Grenada2010,0.737,"771,015,889",8118,Millenials
+10623,Grenada,2010,female,25-34 years,0,8598,0.0,Grenada2010,0.737,"771,015,889",8118,Generation X
+10624,Grenada,2010,female,35-54 years,0,10509,0.0,Grenada2010,0.737,"771,015,889",8118,Generation X
+10625,Grenada,2010,female,5-14 years,0,9347,0.0,Grenada2010,0.737,"771,015,889",8118,Generation Z
+10626,Grenada,2010,female,55-74 years,0,5381,0.0,Grenada2010,0.737,"771,015,889",8118,Silent
+10627,Grenada,2010,female,75+ years,0,2179,0.0,Grenada2010,0.737,"771,015,889",8118,Silent
+10628,Grenada,2010,male,15-24 years,0,11871,0.0,Grenada2010,0.737,"771,015,889",8118,Millenials
+10629,Grenada,2010,male,25-34 years,0,9006,0.0,Grenada2010,0.737,"771,015,889",8118,Generation X
+10630,Grenada,2010,male,35-54 years,0,10726,0.0,Grenada2010,0.737,"771,015,889",8118,Generation X
+10631,Grenada,2010,male,5-14 years,0,9754,0.0,Grenada2010,0.737,"771,015,889",8118,Generation Z
+10632,Grenada,2010,male,55-74 years,0,4715,0.0,Grenada2010,0.737,"771,015,889",8118,Silent
+10633,Grenada,2010,male,75+ years,0,1257,0.0,Grenada2010,0.737,"771,015,889",8118,Silent
+10634,Grenada,2011,male,55-74 years,1,4824,20.73,Grenada2011,0.7390000000000001,"778,648,667",8188,Boomers
+10635,Grenada,2011,female,15-24 years,0,11312,0.0,Grenada2011,0.7390000000000001,"778,648,667",8188,Millenials
+10636,Grenada,2011,female,25-34 years,0,8950,0.0,Grenada2011,0.7390000000000001,"778,648,667",8188,Millenials
+10637,Grenada,2011,female,35-54 years,0,10609,0.0,Grenada2011,0.7390000000000001,"778,648,667",8188,Generation X
+10638,Grenada,2011,female,5-14 years,0,9137,0.0,Grenada2011,0.7390000000000001,"778,648,667",8188,Generation Z
+10639,Grenada,2011,female,55-74 years,0,5474,0.0,Grenada2011,0.7390000000000001,"778,648,667",8188,Boomers
+10640,Grenada,2011,female,75+ years,0,2185,0.0,Grenada2011,0.7390000000000001,"778,648,667",8188,Silent
+10641,Grenada,2011,male,15-24 years,0,11534,0.0,Grenada2011,0.7390000000000001,"778,648,667",8188,Millenials
+10642,Grenada,2011,male,25-34 years,0,9361,0.0,Grenada2011,0.7390000000000001,"778,648,667",8188,Millenials
+10643,Grenada,2011,male,35-54 years,0,10875,0.0,Grenada2011,0.7390000000000001,"778,648,667",8188,Generation X
+10644,Grenada,2011,male,5-14 years,0,9566,0.0,Grenada2011,0.7390000000000001,"778,648,667",8188,Generation Z
+10645,Grenada,2011,male,75+ years,0,1275,0.0,Grenada2011,0.7390000000000001,"778,648,667",8188,Silent
+10646,Grenada,2012,male,35-54 years,1,11033,9.06,Grenada2012,0.74,"799,882,148",8382,Generation X
+10647,Grenada,2012,male,15-24 years,1,11176,8.95,Grenada2012,0.74,"799,882,148",8382,Millenials
+10648,Grenada,2012,female,15-24 years,0,10948,0.0,Grenada2012,0.74,"799,882,148",8382,Millenials
+10649,Grenada,2012,female,25-34 years,0,9316,0.0,Grenada2012,0.74,"799,882,148",8382,Millenials
+10650,Grenada,2012,female,35-54 years,0,10730,0.0,Grenada2012,0.74,"799,882,148",8382,Generation X
+10651,Grenada,2012,female,5-14 years,0,9000,0.0,Grenada2012,0.74,"799,882,148",8382,Generation Z
+10652,Grenada,2012,female,55-74 years,0,5587,0.0,Grenada2012,0.74,"799,882,148",8382,Boomers
+10653,Grenada,2012,female,75+ years,0,2204,0.0,Grenada2012,0.74,"799,882,148",8382,Silent
+10654,Grenada,2012,male,25-34 years,0,9743,0.0,Grenada2012,0.74,"799,882,148",8382,Millenials
+10655,Grenada,2012,male,5-14 years,0,9447,0.0,Grenada2012,0.74,"799,882,148",8382,Generation Z
+10656,Grenada,2012,male,55-74 years,0,4945,0.0,Grenada2012,0.74,"799,882,148",8382,Boomers
+10657,Grenada,2012,male,75+ years,0,1297,0.0,Grenada2012,0.74,"799,882,148",8382,Silent
+10658,Grenada,2013,female,15-24 years,0,10571,0.0,Grenada2013,0.742,"842,620,111",8789,Millenials
+10659,Grenada,2013,female,25-34 years,0,9660,0.0,Grenada2013,0.742,"842,620,111",8789,Millenials
+10660,Grenada,2013,female,35-54 years,0,10858,0.0,Grenada2013,0.742,"842,620,111",8789,Generation X
+10661,Grenada,2013,female,5-14 years,0,8933,0.0,Grenada2013,0.742,"842,620,111",8789,Generation Z
+10662,Grenada,2013,female,55-74 years,0,5723,0.0,Grenada2013,0.742,"842,620,111",8789,Boomers
+10663,Grenada,2013,female,75+ years,0,2219,0.0,Grenada2013,0.742,"842,620,111",8789,Silent
+10664,Grenada,2013,male,15-24 years,0,10812,0.0,Grenada2013,0.742,"842,620,111",8789,Millenials
+10665,Grenada,2013,male,25-34 years,0,10118,0.0,Grenada2013,0.742,"842,620,111",8789,Millenials
+10666,Grenada,2013,male,35-54 years,0,11200,0.0,Grenada2013,0.742,"842,620,111",8789,Generation X
+10667,Grenada,2013,male,5-14 years,0,9387,0.0,Grenada2013,0.742,"842,620,111",8789,Generation Z
+10668,Grenada,2013,male,55-74 years,0,5082,0.0,Grenada2013,0.742,"842,620,111",8789,Boomers
+10669,Grenada,2013,male,75+ years,0,1313,0.0,Grenada2013,0.742,"842,620,111",8789,Silent
+10670,Grenada,2014,female,15-24 years,0,10206,0.0,Grenada2014,0.75,"911,481,481",9456,Millenials
+10671,Grenada,2014,female,25-34 years,0,9943,0.0,Grenada2014,0.75,"911,481,481",9456,Millenials
+10672,Grenada,2014,female,35-54 years,0,10981,0.0,Grenada2014,0.75,"911,481,481",9456,Generation X
+10673,Grenada,2014,female,5-14 years,0,8922,0.0,Grenada2014,0.75,"911,481,481",9456,Generation Z
+10674,Grenada,2014,female,55-74 years,0,5907,0.0,Grenada2014,0.75,"911,481,481",9456,Boomers
+10675,Grenada,2014,female,75+ years,0,2222,0.0,Grenada2014,0.75,"911,481,481",9456,Silent
+10676,Grenada,2014,male,15-24 years,0,10470,0.0,Grenada2014,0.75,"911,481,481",9456,Millenials
+10677,Grenada,2014,male,25-34 years,0,10415,0.0,Grenada2014,0.75,"911,481,481",9456,Millenials
+10678,Grenada,2014,male,35-54 years,0,11369,0.0,Grenada2014,0.75,"911,481,481",9456,Generation X
+10679,Grenada,2014,male,5-14 years,0,9380,0.0,Grenada2014,0.75,"911,481,481",9456,Generation Z
+10680,Grenada,2014,male,55-74 years,0,5260,0.0,Grenada2014,0.75,"911,481,481",9456,Boomers
+10681,Grenada,2014,male,75+ years,0,1318,0.0,Grenada2014,0.75,"911,481,481",9456,Silent
+10682,Grenada,2015,female,15-24 years,0,9880,0.0,Grenada2015,,"997,007,926",10290,Millenials
+10683,Grenada,2015,female,25-34 years,0,10127,0.0,Grenada2015,,"997,007,926",10290,Millenials
+10684,Grenada,2015,female,35-54 years,0,11086,0.0,Grenada2015,,"997,007,926",10290,Generation X
+10685,Grenada,2015,female,5-14 years,0,8948,0.0,Grenada2015,,"997,007,926",10290,Generation Z
+10686,Grenada,2015,female,55-74 years,0,6146,0.0,Grenada2015,,"997,007,926",10290,Boomers
+10687,Grenada,2015,female,75+ years,0,2210,0.0,Grenada2015,,"997,007,926",10290,Silent
+10688,Grenada,2015,male,15-24 years,0,10167,0.0,Grenada2015,,"997,007,926",10290,Millenials
+10689,Grenada,2015,male,25-34 years,0,10597,0.0,Grenada2015,,"997,007,926",10290,Millenials
+10690,Grenada,2015,male,35-54 years,0,11536,0.0,Grenada2015,,"997,007,926",10290,Generation X
+10691,Grenada,2015,male,5-14 years,0,9409,0.0,Grenada2015,,"997,007,926",10290,Generation Z
+10692,Grenada,2015,male,55-74 years,0,5483,0.0,Grenada2015,,"997,007,926",10290,Boomers
+10693,Grenada,2015,male,75+ years,0,1303,0.0,Grenada2015,,"997,007,926",10290,Silent
+10694,Grenada,2016,female,15-24 years,0,9543,0.0,Grenada2016,,"1,056,188,593",10838,Millenials
+10695,Grenada,2016,female,25-34 years,0,10271,0.0,Grenada2016,,"1,056,188,593",10838,Millenials
+10696,Grenada,2016,female,35-54 years,0,11222,0.0,Grenada2016,,"1,056,188,593",10838,Generation X
+10697,Grenada,2016,female,55-74 years,0,6392,0.0,Grenada2016,,"1,056,188,593",10838,Boomers
+10698,Grenada,2016,female,75+ years,0,2227,0.0,Grenada2016,,"1,056,188,593",10838,Silent
+10699,Grenada,2016,male,15-24 years,0,9860,0.0,Grenada2016,,"1,056,188,593",10838,Millenials
+10700,Grenada,2016,male,25-34 years,0,10718,0.0,Grenada2016,,"1,056,188,593",10838,Millenials
+10701,Grenada,2016,male,35-54 years,0,11746,0.0,Grenada2016,,"1,056,188,593",10838,Generation X
+10702,Grenada,2016,male,55-74 years,0,5721,0.0,Grenada2016,,"1,056,188,593",10838,Boomers
+10703,Grenada,2016,male,75+ years,0,1312,0.0,Grenada2016,,"1,056,188,593",10838,Silent

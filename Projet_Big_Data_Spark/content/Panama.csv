@@ -1,0 +1,301 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+18264,Panama,1985,male,75+ years,3,15000,20.0,Panama1985,0.648,"6,541,517,100",3443,G.I. Generation
+18265,Panama,1985,male,25-34 years,15,168000,8.93,Panama1985,0.648,"6,541,517,100",3443,Boomers
+18266,Panama,1985,male,35-54 years,14,190000,7.37,Panama1985,0.648,"6,541,517,100",3443,Silent
+18267,Panama,1985,male,15-24 years,10,233200,4.29,Panama1985,0.648,"6,541,517,100",3443,Generation X
+18268,Panama,1985,female,55-74 years,3,83000,3.61,Panama1985,0.648,"6,541,517,100",3443,G.I. Generation
+18269,Panama,1985,male,55-74 years,2,87000,2.3,Panama1985,0.648,"6,541,517,100",3443,G.I. Generation
+18270,Panama,1985,female,25-34 years,3,160000,1.88,Panama1985,0.648,"6,541,517,100",3443,Boomers
+18271,Panama,1985,female,15-24 years,4,228100,1.75,Panama1985,0.648,"6,541,517,100",3443,Generation X
+18272,Panama,1985,female,35-54 years,1,182000,0.55,Panama1985,0.648,"6,541,517,100",3443,Silent
+18273,Panama,1985,female,5-14 years,1,263200,0.38,Panama1985,0.648,"6,541,517,100",3443,Generation X
+18274,Panama,1985,female,75+ years,0,16000,0.0,Panama1985,0.648,"6,541,517,100",3443,G.I. Generation
+18275,Panama,1985,male,5-14 years,0,274200,0.0,Panama1985,0.648,"6,541,517,100",3443,Generation X
+18276,Panama,1986,male,55-74 years,14,88800,15.77,Panama1986,,"6,797,834,200",3504,G.I. Generation
+18277,Panama,1986,male,35-54 years,18,194000,9.28,Panama1986,,"6,797,834,200",3504,Silent
+18278,Panama,1986,male,25-34 years,15,171600,8.74,Panama1986,,"6,797,834,200",3504,Boomers
+18279,Panama,1986,male,15-24 years,17,238100,7.14,Panama1986,,"6,797,834,200",3504,Generation X
+18280,Panama,1986,male,75+ years,1,15300,6.54,Panama1986,,"6,797,834,200",3504,G.I. Generation
+18281,Panama,1986,female,75+ years,1,16400,6.1,Panama1986,,"6,797,834,200",3504,G.I. Generation
+18282,Panama,1986,female,15-24 years,8,232900,3.43,Panama1986,,"6,797,834,200",3504,Generation X
+18283,Panama,1986,female,35-54 years,3,185800,1.61,Panama1986,,"6,797,834,200",3504,Silent
+18284,Panama,1986,female,25-34 years,2,163400,1.22,Panama1986,,"6,797,834,200",3504,Boomers
+18285,Panama,1986,male,5-14 years,2,280000,0.71,Panama1986,,"6,797,834,200",3504,Generation X
+18286,Panama,1986,female,5-14 years,1,268800,0.37,Panama1986,,"6,797,834,200",3504,Generation X
+18287,Panama,1986,female,55-74 years,0,84800,0.0,Panama1986,,"6,797,834,200",3504,G.I. Generation
+18288,Panama,1987,male,75+ years,3,15600,19.23,Panama1987,,"6,827,665,300",3447,G.I. Generation
+18289,Panama,1987,male,25-34 years,18,175200,10.27,Panama1987,,"6,827,665,300",3447,Boomers
+18290,Panama,1987,male,55-74 years,9,90700,9.92,Panama1987,,"6,827,665,300",3447,G.I. Generation
+18291,Panama,1987,male,35-54 years,16,198200,8.07,Panama1987,,"6,827,665,300",3447,Silent
+18292,Panama,1987,male,15-24 years,16,243100,6.58,Panama1987,,"6,827,665,300",3447,Generation X
+18293,Panama,1987,female,55-74 years,3,86600,3.46,Panama1987,,"6,827,665,300",3447,G.I. Generation
+18294,Panama,1987,female,15-24 years,8,237800,3.36,Panama1987,,"6,827,665,300",3447,Generation X
+18295,Panama,1987,female,25-34 years,5,166900,3.0,Panama1987,,"6,827,665,300",3447,Boomers
+18296,Panama,1987,female,35-54 years,4,189800,2.11,Panama1987,,"6,827,665,300",3447,Silent
+18297,Panama,1987,male,5-14 years,2,285900,0.7,Panama1987,,"6,827,665,300",3447,Generation X
+18298,Panama,1987,female,5-14 years,1,274400,0.36,Panama1987,,"6,827,665,300",3447,Generation X
+18299,Panama,1987,female,75+ years,0,16600,0.0,Panama1987,,"6,827,665,300",3447,G.I. Generation
+18300,Panama,1988,male,25-34 years,20,184509,10.84,Panama1988,,"5,902,783,400",2859,Boomers
+18301,Panama,1988,male,75+ years,2,18469,10.83,Panama1988,,"5,902,783,400",2859,G.I. Generation
+18302,Panama,1988,male,35-54 years,19,208538,9.11,Panama1988,,"5,902,783,400",2859,Silent
+18303,Panama,1988,male,15-24 years,19,249617,7.61,Panama1988,,"5,902,783,400",2859,Generation X
+18304,Panama,1988,male,55-74 years,5,91079,5.49,Panama1988,,"5,902,783,400",2859,G.I. Generation
+18305,Panama,1988,female,75+ years,1,21630,4.62,Panama1988,,"5,902,783,400",2859,G.I. Generation
+18306,Panama,1988,female,55-74 years,4,90288,4.43,Panama1988,,"5,902,783,400",2859,G.I. Generation
+18307,Panama,1988,female,15-24 years,9,242006,3.72,Panama1988,,"5,902,783,400",2859,Generation X
+18308,Panama,1988,female,35-54 years,4,206867,1.93,Panama1988,,"5,902,783,400",2859,Silent
+18309,Panama,1988,female,5-14 years,2,278724,0.72,Panama1988,,"5,902,783,400",2859,Generation X
+18310,Panama,1988,female,25-34 years,1,182061,0.55,Panama1988,,"5,902,783,400",2859,Boomers
+18311,Panama,1988,male,5-14 years,1,290522,0.34,Panama1988,,"5,902,783,400",2859,Generation X
+18312,Panama,1989,male,75+ years,4,19163,20.87,Panama1989,,"5,918,469,800",2802,G.I. Generation
+18313,Panama,1989,male,25-34 years,18,190591,9.44,Panama1989,,"5,918,469,800",2802,Boomers
+18314,Panama,1989,male,35-54 years,15,215756,6.95,Panama1989,,"5,918,469,800",2802,Silent
+18315,Panama,1989,male,15-24 years,17,254642,6.68,Panama1989,,"5,918,469,800",2802,Generation X
+18316,Panama,1989,male,55-74 years,6,93894,6.39,Panama1989,,"5,918,469,800",2802,G.I. Generation
+18317,Panama,1989,female,15-24 years,4,246800,1.62,Panama1989,,"5,918,469,800",2802,Generation X
+18318,Panama,1989,female,35-54 years,3,214541,1.4,Panama1989,,"5,918,469,800",2802,Silent
+18319,Panama,1989,female,55-74 years,1,93400,1.07,Panama1989,,"5,918,469,800",2802,G.I. Generation
+18320,Panama,1989,female,25-34 years,1,188050,0.53,Panama1989,,"5,918,469,800",2802,Boomers
+18321,Panama,1989,male,5-14 years,1,292622,0.34,Panama1989,,"5,918,469,800",2802,Generation X
+18322,Panama,1989,female,5-14 years,0,280439,0.0,Panama1989,,"5,918,469,800",2802,Generation X
+18323,Panama,1989,female,75+ years,0,22581,0.0,Panama1989,,"5,918,469,800",2802,G.I. Generation
+18324,Panama,1996,male,75+ years,4,25684,15.57,Panama1996,,"9,870,494,000",3992,G.I. Generation
+18325,Panama,1996,male,25-34 years,30,232978,12.88,Panama1996,,"9,870,494,000",3992,Generation X
+18326,Panama,1996,male,35-54 years,30,277304,10.82,Panama1996,,"9,870,494,000",3992,Boomers
+18327,Panama,1996,male,55-74 years,11,116725,9.42,Panama1996,,"9,870,494,000",3992,Silent
+18328,Panama,1996,male,15-24 years,23,282819,8.13,Panama1996,,"9,870,494,000",3992,Generation X
+18329,Panama,1996,female,75+ years,1,30136,3.32,Panama1996,,"9,870,494,000",3992,G.I. Generation
+18330,Panama,1996,female,15-24 years,5,273332,1.83,Panama1996,,"9,870,494,000",3992,Generation X
+18331,Panama,1996,female,55-74 years,2,118953,1.68,Panama1996,,"9,870,494,000",3992,Silent
+18332,Panama,1996,female,25-34 years,3,229521,1.31,Panama1996,,"9,870,494,000",3992,Generation X
+18333,Panama,1996,female,35-54 years,3,278702,1.08,Panama1996,,"9,870,494,000",3992,Boomers
+18334,Panama,1996,female,5-14 years,1,296877,0.34,Panama1996,,"9,870,494,000",3992,Millenials
+18335,Panama,1996,male,5-14 years,0,309820,0.0,Panama1996,,"9,870,494,000",3992,Millenials
+18336,Panama,1997,male,25-34 years,45,238869,18.84,Panama1997,,"10,677,286,100",4227,Generation X
+18337,Panama,1997,male,75+ years,5,26850,18.62,Panama1997,,"10,677,286,100",4227,G.I. Generation
+18338,Panama,1997,male,35-54 years,37,287568,12.87,Panama1997,,"10,677,286,100",4227,Boomers
+18339,Panama,1997,male,55-74 years,12,120516,9.96,Panama1997,,"10,677,286,100",4227,Silent
+18340,Panama,1997,male,15-24 years,24,285627,8.4,Panama1997,,"10,677,286,100",4227,Generation X
+18341,Panama,1997,female,75+ years,2,31304,6.39,Panama1997,,"10,677,286,100",4227,G.I. Generation
+18342,Panama,1997,female,15-24 years,8,275779,2.9,Panama1997,,"10,677,286,100",4227,Generation X
+18343,Panama,1997,female,35-54 years,7,289218,2.42,Panama1997,,"10,677,286,100",4227,Boomers
+18344,Panama,1997,female,55-74 years,2,123175,1.62,Panama1997,,"10,677,286,100",4227,Silent
+18345,Panama,1997,female,25-34 years,2,235216,0.85,Panama1997,,"10,677,286,100",4227,Generation X
+18346,Panama,1997,male,5-14 years,1,312443,0.32,Panama1997,,"10,677,286,100",4227,Millenials
+18347,Panama,1997,female,5-14 years,0,299645,0.0,Panama1997,,"10,677,286,100",4227,Millenials
+18348,Panama,1998,male,55-74 years,21,124577,16.86,Panama1998,,"11,575,486,400",4488,Silent
+18349,Panama,1998,male,25-34 years,34,244555,13.9,Panama1998,,"11,575,486,400",4488,Generation X
+18350,Panama,1998,male,15-24 years,36,288189,12.49,Panama1998,,"11,575,486,400",4488,Generation X
+18351,Panama,1998,male,75+ years,3,27984,10.72,Panama1998,,"11,575,486,400",4488,G.I. Generation
+18352,Panama,1998,male,35-54 years,30,298156,10.06,Panama1998,,"11,575,486,400",4488,Boomers
+18353,Panama,1998,female,15-24 years,9,277912,3.24,Panama1998,,"11,575,486,400",4488,Generation X
+18354,Panama,1998,female,75+ years,1,32466,3.08,Panama1998,,"11,575,486,400",4488,G.I. Generation
+18355,Panama,1998,female,55-74 years,3,127666,2.35,Panama1998,,"11,575,486,400",4488,Silent
+18356,Panama,1998,female,35-54 years,7,300007,2.33,Panama1998,,"11,575,486,400",4488,Boomers
+18357,Panama,1998,female,25-34 years,4,240696,1.66,Panama1998,,"11,575,486,400",4488,Generation X
+18358,Panama,1998,female,5-14 years,0,302283,0.0,Panama1998,,"11,575,486,400",4488,Millenials
+18359,Panama,1998,male,5-14 years,0,314942,0.0,Panama1998,,"11,575,486,400",4488,Millenials
+18360,Panama,1999,male,75+ years,5,29088,17.19,Panama1999,,"12,130,252,200",4606,G.I. Generation
+18361,Panama,1999,male,25-34 years,39,250022,15.6,Panama1999,,"12,130,252,200",4606,Generation X
+18362,Panama,1999,male,55-74 years,18,128928,13.96,Panama1999,,"12,130,252,200",4606,Silent
+18363,Panama,1999,male,35-54 years,34,309108,11.0,Panama1999,,"12,130,252,200",4606,Boomers
+18364,Panama,1999,male,15-24 years,27,290738,9.29,Panama1999,,"12,130,252,200",4606,Generation X
+18365,Panama,1999,female,75+ years,1,33654,2.97,Panama1999,,"12,130,252,200",4606,G.I. Generation
+18366,Panama,1999,female,15-24 years,6,280022,2.14,Panama1999,,"12,130,252,200",4606,Generation X
+18367,Panama,1999,female,25-34 years,5,245958,2.03,Panama1999,,"12,130,252,200",4606,Generation X
+18368,Panama,1999,female,55-74 years,2,132455,1.51,Panama1999,,"12,130,252,200",4606,Silent
+18369,Panama,1999,female,35-54 years,3,311124,0.96,Panama1999,,"12,130,252,200",4606,Boomers
+18370,Panama,1999,female,5-14 years,2,304856,0.66,Panama1999,,"12,130,252,200",4606,Millenials
+18371,Panama,1999,male,5-14 years,1,317395,0.32,Panama1999,,"12,130,252,200",4606,Millenials
+18372,Panama,2000,male,75+ years,10,30201,33.11,Panama2000,0.7140000000000001,"12,304,115,000",4577,G.I. Generation
+18373,Panama,2000,male,35-54 years,44,320403,13.73,Panama2000,0.7140000000000001,"12,304,115,000",4577,Boomers
+18374,Panama,2000,male,25-34 years,30,255237,11.75,Panama2000,0.7140000000000001,"12,304,115,000",4577,Generation X
+18375,Panama,2000,male,55-74 years,13,133582,9.73,Panama2000,0.7140000000000001,"12,304,115,000",4577,Silent
+18376,Panama,2000,male,15-24 years,25,293406,8.52,Panama2000,0.7140000000000001,"12,304,115,000",4577,Generation X
+18377,Panama,2000,female,15-24 years,8,282291,2.83,Panama2000,0.7140000000000001,"12,304,115,000",4577,Generation X
+18378,Panama,2000,female,25-34 years,7,250976,2.79,Panama2000,0.7140000000000001,"12,304,115,000",4577,Generation X
+18379,Panama,2000,female,55-74 years,3,137558,2.18,Panama2000,0.7140000000000001,"12,304,115,000",4577,Silent
+18380,Panama,2000,male,5-14 years,2,319906,0.63,Panama2000,0.7140000000000001,"12,304,115,000",4577,Millenials
+18381,Panama,2000,female,35-54 years,1,322587,0.31,Panama2000,0.7140000000000001,"12,304,115,000",4577,Boomers
+18382,Panama,2000,female,5-14 years,0,307472,0.0,Panama2000,0.7140000000000001,"12,304,115,000",4577,Millenials
+18383,Panama,2000,female,75+ years,0,34891,0.0,Panama2000,0.7140000000000001,"12,304,115,000",4577,G.I. Generation
+18384,Panama,2001,male,75+ years,7,31630,22.13,Panama2001,,"12,502,013,400",4558,Silent
+18385,Panama,2001,male,25-34 years,40,260141,15.38,Panama2001,,"12,502,013,400",4558,Generation X
+18386,Panama,2001,male,55-74 years,20,137839,14.51,Panama2001,,"12,502,013,400",4558,Silent
+18387,Panama,2001,male,15-24 years,34,295927,11.49,Panama2001,,"12,502,013,400",4558,Millenials
+18388,Panama,2001,male,35-54 years,36,331590,10.86,Panama2001,,"12,502,013,400",4558,Boomers
+18389,Panama,2001,female,15-24 years,9,284647,3.16,Panama2001,,"12,502,013,400",4558,Millenials
+18390,Panama,2001,female,55-74 years,4,142343,2.81,Panama2001,,"12,502,013,400",4558,Silent
+18391,Panama,2001,female,75+ years,1,36391,2.75,Panama2001,,"12,502,013,400",4558,Silent
+18392,Panama,2001,female,25-34 years,4,255633,1.56,Panama2001,,"12,502,013,400",4558,Generation X
+18393,Panama,2001,female,35-54 years,5,333840,1.5,Panama2001,,"12,502,013,400",4558,Boomers
+18394,Panama,2001,male,5-14 years,2,322658,0.62,Panama2001,,"12,502,013,400",4558,Millenials
+18395,Panama,2001,female,5-14 years,0,310343,0.0,Panama2001,,"12,502,013,400",4558,Millenials
+18396,Panama,2002,male,55-74 years,26,142461,18.25,Panama2002,,"12,994,310,400",4641,Silent
+18397,Panama,2002,male,35-54 years,45,343226,13.11,Panama2002,,"12,994,310,400",4641,Boomers
+18398,Panama,2002,male,25-34 years,27,264880,10.19,Panama2002,,"12,994,310,400",4641,Generation X
+18399,Panama,2002,male,75+ years,3,33044,9.08,Panama2002,,"12,994,310,400",4641,Silent
+18400,Panama,2002,male,15-24 years,27,298701,9.04,Panama2002,,"12,994,310,400",4641,Millenials
+18401,Panama,2002,female,75+ years,3,37924,7.91,Panama2002,,"12,994,310,400",4641,Silent
+18402,Panama,2002,female,55-74 years,5,147510,3.39,Panama2002,,"12,994,310,400",4641,Silent
+18403,Panama,2002,female,35-54 years,8,345505,2.32,Panama2002,,"12,994,310,400",4641,Boomers
+18404,Panama,2002,female,25-34 years,6,260156,2.31,Panama2002,,"12,994,310,400",4641,Generation X
+18405,Panama,2002,female,15-24 years,6,287290,2.09,Panama2002,,"12,994,310,400",4641,Millenials
+18406,Panama,2002,female,5-14 years,2,313540,0.64,Panama2002,,"12,994,310,400",4641,Millenials
+18407,Panama,2002,male,5-14 years,2,325809,0.61,Panama2002,,"12,994,310,400",4641,Millenials
+18408,Panama,2003,male,75+ years,10,34443,29.03,Panama2003,,"13,693,981,200",4790,Silent
+18409,Panama,2003,male,15-24 years,48,301615,15.91,Panama2003,,"13,693,981,200",4790,Millenials
+18410,Panama,2003,male,25-34 years,41,269356,15.22,Panama2003,,"13,693,981,200",4790,Generation X
+18411,Panama,2003,male,35-54 years,51,355206,14.36,Panama2003,,"13,693,981,200",4790,Boomers
+18412,Panama,2003,male,55-74 years,21,147444,14.24,Panama2003,,"13,693,981,200",4790,Silent
+18413,Panama,2003,female,15-24 years,10,290113,3.45,Panama2003,,"13,693,981,200",4790,Millenials
+18414,Panama,2003,female,35-54 years,6,357483,1.68,Panama2003,,"13,693,981,200",4790,Boomers
+18415,Panama,2003,female,55-74 years,2,153054,1.31,Panama2003,,"13,693,981,200",4790,Silent
+18416,Panama,2003,female,25-34 years,3,264433,1.13,Panama2003,,"13,693,981,200",4790,Generation X
+18417,Panama,2003,male,5-14 years,3,329290,0.91,Panama2003,,"13,693,981,200",4790,Millenials
+18418,Panama,2003,female,5-14 years,0,317030,0.0,Panama2003,,"13,693,981,200",4790,Millenials
+18419,Panama,2003,female,75+ years,0,39497,0.0,Panama2003,,"13,693,981,200",4790,Silent
+18420,Panama,2004,male,75+ years,6,35834,16.74,Panama2004,,"15,013,381,700",5144,Silent
+18421,Panama,2004,male,25-34 years,43,273441,15.73,Panama2004,,"15,013,381,700",5144,Generation X
+18422,Panama,2004,male,55-74 years,22,152775,14.4,Panama2004,,"15,013,381,700",5144,Silent
+18423,Panama,2004,male,35-54 years,50,367374,13.61,Panama2004,,"15,013,381,700",5144,Boomers
+18424,Panama,2004,male,15-24 years,28,304470,9.2,Panama2004,,"15,013,381,700",5144,Millenials
+18425,Panama,2004,female,15-24 years,14,292925,4.78,Panama2004,,"15,013,381,700",5144,Millenials
+18426,Panama,2004,female,25-34 years,9,268312,3.35,Panama2004,,"15,013,381,700",5144,Generation X
+18427,Panama,2004,female,35-54 years,9,369619,2.43,Panama2004,,"15,013,381,700",5144,Boomers
+18428,Panama,2004,male,5-14 years,3,332938,0.9,Panama2004,,"15,013,381,700",5144,Millenials
+18429,Panama,2004,female,5-14 years,2,320682,0.62,Panama2004,,"15,013,381,700",5144,Millenials
+18430,Panama,2004,female,55-74 years,0,158950,0.0,Panama2004,,"15,013,381,700",5144,Silent
+18431,Panama,2004,female,75+ years,0,41133,0.0,Panama2004,,"15,013,381,700",5144,Silent
+18432,Panama,2005,male,55-74 years,28,158455,17.67,Panama2005,0.733,"16,374,393,900",5499,Silent
+18433,Panama,2005,male,75+ years,5,37238,13.43,Panama2005,0.733,"16,374,393,900",5499,Silent
+18434,Panama,2005,male,15-24 years,39,307165,12.7,Panama2005,0.733,"16,374,393,900",5499,Millenials
+18435,Panama,2005,male,35-54 years,42,379629,11.06,Panama2005,0.733,"16,374,393,900",5499,Boomers
+18436,Panama,2005,male,25-34 years,29,277085,10.47,Panama2005,0.733,"16,374,393,900",5499,Generation X
+18437,Panama,2005,female,15-24 years,11,295636,3.72,Panama2005,0.733,"16,374,393,900",5499,Millenials
+18438,Panama,2005,female,55-74 years,4,165201,2.42,Panama2005,0.733,"16,374,393,900",5499,Silent
+18439,Panama,2005,female,75+ years,1,42852,2.33,Panama2005,0.733,"16,374,393,900",5499,Silent
+18440,Panama,2005,male,5-14 years,5,336503,1.49,Panama2005,0.733,"16,374,393,900",5499,Millenials
+18441,Panama,2005,female,25-34 years,4,271734,1.47,Panama2005,0.733,"16,374,393,900",5499,Generation X
+18442,Panama,2005,female,35-54 years,4,381819,1.05,Panama2005,0.733,"16,374,393,900",5499,Boomers
+18443,Panama,2005,female,5-14 years,0,324278,0.0,Panama2005,0.733,"16,374,393,900",5499,Millenials
+18444,Panama,2006,male,75+ years,11,38964,28.23,Panama2006,,"18,141,666,300",5972,Silent
+18445,Panama,2006,male,55-74 years,30,163874,18.31,Panama2006,,"18,141,666,300",5972,Silent
+18446,Panama,2006,male,25-34 years,45,280685,16.03,Panama2006,,"18,141,666,300",5972,Generation X
+18447,Panama,2006,male,35-54 years,46,391962,11.74,Panama2006,,"18,141,666,300",5972,Boomers
+18448,Panama,2006,male,15-24 years,35,309913,11.29,Panama2006,,"18,141,666,300",5972,Millenials
+18449,Panama,2006,female,15-24 years,7,298651,2.34,Panama2006,,"18,141,666,300",5972,Millenials
+18450,Panama,2006,male,5-14 years,5,340413,1.47,Panama2006,,"18,141,666,300",5972,Millenials
+18451,Panama,2006,female,25-34 years,3,275020,1.09,Panama2006,,"18,141,666,300",5972,Generation X
+18452,Panama,2006,female,55-74 years,1,171367,0.58,Panama2006,,"18,141,666,300",5972,Silent
+18453,Panama,2006,female,5-14 years,1,328131,0.3,Panama2006,,"18,141,666,300",5972,Millenials
+18454,Panama,2006,female,35-54 years,1,394079,0.25,Panama2006,,"18,141,666,300",5972,Boomers
+18455,Panama,2006,female,75+ years,0,44900,0.0,Panama2006,,"18,141,666,300",5972,Silent
+18456,Panama,2007,male,75+ years,7,40649,17.22,Panama2007,,"21,295,984,200",6876,Silent
+18457,Panama,2007,male,35-54 years,63,404333,15.58,Panama2007,,"21,295,984,200",6876,Boomers
+18458,Panama,2007,male,55-74 years,22,169617,12.97,Panama2007,,"21,295,984,200",6876,Silent
+18459,Panama,2007,male,15-24 years,31,312490,9.92,Panama2007,,"21,295,984,200",6876,Millenials
+18460,Panama,2007,male,25-34 years,27,283781,9.51,Panama2007,,"21,295,984,200",6876,Generation X
+18461,Panama,2007,female,25-34 years,6,277823,2.16,Panama2007,,"21,295,984,200",6876,Generation X
+18462,Panama,2007,female,35-54 years,7,406328,1.72,Panama2007,,"21,295,984,200",6876,Boomers
+18463,Panama,2007,female,15-24 years,5,301555,1.66,Panama2007,,"21,295,984,200",6876,Millenials
+18464,Panama,2007,female,5-14 years,2,331670,0.6,Panama2007,,"21,295,984,200",6876,Generation Z
+18465,Panama,2007,female,55-74 years,1,177879,0.56,Panama2007,,"21,295,984,200",6876,Silent
+18466,Panama,2007,female,75+ years,0,46968,0.0,Panama2007,,"21,295,984,200",6876,Silent
+18467,Panama,2007,male,5-14 years,0,344045,0.0,Panama2007,,"21,295,984,200",6876,Generation Z
+18468,Panama,2008,male,25-34 years,43,286535,15.01,Panama2008,,"25,155,888,600",7972,Generation X
+18469,Panama,2008,male,15-24 years,42,315047,13.33,Panama2008,,"25,155,888,600",7972,Millenials
+18470,Panama,2008,male,55-74 years,23,175747,13.09,Panama2008,,"25,155,888,600",7972,Silent
+18471,Panama,2008,male,35-54 years,38,416678,9.12,Panama2008,,"25,155,888,600",7972,Boomers
+18472,Panama,2008,male,75+ years,3,42311,7.09,Panama2008,,"25,155,888,600",7972,Silent
+18473,Panama,2008,female,75+ years,2,49093,4.07,Panama2008,,"25,155,888,600",7972,Silent
+18474,Panama,2008,female,15-24 years,12,304442,3.94,Panama2008,,"25,155,888,600",7972,Millenials
+18475,Panama,2008,female,55-74 years,4,184787,2.16,Panama2008,,"25,155,888,600",7972,Silent
+18476,Panama,2008,female,25-34 years,5,280340,1.78,Panama2008,,"25,155,888,600",7972,Generation X
+18477,Panama,2008,female,35-54 years,7,418521,1.67,Panama2008,,"25,155,888,600",7972,Boomers
+18478,Panama,2008,male,5-14 years,5,347309,1.44,Panama2008,,"25,155,888,600",7972,Generation Z
+18479,Panama,2008,female,5-14 years,2,334826,0.6,Panama2008,,"25,155,888,600",7972,Generation Z
+18480,Panama,2009,male,25-34 years,44,289198,15.21,Panama2009,,"27,116,635,600",8436,Generation X
+18481,Panama,2009,male,55-74 years,27,182355,14.81,Panama2009,,"27,116,635,600",8436,Silent
+18482,Panama,2009,male,35-54 years,42,428945,9.79,Panama2009,,"27,116,635,600",8436,Boomers
+18483,Panama,2009,male,15-24 years,29,317792,9.13,Panama2009,,"27,116,635,600",8436,Millenials
+18484,Panama,2009,male,75+ years,4,43998,9.09,Panama2009,,"27,116,635,600",8436,Silent
+18485,Panama,2009,female,15-24 years,16,307454,5.2,Panama2009,,"27,116,635,600",8436,Millenials
+18486,Panama,2009,female,55-74 years,3,192158,1.56,Panama2009,,"27,116,635,600",8436,Silent
+18487,Panama,2009,female,25-34 years,4,282846,1.41,Panama2009,,"27,116,635,600",8436,Generation X
+18488,Panama,2009,female,35-54 years,4,430632,0.93,Panama2009,,"27,116,635,600",8436,Boomers
+18489,Panama,2009,male,5-14 years,3,350210,0.86,Panama2009,,"27,116,635,600",8436,Generation Z
+18490,Panama,2009,female,5-14 years,1,337598,0.3,Panama2009,,"27,116,635,600",8436,Generation Z
+18491,Panama,2009,female,75+ years,0,51327,0.0,Panama2009,,"27,116,635,600",8436,Silent
+18492,Panama,2010,male,75+ years,7,45741,15.3,Panama2010,0.7609999999999999,"29,440,287,600",8991,Silent
+18493,Panama,2010,male,25-34 years,41,291915,14.05,Panama2010,0.7609999999999999,"29,440,287,600",8991,Generation X
+18494,Panama,2010,male,35-54 years,43,441040,9.75,Panama2010,0.7609999999999999,"29,440,287,600",8991,Generation X
+18495,Panama,2010,male,55-74 years,17,189488,8.97,Panama2010,0.7609999999999999,"29,440,287,600",8991,Silent
+18496,Panama,2010,male,15-24 years,22,320806,6.86,Panama2010,0.7609999999999999,"29,440,287,600",8991,Millenials
+18497,Panama,2010,female,75+ years,2,53719,3.72,Panama2010,0.7609999999999999,"29,440,287,600",8991,Silent
+18498,Panama,2010,female,15-24 years,11,310641,3.54,Panama2010,0.7609999999999999,"29,440,287,600",8991,Millenials
+18499,Panama,2010,female,35-54 years,8,442586,1.81,Panama2010,0.7609999999999999,"29,440,287,600",8991,Generation X
+18500,Panama,2010,female,25-34 years,0,285498,0.0,Panama2010,0.7609999999999999,"29,440,287,600",8991,Generation X
+18501,Panama,2010,female,5-14 years,0,340093,0.0,Panama2010,0.7609999999999999,"29,440,287,600",8991,Generation Z
+18502,Panama,2010,female,55-74 years,0,200021,0.0,Panama2010,0.7609999999999999,"29,440,287,600",8991,Silent
+18503,Panama,2010,male,5-14 years,0,352867,0.0,Panama2010,0.7609999999999999,"29,440,287,600",8991,Generation Z
+18504,Panama,2011,male,75+ years,10,47764,20.94,Panama2011,0.759,"34,686,224,300",10403,Silent
+18505,Panama,2011,male,35-54 years,46,452407,10.17,Panama2011,0.759,"34,686,224,300",10403,Generation X
+18506,Panama,2011,male,55-74 years,18,196346,9.17,Panama2011,0.759,"34,686,224,300",10403,Boomers
+18507,Panama,2011,male,15-24 years,29,323984,8.95,Panama2011,0.759,"34,686,224,300",10403,Millenials
+18508,Panama,2011,male,25-34 years,22,294852,7.46,Panama2011,0.759,"34,686,224,300",10403,Millenials
+18509,Panama,2011,female,15-24 years,9,314086,2.87,Panama2011,0.759,"34,686,224,300",10403,Millenials
+18510,Panama,2011,female,25-34 years,3,288330,1.04,Panama2011,0.759,"34,686,224,300",10403,Millenials
+18511,Panama,2011,female,55-74 years,2,207735,0.96,Panama2011,0.759,"34,686,224,300",10403,Boomers
+18512,Panama,2011,female,35-54 years,4,453917,0.88,Panama2011,0.759,"34,686,224,300",10403,Generation X
+18513,Panama,2011,female,5-14 years,1,342739,0.29,Panama2011,0.759,"34,686,224,300",10403,Generation Z
+18514,Panama,2011,female,75+ years,0,56277,0.0,Panama2011,0.759,"34,686,224,300",10403,Silent
+18515,Panama,2011,male,5-14 years,0,355754,0.0,Panama2011,0.759,"34,686,224,300",10403,Generation Z
+18516,Panama,2012,male,75+ years,6,49778,12.05,Panama2012,0.772,"40,429,734,400",11908,Silent
+18517,Panama,2012,male,55-74 years,24,203725,11.78,Panama2012,0.772,"40,429,734,400",11908,Boomers
+18518,Panama,2012,male,25-34 years,28,297870,9.4,Panama2012,0.772,"40,429,734,400",11908,Millenials
+18519,Panama,2012,male,15-24 years,29,327419,8.86,Panama2012,0.772,"40,429,734,400",11908,Millenials
+18520,Panama,2012,male,35-54 years,29,463652,6.25,Panama2012,0.772,"40,429,734,400",11908,Generation X
+18521,Panama,2012,female,15-24 years,9,317695,2.83,Panama2012,0.772,"40,429,734,400",11908,Millenials
+18522,Panama,2012,female,25-34 years,5,291345,1.72,Panama2012,0.772,"40,429,734,400",11908,Millenials
+18523,Panama,2012,female,75+ years,1,58910,1.7,Panama2012,0.772,"40,429,734,400",11908,Silent
+18524,Panama,2012,female,35-54 years,3,465096,0.65,Panama2012,0.772,"40,429,734,400",11908,Generation X
+18525,Panama,2012,male,5-14 years,1,358553,0.28,Panama2012,0.772,"40,429,734,400",11908,Generation Z
+18526,Panama,2012,female,5-14 years,0,345246,0.0,Panama2012,0.772,"40,429,734,400",11908,Generation Z
+18527,Panama,2012,female,55-74 years,0,215955,0.0,Panama2012,0.772,"40,429,734,400",11908,Boomers
+18528,Panama,2013,male,55-74 years,23,211628,10.87,Panama2013,0.777,"45,599,994,000",13189,Boomers
+18529,Panama,2013,male,75+ years,5,51811,9.65,Panama2013,0.777,"45,599,994,000",13189,Silent
+18530,Panama,2013,male,35-54 years,41,474703,8.64,Panama2013,0.777,"45,599,994,000",13189,Generation X
+18531,Panama,2013,male,15-24 years,24,331046,7.25,Panama2013,0.777,"45,599,994,000",13189,Millenials
+18532,Panama,2013,male,25-34 years,21,300914,6.98,Panama2013,0.777,"45,599,994,000",13189,Millenials
+18533,Panama,2013,female,75+ years,1,61650,1.62,Panama2013,0.777,"45,599,994,000",13189,Silent
+18534,Panama,2013,female,15-24 years,4,321379,1.24,Panama2013,0.777,"45,599,994,000",13189,Millenials
+18535,Panama,2013,female,35-54 years,5,476054,1.05,Panama2013,0.777,"45,599,994,000",13189,Generation X
+18536,Panama,2013,female,55-74 years,2,224667,0.89,Panama2013,0.777,"45,599,994,000",13189,Boomers
+18537,Panama,2013,male,5-14 years,3,361341,0.83,Panama2013,0.777,"45,599,994,000",13189,Generation Z
+18538,Panama,2013,female,5-14 years,1,347709,0.29,Panama2013,0.777,"45,599,994,000",13189,Generation Z
+18539,Panama,2013,female,25-34 years,0,294485,0.0,Panama2013,0.777,"45,599,994,000",13189,Millenials
+18540,Panama,2014,male,75+ years,8,53886,14.85,Panama2014,0.78,"49,921,464,400",14181,Silent
+18541,Panama,2014,male,15-24 years,37,334717,11.05,Panama2014,0.78,"49,921,464,400",14181,Millenials
+18542,Panama,2014,male,25-34 years,27,303879,8.89,Panama2014,0.78,"49,921,464,400",14181,Millenials
+18543,Panama,2014,male,35-54 years,39,485485,8.03,Panama2014,0.78,"49,921,464,400",14181,Generation X
+18544,Panama,2014,male,55-74 years,11,220050,5.0,Panama2014,0.78,"49,921,464,400",14181,Boomers
+18545,Panama,2014,female,35-54 years,8,486698,1.64,Panama2014,0.78,"49,921,464,400",14181,Generation X
+18546,Panama,2014,female,75+ years,1,64534,1.55,Panama2014,0.78,"49,921,464,400",14181,Silent
+18547,Panama,2014,female,15-24 years,5,325004,1.54,Panama2014,0.78,"49,921,464,400",14181,Millenials
+18548,Panama,2014,male,5-14 years,5,364214,1.37,Panama2014,0.78,"49,921,464,400",14181,Generation Z
+18549,Panama,2014,female,25-34 years,4,297642,1.34,Panama2014,0.78,"49,921,464,400",14181,Millenials
+18550,Panama,2014,female,55-74 years,1,233859,0.43,Panama2014,0.78,"49,921,464,400",14181,Boomers
+18551,Panama,2014,female,5-14 years,1,350245,0.29,Panama2014,0.78,"49,921,464,400",14181,Generation Z
+18552,Panama,2015,male,75+ years,8,56048,14.27,Panama2015,,"54,315,722,500",15158,Silent
+18553,Panama,2015,male,25-34 years,26,306724,8.48,Panama2015,,"54,315,722,500",15158,Millenials
+18554,Panama,2015,male,55-74 years,14,228981,6.11,Panama2015,,"54,315,722,500",15158,Boomers
+18555,Panama,2015,male,35-54 years,26,495960,5.24,Panama2015,,"54,315,722,500",15158,Generation X
+18556,Panama,2015,male,15-24 years,16,338328,4.73,Panama2015,,"54,315,722,500",15158,Millenials
+18557,Panama,2015,female,15-24 years,8,328479,2.44,Panama2015,,"54,315,722,500",15158,Millenials
+18558,Panama,2015,female,25-34 years,4,300748,1.33,Panama2015,,"54,315,722,500",15158,Millenials
+18559,Panama,2015,female,55-74 years,3,243511,1.23,Panama2015,,"54,315,722,500",15158,Boomers
+18560,Panama,2015,female,35-54 years,4,496986,0.8,Panama2015,,"54,315,722,500",15158,Generation X
+18561,Panama,2015,male,5-14 years,1,367146,0.27,Panama2015,,"54,315,722,500",15158,Generation Z
+18562,Panama,2015,female,5-14 years,0,352852,0.0,Panama2015,,"54,315,722,500",15158,Generation Z
+18563,Panama,2015,female,75+ years,0,67619,0.0,Panama2015,,"54,315,722,500",15158,Silent

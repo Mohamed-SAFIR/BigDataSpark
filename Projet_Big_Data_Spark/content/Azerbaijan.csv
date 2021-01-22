@@ -1,0 +1,193 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+2168,Azerbaijan,1990,male,35-54 years,41,587300,6.98,Azerbaijan1990,,"8,858,006,036",1439,Silent
+2169,Azerbaijan,1990,male,55-74 years,11,306200,3.59,Azerbaijan1990,,"8,858,006,036",1439,G.I. Generation
+2170,Azerbaijan,1990,male,25-34 years,19,613200,3.1,Azerbaijan1990,,"8,858,006,036",1439,Boomers
+2171,Azerbaijan,1990,male,15-24 years,16,682700,2.34,Azerbaijan1990,,"8,858,006,036",1439,Generation X
+2172,Azerbaijan,1990,male,75+ years,1,42900,2.33,Azerbaijan1990,,"8,858,006,036",1439,G.I. Generation
+2173,Azerbaijan,1990,female,75+ years,2,99200,2.02,Azerbaijan1990,,"8,858,006,036",1439,G.I. Generation
+2174,Azerbaijan,1990,female,55-74 years,6,389200,1.54,Azerbaijan1990,,"8,858,006,036",1439,G.I. Generation
+2175,Azerbaijan,1990,female,25-34 years,7,677800,1.03,Azerbaijan1990,,"8,858,006,036",1439,Boomers
+2176,Azerbaijan,1990,female,35-54 years,6,637700,0.94,Azerbaijan1990,,"8,858,006,036",1439,Silent
+2177,Azerbaijan,1990,female,15-24 years,4,656800,0.61,Azerbaijan1990,,"8,858,006,036",1439,Generation X
+2178,Azerbaijan,1990,male,5-14 years,1,750400,0.13,Azerbaijan1990,,"8,858,006,036",1439,Generation X
+2179,Azerbaijan,1990,female,5-14 years,0,713400,0.0,Azerbaijan1990,,"8,858,006,036",1439,Generation X
+2180,Azerbaijan,1991,male,75+ years,3,42200,7.11,Azerbaijan1991,,"8,792,365,811",1398,G.I. Generation
+2181,Azerbaijan,1991,male,55-74 years,22,323700,6.8,Azerbaijan1991,,"8,792,365,811",1398,Silent
+2182,Azerbaijan,1991,male,25-34 years,29,627800,4.62,Azerbaijan1991,,"8,792,365,811",1398,Boomers
+2183,Azerbaijan,1991,male,35-54 years,26,597700,4.35,Azerbaijan1991,,"8,792,365,811",1398,Boomers
+2184,Azerbaijan,1991,male,15-24 years,22,687100,3.2,Azerbaijan1991,,"8,792,365,811",1398,Generation X
+2185,Azerbaijan,1991,female,35-54 years,11,650100,1.69,Azerbaijan1991,,"8,792,365,811",1398,Boomers
+2186,Azerbaijan,1991,female,55-74 years,5,406400,1.23,Azerbaijan1991,,"8,792,365,811",1398,Silent
+2187,Azerbaijan,1991,female,15-24 years,8,653100,1.22,Azerbaijan1991,,"8,792,365,811",1398,Generation X
+2188,Azerbaijan,1991,female,75+ years,1,99300,1.01,Azerbaijan1991,,"8,792,365,811",1398,G.I. Generation
+2189,Azerbaijan,1991,female,25-34 years,6,697500,0.86,Azerbaijan1991,,"8,792,365,811",1398,Boomers
+2190,Azerbaijan,1991,female,5-14 years,1,734600,0.14,Azerbaijan1991,,"8,792,365,811",1398,Millenials
+2191,Azerbaijan,1991,male,5-14 years,0,771100,0.0,Azerbaijan1991,,"8,792,365,811",1398,Millenials
+2192,Azerbaijan,1992,male,35-54 years,39,610500,6.39,Azerbaijan1992,,"4,991,350,458",784,Boomers
+2193,Azerbaijan,1992,male,55-74 years,18,340500,5.29,Azerbaijan1992,,"4,991,350,458",784,Silent
+2194,Azerbaijan,1992,female,75+ years,5,97200,5.14,Azerbaijan1992,,"4,991,350,458",784,G.I. Generation
+2195,Azerbaijan,1992,male,75+ years,2,40300,4.96,Azerbaijan1992,,"4,991,350,458",784,G.I. Generation
+2196,Azerbaijan,1992,male,25-34 years,24,634300,3.78,Azerbaijan1992,,"4,991,350,458",784,Boomers
+2197,Azerbaijan,1992,male,15-24 years,23,683300,3.37,Azerbaijan1992,,"4,991,350,458",784,Generation X
+2198,Azerbaijan,1992,female,55-74 years,11,424500,2.59,Azerbaijan1992,,"4,991,350,458",784,Silent
+2199,Azerbaijan,1992,female,25-34 years,10,702900,1.42,Azerbaijan1992,,"4,991,350,458",784,Boomers
+2200,Azerbaijan,1992,female,15-24 years,8,643000,1.24,Azerbaijan1992,,"4,991,350,458",784,Generation X
+2201,Azerbaijan,1992,female,35-54 years,4,662800,0.6,Azerbaijan1992,,"4,991,350,458",784,Boomers
+2202,Azerbaijan,1992,female,5-14 years,0,746700,0.0,Azerbaijan1992,,"4,991,350,458",784,Millenials
+2203,Azerbaijan,1992,male,5-14 years,0,784400,0.0,Azerbaijan1992,,"4,991,350,458",784,Millenials
+2204,Azerbaijan,1993,male,75+ years,3,38900,7.71,Azerbaijan1993,,"3,973,027,397",617,G.I. Generation
+2205,Azerbaijan,1993,male,55-74 years,17,356800,4.76,Azerbaijan1993,,"3,973,027,397",617,Silent
+2206,Azerbaijan,1993,female,75+ years,4,96100,4.16,Azerbaijan1993,,"3,973,027,397",617,G.I. Generation
+2207,Azerbaijan,1993,male,15-24 years,22,677400,3.25,Azerbaijan1993,,"3,973,027,397",617,Generation X
+2208,Azerbaijan,1993,male,35-54 years,20,628400,3.18,Azerbaijan1993,,"3,973,027,397",617,Boomers
+2209,Azerbaijan,1993,male,25-34 years,20,636000,3.14,Azerbaijan1993,,"3,973,027,397",617,Boomers
+2210,Azerbaijan,1993,female,35-54 years,10,681600,1.47,Azerbaijan1993,,"3,973,027,397",617,Boomers
+2211,Azerbaijan,1993,female,55-74 years,6,443000,1.35,Azerbaijan1993,,"3,973,027,397",617,Silent
+2212,Azerbaijan,1993,female,25-34 years,9,697000,1.29,Azerbaijan1993,,"3,973,027,397",617,Boomers
+2213,Azerbaijan,1993,female,15-24 years,6,630200,0.95,Azerbaijan1993,,"3,973,027,397",617,Generation X
+2214,Azerbaijan,1993,female,5-14 years,1,759300,0.13,Azerbaijan1993,,"3,973,027,397",617,Millenials
+2215,Azerbaijan,1993,male,5-14 years,1,797900,0.13,Azerbaijan1993,,"3,973,027,397",617,Millenials
+2216,Azerbaijan,1994,male,55-74 years,10,369000,2.71,Azerbaijan1994,,"3,313,739,674",508,Silent
+2217,Azerbaijan,1994,male,75+ years,1,37400,2.67,Azerbaijan1994,,"3,313,739,674",508,G.I. Generation
+2218,Azerbaijan,1994,male,35-54 years,11,651400,1.69,Azerbaijan1994,,"3,313,739,674",508,Boomers
+2219,Azerbaijan,1994,female,55-74 years,5,456200,1.1,Azerbaijan1994,,"3,313,739,674",508,Silent
+2220,Azerbaijan,1994,female,75+ years,1,95800,1.04,Azerbaijan1994,,"3,313,739,674",508,G.I. Generation
+2221,Azerbaijan,1994,female,35-54 years,6,705400,0.85,Azerbaijan1994,,"3,313,739,674",508,Boomers
+2222,Azerbaijan,1994,female,25-34 years,4,686900,0.58,Azerbaijan1994,,"3,313,739,674",508,Boomers
+2223,Azerbaijan,1994,female,15-24 years,3,622200,0.48,Azerbaijan1994,,"3,313,739,674",508,Generation X
+2224,Azerbaijan,1994,male,25-34 years,3,638600,0.47,Azerbaijan1994,,"3,313,739,674",508,Boomers
+2225,Azerbaijan,1994,male,15-24 years,3,669100,0.45,Azerbaijan1994,,"3,313,739,674",508,Generation X
+2226,Azerbaijan,1994,female,5-14 years,0,774700,0.0,Azerbaijan1994,,"3,313,739,674",508,Millenials
+2227,Azerbaijan,1994,male,5-14 years,0,814500,0.0,Azerbaijan1994,,"3,313,739,674",508,Millenials
+2228,Azerbaijan,1995,male,75+ years,2,36600,5.46,Azerbaijan1995,0.609,"3,052,467,522",462,G.I. Generation
+2229,Azerbaijan,1995,male,35-54 years,18,677600,2.66,Azerbaijan1995,0.609,"3,052,467,522",462,Boomers
+2230,Azerbaijan,1995,male,55-74 years,8,377400,2.12,Azerbaijan1995,0.609,"3,052,467,522",462,Silent
+2231,Azerbaijan,1995,male,15-24 years,9,663600,1.36,Azerbaijan1995,0.609,"3,052,467,522",462,Generation X
+2232,Azerbaijan,1995,female,75+ years,1,95000,1.05,Azerbaijan1995,0.609,"3,052,467,522",462,G.I. Generation
+2233,Azerbaijan,1995,male,25-34 years,5,642900,0.78,Azerbaijan1995,0.609,"3,052,467,522",462,Generation X
+2234,Azerbaijan,1995,female,25-34 years,3,675100,0.44,Azerbaijan1995,0.609,"3,052,467,522",462,Generation X
+2235,Azerbaijan,1995,female,35-54 years,3,733900,0.41,Azerbaijan1995,0.609,"3,052,467,522",462,Boomers
+2236,Azerbaijan,1995,female,15-24 years,0,622300,0.0,Azerbaijan1995,0.609,"3,052,467,522",462,Generation X
+2237,Azerbaijan,1995,female,5-14 years,0,788700,0.0,Azerbaijan1995,0.609,"3,052,467,522",462,Millenials
+2238,Azerbaijan,1995,female,55-74 years,0,463500,0.0,Azerbaijan1995,0.609,"3,052,467,522",462,Silent
+2239,Azerbaijan,1995,male,5-14 years,0,829300,0.0,Azerbaijan1995,0.609,"3,052,467,522",462,Millenials
+2240,Azerbaijan,1996,male,55-74 years,19,383100,4.96,Azerbaijan1996,,"3,176,749,593",476,Silent
+2241,Azerbaijan,1996,female,75+ years,3,94800,3.16,Azerbaijan1996,,"3,176,749,593",476,G.I. Generation
+2242,Azerbaijan,1996,male,75+ years,1,36700,2.72,Azerbaijan1996,,"3,176,749,593",476,G.I. Generation
+2243,Azerbaijan,1996,male,35-54 years,14,693800,2.02,Azerbaijan1996,,"3,176,749,593",476,Boomers
+2244,Azerbaijan,1996,male,25-34 years,13,647200,2.01,Azerbaijan1996,,"3,176,749,593",476,Generation X
+2245,Azerbaijan,1996,male,15-24 years,9,664700,1.35,Azerbaijan1996,,"3,176,749,593",476,Generation X
+2246,Azerbaijan,1996,female,15-24 years,3,624900,0.48,Azerbaijan1996,,"3,176,749,593",476,Generation X
+2247,Azerbaijan,1996,female,55-74 years,2,467600,0.43,Azerbaijan1996,,"3,176,749,593",476,Silent
+2248,Azerbaijan,1996,female,35-54 years,3,751300,0.4,Azerbaijan1996,,"3,176,749,593",476,Boomers
+2249,Azerbaijan,1996,female,25-34 years,2,669400,0.3,Azerbaijan1996,,"3,176,749,593",476,Generation X
+2250,Azerbaijan,1996,female,5-14 years,0,796200,0.0,Azerbaijan1996,,"3,176,749,593",476,Millenials
+2251,Azerbaijan,1996,male,5-14 years,0,838400,0.0,Azerbaijan1996,,"3,176,749,593",476,Millenials
+2252,Azerbaijan,1997,male,55-74 years,24,386200,6.21,Azerbaijan1997,,"3,962,710,163",590,Silent
+2253,Azerbaijan,1997,male,35-54 years,34,698800,4.87,Azerbaijan1997,,"3,962,710,163",590,Boomers
+2254,Azerbaijan,1997,male,25-34 years,21,651900,3.22,Azerbaijan1997,,"3,962,710,163",590,Generation X
+2255,Azerbaijan,1997,female,35-54 years,8,755500,1.06,Azerbaijan1997,,"3,962,710,163",590,Boomers
+2256,Azerbaijan,1997,male,15-24 years,7,669400,1.05,Azerbaijan1997,,"3,962,710,163",590,Generation X
+2257,Azerbaijan,1997,female,15-24 years,6,628600,0.95,Azerbaijan1997,,"3,962,710,163",590,Generation X
+2258,Azerbaijan,1997,female,55-74 years,3,470100,0.64,Azerbaijan1997,,"3,962,710,163",590,Silent
+2259,Azerbaijan,1997,female,25-34 years,4,673000,0.59,Azerbaijan1997,,"3,962,710,163",590,Generation X
+2260,Azerbaijan,1997,female,5-14 years,0,800800,0.0,Azerbaijan1997,,"3,962,710,163",590,Millenials
+2261,Azerbaijan,1997,female,75+ years,0,95400,0.0,Azerbaijan1997,,"3,962,710,163",590,G.I. Generation
+2262,Azerbaijan,1997,male,5-14 years,0,844400,0.0,Azerbaijan1997,,"3,962,710,163",590,Millenials
+2263,Azerbaijan,1997,male,75+ years,0,37100,0.0,Azerbaijan1997,,"3,962,710,163",590,G.I. Generation
+2264,Azerbaijan,1998,male,35-54 years,18,732200,2.46,Azerbaijan1998,,"4,446,396,218",631,Boomers
+2265,Azerbaijan,1998,female,75+ years,2,96900,2.06,Azerbaijan1998,,"4,446,396,218",631,G.I. Generation
+2266,Azerbaijan,1998,male,55-74 years,8,403500,1.98,Azerbaijan1998,,"4,446,396,218",631,Silent
+2267,Azerbaijan,1998,male,25-34 years,12,683600,1.76,Azerbaijan1998,,"4,446,396,218",631,Generation X
+2268,Azerbaijan,1998,female,55-74 years,4,491600,0.81,Azerbaijan1998,,"4,446,396,218",631,Silent
+2269,Azerbaijan,1998,female,35-54 years,6,793900,0.76,Azerbaijan1998,,"4,446,396,218",631,Boomers
+2270,Azerbaijan,1998,female,15-24 years,3,662900,0.45,Azerbaijan1998,,"4,446,396,218",631,Generation X
+2271,Azerbaijan,1998,male,15-24 years,2,702100,0.28,Azerbaijan1998,,"4,446,396,218",631,Generation X
+2272,Azerbaijan,1998,male,5-14 years,1,886300,0.11,Azerbaijan1998,,"4,446,396,218",631,Millenials
+2273,Azerbaijan,1998,female,25-34 years,0,710000,0.0,Azerbaijan1998,,"4,446,396,218",631,Generation X
+2274,Azerbaijan,1998,female,5-14 years,0,844700,0.0,Azerbaijan1998,,"4,446,396,218",631,Millenials
+2275,Azerbaijan,1998,male,75+ years,0,36700,0.0,Azerbaijan1998,,"4,446,396,218",631,G.I. Generation
+2276,Azerbaijan,1999,male,35-54 years,19,737000,2.58,Azerbaijan1999,,"4,581,222,442",645,Boomers
+2277,Azerbaijan,1999,male,55-74 years,9,406100,2.22,Azerbaijan1999,,"4,581,222,442",645,Silent
+2278,Azerbaijan,1999,male,25-34 years,10,688200,1.45,Azerbaijan1999,,"4,581,222,442",645,Generation X
+2279,Azerbaijan,1999,male,15-24 years,6,706900,0.85,Azerbaijan1999,,"4,581,222,442",645,Generation X
+2280,Azerbaijan,1999,female,35-54 years,4,802500,0.5,Azerbaijan1999,,"4,581,222,442",645,Boomers
+2281,Azerbaijan,1999,female,55-74 years,2,497100,0.4,Azerbaijan1999,,"4,581,222,442",645,Silent
+2282,Azerbaijan,1999,female,15-24 years,2,670100,0.3,Azerbaijan1999,,"4,581,222,442",645,Generation X
+2283,Azerbaijan,1999,female,25-34 years,2,717700,0.28,Azerbaijan1999,,"4,581,222,442",645,Generation X
+2284,Azerbaijan,1999,female,5-14 years,0,853800,0.0,Azerbaijan1999,,"4,581,222,442",645,Millenials
+2285,Azerbaijan,1999,female,75+ years,0,97900,0.0,Azerbaijan1999,,"4,581,222,442",645,G.I. Generation
+2286,Azerbaijan,1999,male,5-14 years,0,892200,0.0,Azerbaijan1999,,"4,581,222,442",645,Millenials
+2287,Azerbaijan,1999,male,75+ years,0,36900,0.0,Azerbaijan1999,,"4,581,222,442",645,G.I. Generation
+2288,Azerbaijan,2000,male,75+ years,1,37950,2.64,Azerbaijan2000,0.64,"5,272,617,196",711,G.I. Generation
+2289,Azerbaijan,2000,male,55-74 years,9,361300,2.49,Azerbaijan2000,0.64,"5,272,617,196",711,Silent
+2290,Azerbaijan,2000,female,75+ years,2,83300,2.4,Azerbaijan2000,0.64,"5,272,617,196",711,G.I. Generation
+2291,Azerbaijan,2000,male,25-34 years,11,607350,1.81,Azerbaijan2000,0.64,"5,272,617,196",711,Generation X
+2292,Azerbaijan,2000,male,35-54 years,14,931050,1.5,Azerbaijan2000,0.64,"5,272,617,196",711,Boomers
+2293,Azerbaijan,2000,male,15-24 years,11,736900,1.49,Azerbaijan2000,0.64,"5,272,617,196",711,Generation X
+2294,Azerbaijan,2000,female,55-74 years,3,434150,0.69,Azerbaijan2000,0.64,"5,272,617,196",711,Silent
+2295,Azerbaijan,2000,female,15-24 years,4,738550,0.54,Azerbaijan2000,0.64,"5,272,617,196",711,Generation X
+2296,Azerbaijan,2000,female,25-34 years,3,677500,0.44,Azerbaijan2000,0.64,"5,272,617,196",711,Generation X
+2297,Azerbaijan,2000,female,35-54 years,3,1000200,0.3,Azerbaijan2000,0.64,"5,272,617,196",711,Boomers
+2298,Azerbaijan,2000,female,5-14 years,1,878950,0.11,Azerbaijan2000,0.64,"5,272,617,196",711,Millenials
+2299,Azerbaijan,2000,male,5-14 years,0,928050,0.0,Azerbaijan2000,0.64,"5,272,617,196",711,Millenials
+2300,Azerbaijan,2001,male,55-74 years,34,357250,9.52,Azerbaijan2001,,"5,707,720,391",759,Silent
+2301,Azerbaijan,2001,male,35-54 years,79,975300,8.1,Azerbaijan2001,,"5,707,720,391",759,Boomers
+2302,Azerbaijan,2001,male,15-24 years,56,766400,7.31,Azerbaijan2001,,"5,707,720,391",759,Millenials
+2303,Azerbaijan,2001,male,75+ years,3,41650,7.2,Azerbaijan2001,,"5,707,720,391",759,Silent
+2304,Azerbaijan,2001,female,75+ years,6,85900,6.98,Azerbaijan2001,,"5,707,720,391",759,Silent
+2305,Azerbaijan,2001,male,25-34 years,40,603150,6.63,Azerbaijan2001,,"5,707,720,391",759,Generation X
+2306,Azerbaijan,2001,female,55-74 years,21,431400,4.87,Azerbaijan2001,,"5,707,720,391",759,Silent
+2307,Azerbaijan,2001,female,25-34 years,23,669850,3.43,Azerbaijan2001,,"5,707,720,391",759,Generation X
+2308,Azerbaijan,2001,male,5-14 years,24,913150,2.63,Azerbaijan2001,,"5,707,720,391",759,Millenials
+2309,Azerbaijan,2001,female,35-54 years,16,1052500,1.52,Azerbaijan2001,,"5,707,720,391",759,Boomers
+2310,Azerbaijan,2001,female,15-24 years,8,759350,1.05,Azerbaijan2001,,"5,707,720,391",759,Millenials
+2311,Azerbaijan,2001,female,5-14 years,7,862100,0.81,Azerbaijan2001,,"5,707,720,391",759,Millenials
+2312,Azerbaijan,2002,male,55-74 years,19,357550,5.31,Azerbaijan2002,,"6,235,795,104",820,Silent
+2313,Azerbaijan,2002,male,75+ years,2,45600,4.39,Azerbaijan2002,,"6,235,795,104",820,Silent
+2314,Azerbaijan,2002,male,35-54 years,32,1011850,3.16,Azerbaijan2002,,"6,235,795,104",820,Boomers
+2315,Azerbaijan,2002,female,55-74 years,6,433050,1.39,Azerbaijan2002,,"6,235,795,104",820,Silent
+2316,Azerbaijan,2002,male,25-34 years,7,603300,1.16,Azerbaijan2002,,"6,235,795,104",820,Generation X
+2317,Azerbaijan,2002,male,15-24 years,9,795800,1.13,Azerbaijan2002,,"6,235,795,104",820,Millenials
+2318,Azerbaijan,2002,female,75+ years,1,89000,1.12,Azerbaijan2002,,"6,235,795,104",820,Silent
+2319,Azerbaijan,2002,female,35-54 years,8,1096350,0.73,Azerbaijan2002,,"6,235,795,104",820,Boomers
+2320,Azerbaijan,2002,female,25-34 years,3,666300,0.45,Azerbaijan2002,,"6,235,795,104",820,Generation X
+2321,Azerbaijan,2002,male,5-14 years,4,889500,0.45,Azerbaijan2002,,"6,235,795,104",820,Millenials
+2322,Azerbaijan,2002,female,15-24 years,1,781100,0.13,Azerbaijan2002,,"6,235,795,104",820,Millenials
+2323,Azerbaijan,2002,female,5-14 years,0,836300,0.0,Azerbaijan2002,,"6,235,795,104",820,Millenials
+2324,Azerbaijan,2003,male,75+ years,3,50900,5.89,Azerbaijan2003,,"7,276,013,032",948,Silent
+2325,Azerbaijan,2003,female,75+ years,4,94450,4.24,Azerbaijan2003,,"7,276,013,032",948,Silent
+2326,Azerbaijan,2003,male,55-74 years,14,359800,3.89,Azerbaijan2003,,"7,276,013,032",948,Silent
+2327,Azerbaijan,2003,male,35-54 years,40,1045100,3.83,Azerbaijan2003,,"7,276,013,032",948,Boomers
+2328,Azerbaijan,2003,male,15-24 years,17,823850,2.06,Azerbaijan2003,,"7,276,013,032",948,Millenials
+2329,Azerbaijan,2003,male,25-34 years,12,604700,1.98,Azerbaijan2003,,"7,276,013,032",948,Generation X
+2330,Azerbaijan,2003,female,55-74 years,7,435950,1.61,Azerbaijan2003,,"7,276,013,032",948,Silent
+2331,Azerbaijan,2003,female,15-24 years,9,802400,1.12,Azerbaijan2003,,"7,276,013,032",948,Millenials
+2332,Azerbaijan,2003,female,35-54 years,12,1137200,1.06,Azerbaijan2003,,"7,276,013,032",948,Boomers
+2333,Azerbaijan,2003,male,5-14 years,7,856250,0.82,Azerbaijan2003,,"7,276,013,032",948,Millenials
+2334,Azerbaijan,2003,female,25-34 years,3,663050,0.45,Azerbaijan2003,,"7,276,013,032",948,Generation X
+2335,Azerbaijan,2003,female,5-14 years,1,800750,0.12,Azerbaijan2003,,"7,276,013,032",948,Millenials
+2336,Azerbaijan,2004,female,75+ years,5,99600,5.02,Azerbaijan2004,,"8,680,472,169",1122,Silent
+2337,Azerbaijan,2004,male,35-54 years,40,1076600,3.72,Azerbaijan2004,,"8,680,472,169",1122,Boomers
+2338,Azerbaijan,2004,male,25-34 years,15,608900,2.46,Azerbaijan2004,,"8,680,472,169",1122,Generation X
+2339,Azerbaijan,2004,male,55-74 years,7,362100,1.93,Azerbaijan2004,,"8,680,472,169",1122,Silent
+2340,Azerbaijan,2004,male,15-24 years,10,851350,1.17,Azerbaijan2004,,"8,680,472,169",1122,Millenials
+2341,Azerbaijan,2004,female,55-74 years,5,439850,1.14,Azerbaijan2004,,"8,680,472,169",1122,Silent
+2342,Azerbaijan,2004,female,35-54 years,11,1176300,0.94,Azerbaijan2004,,"8,680,472,169",1122,Boomers
+2343,Azerbaijan,2004,male,5-14 years,6,819600,0.73,Azerbaijan2004,,"8,680,472,169",1122,Millenials
+2344,Azerbaijan,2004,female,25-34 years,4,662000,0.6,Azerbaijan2004,,"8,680,472,169",1122,Generation X
+2345,Azerbaijan,2004,female,15-24 years,4,823000,0.49,Azerbaijan2004,,"8,680,472,169",1122,Millenials
+2346,Azerbaijan,2004,female,5-14 years,1,762050,0.13,Azerbaijan2004,,"8,680,472,169",1122,Millenials
+2347,Azerbaijan,2004,male,75+ years,0,56900,0.0,Azerbaijan2004,,"8,680,472,169",1122,Silent
+2348,Azerbaijan,2007,male,75+ years,3,75400,3.98,Azerbaijan2007,,"33,050,343,783",4172,Silent
+2349,Azerbaijan,2007,male,55-74 years,8,381400,2.1,Azerbaijan2007,,"33,050,343,783",4172,Silent
+2350,Azerbaijan,2007,male,35-54 years,15,1146950,1.31,Azerbaijan2007,,"33,050,343,783",4172,Boomers
+2351,Azerbaijan,2007,male,25-34 years,8,647850,1.23,Azerbaijan2007,,"33,050,343,783",4172,Generation X
+2352,Azerbaijan,2007,female,75+ years,1,118150,0.85,Azerbaijan2007,,"33,050,343,783",4172,Silent
+2353,Azerbaijan,2007,female,15-24 years,5,872100,0.57,Azerbaijan2007,,"33,050,343,783",4172,Millenials
+2354,Azerbaijan,2007,male,5-14 years,4,711200,0.56,Azerbaijan2007,,"33,050,343,783",4172,Generation Z
+2355,Azerbaijan,2007,female,35-54 years,5,1267550,0.39,Azerbaijan2007,,"33,050,343,783",4172,Boomers
+2356,Azerbaijan,2007,male,15-24 years,3,913150,0.33,Azerbaijan2007,,"33,050,343,783",4172,Millenials
+2357,Azerbaijan,2007,female,25-34 years,2,680650,0.29,Azerbaijan2007,,"33,050,343,783",4172,Generation X
+2358,Azerbaijan,2007,female,55-74 years,1,462700,0.22,Azerbaijan2007,,"33,050,343,783",4172,Silent
+2359,Azerbaijan,2007,female,5-14 years,0,644000,0.0,Azerbaijan2007,,"33,050,343,783",4172,Generation Z

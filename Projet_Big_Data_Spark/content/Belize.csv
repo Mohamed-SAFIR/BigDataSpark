@@ -1,0 +1,337 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+3812,Belize,1986,male,25-34 years,1,12100,8.26,Belize1986,,"227,850,000",1552,Boomers
+3813,Belize,1986,female,15-24 years,1,17800,5.62,Belize1986,,"227,850,000",1552,Generation X
+3814,Belize,1986,male,15-24 years,1,18200,5.49,Belize1986,,"227,850,000",1552,Generation X
+3815,Belize,1986,female,25-34 years,0,12200,0.0,Belize1986,,"227,850,000",1552,Boomers
+3816,Belize,1986,female,35-54 years,0,15500,0.0,Belize1986,,"227,850,000",1552,Silent
+3817,Belize,1986,female,5-14 years,0,18300,0.0,Belize1986,,"227,850,000",1552,Generation X
+3818,Belize,1986,female,55-74 years,0,8100,0.0,Belize1986,,"227,850,000",1552,G.I. Generation
+3819,Belize,1986,female,75+ years,0,1700,0.0,Belize1986,,"227,850,000",1552,G.I. Generation
+3820,Belize,1986,male,35-54 years,0,14800,0.0,Belize1986,,"227,850,000",1552,Silent
+3821,Belize,1986,male,5-14 years,0,18900,0.0,Belize1986,,"227,850,000",1552,Generation X
+3822,Belize,1986,male,55-74 years,0,7600,0.0,Belize1986,,"227,850,000",1552,G.I. Generation
+3823,Belize,1986,male,75+ years,0,1600,0.0,Belize1986,,"227,850,000",1552,G.I. Generation
+3824,Belize,1987,male,25-34 years,2,11815,16.93,Belize1987,,"276,550,000",1920,Boomers
+3825,Belize,1987,male,35-54 years,1,10860,9.21,Belize1987,,"276,550,000",1920,Silent
+3826,Belize,1987,male,15-24 years,1,18966,5.27,Belize1987,,"276,550,000",1920,Generation X
+3827,Belize,1987,female,15-24 years,0,18791,0.0,Belize1987,,"276,550,000",1920,Generation X
+3828,Belize,1987,female,25-34 years,0,11413,0.0,Belize1987,,"276,550,000",1920,Boomers
+3829,Belize,1987,female,35-54 years,0,10635,0.0,Belize1987,,"276,550,000",1920,Silent
+3830,Belize,1987,female,5-14 years,0,23345,0.0,Belize1987,,"276,550,000",1920,Generation X
+3831,Belize,1987,female,55-74 years,0,5789,0.0,Belize1987,,"276,550,000",1920,G.I. Generation
+3832,Belize,1987,female,75+ years,0,1535,0.0,Belize1987,,"276,550,000",1920,G.I. Generation
+3833,Belize,1987,male,5-14 years,0,23793,0.0,Belize1987,,"276,550,000",1920,Generation X
+3834,Belize,1987,male,55-74 years,0,5866,0.0,Belize1987,,"276,550,000",1920,G.I. Generation
+3835,Belize,1987,male,75+ years,0,1261,0.0,Belize1987,,"276,550,000",1920,G.I. Generation
+3836,Belize,1989,male,15-24 years,1,19396,5.16,Belize1989,,"363,150,000",2372,Generation X
+3837,Belize,1989,female,15-24 years,0,19271,0.0,Belize1989,,"363,150,000",2372,Generation X
+3838,Belize,1989,female,25-34 years,0,12799,0.0,Belize1989,,"363,150,000",2372,Boomers
+3839,Belize,1989,female,35-54 years,0,11526,0.0,Belize1989,,"363,150,000",2372,Silent
+3840,Belize,1989,female,5-14 years,0,24677,0.0,Belize1989,,"363,150,000",2372,Generation X
+3841,Belize,1989,female,55-74 years,0,6024,0.0,Belize1989,,"363,150,000",2372,G.I. Generation
+3842,Belize,1989,female,75+ years,0,1658,0.0,Belize1989,,"363,150,000",2372,G.I. Generation
+3843,Belize,1989,male,25-34 years,0,13293,0.0,Belize1989,,"363,150,000",2372,Boomers
+3844,Belize,1989,male,35-54 years,0,11805,0.0,Belize1989,,"363,150,000",2372,Silent
+3845,Belize,1989,male,5-14 years,0,25197,0.0,Belize1989,,"363,150,000",2372,Generation X
+3846,Belize,1989,male,55-74 years,0,6087,0.0,Belize1989,,"363,150,000",2372,G.I. Generation
+3847,Belize,1989,male,75+ years,0,1355,0.0,Belize1989,,"363,150,000",2372,G.I. Generation
+3848,Belize,1990,male,55-74 years,1,6300,15.87,Belize1990,0.644,"413,050,000",2614,G.I. Generation
+3849,Belize,1990,male,35-54 years,1,11300,8.85,Belize1990,0.644,"413,050,000",2614,Silent
+3850,Belize,1990,female,15-24 years,1,20100,4.98,Belize1990,0.644,"413,050,000",2614,Generation X
+3851,Belize,1990,female,25-34 years,0,13100,0.0,Belize1990,0.644,"413,050,000",2614,Boomers
+3852,Belize,1990,female,35-54 years,0,11000,0.0,Belize1990,0.644,"413,050,000",2614,Silent
+3853,Belize,1990,female,5-14 years,0,26200,0.0,Belize1990,0.644,"413,050,000",2614,Generation X
+3854,Belize,1990,female,55-74 years,0,6100,0.0,Belize1990,0.644,"413,050,000",2614,G.I. Generation
+3855,Belize,1990,female,75+ years,0,1700,0.0,Belize1990,0.644,"413,050,000",2614,G.I. Generation
+3856,Belize,1990,male,15-24 years,0,20300,0.0,Belize1990,0.644,"413,050,000",2614,Generation X
+3857,Belize,1990,male,25-34 years,0,13500,0.0,Belize1990,0.644,"413,050,000",2614,Boomers
+3858,Belize,1990,male,5-14 years,0,26900,0.0,Belize1990,0.644,"413,050,000",2614,Generation X
+3859,Belize,1990,male,75+ years,0,1500,0.0,Belize1990,0.644,"413,050,000",2614,G.I. Generation
+3860,Belize,1991,male,55-74 years,1,6500,15.38,Belize1991,,"444,720,750",2742,Silent
+3861,Belize,1991,male,35-54 years,1,11700,8.55,Belize1991,,"444,720,750",2742,Boomers
+3862,Belize,1991,female,15-24 years,0,20600,0.0,Belize1991,,"444,720,750",2742,Generation X
+3863,Belize,1991,female,25-34 years,0,13700,0.0,Belize1991,,"444,720,750",2742,Boomers
+3864,Belize,1991,female,35-54 years,0,11400,0.0,Belize1991,,"444,720,750",2742,Boomers
+3865,Belize,1991,female,5-14 years,0,26500,0.0,Belize1991,,"444,720,750",2742,Millenials
+3866,Belize,1991,female,55-74 years,0,6300,0.0,Belize1991,,"444,720,750",2742,Silent
+3867,Belize,1991,female,75+ years,0,1800,0.0,Belize1991,,"444,720,750",2742,G.I. Generation
+3868,Belize,1991,male,15-24 years,0,20800,0.0,Belize1991,,"444,720,750",2742,Generation X
+3869,Belize,1991,male,25-34 years,0,14200,0.0,Belize1991,,"444,720,750",2742,Boomers
+3870,Belize,1991,male,5-14 years,0,27200,0.0,Belize1991,,"444,720,750",2742,Millenials
+3871,Belize,1991,male,75+ years,0,1500,0.0,Belize1991,,"444,720,750",2742,G.I. Generation
+3872,Belize,1993,male,25-34 years,1,15400,6.49,Belize1993,,"559,858,250",3278,Boomers
+3873,Belize,1993,female,15-24 years,0,21900,0.0,Belize1993,,"559,858,250",3278,Generation X
+3874,Belize,1993,female,25-34 years,0,15000,0.0,Belize1993,,"559,858,250",3278,Boomers
+3875,Belize,1993,female,35-54 years,0,12200,0.0,Belize1993,,"559,858,250",3278,Boomers
+3876,Belize,1993,female,5-14 years,0,27100,0.0,Belize1993,,"559,858,250",3278,Millenials
+3877,Belize,1993,female,55-74 years,0,6600,0.0,Belize1993,,"559,858,250",3278,Silent
+3878,Belize,1993,female,75+ years,0,1800,0.0,Belize1993,,"559,858,250",3278,G.I. Generation
+3879,Belize,1993,male,15-24 years,0,22100,0.0,Belize1993,,"559,858,250",3278,Generation X
+3880,Belize,1993,male,35-54 years,0,12700,0.0,Belize1993,,"559,858,250",3278,Boomers
+3881,Belize,1993,male,5-14 years,0,27800,0.0,Belize1993,,"559,858,250",3278,Millenials
+3882,Belize,1993,male,55-74 years,0,6600,0.0,Belize1993,,"559,858,250",3278,Silent
+3883,Belize,1993,male,75+ years,0,1600,0.0,Belize1993,,"559,858,250",3278,G.I. Generation
+3884,Belize,1994,male,75+ years,1,1559,64.14,Belize1994,,"580,863,700",3399,G.I. Generation
+3885,Belize,1994,female,75+ years,1,1912,52.3,Belize1994,,"580,863,700",3399,G.I. Generation
+3886,Belize,1994,male,35-54 years,3,14798,20.27,Belize1994,,"580,863,700",3399,Boomers
+3887,Belize,1994,male,55-74 years,1,6725,14.87,Belize1994,,"580,863,700",3399,Silent
+3888,Belize,1994,male,25-34 years,2,15207,13.15,Belize1994,,"580,863,700",3399,Boomers
+3889,Belize,1994,female,15-24 years,0,19476,0.0,Belize1994,,"580,863,700",3399,Generation X
+3890,Belize,1994,female,25-34 years,0,15024,0.0,Belize1994,,"580,863,700",3399,Boomers
+3891,Belize,1994,female,35-54 years,0,14336,0.0,Belize1994,,"580,863,700",3399,Boomers
+3892,Belize,1994,female,5-14 years,0,27520,0.0,Belize1994,,"580,863,700",3399,Millenials
+3893,Belize,1994,female,55-74 years,0,6622,0.0,Belize1994,,"580,863,700",3399,Silent
+3894,Belize,1994,male,15-24 years,0,19565,0.0,Belize1994,,"580,863,700",3399,Generation X
+3895,Belize,1994,male,5-14 years,0,28130,0.0,Belize1994,,"580,863,700",3399,Millenials
+3896,Belize,1995,male,75+ years,1,1600,62.5,Belize1995,0.664,"620,140,400",3436,G.I. Generation
+3897,Belize,1995,male,25-34 years,4,16500,24.24,Belize1995,0.664,"620,140,400",3436,Generation X
+3898,Belize,1995,male,35-54 years,3,14000,21.43,Belize1995,0.664,"620,140,400",3436,Boomers
+3899,Belize,1995,male,15-24 years,4,23500,17.02,Belize1995,0.664,"620,140,400",3436,Generation X
+3900,Belize,1995,male,55-74 years,1,6900,14.49,Belize1995,0.664,"620,140,400",3436,Silent
+3901,Belize,1995,female,15-24 years,1,23300,4.29,Belize1995,0.664,"620,140,400",3436,Generation X
+3902,Belize,1995,female,25-34 years,0,16200,0.0,Belize1995,0.664,"620,140,400",3436,Generation X
+3903,Belize,1995,female,35-54 years,0,13500,0.0,Belize1995,0.664,"620,140,400",3436,Boomers
+3904,Belize,1995,female,5-14 years,0,27700,0.0,Belize1995,0.664,"620,140,400",3436,Millenials
+3905,Belize,1995,female,55-74 years,0,6800,0.0,Belize1995,0.664,"620,140,400",3436,Silent
+3906,Belize,1995,female,75+ years,0,1900,0.0,Belize1995,0.664,"620,140,400",3436,G.I. Generation
+3907,Belize,1995,male,5-14 years,0,28600,0.0,Belize1995,0.664,"620,140,400",3436,Millenials
+3908,Belize,1996,male,55-74 years,2,6971,28.69,Belize1996,,"641,383,800",3545,Silent
+3909,Belize,1996,male,15-24 years,3,21349,14.05,Belize1996,,"641,383,800",3545,Generation X
+3910,Belize,1996,male,35-54 years,2,16479,12.14,Belize1996,,"641,383,800",3545,Boomers
+3911,Belize,1996,male,25-34 years,1,15597,6.41,Belize1996,,"641,383,800",3545,Generation X
+3912,Belize,1996,female,15-24 years,0,21162,0.0,Belize1996,,"641,383,800",3545,Generation X
+3913,Belize,1996,female,25-34 years,0,15534,0.0,Belize1996,,"641,383,800",3545,Generation X
+3914,Belize,1996,female,35-54 years,0,15980,0.0,Belize1996,,"641,383,800",3545,Boomers
+3915,Belize,1996,female,5-14 years,0,28406,0.0,Belize1996,,"641,383,800",3545,Millenials
+3916,Belize,1996,female,55-74 years,0,6877,0.0,Belize1996,,"641,383,800",3545,Silent
+3917,Belize,1996,female,75+ years,0,1943,0.0,Belize1996,,"641,383,800",3545,G.I. Generation
+3918,Belize,1996,male,5-14 years,0,29036,0.0,Belize1996,,"641,383,800",3545,Millenials
+3919,Belize,1996,male,75+ years,0,1592,0.0,Belize1996,,"641,383,800",3545,G.I. Generation
+3920,Belize,1997,male,35-54 years,1,17332,5.77,Belize1997,,"654,314,350",3487,Boomers
+3921,Belize,1997,female,15-24 years,0,22352,0.0,Belize1997,,"654,314,350",3487,Generation X
+3922,Belize,1997,female,25-34 years,0,16191,0.0,Belize1997,,"654,314,350",3487,Generation X
+3923,Belize,1997,female,35-54 years,0,16844,0.0,Belize1997,,"654,314,350",3487,Boomers
+3924,Belize,1997,female,5-14 years,0,28944,0.0,Belize1997,,"654,314,350",3487,Millenials
+3925,Belize,1997,female,55-74 years,0,6984,0.0,Belize1997,,"654,314,350",3487,Silent
+3926,Belize,1997,female,75+ years,0,1927,0.0,Belize1997,,"654,314,350",3487,G.I. Generation
+3927,Belize,1997,male,15-24 years,0,22608,0.0,Belize1997,,"654,314,350",3487,Generation X
+3928,Belize,1997,male,25-34 years,0,16263,0.0,Belize1997,,"654,314,350",3487,Generation X
+3929,Belize,1997,male,5-14 years,0,29561,0.0,Belize1997,,"654,314,350",3487,Millenials
+3930,Belize,1997,male,55-74 years,0,7048,0.0,Belize1997,,"654,314,350",3487,Silent
+3931,Belize,1997,male,75+ years,0,1596,0.0,Belize1997,,"654,314,350",3487,G.I. Generation
+3932,Belize,1998,male,55-74 years,2,7143,28.0,Belize1998,,"688,992,450",3531,Silent
+3933,Belize,1998,male,25-34 years,4,17191,23.27,Belize1998,,"688,992,450",3531,Generation X
+3934,Belize,1998,male,35-54 years,3,18222,16.46,Belize1998,,"688,992,450",3531,Boomers
+3935,Belize,1998,male,15-24 years,2,23745,8.42,Belize1998,,"688,992,450",3531,Generation X
+3936,Belize,1998,female,35-54 years,1,17756,5.63,Belize1998,,"688,992,450",3531,Boomers
+3937,Belize,1998,female,15-24 years,0,23436,0.0,Belize1998,,"688,992,450",3531,Generation X
+3938,Belize,1998,female,25-34 years,0,17071,0.0,Belize1998,,"688,992,450",3531,Generation X
+3939,Belize,1998,female,5-14 years,0,29659,0.0,Belize1998,,"688,992,450",3531,Millenials
+3940,Belize,1998,female,55-74 years,0,7114,0.0,Belize1998,,"688,992,450",3531,Silent
+3941,Belize,1998,female,75+ years,0,1908,0.0,Belize1998,,"688,992,450",3531,G.I. Generation
+3942,Belize,1998,male,5-14 years,0,30264,0.0,Belize1998,,"688,992,450",3531,Millenials
+3943,Belize,1998,male,75+ years,0,1599,0.0,Belize1998,,"688,992,450",3531,G.I. Generation
+3944,Belize,1999,male,15-24 years,8,24667,32.43,Belize1999,,"732,732,350",3615,Generation X
+3945,Belize,1999,male,35-54 years,5,19046,26.25,Belize1999,,"732,732,350",3615,Boomers
+3946,Belize,1999,male,25-34 years,4,18320,21.83,Belize1999,,"732,732,350",3615,Generation X
+3947,Belize,1999,male,5-14 years,1,31113,3.21,Belize1999,,"732,732,350",3615,Millenials
+3948,Belize,1999,female,15-24 years,0,24324,0.0,Belize1999,,"732,732,350",3615,Generation X
+3949,Belize,1999,female,25-34 years,0,18117,0.0,Belize1999,,"732,732,350",3615,Generation X
+3950,Belize,1999,female,35-54 years,0,18620,0.0,Belize1999,,"732,732,350",3615,Boomers
+3951,Belize,1999,female,5-14 years,0,30523,0.0,Belize1999,,"732,732,350",3615,Millenials
+3952,Belize,1999,female,55-74 years,0,7250,0.0,Belize1999,,"732,732,350",3615,Silent
+3953,Belize,1999,female,75+ years,0,1881,0.0,Belize1999,,"732,732,350",3615,G.I. Generation
+3954,Belize,1999,male,55-74 years,0,7244,0.0,Belize1999,,"732,732,350",3615,Silent
+3955,Belize,1999,male,75+ years,0,1594,0.0,Belize1999,,"732,732,350",3615,G.I. Generation
+3956,Belize,2000,male,75+ years,1,1593,62.77,Belize2000,0.6829999999999999,"832,072,450",3960,G.I. Generation
+3957,Belize,2000,male,55-74 years,2,7345,27.23,Belize2000,0.6829999999999999,"832,072,450",3960,Silent
+3958,Belize,2000,male,25-34 years,4,19529,20.48,Belize2000,0.6829999999999999,"832,072,450",3960,Generation X
+3959,Belize,2000,male,35-54 years,4,19811,20.19,Belize2000,0.6829999999999999,"832,072,450",3960,Boomers
+3960,Belize,2000,male,15-24 years,3,25358,11.83,Belize2000,0.6829999999999999,"832,072,450",3960,Generation X
+3961,Belize,2000,female,35-54 years,2,19422,10.3,Belize2000,0.6829999999999999,"832,072,450",3960,Boomers
+3962,Belize,2000,female,15-24 years,2,25007,8.0,Belize2000,0.6829999999999999,"832,072,450",3960,Generation X
+3963,Belize,2000,female,25-34 years,0,19240,0.0,Belize2000,0.6829999999999999,"832,072,450",3960,Generation X
+3964,Belize,2000,female,5-14 years,0,31492,0.0,Belize2000,0.6829999999999999,"832,072,450",3960,Millenials
+3965,Belize,2000,female,55-74 years,0,7396,0.0,Belize2000,0.6829999999999999,"832,072,450",3960,Silent
+3966,Belize,2000,female,75+ years,0,1850,0.0,Belize2000,0.6829999999999999,"832,072,450",3960,G.I. Generation
+3967,Belize,2000,male,5-14 years,0,32066,0.0,Belize2000,0.6829999999999999,"832,072,450",3960,Millenials
+3968,Belize,2001,male,75+ years,1,1627,61.46,Belize2001,,"871,860,600",4013,Silent
+3969,Belize,2001,male,25-34 years,7,20518,34.12,Belize2001,,"871,860,600",4013,Generation X
+3970,Belize,2001,male,15-24 years,5,26072,19.18,Belize2001,,"871,860,600",4013,Millenials
+3971,Belize,2001,male,35-54 years,3,20736,14.47,Belize2001,,"871,860,600",4013,Boomers
+3972,Belize,2001,male,55-74 years,1,7334,13.64,Belize2001,,"871,860,600",4013,Silent
+3973,Belize,2001,female,25-34 years,1,20224,4.94,Belize2001,,"871,860,600",4013,Generation X
+3974,Belize,2001,female,15-24 years,1,25712,3.89,Belize2001,,"871,860,600",4013,Millenials
+3975,Belize,2001,female,35-54 years,0,20365,0.0,Belize2001,,"871,860,600",4013,Boomers
+3976,Belize,2001,female,5-14 years,0,32384,0.0,Belize2001,,"871,860,600",4013,Millenials
+3977,Belize,2001,female,55-74 years,0,7453,0.0,Belize2001,,"871,860,600",4013,Silent
+3978,Belize,2001,female,75+ years,0,1863,0.0,Belize2001,,"871,860,600",4013,Silent
+3979,Belize,2001,male,5-14 years,0,32991,0.0,Belize2001,,"871,860,600",4013,Millenials
+3980,Belize,2002,male,35-54 years,6,21743,27.6,Belize2002,,"932,551,850",4161,Boomers
+3981,Belize,2002,male,55-74 years,1,7320,13.66,Belize2002,,"932,551,850",4161,Silent
+3982,Belize,2002,female,35-54 years,2,21387,9.35,Belize2002,,"932,551,850",4161,Boomers
+3983,Belize,2002,female,15-24 years,2,26384,7.58,Belize2002,,"932,551,850",4161,Millenials
+3984,Belize,2002,male,25-34 years,1,21346,4.68,Belize2002,,"932,551,850",4161,Generation X
+3985,Belize,2002,male,15-24 years,1,26756,3.74,Belize2002,,"932,551,850",4161,Millenials
+3986,Belize,2002,female,5-14 years,1,33244,3.01,Belize2002,,"932,551,850",4161,Millenials
+3987,Belize,2002,female,25-34 years,0,21060,0.0,Belize2002,,"932,551,850",4161,Generation X
+3988,Belize,2002,female,55-74 years,0,7500,0.0,Belize2002,,"932,551,850",4161,Silent
+3989,Belize,2002,female,75+ years,0,1868,0.0,Belize2002,,"932,551,850",4161,Silent
+3990,Belize,2002,male,5-14 years,0,33881,0.0,Belize2002,,"932,551,850",4161,Millenials
+3991,Belize,2002,male,75+ years,0,1647,0.0,Belize2002,,"932,551,850",4161,Silent
+3992,Belize,2003,male,55-74 years,1,7309,13.68,Belize2003,,"990,374,050",4289,Silent
+3993,Belize,2003,male,25-34 years,3,22006,13.63,Belize2003,,"990,374,050",4289,Generation X
+3994,Belize,2003,male,35-54 years,2,22882,8.74,Belize2003,,"990,374,050",4289,Boomers
+3995,Belize,2003,female,15-24 years,2,27064,7.39,Belize2003,,"990,374,050",4289,Millenials
+3996,Belize,2003,female,25-34 years,1,21751,4.6,Belize2003,,"990,374,050",4289,Generation X
+3997,Belize,2003,female,35-54 years,1,22539,4.44,Belize2003,,"990,374,050",4289,Boomers
+3998,Belize,2003,male,15-24 years,1,27456,3.64,Belize2003,,"990,374,050",4289,Millenials
+3999,Belize,2003,male,5-14 years,1,34739,2.88,Belize2003,,"990,374,050",4289,Millenials
+4000,Belize,2003,female,5-14 years,0,34082,0.0,Belize2003,,"990,374,050",4289,Millenials
+4001,Belize,2003,female,55-74 years,0,7550,0.0,Belize2003,,"990,374,050",4289,Silent
+4002,Belize,2003,female,75+ years,0,1860,0.0,Belize2003,,"990,374,050",4289,Silent
+4003,Belize,2003,male,75+ years,0,1652,0.0,Belize2003,,"990,374,050",4289,Silent
+4004,Belize,2004,male,55-74 years,3,7316,41.01,Belize2004,,"1,057,845,500",4449,Silent
+4005,Belize,2004,male,15-24 years,7,28175,24.84,Belize2004,,"1,057,845,500",4449,Millenials
+4006,Belize,2004,male,35-54 years,5,24197,20.66,Belize2004,,"1,057,845,500",4449,Boomers
+4007,Belize,2004,male,25-34 years,4,22560,17.73,Belize2004,,"1,057,845,500",4449,Generation X
+4008,Belize,2004,female,55-74 years,1,7609,13.14,Belize2004,,"1,057,845,500",4449,Silent
+4009,Belize,2004,female,15-24 years,0,27773,0.0,Belize2004,,"1,057,845,500",4449,Millenials
+4010,Belize,2004,female,25-34 years,0,22347,0.0,Belize2004,,"1,057,845,500",4449,Generation X
+4011,Belize,2004,female,35-54 years,0,23865,0.0,Belize2004,,"1,057,845,500",4449,Boomers
+4012,Belize,2004,female,5-14 years,0,34909,0.0,Belize2004,,"1,057,845,500",4449,Millenials
+4013,Belize,2004,female,75+ years,0,1841,0.0,Belize2004,,"1,057,845,500",4449,Silent
+4014,Belize,2004,male,5-14 years,0,35566,0.0,Belize2004,,"1,057,845,500",4449,Millenials
+4015,Belize,2004,male,75+ years,0,1633,0.0,Belize2004,,"1,057,845,500",4449,Silent
+4016,Belize,2005,male,25-34 years,5,23067,21.68,Belize2005,0.701,"1,114,222,550",4547,Generation X
+4017,Belize,2005,male,15-24 years,3,28904,10.38,Belize2005,0.701,"1,114,222,550",4547,Millenials
+4018,Belize,2005,male,35-54 years,2,25696,7.78,Belize2005,0.701,"1,114,222,550",4547,Boomers
+4019,Belize,2005,female,15-24 years,1,28506,3.51,Belize2005,0.701,"1,114,222,550",4547,Millenials
+4020,Belize,2005,male,5-14 years,1,36381,2.75,Belize2005,0.701,"1,114,222,550",4547,Millenials
+4021,Belize,2005,female,25-34 years,0,22905,0.0,Belize2005,0.701,"1,114,222,550",4547,Generation X
+4022,Belize,2005,female,35-54 years,0,25383,0.0,Belize2005,0.701,"1,114,222,550",4547,Boomers
+4023,Belize,2005,female,5-14 years,0,35738,0.0,Belize2005,0.701,"1,114,222,550",4547,Millenials
+4024,Belize,2005,female,55-74 years,0,7700,0.0,Belize2005,0.701,"1,114,222,550",4547,Silent
+4025,Belize,2005,female,75+ years,0,1808,0.0,Belize2005,0.701,"1,114,222,550",4547,Silent
+4026,Belize,2005,male,55-74 years,0,7350,0.0,Belize2005,0.701,"1,114,222,550",4547,Silent
+4027,Belize,2005,male,75+ years,0,1582,0.0,Belize2005,0.701,"1,114,222,550",4547,Silent
+4028,Belize,2006,male,35-54 years,4,27451,14.57,Belize2006,,"1,217,467,600",4815,Boomers
+4029,Belize,2006,male,15-24 years,3,29465,10.18,Belize2006,,"1,217,467,600",4815,Millenials
+4030,Belize,2006,male,25-34 years,1,23131,4.32,Belize2006,,"1,217,467,600",4815,Generation X
+4031,Belize,2006,female,15-24 years,1,29322,3.41,Belize2006,,"1,217,467,600",4815,Millenials
+4032,Belize,2006,female,5-14 years,1,36453,2.74,Belize2006,,"1,217,467,600",4815,Millenials
+4033,Belize,2006,male,5-14 years,1,37049,2.7,Belize2006,,"1,217,467,600",4815,Millenials
+4034,Belize,2006,female,25-34 years,0,23214,0.0,Belize2006,,"1,217,467,600",4815,Generation X
+4035,Belize,2006,female,35-54 years,0,27049,0.0,Belize2006,,"1,217,467,600",4815,Boomers
+4036,Belize,2006,female,55-74 years,0,8095,0.0,Belize2006,,"1,217,467,600",4815,Silent
+4037,Belize,2006,female,75+ years,0,1920,0.0,Belize2006,,"1,217,467,600",4815,Silent
+4038,Belize,2006,male,55-74 years,0,7990,0.0,Belize2006,,"1,217,467,600",4815,Silent
+4039,Belize,2006,male,75+ years,0,1687,0.0,Belize2006,,"1,217,467,600",4815,Silent
+4040,Belize,2007,male,75+ years,1,1802,55.49,Belize2007,,"1,290,573,400",4951,Silent
+4041,Belize,2007,male,35-54 years,2,29071,6.88,Belize2007,,"1,290,573,400",4951,Boomers
+4042,Belize,2007,male,15-24 years,2,30074,6.65,Belize2007,,"1,290,573,400",4951,Millenials
+4043,Belize,2007,female,35-54 years,1,28664,3.49,Belize2007,,"1,290,573,400",4951,Boomers
+4044,Belize,2007,female,15-24 years,1,30151,3.32,Belize2007,,"1,290,573,400",4951,Millenials
+4045,Belize,2007,male,5-14 years,1,37602,2.66,Belize2007,,"1,290,573,400",4951,Generation Z
+4046,Belize,2007,female,25-34 years,0,23636,0.0,Belize2007,,"1,290,573,400",4951,Generation X
+4047,Belize,2007,female,5-14 years,0,37069,0.0,Belize2007,,"1,290,573,400",4951,Generation Z
+4048,Belize,2007,female,55-74 years,0,8579,0.0,Belize2007,,"1,290,573,400",4951,Silent
+4049,Belize,2007,female,75+ years,0,2027,0.0,Belize2007,,"1,290,573,400",4951,Silent
+4050,Belize,2007,male,25-34 years,0,23259,0.0,Belize2007,,"1,290,573,400",4951,Generation X
+4051,Belize,2007,male,55-74 years,0,8733,0.0,Belize2007,,"1,290,573,400",4951,Silent
+4052,Belize,2008,male,75+ years,1,1931,51.79,Belize2008,,"1,368,625,150",5098,Silent
+4053,Belize,2008,male,35-54 years,6,30511,19.67,Belize2008,,"1,368,625,150",5098,Boomers
+4054,Belize,2008,male,15-24 years,2,30760,6.5,Belize2008,,"1,368,625,150",5098,Millenials
+4055,Belize,2008,male,25-34 years,1,23453,4.26,Belize2008,,"1,368,625,150",5098,Generation X
+4056,Belize,2008,female,25-34 years,1,24149,4.14,Belize2008,,"1,368,625,150",5098,Generation X
+4057,Belize,2008,female,15-24 years,0,31003,0.0,Belize2008,,"1,368,625,150",5098,Millenials
+4058,Belize,2008,female,35-54 years,0,30201,0.0,Belize2008,,"1,368,625,150",5098,Boomers
+4059,Belize,2008,female,5-14 years,0,37579,0.0,Belize2008,,"1,368,625,150",5098,Generation Z
+4060,Belize,2008,female,55-74 years,0,9143,0.0,Belize2008,,"1,368,625,150",5098,Silent
+4061,Belize,2008,female,75+ years,0,2139,0.0,Belize2008,,"1,368,625,150",5098,Silent
+4062,Belize,2008,male,5-14 years,0,38038,0.0,Belize2008,,"1,368,625,150",5098,Generation Z
+4063,Belize,2008,male,55-74 years,0,9580,0.0,Belize2008,,"1,368,625,150",5098,Silent
+4064,Belize,2009,male,15-24 years,5,31526,15.86,Belize2009,,"1,336,957,250",4841,Millenials
+4065,Belize,2009,male,25-34 years,3,23713,12.65,Belize2009,,"1,336,957,250",4841,Generation X
+4066,Belize,2009,male,55-74 years,1,10523,9.5,Belize2009,,"1,336,957,250",4841,Silent
+4067,Belize,2009,female,15-24 years,3,31873,9.41,Belize2009,,"1,336,957,250",4841,Millenials
+4068,Belize,2009,male,35-54 years,2,31734,6.3,Belize2009,,"1,336,957,250",4841,Boomers
+4069,Belize,2009,female,25-34 years,1,24742,4.04,Belize2009,,"1,336,957,250",4841,Generation X
+4070,Belize,2009,female,35-54 years,0,31606,0.0,Belize2009,,"1,336,957,250",4841,Boomers
+4071,Belize,2009,female,5-14 years,0,37982,0.0,Belize2009,,"1,336,957,250",4841,Generation Z
+4072,Belize,2009,female,55-74 years,0,9786,0.0,Belize2009,,"1,336,957,250",4841,Silent
+4073,Belize,2009,female,75+ years,0,2251,0.0,Belize2009,,"1,336,957,250",4841,Silent
+4074,Belize,2009,male,5-14 years,0,38375,0.0,Belize2009,,"1,336,957,250",4841,Generation Z
+4075,Belize,2009,male,75+ years,0,2078,0.0,Belize2009,,"1,336,957,250",4841,Silent
+4076,Belize,2010,male,55-74 years,2,11553,17.31,Belize2010,0.71,"1,397,113,450",4923,Silent
+4077,Belize,2010,male,25-34 years,4,24053,16.63,Belize2010,0.71,"1,397,113,450",4923,Generation X
+4078,Belize,2010,male,35-54 years,5,32734,15.27,Belize2010,0.71,"1,397,113,450",4923,Generation X
+4079,Belize,2010,male,15-24 years,2,32338,6.18,Belize2010,0.71,"1,397,113,450",4923,Millenials
+4080,Belize,2010,female,35-54 years,2,32852,6.09,Belize2010,0.71,"1,397,113,450",4923,Generation X
+4081,Belize,2010,female,15-24 years,0,32738,0.0,Belize2010,0.71,"1,397,113,450",4923,Millenials
+4082,Belize,2010,female,25-34 years,0,25416,0.0,Belize2010,0.71,"1,397,113,450",4923,Generation X
+4083,Belize,2010,female,5-14 years,0,38304,0.0,Belize2010,0.71,"1,397,113,450",4923,Generation Z
+4084,Belize,2010,female,55-74 years,0,10522,0.0,Belize2010,0.71,"1,397,113,450",4923,Silent
+4085,Belize,2010,female,75+ years,0,2363,0.0,Belize2010,0.71,"1,397,113,450",4923,Silent
+4086,Belize,2010,male,5-14 years,0,38669,0.0,Belize2010,0.71,"1,397,113,450",4923,Generation Z
+4087,Belize,2010,male,75+ years,0,2254,0.0,Belize2010,0.71,"1,397,113,450",4923,Silent
+4088,Belize,2011,male,75+ years,1,2303,43.42,Belize2011,0.711,"1,487,005,600",5098,Silent
+4089,Belize,2011,male,25-34 years,9,24923,36.11,Belize2011,0.711,"1,487,005,600",5098,Millenials
+4090,Belize,2011,male,15-24 years,9,33414,26.93,Belize2011,0.711,"1,487,005,600",5098,Millenials
+4091,Belize,2011,male,35-54 years,8,33782,23.68,Belize2011,0.711,"1,487,005,600",5098,Generation X
+4092,Belize,2011,female,15-24 years,4,33746,11.85,Belize2011,0.711,"1,487,005,600",5098,Millenials
+4093,Belize,2011,male,55-74 years,1,11928,8.38,Belize2011,0.711,"1,487,005,600",5098,Boomers
+4094,Belize,2011,female,35-54 years,1,34151,2.93,Belize2011,0.711,"1,487,005,600",5098,Generation X
+4095,Belize,2011,female,25-34 years,0,26338,0.0,Belize2011,0.711,"1,487,005,600",5098,Millenials
+4096,Belize,2011,female,5-14 years,0,38613,0.0,Belize2011,0.711,"1,487,005,600",5098,Generation Z
+4097,Belize,2011,female,55-74 years,0,11025,0.0,Belize2011,0.711,"1,487,005,600",5098,Boomers
+4098,Belize,2011,female,75+ years,0,2410,0.0,Belize2011,0.711,"1,487,005,600",5098,Silent
+4099,Belize,2011,male,5-14 years,0,39029,0.0,Belize2011,0.711,"1,487,005,600",5098,Generation Z
+4100,Belize,2012,male,55-74 years,3,12340,24.31,Belize2012,0.716,"1,573,670,250",5264,Boomers
+4101,Belize,2012,male,25-34 years,6,25854,23.21,Belize2012,0.716,"1,573,670,250",5264,Millenials
+4102,Belize,2012,male,35-54 years,6,34785,17.25,Belize2012,0.716,"1,573,670,250",5264,Generation X
+4103,Belize,2012,female,15-24 years,2,34680,5.77,Belize2012,0.716,"1,573,670,250",5264,Millenials
+4104,Belize,2012,male,15-24 years,1,34413,2.91,Belize2012,0.716,"1,573,670,250",5264,Millenials
+4105,Belize,2012,female,25-34 years,0,27291,0.0,Belize2012,0.716,"1,573,670,250",5264,Millenials
+4106,Belize,2012,female,35-54 years,0,35365,0.0,Belize2012,0.716,"1,573,670,250",5264,Generation X
+4107,Belize,2012,female,5-14 years,0,38680,0.0,Belize2012,0.716,"1,573,670,250",5264,Generation Z
+4108,Belize,2012,female,55-74 years,0,11573,0.0,Belize2012,0.716,"1,573,670,250",5264,Boomers
+4109,Belize,2012,female,75+ years,0,2440,0.0,Belize2012,0.716,"1,573,670,250",5264,Silent
+4110,Belize,2012,male,5-14 years,0,39194,0.0,Belize2012,0.716,"1,573,670,250",5264,Generation Z
+4111,Belize,2012,male,75+ years,0,2331,0.0,Belize2012,0.716,"1,573,670,250",5264,Silent
+4112,Belize,2013,male,35-54 years,7,35782,19.56,Belize2013,0.715,"1,612,573,850",5272,Generation X
+4113,Belize,2013,male,25-34 years,4,26847,14.9,Belize2013,0.715,"1,612,573,850",5272,Millenials
+4114,Belize,2013,male,15-24 years,4,35340,11.32,Belize2013,0.715,"1,612,573,850",5272,Millenials
+4115,Belize,2013,male,55-74 years,1,12803,7.81,Belize2013,0.715,"1,612,573,850",5272,Boomers
+4116,Belize,2013,female,15-24 years,1,35551,2.81,Belize2013,0.715,"1,612,573,850",5272,Millenials
+4117,Belize,2013,female,25-34 years,0,28278,0.0,Belize2013,0.715,"1,612,573,850",5272,Millenials
+4118,Belize,2013,female,35-54 years,0,36553,0.0,Belize2013,0.715,"1,612,573,850",5272,Generation X
+4119,Belize,2013,female,5-14 years,0,38558,0.0,Belize2013,0.715,"1,612,573,850",5272,Generation Z
+4120,Belize,2013,female,55-74 years,0,12179,0.0,Belize2013,0.715,"1,612,573,850",5272,Boomers
+4121,Belize,2013,female,75+ years,0,2451,0.0,Belize2013,0.715,"1,612,573,850",5272,Silent
+4122,Belize,2013,male,5-14 years,0,39211,0.0,Belize2013,0.715,"1,612,573,850",5272,Generation Z
+4123,Belize,2013,male,75+ years,0,2335,0.0,Belize2013,0.715,"1,612,573,850",5272,Silent
+4124,Belize,2014,male,55-74 years,4,13350,29.96,Belize2014,0.715,"1,703,951,050",5448,Boomers
+4125,Belize,2014,male,25-34 years,7,27885,25.1,Belize2014,0.715,"1,703,951,050",5448,Millenials
+4126,Belize,2014,male,35-54 years,5,36808,13.58,Belize2014,0.715,"1,703,951,050",5448,Generation X
+4127,Belize,2014,male,15-24 years,2,36197,5.53,Belize2014,0.715,"1,703,951,050",5448,Millenials
+4128,Belize,2014,female,15-24 years,2,36364,5.5,Belize2014,0.715,"1,703,951,050",5448,Millenials
+4129,Belize,2014,female,5-14 years,2,38337,5.22,Belize2014,0.715,"1,703,951,050",5448,Generation Z
+4130,Belize,2014,female,25-34 years,1,29287,3.41,Belize2014,0.715,"1,703,951,050",5448,Millenials
+4131,Belize,2014,female,35-54 years,1,37789,2.65,Belize2014,0.715,"1,703,951,050",5448,Generation X
+4132,Belize,2014,female,55-74 years,0,12866,0.0,Belize2014,0.715,"1,703,951,050",5448,Boomers
+4133,Belize,2014,female,75+ years,0,2447,0.0,Belize2014,0.715,"1,703,951,050",5448,Silent
+4134,Belize,2014,male,5-14 years,0,39137,0.0,Belize2014,0.715,"1,703,951,050",5448,Generation Z
+4135,Belize,2014,male,75+ years,0,2313,0.0,Belize2014,0.715,"1,703,951,050",5448,Silent
+4136,Belize,2015,male,75+ years,1,2264,44.17,Belize2015,,"1,778,567,600",5561,Silent
+4137,Belize,2015,male,25-34 years,9,28956,31.08,Belize2015,,"1,778,567,600",5561,Millenials
+4138,Belize,2015,male,55-74 years,3,13996,21.43,Belize2015,,"1,778,567,600",5561,Boomers
+4139,Belize,2015,male,35-54 years,4,37895,10.56,Belize2015,,"1,778,567,600",5561,Generation X
+4140,Belize,2015,male,5-14 years,3,39041,7.68,Belize2015,,"1,778,567,600",5561,Generation Z
+4141,Belize,2015,female,55-74 years,1,13642,7.33,Belize2015,,"1,778,567,600",5561,Boomers
+4142,Belize,2015,male,15-24 years,2,36971,5.41,Belize2015,,"1,778,567,600",5561,Millenials
+4143,Belize,2015,female,35-54 years,2,39103,5.11,Belize2015,,"1,778,567,600",5561,Generation X
+4144,Belize,2015,female,15-24 years,1,37114,2.69,Belize2015,,"1,778,567,600",5561,Millenials
+4145,Belize,2015,female,25-34 years,0,30312,0.0,Belize2015,,"1,778,567,600",5561,Millenials
+4146,Belize,2015,female,5-14 years,0,38109,0.0,Belize2015,,"1,778,567,600",5561,Generation Z
+4147,Belize,2015,female,75+ years,0,2432,0.0,Belize2015,,"1,778,567,600",5561,Silent

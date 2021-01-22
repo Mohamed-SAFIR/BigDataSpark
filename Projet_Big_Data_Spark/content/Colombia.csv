@@ -1,0 +1,373 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+5636,Colombia,1985,male,75+ years,21,123400,17.02,Colombia1985,0.573,"34,894,411,352",1393,G.I. Generation
+5637,Colombia,1985,male,55-74 years,113,1015200,11.13,Colombia1985,0.573,"34,894,411,352",1393,G.I. Generation
+5638,Colombia,1985,male,25-34 years,193,2323700,8.31,Colombia1985,0.573,"34,894,411,352",1393,Boomers
+5639,Colombia,1985,male,15-24 years,256,3190200,8.02,Colombia1985,0.573,"34,894,411,352",1393,Generation X
+5640,Colombia,1985,male,35-54 years,188,2451100,7.67,Colombia1985,0.573,"34,894,411,352",1393,Silent
+5641,Colombia,1985,female,15-24 years,117,3140700,3.73,Colombia1985,0.573,"34,894,411,352",1393,Generation X
+5642,Colombia,1985,female,25-34 years,45,2276100,1.98,Colombia1985,0.573,"34,894,411,352",1393,Boomers
+5643,Colombia,1985,female,75+ years,3,174000,1.72,Colombia1985,0.573,"34,894,411,352",1393,G.I. Generation
+5644,Colombia,1985,female,35-54 years,31,2403500,1.29,Colombia1985,0.573,"34,894,411,352",1393,Silent
+5645,Colombia,1985,female,55-74 years,12,1150600,1.04,Colombia1985,0.573,"34,894,411,352",1393,G.I. Generation
+5646,Colombia,1985,male,5-14 years,12,3443900,0.35,Colombia1985,0.573,"34,894,411,352",1393,Generation X
+5647,Colombia,1985,female,5-14 years,10,3360000,0.3,Colombia1985,0.573,"34,894,411,352",1393,Generation X
+5648,Colombia,1986,male,75+ years,13,126000,10.32,Colombia1986,,"34,942,489,684",1366,G.I. Generation
+5649,Colombia,1986,male,15-24 years,260,3258100,7.98,Colombia1986,,"34,942,489,684",1366,Generation X
+5650,Colombia,1986,male,25-34 years,189,2373200,7.96,Colombia1986,,"34,942,489,684",1366,Boomers
+5651,Colombia,1986,male,55-74 years,81,1036800,7.81,Colombia1986,,"34,942,489,684",1366,G.I. Generation
+5652,Colombia,1986,male,35-54 years,187,2503200,7.47,Colombia1986,,"34,942,489,684",1366,Silent
+5653,Colombia,1986,female,15-24 years,121,3207600,3.77,Colombia1986,,"34,942,489,684",1366,Generation X
+5654,Colombia,1986,female,25-34 years,48,2324500,2.06,Colombia1986,,"34,942,489,684",1366,Boomers
+5655,Colombia,1986,female,55-74 years,13,1175000,1.11,Colombia1986,,"34,942,489,684",1366,G.I. Generation
+5656,Colombia,1986,female,35-54 years,26,2454600,1.06,Colombia1986,,"34,942,489,684",1366,Silent
+5657,Colombia,1986,female,5-14 years,10,3431600,0.29,Colombia1986,,"34,942,489,684",1366,Generation X
+5658,Colombia,1986,male,5-14 years,10,3517300,0.28,Colombia1986,,"34,942,489,684",1366,Generation X
+5659,Colombia,1986,female,75+ years,0,177700,0.0,Colombia1986,,"34,942,489,684",1366,G.I. Generation
+5660,Colombia,1987,male,15-24 years,301,3533143,8.52,Colombia1987,,"36,373,307,085",1299,Generation X
+5661,Colombia,1987,male,55-74 years,86,1044703,8.23,Colombia1987,,"36,373,307,085",1299,G.I. Generation
+5662,Colombia,1987,male,75+ years,14,183612,7.62,Colombia1987,,"36,373,307,085",1299,G.I. Generation
+5663,Colombia,1987,male,25-34 years,192,2615813,7.34,Colombia1987,,"36,373,307,085",1299,Boomers
+5664,Colombia,1987,male,35-54 years,147,2567656,5.73,Colombia1987,,"36,373,307,085",1299,Silent
+5665,Colombia,1987,female,15-24 years,118,3468807,3.4,Colombia1987,,"36,373,307,085",1299,Generation X
+5666,Colombia,1987,female,25-34 years,29,2651735,1.09,Colombia1987,,"36,373,307,085",1299,Boomers
+5667,Colombia,1987,female,35-54 years,27,2755678,0.98,Colombia1987,,"36,373,307,085",1299,Silent
+5668,Colombia,1987,female,55-74 years,10,1210423,0.83,Colombia1987,,"36,373,307,085",1299,G.I. Generation
+5669,Colombia,1987,female,75+ years,2,257621,0.78,Colombia1987,,"36,373,307,085",1299,G.I. Generation
+5670,Colombia,1987,male,5-14 years,16,3924075,0.41,Colombia1987,,"36,373,307,085",1299,Generation X
+5671,Colombia,1987,female,5-14 years,9,3796166,0.24,Colombia1987,,"36,373,307,085",1299,Generation X
+5672,Colombia,1988,male,75+ years,27,190910,14.14,Colombia1988,,"39,212,550,050",1369,G.I. Generation
+5673,Colombia,1988,male,25-34 years,214,2696739,7.94,Colombia1988,,"39,212,550,050",1369,Boomers
+5674,Colombia,1988,male,55-74 years,83,1069673,7.76,Colombia1988,,"39,212,550,050",1369,G.I. Generation
+5675,Colombia,1988,male,15-24 years,243,3543715,6.86,Colombia1988,,"39,212,550,050",1369,Generation X
+5676,Colombia,1988,male,35-54 years,160,2682795,5.96,Colombia1988,,"39,212,550,050",1369,Silent
+5677,Colombia,1988,female,15-24 years,85,3480840,2.44,Colombia1988,,"39,212,550,050",1369,Generation X
+5678,Colombia,1988,female,75+ years,6,268303,2.24,Colombia1988,,"39,212,550,050",1369,G.I. Generation
+5679,Colombia,1988,female,25-34 years,41,2734383,1.5,Colombia1988,,"39,212,550,050",1369,Boomers
+5680,Colombia,1988,female,35-54 years,26,2877134,0.9,Colombia1988,,"39,212,550,050",1369,Silent
+5681,Colombia,1988,male,5-14 years,14,3998496,0.35,Colombia1988,,"39,212,550,050",1369,Generation X
+5682,Colombia,1988,female,55-74 years,4,1240926,0.32,Colombia1988,,"39,212,550,050",1369,G.I. Generation
+5683,Colombia,1988,female,5-14 years,9,3865587,0.23,Colombia1988,,"39,212,550,050",1369,Generation X
+5684,Colombia,1989,male,75+ years,17,197086,8.63,Colombia1989,,"39,540,080,200",1350,G.I. Generation
+5685,Colombia,1989,male,55-74 years,87,1096341,7.94,Colombia1989,,"39,540,080,200",1350,G.I. Generation
+5686,Colombia,1989,male,25-34 years,194,2777676,6.98,Colombia1989,,"39,540,080,200",1350,Boomers
+5687,Colombia,1989,male,35-54 years,152,2802188,5.42,Colombia1989,,"39,540,080,200",1350,Silent
+5688,Colombia,1989,male,15-24 years,191,3551741,5.38,Colombia1989,,"39,540,080,200",1350,Generation X
+5689,Colombia,1989,female,15-24 years,78,3489146,2.24,Colombia1989,,"39,540,080,200",1350,Generation X
+5690,Colombia,1989,female,25-34 years,45,2817903,1.6,Colombia1989,,"39,540,080,200",1350,Boomers
+5691,Colombia,1989,female,75+ years,4,278074,1.44,Colombia1989,,"39,540,080,200",1350,G.I. Generation
+5692,Colombia,1989,female,35-54 years,34,3003700,1.13,Colombia1989,,"39,540,080,200",1350,Silent
+5693,Colombia,1989,female,5-14 years,13,3932480,0.33,Colombia1989,,"39,540,080,200",1350,Generation X
+5694,Colombia,1989,female,55-74 years,4,1273639,0.31,Colombia1989,,"39,540,080,200",1350,G.I. Generation
+5695,Colombia,1989,male,5-14 years,12,4069855,0.29,Colombia1989,,"39,540,080,200",1350,Generation X
+5696,Colombia,1990,male,75+ years,21,202048,10.39,Colombia1990,0.596,"40,274,204,595",1346,G.I. Generation
+5697,Colombia,1990,male,55-74 years,85,1124943,7.56,Colombia1990,0.596,"40,274,204,595",1346,G.I. Generation
+5698,Colombia,1990,male,15-24 years,220,3562908,6.17,Colombia1990,0.596,"40,274,204,595",1346,Generation X
+5699,Colombia,1990,male,25-34 years,174,2859281,6.09,Colombia1990,0.596,"40,274,204,595",1346,Boomers
+5700,Colombia,1990,male,35-54 years,153,2924679,5.23,Colombia1990,0.596,"40,274,204,595",1346,Silent
+5701,Colombia,1990,female,15-24 years,95,3499435,2.71,Colombia1990,0.596,"40,274,204,595",1346,Generation X
+5702,Colombia,1990,female,25-34 years,41,2902786,1.41,Colombia1990,0.596,"40,274,204,595",1346,Boomers
+5703,Colombia,1990,female,35-54 years,40,3134518,1.28,Colombia1990,0.596,"40,274,204,595",1346,Silent
+5704,Colombia,1990,female,55-74 years,14,1308768,1.07,Colombia1990,0.596,"40,274,204,595",1346,G.I. Generation
+5705,Colombia,1990,female,75+ years,3,286894,1.05,Colombia1990,0.596,"40,274,204,595",1346,G.I. Generation
+5706,Colombia,1990,male,5-14 years,12,4132729,0.29,Colombia1990,0.596,"40,274,204,595",1346,Generation X
+5707,Colombia,1990,female,5-14 years,7,3991984,0.18,Colombia1990,0.596,"40,274,204,595",1346,Generation X
+5708,Colombia,1991,male,15-24 years,280,3569610,7.84,Colombia1991,,"41,239,551,378",1348,Generation X
+5709,Colombia,1991,male,55-74 years,89,1152018,7.73,Colombia1991,,"41,239,551,378",1348,Silent
+5710,Colombia,1991,male,25-34 years,216,2944422,7.34,Colombia1991,,"41,239,551,378",1348,Boomers
+5711,Colombia,1991,male,75+ years,14,210787,6.64,Colombia1991,,"41,239,551,378",1348,G.I. Generation
+5712,Colombia,1991,male,35-54 years,175,3053490,5.73,Colombia1991,,"41,239,551,378",1348,Boomers
+5713,Colombia,1991,female,15-24 years,100,3511813,2.85,Colombia1991,,"41,239,551,378",1348,Generation X
+5714,Colombia,1991,female,25-34 years,54,2991721,1.8,Colombia1991,,"41,239,551,378",1348,Boomers
+5715,Colombia,1991,female,35-54 years,36,3271390,1.1,Colombia1991,,"41,239,551,378",1348,Boomers
+5716,Colombia,1991,female,75+ years,3,298517,1.0,Colombia1991,,"41,239,551,378",1348,G.I. Generation
+5717,Colombia,1991,female,55-74 years,10,1341052,0.75,Colombia1991,,"41,239,551,378",1348,Silent
+5718,Colombia,1991,male,5-14 years,24,4191827,0.57,Colombia1991,,"41,239,551,378",1348,Millenials
+5719,Colombia,1991,female,5-14 years,9,4047531,0.22,Colombia1991,,"41,239,551,378",1348,Millenials
+5720,Colombia,1992,male,55-74 years,108,1154900,9.35,Colombia1992,,"49,279,585,355",1664,Silent
+5721,Colombia,1992,male,75+ years,20,215800,9.27,Colombia1992,,"49,279,585,355",1664,G.I. Generation
+5722,Colombia,1992,male,25-34 years,251,2922400,8.59,Colombia1992,,"49,279,585,355",1664,Boomers
+5723,Colombia,1992,male,15-24 years,274,3373400,8.12,Colombia1992,,"49,279,585,355",1664,Generation X
+5724,Colombia,1992,male,35-54 years,180,3058800,5.88,Colombia1992,,"49,279,585,355",1664,Boomers
+5725,Colombia,1992,female,15-24 years,111,3331300,3.33,Colombia1992,,"49,279,585,355",1664,Generation X
+5726,Colombia,1992,female,25-34 years,53,2997700,1.77,Colombia1992,,"49,279,585,355",1664,Boomers
+5727,Colombia,1992,female,35-54 years,48,3267600,1.47,Colombia1992,,"49,279,585,355",1664,Boomers
+5728,Colombia,1992,female,55-74 years,6,1315300,0.46,Colombia1992,,"49,279,585,355",1664,Silent
+5729,Colombia,1992,female,5-14 years,17,3786400,0.45,Colombia1992,,"49,279,585,355",1664,Millenials
+5730,Colombia,1992,male,5-14 years,17,3917400,0.43,Colombia1992,,"49,279,585,355",1664,Millenials
+5731,Colombia,1992,female,75+ years,1,274400,0.36,Colombia1992,,"49,279,585,355",1664,G.I. Generation
+5732,Colombia,1993,male,75+ years,22,222900,9.87,Colombia1993,,"55,802,538,219",1845,G.I. Generation
+5733,Colombia,1993,male,55-74 years,108,1184100,9.12,Colombia1993,,"55,802,538,219",1845,Silent
+5734,Colombia,1993,male,15-24 years,279,3377300,8.26,Colombia1993,,"55,802,538,219",1845,Generation X
+5735,Colombia,1993,male,25-34 years,226,3015600,7.49,Colombia1993,,"55,802,538,219",1845,Boomers
+5736,Colombia,1993,male,35-54 years,215,3186600,6.75,Colombia1993,,"55,802,538,219",1845,Boomers
+5737,Colombia,1993,female,15-24 years,101,3332600,3.03,Colombia1993,,"55,802,538,219",1845,Generation X
+5738,Colombia,1993,female,25-34 years,53,3088400,1.72,Colombia1993,,"55,802,538,219",1845,Boomers
+5739,Colombia,1993,female,55-74 years,16,1348500,1.19,Colombia1993,,"55,802,538,219",1845,Silent
+5740,Colombia,1993,female,35-54 years,36,3406300,1.06,Colombia1993,,"55,802,538,219",1845,Boomers
+5741,Colombia,1993,male,5-14 years,21,3965600,0.53,Colombia1993,,"55,802,538,219",1845,Millenials
+5742,Colombia,1993,female,5-14 years,8,3830500,0.21,Colombia1993,,"55,802,538,219",1845,Millenials
+5743,Colombia,1993,female,75+ years,0,283800,0.0,Colombia1993,,"55,802,538,219",1845,G.I. Generation
+5744,Colombia,1994,male,75+ years,31,230500,13.45,Colombia1994,,"81,703,500,846",2646,G.I. Generation
+5745,Colombia,1994,male,15-24 years,313,3391100,9.23,Colombia1994,,"81,703,500,846",2646,Generation X
+5746,Colombia,1994,male,55-74 years,110,1214600,9.06,Colombia1994,,"81,703,500,846",2646,Silent
+5747,Colombia,1994,male,25-34 years,247,3094400,7.98,Colombia1994,,"81,703,500,846",2646,Boomers
+5748,Colombia,1994,male,35-54 years,216,3320000,6.51,Colombia1994,,"81,703,500,846",2646,Boomers
+5749,Colombia,1994,female,15-24 years,130,3343400,3.89,Colombia1994,,"81,703,500,846",2646,Generation X
+5750,Colombia,1994,female,25-34 years,59,3164600,1.86,Colombia1994,,"81,703,500,846",2646,Boomers
+5751,Colombia,1994,female,55-74 years,19,1382700,1.37,Colombia1994,,"81,703,500,846",2646,Silent
+5752,Colombia,1994,female,35-54 years,44,3551000,1.24,Colombia1994,,"81,703,500,846",2646,Boomers
+5753,Colombia,1994,female,75+ years,2,293900,0.68,Colombia1994,,"81,703,500,846",2646,G.I. Generation
+5754,Colombia,1994,female,5-14 years,14,3874700,0.36,Colombia1994,,"81,703,500,846",2646,Millenials
+5755,Colombia,1994,male,5-14 years,13,4013700,0.32,Colombia1994,,"81,703,500,846",2646,Millenials
+5756,Colombia,1995,male,75+ years,27,237128,11.39,Colombia1995,0.629,"92,507,279,383",2796,G.I. Generation
+5757,Colombia,1995,male,55-74 years,110,1280826,8.59,Colombia1995,0.629,"92,507,279,383",2796,Silent
+5758,Colombia,1995,male,25-34 years,253,3221761,7.85,Colombia1995,0.629,"92,507,279,383",2796,Generation X
+5759,Colombia,1995,male,15-24 years,271,3657416,7.41,Colombia1995,0.629,"92,507,279,383",2796,Generation X
+5760,Colombia,1995,male,35-54 years,213,3599535,5.92,Colombia1995,0.629,"92,507,279,383",2796,Boomers
+5761,Colombia,1995,female,15-24 years,116,3602418,3.22,Colombia1995,0.629,"92,507,279,383",2796,Generation X
+5762,Colombia,1995,female,25-34 years,55,3296038,1.67,Colombia1995,0.629,"92,507,279,383",2796,Generation X
+5763,Colombia,1995,female,35-54 years,63,3860918,1.63,Colombia1995,0.629,"92,507,279,383",2796,Boomers
+5764,Colombia,1995,female,55-74 years,16,1495950,1.07,Colombia1995,0.629,"92,507,279,383",2796,Silent
+5765,Colombia,1995,male,5-14 years,15,4330243,0.35,Colombia1995,0.629,"92,507,279,383",2796,Millenials
+5766,Colombia,1995,female,75+ years,1,337540,0.3,Colombia1995,0.629,"92,507,279,383",2796,G.I. Generation
+5767,Colombia,1995,female,5-14 years,10,4171126,0.24,Colombia1995,0.629,"92,507,279,383",2796,Millenials
+5768,Colombia,1996,male,75+ years,33,248909,13.26,Colombia1996,,"97,160,109,278",2883,G.I. Generation
+5769,Colombia,1996,male,55-74 years,124,1313132,9.44,Colombia1996,,"97,160,109,278",2883,Silent
+5770,Colombia,1996,male,15-24 years,289,3707736,7.79,Colombia1996,,"97,160,109,278",2883,Generation X
+5771,Colombia,1996,male,35-54 years,259,3749624,6.91,Colombia1996,,"97,160,109,278",2883,Boomers
+5772,Colombia,1996,male,25-34 years,225,3258034,6.91,Colombia1996,,"97,160,109,278",2883,Generation X
+5773,Colombia,1996,female,15-24 years,121,3651707,3.31,Colombia1996,,"97,160,109,278",2883,Generation X
+5774,Colombia,1996,female,25-34 years,58,3336435,1.74,Colombia1996,,"97,160,109,278",2883,Generation X
+5775,Colombia,1996,female,35-54 years,44,4021393,1.09,Colombia1996,,"97,160,109,278",2883,Boomers
+5776,Colombia,1996,female,55-74 years,15,1533960,0.98,Colombia1996,,"97,160,109,278",2883,Silent
+5777,Colombia,1996,female,75+ years,3,352470,0.85,Colombia1996,,"97,160,109,278",2883,G.I. Generation
+5778,Colombia,1996,male,5-14 years,21,4344969,0.48,Colombia1996,,"97,160,109,278",2883,Millenials
+5779,Colombia,1996,female,5-14 years,17,4185267,0.41,Colombia1996,,"97,160,109,278",2883,Millenials
+5780,Colombia,1997,male,75+ years,34,260440,13.05,Colombia1997,,"106,659,508,271",3106,G.I. Generation
+5781,Colombia,1997,male,55-74 years,117,1349163,8.67,Colombia1997,,"106,659,508,271",3106,Silent
+5782,Colombia,1997,male,15-24 years,315,3775597,8.34,Colombia1997,,"106,659,508,271",3106,Generation X
+5783,Colombia,1997,male,25-34 years,242,3280278,7.38,Colombia1997,,"106,659,508,271",3106,Generation X
+5784,Colombia,1997,male,35-54 years,234,3906804,5.99,Colombia1997,,"106,659,508,271",3106,Boomers
+5785,Colombia,1997,female,15-24 years,117,3716547,3.15,Colombia1997,,"106,659,508,271",3106,Generation X
+5786,Colombia,1997,female,25-34 years,70,3362418,2.08,Colombia1997,,"106,659,508,271",3106,Generation X
+5787,Colombia,1997,female,35-54 years,57,4189374,1.36,Colombia1997,,"106,659,508,271",3106,Boomers
+5788,Colombia,1997,female,55-74 years,17,1575903,1.08,Colombia1997,,"106,659,508,271",3106,Silent
+5789,Colombia,1997,female,75+ years,3,367426,0.82,Colombia1997,,"106,659,508,271",3106,G.I. Generation
+5790,Colombia,1997,male,5-14 years,19,4358250,0.44,Colombia1997,,"106,659,508,271",3106,Millenials
+5791,Colombia,1997,female,5-14 years,17,4196625,0.41,Colombia1997,,"106,659,508,271",3106,Millenials
+5792,Colombia,1998,male,75+ years,51,271456,18.79,Colombia1998,,"98,443,739,941",2814,G.I. Generation
+5793,Colombia,1998,male,15-24 years,507,3853955,13.16,Colombia1998,,"98,443,739,941",2814,Generation X
+5794,Colombia,1998,male,55-74 years,182,1390023,13.09,Colombia1998,,"98,443,739,941",2814,Silent
+5795,Colombia,1998,male,25-34 years,402,3292463,12.21,Colombia1998,,"98,443,739,941",2814,Generation X
+5796,Colombia,1998,male,35-54 years,374,4068675,9.19,Colombia1998,,"98,443,739,941",2814,Boomers
+5797,Colombia,1998,female,15-24 years,247,3789996,6.52,Colombia1998,,"98,443,739,941",2814,Generation X
+5798,Colombia,1998,female,25-34 years,97,3377856,2.87,Colombia1998,,"98,443,739,941",2814,Generation X
+5799,Colombia,1998,female,35-54 years,88,4362525,2.02,Colombia1998,,"98,443,739,941",2814,Boomers
+5800,Colombia,1998,female,5-14 years,47,4205288,1.12,Colombia1998,,"98,443,739,941",2814,Millenials
+5801,Colombia,1998,female,55-74 years,18,1623053,1.11,Colombia1998,,"98,443,739,941",2814,Silent
+5802,Colombia,1998,male,5-14 years,36,4369564,0.82,Colombia1998,,"98,443,739,941",2814,Millenials
+5803,Colombia,1998,female,75+ years,3,382185,0.78,Colombia1998,,"98,443,739,941",2814,G.I. Generation
+5804,Colombia,1999,male,75+ years,53,281533,18.83,Colombia1999,,"86,186,158,685",2419,G.I. Generation
+5805,Colombia,1999,male,55-74 years,217,1437035,15.1,Colombia1999,,"86,186,158,685",2419,Silent
+5806,Colombia,1999,male,15-24 years,506,3930904,12.87,Colombia1999,,"86,186,158,685",2419,Generation X
+5807,Colombia,1999,male,25-34 years,414,3300918,12.54,Colombia1999,,"86,186,158,685",2419,Generation X
+5808,Colombia,1999,male,35-54 years,425,4231334,10.04,Colombia1999,,"86,186,158,685",2419,Boomers
+5809,Colombia,1999,female,15-24 years,240,3860670,6.22,Colombia1999,,"86,186,158,685",2419,Generation X
+5810,Colombia,1999,female,25-34 years,97,3388982,2.86,Colombia1999,,"86,186,158,685",2419,Generation X
+5811,Colombia,1999,female,35-54 years,90,4537037,1.98,Colombia1999,,"86,186,158,685",2419,Boomers
+5812,Colombia,1999,female,5-14 years,46,4210355,1.09,Colombia1999,,"86,186,158,685",2419,Millenials
+5813,Colombia,1999,female,55-74 years,17,1676984,1.01,Colombia1999,,"86,186,158,685",2419,Silent
+5814,Colombia,1999,male,5-14 years,35,4377335,0.8,Colombia1999,,"86,186,158,685",2419,Millenials
+5815,Colombia,1999,female,75+ years,3,396321,0.76,Colombia1999,,"86,186,158,685",2419,G.I. Generation
+5816,Colombia,2000,male,75+ years,60,290481,20.66,Colombia2000,0.654,"99,886,577,331",2755,G.I. Generation
+5817,Colombia,2000,male,15-24 years,629,3998961,15.73,Colombia2000,0.654,"99,886,577,331",2755,Generation X
+5818,Colombia,2000,male,55-74 years,198,1491171,13.28,Colombia2000,0.654,"99,886,577,331",2755,Silent
+5819,Colombia,2000,male,25-34 years,438,3310535,13.23,Colombia2000,0.654,"99,886,577,331",2755,Generation X
+5820,Colombia,2000,male,35-54 years,453,4391802,10.31,Colombia2000,0.654,"99,886,577,331",2755,Boomers
+5821,Colombia,2000,female,15-24 years,262,3921422,6.68,Colombia2000,0.654,"99,886,577,331",2755,Generation X
+5822,Colombia,2000,female,25-34 years,96,3400584,2.82,Colombia2000,0.654,"99,886,577,331",2755,Generation X
+5823,Colombia,2000,female,35-54 years,99,4710061,2.1,Colombia2000,0.654,"99,886,577,331",2755,Boomers
+5824,Colombia,2000,female,75+ years,6,409711,1.46,Colombia2000,0.654,"99,886,577,331",2755,G.I. Generation
+5825,Colombia,2000,female,5-14 years,57,4209864,1.35,Colombia2000,0.654,"99,886,577,331",2755,Millenials
+5826,Colombia,2000,female,55-74 years,23,1738797,1.32,Colombia2000,0.654,"99,886,577,331",2755,Silent
+5827,Colombia,2000,male,5-14 years,37,4378953,0.84,Colombia2000,0.654,"99,886,577,331",2755,Millenials
+5828,Colombia,2001,male,75+ years,54,304065,17.76,Colombia2001,,"98,203,546,156",2662,Silent
+5829,Colombia,2001,male,55-74 years,234,1547265,15.12,Colombia2001,,"98,203,546,156",2662,Silent
+5830,Colombia,2001,male,15-24 years,602,4057598,14.84,Colombia2001,,"98,203,546,156",2662,Millenials
+5831,Colombia,2001,male,25-34 years,439,3328209,13.19,Colombia2001,,"98,203,546,156",2662,Generation X
+5832,Colombia,2001,male,35-54 years,491,4555809,10.78,Colombia2001,,"98,203,546,156",2662,Boomers
+5833,Colombia,2001,female,15-24 years,302,3976430,7.59,Colombia2001,,"98,203,546,156",2662,Millenials
+5834,Colombia,2001,female,25-34 years,105,3416780,3.07,Colombia2001,,"98,203,546,156",2662,Generation X
+5835,Colombia,2001,female,55-74 years,30,1803020,1.66,Colombia2001,,"98,203,546,156",2662,Silent
+5836,Colombia,2001,female,35-54 years,71,4884700,1.45,Colombia2001,,"98,203,546,156",2662,Boomers
+5837,Colombia,2001,female,5-14 years,45,4206893,1.07,Colombia2001,,"98,203,546,156",2662,Millenials
+5838,Colombia,2001,female,75+ years,4,427591,0.94,Colombia2001,,"98,203,546,156",2662,Silent
+5839,Colombia,2001,male,5-14 years,35,4376068,0.8,Colombia2001,,"98,203,546,156",2662,Millenials
+5840,Colombia,2002,male,75+ years,48,316252,15.18,Colombia2002,,"97,933,391,976",2613,Silent
+5841,Colombia,2002,male,15-24 years,590,4104822,14.37,Colombia2002,,"97,933,391,976",2613,Millenials
+5842,Colombia,2002,male,25-34 years,460,3344207,13.76,Colombia2002,,"97,933,391,976",2613,Generation X
+5843,Colombia,2002,male,55-74 years,177,1609818,11.0,Colombia2002,,"97,933,391,976",2613,Silent
+5844,Colombia,2002,male,35-54 years,487,4717038,10.32,Colombia2002,,"97,933,391,976",2613,Boomers
+5845,Colombia,2002,female,15-24 years,295,4019790,7.34,Colombia2002,,"97,933,391,976",2613,Millenials
+5846,Colombia,2002,female,25-34 years,92,3430874,2.68,Colombia2002,,"97,933,391,976",2613,Generation X
+5847,Colombia,2002,female,35-54 years,81,5056712,1.6,Colombia2002,,"97,933,391,976",2613,Boomers
+5848,Colombia,2002,female,5-14 years,64,4195227,1.53,Colombia2002,,"97,933,391,976",2613,Millenials
+5849,Colombia,2002,female,55-74 years,28,1874594,1.49,Colombia2002,,"97,933,391,976",2613,Silent
+5850,Colombia,2002,male,5-14 years,53,4364710,1.21,Colombia2002,,"97,933,391,976",2613,Millenials
+5851,Colombia,2002,female,75+ years,4,444232,0.9,Colombia2002,,"97,933,391,976",2613,Silent
+5852,Colombia,2003,male,75+ years,49,327352,14.97,Colombia2003,,"94,684,584,163",2489,Silent
+5853,Colombia,2003,male,55-74 years,235,1679338,13.99,Colombia2003,,"94,684,584,163",2489,Silent
+5854,Colombia,2003,male,25-34 years,424,3363500,12.61,Colombia2003,,"94,684,584,163",2489,Generation X
+5855,Colombia,2003,male,15-24 years,508,4143231,12.26,Colombia2003,,"94,684,584,163",2489,Millenials
+5856,Colombia,2003,male,35-54 years,441,4872021,9.05,Colombia2003,,"94,684,584,163",2489,Boomers
+5857,Colombia,2003,female,15-24 years,299,4053688,7.38,Colombia2003,,"94,684,584,163",2489,Millenials
+5858,Colombia,2003,female,25-34 years,93,3447910,2.7,Colombia2003,,"94,684,584,163",2489,Generation X
+5859,Colombia,2003,female,35-54 years,96,5222660,1.84,Colombia2003,,"94,684,584,163",2489,Boomers
+5860,Colombia,2003,female,55-74 years,35,1953968,1.79,Colombia2003,,"94,684,584,163",2489,Silent
+5861,Colombia,2003,female,75+ years,6,460065,1.3,Colombia2003,,"94,684,584,163",2489,Silent
+5862,Colombia,2003,female,5-14 years,48,4175544,1.15,Colombia2003,,"94,684,584,163",2489,Millenials
+5863,Colombia,2003,male,5-14 years,35,4345236,0.81,Colombia2003,,"94,684,584,163",2489,Millenials
+5864,Colombia,2004,male,75+ years,74,337747,21.91,Colombia2004,,"117,074,863,822",3033,Silent
+5865,Colombia,2004,male,55-74 years,229,1756739,13.04,Colombia2004,,"117,074,863,822",3033,Silent
+5866,Colombia,2004,male,15-24 years,522,4177514,12.5,Colombia2004,,"117,074,863,822",3033,Millenials
+5867,Colombia,2004,male,25-34 years,397,3393144,11.7,Colombia2004,,"117,074,863,822",3033,Generation X
+5868,Colombia,2004,male,35-54 years,465,5016477,9.27,Colombia2004,,"117,074,863,822",3033,Boomers
+5869,Colombia,2004,female,15-24 years,246,4082601,6.03,Colombia2004,,"117,074,863,822",3033,Millenials
+5870,Colombia,2004,female,25-34 years,91,3474885,2.62,Colombia2004,,"117,074,863,822",3033,Generation X
+5871,Colombia,2004,female,75+ years,9,475649,1.89,Colombia2004,,"117,074,863,822",3033,Silent
+5872,Colombia,2004,female,35-54 years,85,5378213,1.58,Colombia2004,,"117,074,863,822",3033,Boomers
+5873,Colombia,2004,female,55-74 years,29,2041937,1.42,Colombia2004,,"117,074,863,822",3033,Silent
+5874,Colombia,2004,male,5-14 years,56,4319787,1.3,Colombia2004,,"117,074,863,822",3033,Millenials
+5875,Colombia,2004,female,5-14 years,41,4150023,0.99,Colombia2004,,"117,074,863,822",3033,Millenials
+5876,Colombia,2005,male,75+ years,63,347667,18.12,Colombia2005,0.679,"146,566,264,837",3742,Silent
+5877,Colombia,2005,male,15-24 years,517,4209960,12.28,Colombia2005,0.679,"146,566,264,837",3742,Millenials
+5878,Colombia,2005,male,55-74 years,219,1842503,11.89,Colombia2005,0.679,"146,566,264,837",3742,Silent
+5879,Colombia,2005,male,25-34 years,352,3436781,10.24,Colombia2005,0.679,"146,566,264,837",3742,Generation X
+5880,Colombia,2005,male,35-54 years,434,5147445,8.43,Colombia2005,0.679,"146,566,264,837",3742,Boomers
+5881,Colombia,2005,female,15-24 years,225,4108824,5.48,Colombia2005,0.679,"146,566,264,837",3742,Millenials
+5882,Colombia,2005,female,25-34 years,93,3515419,2.65,Colombia2005,0.679,"146,566,264,837",3742,Generation X
+5883,Colombia,2005,female,35-54 years,87,5520328,1.58,Colombia2005,0.679,"146,566,264,837",3742,Boomers
+5884,Colombia,2005,female,55-74 years,27,2138822,1.26,Colombia2005,0.679,"146,566,264,837",3742,Silent
+5885,Colombia,2005,male,5-14 years,52,4291635,1.21,Colombia2005,0.679,"146,566,264,837",3742,Millenials
+5886,Colombia,2005,female,75+ years,5,491399,1.02,Colombia2005,0.679,"146,566,264,837",3742,Silent
+5887,Colombia,2005,female,5-14 years,28,4122007,0.68,Colombia2005,0.679,"146,566,264,837",3742,Millenials
+5888,Colombia,2006,male,75+ years,78,363411,21.46,Colombia2006,,"162,590,146,096",4095,Silent
+5889,Colombia,2006,male,15-24 years,521,4229825,12.32,Colombia2006,,"162,590,146,096",4095,Millenials
+5890,Colombia,2006,male,25-34 years,408,3492325,11.68,Colombia2006,,"162,590,146,096",4095,Generation X
+5891,Colombia,2006,male,55-74 years,211,1925991,10.96,Colombia2006,,"162,590,146,096",4095,Silent
+5892,Colombia,2006,male,35-54 years,453,5261515,8.61,Colombia2006,,"162,590,146,096",4095,Boomers
+5893,Colombia,2006,female,15-24 years,197,4126897,4.77,Colombia2006,,"162,590,146,096",4095,Millenials
+5894,Colombia,2006,female,25-34 years,96,3566953,2.69,Colombia2006,,"162,590,146,096",4095,Generation X
+5895,Colombia,2006,female,35-54 years,90,5642326,1.6,Colombia2006,,"162,590,146,096",4095,Boomers
+5896,Colombia,2006,female,55-74 years,33,2234226,1.48,Colombia2006,,"162,590,146,096",4095,Silent
+5897,Colombia,2006,male,5-14 years,46,4260456,1.08,Colombia2006,,"162,590,146,096",4095,Millenials
+5898,Colombia,2006,female,5-14 years,40,4092360,0.98,Colombia2006,,"162,590,146,096",4095,Millenials
+5899,Colombia,2006,female,75+ years,4,512391,0.78,Colombia2006,,"162,590,146,096",4095,Silent
+5900,Colombia,2007,male,75+ years,67,378405,17.71,Colombia2007,,"207,416,494,642",5150,Silent
+5901,Colombia,2007,male,55-74 years,245,2018827,12.14,Colombia2007,,"207,416,494,642",5150,Silent
+5902,Colombia,2007,male,15-24 years,493,4248033,11.61,Colombia2007,,"207,416,494,642",5150,Millenials
+5903,Colombia,2007,male,25-34 years,410,3562854,11.51,Colombia2007,,"207,416,494,642",5150,Generation X
+5904,Colombia,2007,male,35-54 years,475,5364516,8.85,Colombia2007,,"207,416,494,642",5150,Boomers
+5905,Colombia,2007,female,15-24 years,208,4142290,5.02,Colombia2007,,"207,416,494,642",5150,Millenials
+5906,Colombia,2007,female,25-34 years,105,3633920,2.89,Colombia2007,,"207,416,494,642",5150,Generation X
+5907,Colombia,2007,female,35-54 years,82,5752377,1.43,Colombia2007,,"207,416,494,642",5150,Boomers
+5908,Colombia,2007,female,5-14 years,40,4066699,0.98,Colombia2007,,"207,416,494,642",5150,Generation Z
+5909,Colombia,2007,male,5-14 years,37,4234298,0.87,Colombia2007,,"207,416,494,642",5150,Generation Z
+5910,Colombia,2007,female,55-74 years,16,2339825,0.68,Colombia2007,,"207,416,494,642",5150,Silent
+5911,Colombia,2007,female,75+ years,3,533162,0.56,Colombia2007,,"207,416,494,642",5150,Silent
+5912,Colombia,2008,male,75+ years,69,392608,17.57,Colombia2008,,"243,982,437,871",5971,Silent
+5913,Colombia,2008,male,55-74 years,250,2119709,11.79,Colombia2008,,"243,982,437,871",5971,Silent
+5914,Colombia,2008,male,25-34 years,417,3641000,11.45,Colombia2008,,"243,982,437,871",5971,Generation X
+5915,Colombia,2008,male,15-24 years,479,4263159,11.24,Colombia2008,,"243,982,437,871",5971,Millenials
+5916,Colombia,2008,male,35-54 years,510,5459636,9.34,Colombia2008,,"243,982,437,871",5971,Boomers
+5917,Colombia,2008,female,15-24 years,206,4153413,4.96,Colombia2008,,"243,982,437,871",5971,Millenials
+5918,Colombia,2008,female,25-34 years,85,3709016,2.29,Colombia2008,,"243,982,437,871",5971,Generation X
+5919,Colombia,2008,female,35-54 years,82,5853848,1.4,Colombia2008,,"243,982,437,871",5971,Boomers
+5920,Colombia,2008,male,5-14 years,47,4213275,1.12,Colombia2008,,"243,982,437,871",5971,Generation Z
+5921,Colombia,2008,female,55-74 years,27,2454148,1.1,Colombia2008,,"243,982,437,871",5971,Silent
+5922,Colombia,2008,female,5-14 years,43,4045559,1.06,Colombia2008,,"243,982,437,871",5971,Generation Z
+5923,Colombia,2008,female,75+ years,5,553758,0.9,Colombia2008,,"243,982,437,871",5971,Silent
+5924,Colombia,2009,male,75+ years,72,405866,17.74,Colombia2009,,"233,821,670,544",5643,Silent
+5925,Colombia,2009,male,25-34 years,426,3715402,11.47,Colombia2009,,"233,821,670,544",5643,Generation X
+5926,Colombia,2009,male,55-74 years,252,2226378,11.32,Colombia2009,,"233,821,670,544",5643,Silent
+5927,Colombia,2009,male,15-24 years,481,4272494,11.26,Colombia2009,,"233,821,670,544",5643,Millenials
+5928,Colombia,2009,male,35-54 years,517,5552239,9.31,Colombia2009,,"233,821,670,544",5643,Boomers
+5929,Colombia,2009,female,15-24 years,207,4157810,4.98,Colombia2009,,"233,821,670,544",5643,Millenials
+5930,Colombia,2009,female,25-34 years,72,3780652,1.9,Colombia2009,,"233,821,670,544",5643,Generation X
+5931,Colombia,2009,female,55-74 years,46,2574750,1.79,Colombia2009,,"233,821,670,544",5643,Silent
+5932,Colombia,2009,female,35-54 years,87,5952480,1.46,Colombia2009,,"233,821,670,544",5643,Boomers
+5933,Colombia,2009,male,5-14 years,54,4196033,1.29,Colombia2009,,"233,821,670,544",5643,Generation Z
+5934,Colombia,2009,female,5-14 years,32,4027989,0.79,Colombia2009,,"233,821,670,544",5643,Generation Z
+5935,Colombia,2009,female,75+ years,3,574080,0.52,Colombia2009,,"233,821,670,544",5643,Silent
+5936,Colombia,2010,male,75+ years,65,418296,15.54,Colombia2010,0.706,"287,018,184,638",6836,Silent
+5937,Colombia,2010,male,25-34 years,436,3779392,11.54,Colombia2010,0.706,"287,018,184,638",6836,Generation X
+5938,Colombia,2010,male,15-24 years,480,4274849,11.23,Colombia2010,0.706,"287,018,184,638",6836,Millenials
+5939,Colombia,2010,male,55-74 years,225,2337537,9.63,Colombia2010,0.706,"287,018,184,638",6836,Silent
+5940,Colombia,2010,male,35-54 years,463,5646115,8.2,Colombia2010,0.706,"287,018,184,638",6836,Generation X
+5941,Colombia,2010,female,15-24 years,187,4154664,4.5,Colombia2010,0.706,"287,018,184,638",6836,Millenials
+5942,Colombia,2010,female,25-34 years,78,3841659,2.03,Colombia2010,0.706,"287,018,184,638",6836,Generation X
+5943,Colombia,2010,female,35-54 years,72,6052417,1.19,Colombia2010,0.706,"287,018,184,638",6836,Generation X
+5944,Colombia,2010,male,5-14 years,41,4178908,0.98,Colombia2010,0.706,"287,018,184,638",6836,Generation Z
+5945,Colombia,2010,female,5-14 years,39,4010759,0.97,Colombia2010,0.706,"287,018,184,638",6836,Generation Z
+5946,Colombia,2010,female,75+ years,5,594329,0.84,Colombia2010,0.706,"287,018,184,638",6836,Silent
+5947,Colombia,2010,female,55-74 years,16,2700178,0.59,Colombia2010,0.706,"287,018,184,638",6836,Silent
+5948,Colombia,2011,male,75+ years,60,436385,13.75,Colombia2011,0.713,"335,415,156,702",7885,Silent
+5949,Colombia,2011,male,15-24 years,450,4268385,10.54,Colombia2011,0.713,"335,415,156,702",7885,Millenials
+5950,Colombia,2011,male,25-34 years,382,3840952,9.95,Colombia2011,0.713,"335,415,156,702",7885,Millenials
+5951,Colombia,2011,male,55-74 years,231,2445112,9.45,Colombia2011,0.713,"335,415,156,702",7885,Boomers
+5952,Colombia,2011,male,35-54 years,498,5745871,8.67,Colombia2011,0.713,"335,415,156,702",7885,Generation X
+5953,Colombia,2011,female,15-24 years,159,4147875,3.83,Colombia2011,0.713,"335,415,156,702",7885,Millenials
+5954,Colombia,2011,female,25-34 years,69,3897562,1.77,Colombia2011,0.713,"335,415,156,702",7885,Millenials
+5955,Colombia,2011,female,35-54 years,87,6156452,1.41,Colombia2011,0.713,"335,415,156,702",7885,Generation X
+5956,Colombia,2011,female,55-74 years,29,2822325,1.03,Colombia2011,0.713,"335,415,156,702",7885,Boomers
+5957,Colombia,2011,male,5-14 years,41,4163139,0.98,Colombia2011,0.713,"335,415,156,702",7885,Generation Z
+5958,Colombia,2011,female,5-14 years,34,3995726,0.85,Colombia2011,0.713,"335,415,156,702",7885,Generation Z
+5959,Colombia,2011,female,75+ years,4,618521,0.65,Colombia2011,0.713,"335,415,156,702",7885,Silent
+5960,Colombia,2012,male,75+ years,69,453582,15.21,Colombia2012,0.715,"369,659,700,376",8586,Silent
+5961,Colombia,2012,male,15-24 years,486,4254495,11.42,Colombia2012,0.715,"369,659,700,376",8586,Millenials
+5962,Colombia,2012,male,25-34 years,412,3891260,10.59,Colombia2012,0.715,"369,659,700,376",8586,Millenials
+5963,Colombia,2012,male,55-74 years,266,2556199,10.41,Colombia2012,0.715,"369,659,700,376",8586,Boomers
+5964,Colombia,2012,male,35-54 years,455,5846650,7.78,Colombia2012,0.715,"369,659,700,376",8586,Generation X
+5965,Colombia,2012,female,15-24 years,151,4133625,3.65,Colombia2012,0.715,"369,659,700,376",8586,Millenials
+5966,Colombia,2012,female,25-34 years,73,3942505,1.85,Colombia2012,0.715,"369,659,700,376",8586,Millenials
+5967,Colombia,2012,female,55-74 years,41,2948489,1.39,Colombia2012,0.715,"369,659,700,376",8586,Boomers
+5968,Colombia,2012,female,35-54 years,83,6261133,1.33,Colombia2012,0.715,"369,659,700,376",8586,Generation X
+5969,Colombia,2012,male,5-14 years,44,4146398,1.06,Colombia2012,0.715,"369,659,700,376",8586,Generation Z
+5970,Colombia,2012,female,75+ years,6,642251,0.93,Colombia2012,0.715,"369,659,700,376",8586,Silent
+5971,Colombia,2012,female,5-14 years,33,3979277,0.83,Colombia2012,0.715,"369,659,700,376",8586,Generation Z
+5972,Colombia,2013,male,75+ years,69,470105,14.68,Colombia2013,0.718,"380,191,881,860",8731,Silent
+5973,Colombia,2013,male,15-24 years,450,4235904,10.62,Colombia2013,0.718,"380,191,881,860",8731,Millenials
+5974,Colombia,2013,male,55-74 years,260,2672132,9.73,Colombia2013,0.718,"380,191,881,860",8731,Boomers
+5975,Colombia,2013,male,25-34 years,381,3931611,9.69,Colombia2013,0.718,"380,191,881,860",8731,Millenials
+5976,Colombia,2013,male,35-54 years,462,5947520,7.77,Colombia2013,0.718,"380,191,881,860",8731,Generation X
+5977,Colombia,2013,female,15-24 years,141,4114036,3.43,Colombia2013,0.718,"380,191,881,860",8731,Millenials
+5978,Colombia,2013,female,25-34 years,81,3977885,2.04,Colombia2013,0.718,"380,191,881,860",8731,Millenials
+5979,Colombia,2013,female,35-54 years,101,6365459,1.59,Colombia2013,0.718,"380,191,881,860",8731,Generation X
+5980,Colombia,2013,female,55-74 years,41,3079952,1.33,Colombia2013,0.718,"380,191,881,860",8731,Boomers
+5981,Colombia,2013,male,5-14 years,41,4126269,0.99,Colombia2013,0.718,"380,191,881,860",8731,Generation Z
+5982,Colombia,2013,female,5-14 years,36,3959475,0.91,Colombia2013,0.718,"380,191,881,860",8731,Generation Z
+5983,Colombia,2013,female,75+ years,5,665950,0.75,Colombia2013,0.718,"380,191,881,860",8731,Silent
+5984,Colombia,2014,male,75+ years,83,486197,17.07,Colombia2014,0.72,"378,195,716,714",8591,Silent
+5985,Colombia,2014,male,15-24 years,480,4216293,11.38,Colombia2014,0.72,"378,195,716,714",8591,Millenials
+5986,Colombia,2014,male,55-74 years,283,2795271,10.12,Colombia2014,0.72,"378,195,716,714",8591,Boomers
+5987,Colombia,2014,male,25-34 years,395,3965410,9.96,Colombia2014,0.72,"378,195,716,714",8591,Millenials
+5988,Colombia,2014,male,35-54 years,477,6046987,7.89,Colombia2014,0.72,"378,195,716,714",8591,Generation X
+5989,Colombia,2014,female,15-24 years,132,4092325,3.23,Colombia2014,0.72,"378,195,716,714",8591,Millenials
+5990,Colombia,2014,female,25-34 years,82,4007103,2.05,Colombia2014,0.72,"378,195,716,714",8591,Millenials
+5991,Colombia,2014,female,55-74 years,43,3219142,1.34,Colombia2014,0.72,"378,195,716,714",8591,Boomers
+5992,Colombia,2014,female,35-54 years,82,6467724,1.27,Colombia2014,0.72,"378,195,716,714",8591,Generation X
+5993,Colombia,2014,male,5-14 years,37,4100740,0.9,Colombia2014,0.72,"378,195,716,714",8591,Generation Z
+5994,Colombia,2014,female,75+ years,5,690028,0.72,Colombia2014,0.72,"378,195,716,714",8591,Silent
+5995,Colombia,2014,female,5-14 years,27,3934580,0.69,Colombia2014,0.72,"378,195,716,714",8591,Generation Z
+5996,Colombia,2015,male,75+ years,82,502228,16.33,Colombia2015,,"291,519,591,533",6552,Silent
+5997,Colombia,2015,male,15-24 years,473,4197599,11.27,Colombia2015,,"291,519,591,533",6552,Millenials
+5998,Colombia,2015,male,55-74 years,317,2926656,10.83,Colombia2015,,"291,519,591,533",6552,Boomers
+5999,Colombia,2015,male,25-34 years,379,3994717,9.49,Colombia2015,,"291,519,591,533",6552,Millenials
+6000,Colombia,2015,male,35-54 years,560,6143478,9.12,Colombia2015,,"291,519,591,533",6552,Generation X
+6001,Colombia,2015,female,15-24 years,176,4070390,4.32,Colombia2015,,"291,519,591,533",6552,Millenials
+6002,Colombia,2015,female,25-34 years,111,4031995,2.75,Colombia2015,,"291,519,591,533",6552,Millenials
+6003,Colombia,2015,female,35-54 years,96,6566323,1.46,Colombia2015,,"291,519,591,533",6552,Generation X
+6004,Colombia,2015,female,75+ years,10,715044,1.4,Colombia2015,,"291,519,591,533",6552,Silent
+6005,Colombia,2015,female,55-74 years,45,3367078,1.34,Colombia2015,,"291,519,591,533",6552,Boomers
+6006,Colombia,2015,female,5-14 years,44,3904896,1.13,Colombia2015,,"291,519,591,533",6552,Generation Z
+6007,Colombia,2015,male,5-14 years,39,4070023,0.96,Colombia2015,,"291,519,591,533",6552,Generation Z

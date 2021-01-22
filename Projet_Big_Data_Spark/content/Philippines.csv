@@ -1,0 +1,181 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+18888,Philippines,1992,male,75+ years,6,265186,2.26,Philippines1992,,"52,976,344,929",958,G.I. Generation
+18889,Philippines,1992,male,55-74 years,26,1817237,1.43,Philippines1992,,"52,976,344,929",958,Silent
+18890,Philippines,1992,male,25-34 years,66,5080108,1.3,Philippines1992,,"52,976,344,929",958,Boomers
+18891,Philippines,1992,male,15-24 years,86,6622107,1.3,Philippines1992,,"52,976,344,929",958,Generation X
+18892,Philippines,1992,male,35-54 years,60,5583152,1.07,Philippines1992,,"52,976,344,929",958,Boomers
+18893,Philippines,1992,female,15-24 years,57,6366294,0.9,Philippines1992,,"52,976,344,929",958,Generation X
+18894,Philippines,1992,female,75+ years,2,385751,0.52,Philippines1992,,"52,976,344,929",958,G.I. Generation
+18895,Philippines,1992,female,35-54 years,21,5529627,0.38,Philippines1992,,"52,976,344,929",958,Boomers
+18896,Philippines,1992,female,55-74 years,7,2109209,0.33,Philippines1992,,"52,976,344,929",958,Silent
+18897,Philippines,1992,female,25-34 years,16,4932715,0.32,Philippines1992,,"52,976,344,929",958,Boomers
+18898,Philippines,1992,female,5-14 years,0,8129872,0.0,Philippines1992,,"52,976,344,929",958,Millenials
+18899,Philippines,1992,male,5-14 years,0,8483426,0.0,Philippines1992,,"52,976,344,929",958,Millenials
+18900,Philippines,1993,male,75+ years,9,268392,3.35,Philippines1993,,"54,368,083,953",957,G.I. Generation
+18901,Philippines,1993,male,25-34 years,154,5196998,2.96,Philippines1993,,"54,368,083,953",957,Boomers
+18902,Philippines,1993,female,15-24 years,169,6509080,2.6,Philippines1993,,"54,368,083,953",957,Generation X
+18903,Philippines,1993,male,15-24 years,175,6764969,2.59,Philippines1993,,"54,368,083,953",957,Generation X
+18904,Philippines,1993,female,75+ years,10,395945,2.53,Philippines1993,,"54,368,083,953",957,G.I. Generation
+18905,Philippines,1993,male,35-54 years,128,5807147,2.2,Philippines1993,,"54,368,083,953",957,Boomers
+18906,Philippines,1993,male,55-74 years,40,1875192,2.13,Philippines1993,,"54,368,083,953",957,Silent
+18907,Philippines,1993,female,25-34 years,86,5051261,1.7,Philippines1993,,"54,368,083,953",957,Boomers
+18908,Philippines,1993,female,55-74 years,21,2175656,0.97,Philippines1993,,"54,368,083,953",957,Silent
+18909,Philippines,1993,female,35-54 years,54,5754827,0.94,Philippines1993,,"54,368,083,953",957,Boomers
+18910,Philippines,1993,female,5-14 years,0,8308799,0.0,Philippines1993,,"54,368,083,953",957,Millenials
+18911,Philippines,1993,male,5-14 years,0,8673303,0.0,Philippines1993,,"54,368,083,953",957,Millenials
+18912,Philippines,1997,male,75+ years,13,288929,4.5,Philippines1997,,"82,344,260,571",1312,G.I. Generation
+18913,Philippines,1997,male,25-34 years,193,5635075,3.42,Philippines1997,,"82,344,260,571",1312,Generation X
+18914,Philippines,1997,male,55-74 years,66,2136927,3.09,Philippines1997,,"82,344,260,571",1312,Silent
+18915,Philippines,1997,male,15-24 years,167,7367351,2.27,Philippines1997,,"82,344,260,571",1312,Generation X
+18916,Philippines,1997,male,35-54 years,146,6734331,2.17,Philippines1997,,"82,344,260,571",1312,Boomers
+18917,Philippines,1997,female,15-24 years,84,7103613,1.18,Philippines1997,,"82,344,260,571",1312,Generation X
+18918,Philippines,1997,female,25-34 years,49,5497526,0.89,Philippines1997,,"82,344,260,571",1312,Generation X
+18919,Philippines,1997,female,75+ years,4,450881,0.89,Philippines1997,,"82,344,260,571",1312,G.I. Generation
+18920,Philippines,1997,female,35-54 years,56,6702440,0.84,Philippines1997,,"82,344,260,571",1312,Boomers
+18921,Philippines,1997,female,55-74 years,20,2461814,0.81,Philippines1997,,"82,344,260,571",1312,Silent
+18922,Philippines,1997,male,5-14 years,10,9402618,0.11,Philippines1997,,"82,344,260,571",1312,Millenials
+18923,Philippines,1997,female,5-14 years,6,8991189,0.07,Philippines1997,,"82,344,260,571",1312,Millenials
+18924,Philippines,1998,male,75+ years,18,295869,6.08,Philippines1998,,"72,207,028,767",1124,G.I. Generation
+18925,Philippines,1998,male,25-34 years,198,5737075,3.45,Philippines1998,,"72,207,028,767",1124,Generation X
+18926,Philippines,1998,male,55-74 years,69,2209911,3.12,Philippines1998,,"72,207,028,767",1124,Silent
+18927,Philippines,1998,male,15-24 years,189,7523504,2.51,Philippines1998,,"72,207,028,767",1124,Generation X
+18928,Philippines,1998,male,35-54 years,175,6969508,2.51,Philippines1998,,"72,207,028,767",1124,Boomers
+18929,Philippines,1998,female,15-24 years,87,7255489,1.2,Philippines1998,,"72,207,028,767",1124,Generation X
+18930,Philippines,1998,female,25-34 years,52,5601858,0.93,Philippines1998,,"72,207,028,767",1124,Generation X
+18931,Philippines,1998,female,55-74 years,23,2539996,0.91,Philippines1998,,"72,207,028,767",1124,Silent
+18932,Philippines,1998,female,35-54 years,44,6946610,0.63,Philippines1998,,"72,207,028,767",1124,Boomers
+18933,Philippines,1998,female,75+ years,2,466825,0.43,Philippines1998,,"72,207,028,767",1124,G.I. Generation
+18934,Philippines,1998,male,5-14 years,16,9564500,0.17,Philippines1998,,"72,207,028,767",1124,Millenials
+18935,Philippines,1998,female,5-14 years,10,9141469,0.11,Philippines1998,,"72,207,028,767",1124,Millenials
+18936,Philippines,1999,male,75+ years,14,299370,4.68,Philippines1999,,"82,995,145,792",1262,G.I. Generation
+18937,Philippines,1999,male,55-74 years,79,2287574,3.45,Philippines1999,,"82,995,145,792",1262,Silent
+18938,Philippines,1999,male,25-34 years,199,5840463,3.41,Philippines1999,,"82,995,145,792",1262,Generation X
+18939,Philippines,1999,male,15-24 years,257,7687280,3.34,Philippines1999,,"82,995,145,792",1262,Generation X
+18940,Philippines,1999,male,35-54 years,225,7208041,3.12,Philippines1999,,"82,995,145,792",1262,Boomers
+18941,Philippines,1999,female,75+ years,13,479461,2.71,Philippines1999,,"82,995,145,792",1262,G.I. Generation
+18942,Philippines,1999,female,15-24 years,96,7413770,1.29,Philippines1999,,"82,995,145,792",1262,Generation X
+18943,Philippines,1999,female,25-34 years,61,5708649,1.07,Philippines1999,,"82,995,145,792",1262,Generation X
+18944,Philippines,1999,female,55-74 years,21,2623906,0.8,Philippines1999,,"82,995,145,792",1262,Silent
+18945,Philippines,1999,female,35-54 years,57,7196381,0.79,Philippines1999,,"82,995,145,792",1262,Boomers
+18946,Philippines,1999,male,5-14 years,14,9713454,0.14,Philippines1999,,"82,995,145,792",1262,Millenials
+18947,Philippines,1999,female,5-14 years,7,9281852,0.08,Philippines1999,,"82,995,145,792",1262,Millenials
+18948,Philippines,2000,male,75+ years,20,299136,6.69,Philippines2000,0.623,"81,026,300,311",1205,G.I. Generation
+18949,Philippines,2000,male,55-74 years,121,2370016,5.11,Philippines2000,0.623,"81,026,300,311",1205,Silent
+18950,Philippines,2000,male,25-34 years,276,5947283,4.64,Philippines2000,0.623,"81,026,300,311",1205,Generation X
+18951,Philippines,2000,male,15-24 years,316,7859202,4.02,Philippines2000,0.623,"81,026,300,311",1205,Generation X
+18952,Philippines,2000,male,35-54 years,294,7449254,3.95,Philippines2000,0.623,"81,026,300,311",1205,Boomers
+18953,Philippines,2000,female,75+ years,10,488377,2.05,Philippines2000,0.623,"81,026,300,311",1205,G.I. Generation
+18954,Philippines,2000,female,15-24 years,120,7579338,1.58,Philippines2000,0.623,"81,026,300,311",1205,Generation X
+18955,Philippines,2000,female,25-34 years,89,5820018,1.53,Philippines2000,0.623,"81,026,300,311",1205,Generation X
+18956,Philippines,2000,female,35-54 years,98,7451816,1.32,Philippines2000,0.623,"81,026,300,311",1205,Boomers
+18957,Philippines,2000,female,55-74 years,27,2713829,0.99,Philippines2000,0.623,"81,026,300,311",1205,Silent
+18958,Philippines,2000,male,5-14 years,18,9850796,0.18,Philippines2000,0.623,"81,026,300,311",1205,Millenials
+18959,Philippines,2000,female,5-14 years,14,9414417,0.15,Philippines2000,0.623,"81,026,300,311",1205,Millenials
+18960,Philippines,2001,male,75+ years,20,309681,6.46,Philippines2001,,"76,262,072,468",1109,Silent
+18961,Philippines,2001,male,55-74 years,104,2445998,4.25,Philippines2001,,"76,262,072,468",1109,Silent
+18962,Philippines,2001,male,25-34 years,246,6058399,4.06,Philippines2001,,"76,262,072,468",1109,Generation X
+18963,Philippines,2001,male,15-24 years,310,8018698,3.87,Philippines2001,,"76,262,072,468",1109,Millenials
+18964,Philippines,2001,male,35-54 years,235,7684196,3.06,Philippines2001,,"76,262,072,468",1109,Boomers
+18965,Philippines,2001,female,15-24 years,104,7738503,1.34,Philippines2001,,"76,262,072,468",1109,Millenials
+18966,Philippines,2001,female,55-74 years,34,2797077,1.22,Philippines2001,,"76,262,072,468",1109,Silent
+18967,Philippines,2001,female,35-54 years,79,7711226,1.02,Philippines2001,,"76,262,072,468",1109,Boomers
+18968,Philippines,2001,female,25-34 years,48,5937956,0.81,Philippines2001,,"76,262,072,468",1109,Generation X
+18969,Philippines,2001,female,75+ years,4,505269,0.79,Philippines2001,,"76,262,072,468",1109,Silent
+18970,Philippines,2001,male,5-14 years,12,9985839,0.12,Philippines2001,,"76,262,072,468",1109,Millenials
+18971,Philippines,2001,female,5-14 years,8,9545250,0.08,Philippines2001,,"76,262,072,468",1109,Millenials
+18972,Philippines,2002,male,75+ years,20,316845,6.31,Philippines2002,,"81,357,605,642",1158,Silent
+18973,Philippines,2002,male,25-34 years,267,6171400,4.33,Philippines2002,,"81,357,605,642",1158,Generation X
+18974,Philippines,2002,male,15-24 years,346,8184036,4.23,Philippines2002,,"81,357,605,642",1158,Millenials
+18975,Philippines,2002,male,55-74 years,93,2525030,3.68,Philippines2002,,"81,357,605,642",1158,Silent
+18976,Philippines,2002,male,35-54 years,251,7922273,3.17,Philippines2002,,"81,357,605,642",1158,Boomers
+18977,Philippines,2002,female,75+ years,11,518398,2.12,Philippines2002,,"81,357,605,642",1158,Silent
+18978,Philippines,2002,female,15-24 years,114,7903007,1.44,Philippines2002,,"81,357,605,642",1158,Millenials
+18979,Philippines,2002,female,25-34 years,61,6059494,1.01,Philippines2002,,"81,357,605,642",1158,Generation X
+18980,Philippines,2002,female,55-74 years,27,2885746,0.94,Philippines2002,,"81,357,605,642",1158,Silent
+18981,Philippines,2002,female,35-54 years,74,7977125,0.93,Philippines2002,,"81,357,605,642",1158,Boomers
+18982,Philippines,2002,male,5-14 years,22,10117670,0.22,Philippines2002,,"81,357,605,642",1158,Millenials
+18983,Philippines,2002,female,5-14 years,15,9675419,0.16,Philippines2002,,"81,357,605,642",1158,Millenials
+18984,Philippines,2003,male,75+ years,25,321984,7.76,Philippines2003,,"83,908,206,648",1169,Silent
+18985,Philippines,2003,male,25-34 years,328,6286119,5.22,Philippines2003,,"83,908,206,648",1169,Generation X
+18986,Philippines,2003,male,55-74 years,107,2610718,4.1,Philippines2003,,"83,908,206,648",1169,Silent
+18987,Philippines,2003,male,35-54 years,333,8157759,4.08,Philippines2003,,"83,908,206,648",1169,Boomers
+18988,Philippines,2003,male,15-24 years,328,8353621,3.93,Philippines2003,,"83,908,206,648",1169,Millenials
+18989,Philippines,2003,female,75+ years,13,529230,2.46,Philippines2003,,"83,908,206,648",1169,Silent
+18990,Philippines,2003,female,15-24 years,166,8067958,2.06,Philippines2003,,"83,908,206,648",1169,Millenials
+18991,Philippines,2003,female,25-34 years,90,6181789,1.46,Philippines2003,,"83,908,206,648",1169,Generation X
+18992,Philippines,2003,female,35-54 years,93,8239334,1.13,Philippines2003,,"83,908,206,648",1169,Boomers
+18993,Philippines,2003,female,55-74 years,26,2983062,0.87,Philippines2003,,"83,908,206,648",1169,Silent
+18994,Philippines,2003,male,5-14 years,21,10247489,0.2,Philippines2003,,"83,908,206,648",1169,Millenials
+18995,Philippines,2003,female,5-14 years,14,9802426,0.14,Philippines2003,,"83,908,206,648",1169,Millenials
+18996,Philippines,2006,male,75+ years,33,355935,9.27,Philippines2006,,"122,210,716,310",1599,Silent
+18997,Philippines,2006,male,25-34 years,369,6698883,5.51,Philippines2006,,"122,210,716,310",1599,Generation X
+18998,Philippines,2006,male,55-74 years,162,2986225,5.42,Philippines2006,,"122,210,716,310",1599,Silent
+18999,Philippines,2006,male,15-24 years,400,8792762,4.55,Philippines2006,,"122,210,716,310",1599,Millenials
+19000,Philippines,2006,male,35-54 years,387,8891788,4.35,Philippines2006,,"122,210,716,310",1599,Boomers
+19001,Philippines,2006,female,15-24 years,146,8479381,1.72,Philippines2006,,"122,210,716,310",1599,Millenials
+19002,Philippines,2006,female,75+ years,10,581896,1.72,Philippines2006,,"122,210,716,310",1599,Silent
+19003,Philippines,2006,female,25-34 years,91,6566402,1.39,Philippines2006,,"122,210,716,310",1599,Generation X
+19004,Philippines,2006,female,55-74 years,39,3408683,1.14,Philippines2006,,"122,210,716,310",1599,Silent
+19005,Philippines,2006,female,35-54 years,88,8949537,0.98,Philippines2006,,"122,210,716,310",1599,Boomers
+19006,Philippines,2006,male,5-14 years,35,10602914,0.33,Philippines2006,,"122,210,716,310",1599,Millenials
+19007,Philippines,2006,female,5-14 years,28,10121349,0.28,Philippines2006,,"122,210,716,310",1599,Millenials
+19008,Philippines,2007,male,75+ years,19,381376,4.98,Philippines2007,,"149,359,918,060",1915,Silent
+19009,Philippines,2007,male,15-24 years,430,8891042,4.84,Philippines2007,,"149,359,918,060",1915,Millenials
+19010,Philippines,2007,male,25-34 years,304,6859752,4.43,Philippines2007,,"149,359,918,060",1915,Generation X
+19011,Philippines,2007,male,35-54 years,387,9192285,4.21,Philippines2007,,"149,359,918,060",1915,Boomers
+19012,Philippines,2007,male,55-74 years,131,3162355,4.14,Philippines2007,,"149,359,918,060",1915,Silent
+19013,Philippines,2007,female,15-24 years,158,8579154,1.84,Philippines2007,,"149,359,918,060",1915,Millenials
+19014,Philippines,2007,female,25-34 years,89,6698777,1.33,Philippines2007,,"149,359,918,060",1915,Generation X
+19015,Philippines,2007,female,55-74 years,43,3600369,1.19,Philippines2007,,"149,359,918,060",1915,Silent
+19016,Philippines,2007,female,35-54 years,98,9184426,1.07,Philippines2007,,"149,359,918,060",1915,Boomers
+19017,Philippines,2007,female,75+ years,5,616190,0.81,Philippines2007,,"149,359,918,060",1915,Silent
+19018,Philippines,2007,male,5-14 years,21,10679730,0.2,Philippines2007,,"149,359,918,060",1915,Generation Z
+19019,Philippines,2007,female,5-14 years,13,10163198,0.13,Philippines2007,,"149,359,918,060",1915,Generation Z
+19020,Philippines,2008,male,75+ years,29,407854,7.11,Philippines2008,,"174,195,136,253",2188,Silent
+19021,Philippines,2008,male,25-34 years,370,7009909,5.28,Philippines2008,,"174,195,136,253",2188,Generation X
+19022,Philippines,2008,male,15-24 years,441,9009351,4.89,Philippines2008,,"174,195,136,253",2188,Millenials
+19023,Philippines,2008,male,55-74 years,144,3349085,4.3,Philippines2008,,"174,195,136,253",2188,Silent
+19024,Philippines,2008,male,35-54 years,403,9511269,4.24,Philippines2008,,"174,195,136,253",2188,Boomers
+19025,Philippines,2008,female,15-24 years,171,8697827,1.97,Philippines2008,,"174,195,136,253",2188,Millenials
+19026,Philippines,2008,female,75+ years,12,654125,1.83,Philippines2008,,"174,195,136,253",2188,Silent
+19027,Philippines,2008,female,25-34 years,81,6825356,1.19,Philippines2008,,"174,195,136,253",2188,Generation X
+19028,Philippines,2008,female,35-54 years,92,9432654,0.98,Philippines2008,,"174,195,136,253",2188,Boomers
+19029,Philippines,2008,female,55-74 years,31,3795762,0.82,Philippines2008,,"174,195,136,253",2188,Silent
+19030,Philippines,2008,male,5-14 years,24,10735591,0.22,Philippines2008,,"174,195,136,253",2188,Generation Z
+19031,Philippines,2008,female,5-14 years,22,10167105,0.22,Philippines2008,,"174,195,136,253",2188,Generation Z
+19032,Philippines,2009,male,75+ years,30,435025,6.9,Philippines2009,,"168,334,601,260",2073,Silent
+19033,Philippines,2009,male,25-34 years,383,7144648,5.36,Philippines2009,,"168,334,601,260",2073,Generation X
+19034,Philippines,2009,male,15-24 years,475,9146246,5.19,Philippines2009,,"168,334,601,260",2073,Millenials
+19035,Philippines,2009,male,55-74 years,171,3542917,4.83,Philippines2009,,"168,334,601,260",2073,Silent
+19036,Philippines,2009,male,35-54 years,468,9849908,4.75,Philippines2009,,"168,334,601,260",2073,Boomers
+19037,Philippines,2009,female,15-24 years,232,8838722,2.62,Philippines2009,,"168,334,601,260",2073,Millenials
+19038,Philippines,2009,female,25-34 years,101,6948096,1.45,Philippines2009,,"168,334,601,260",2073,Generation X
+19039,Philippines,2009,female,55-74 years,56,3992044,1.4,Philippines2009,,"168,334,601,260",2073,Silent
+19040,Philippines,2009,female,35-54 years,114,9705410,1.17,Philippines2009,,"168,334,601,260",2073,Boomers
+19041,Philippines,2009,female,75+ years,6,696919,0.86,Philippines2009,,"168,334,601,260",2073,Silent
+19042,Philippines,2009,male,5-14 years,22,10758565,0.2,Philippines2009,,"168,334,601,260",2073,Generation Z
+19043,Philippines,2009,female,5-14 years,16,10135355,0.16,Philippines2009,,"168,334,601,260",2073,Generation Z
+19044,Philippines,2010,male,75+ years,42,463487,9.06,Philippines2010,0.654,"199,590,775,189",2412,Silent
+19045,Philippines,2010,male,25-34 years,400,7256791,5.51,Philippines2010,0.654,"199,590,775,189",2412,Generation X
+19046,Philippines,2010,male,15-24 years,503,9293357,5.41,Philippines2010,0.654,"199,590,775,189",2412,Millenials
+19047,Philippines,2010,male,55-74 years,180,3743523,4.81,Philippines2010,0.654,"199,590,775,189",2412,Silent
+19048,Philippines,2010,male,35-54 years,469,10200672,4.6,Philippines2010,0.654,"199,590,775,189",2412,Generation X
+19049,Philippines,2010,female,15-24 years,218,8994318,2.42,Philippines2010,0.654,"199,590,775,189",2412,Millenials
+19050,Philippines,2010,female,25-34 years,101,7063242,1.43,Philippines2010,0.654,"199,590,775,189",2412,Generation X
+19051,Philippines,2010,female,75+ years,10,745830,1.34,Philippines2010,0.654,"199,590,775,189",2412,Silent
+19052,Philippines,2010,female,35-54 years,107,10000163,1.07,Philippines2010,0.654,"199,590,775,189",2412,Generation X
+19053,Philippines,2010,female,55-74 years,34,4190559,0.81,Philippines2010,0.654,"199,590,775,189",2412,Silent
+19054,Philippines,2010,male,5-14 years,35,10738646,0.33,Philippines2010,0.654,"199,590,775,189",2412,Generation Z
+19055,Philippines,2010,female,5-14 years,17,10070404,0.17,Philippines2010,0.654,"199,590,775,189",2412,Generation Z
+19056,Philippines,2011,male,75+ years,64,493450,12.97,Philippines2011,0.653,"224,143,083,707",2662,Silent
+19057,Philippines,2011,male,25-34 years,470,7373201,6.37,Philippines2011,0.653,"224,143,083,707",2662,Millenials
+19058,Philippines,2011,male,55-74 years,227,3884001,5.84,Philippines2011,0.653,"224,143,083,707",2662,Boomers
+19059,Philippines,2011,male,15-24 years,541,9485777,5.7,Philippines2011,0.653,"224,143,083,707",2662,Millenials
+19060,Philippines,2011,male,35-54 years,533,10412504,5.12,Philippines2011,0.653,"224,143,083,707",2662,Generation X
+19061,Philippines,2011,female,15-24 years,221,9155053,2.41,Philippines2011,0.653,"224,143,083,707",2662,Millenials
+19062,Philippines,2011,female,75+ years,14,782366,1.79,Philippines2011,0.653,"224,143,083,707",2662,Silent
+19063,Philippines,2011,female,25-34 years,120,7181904,1.67,Philippines2011,0.653,"224,143,083,707",2662,Millenials
+19064,Philippines,2011,female,35-54 years,147,10216808,1.44,Philippines2011,0.653,"224,143,083,707",2662,Generation X
+19065,Philippines,2011,female,55-74 years,39,4336188,0.9,Philippines2011,0.653,"224,143,083,707",2662,Boomers
+19066,Philippines,2011,male,5-14 years,44,10788943,0.41,Philippines2011,0.653,"224,143,083,707",2662,Generation Z
+19067,Philippines,2011,female,5-14 years,29,10091572,0.29,Philippines2011,0.653,"224,143,083,707",2662,Generation Z

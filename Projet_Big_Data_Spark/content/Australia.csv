@@ -1,0 +1,361 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+1426,Australia,1985,male,75+ years,67,219000,30.59,Australia1985,,"180,190,994,861",12374,G.I. Generation
+1427,Australia,1985,male,25-34 years,357,1299100,27.48,Australia1985,,"180,190,994,861",12374,Boomers
+1428,Australia,1985,male,55-74 years,282,1177400,23.95,Australia1985,,"180,190,994,861",12374,G.I. Generation
+1429,Australia,1985,male,15-24 years,315,1355800,23.23,Australia1985,,"180,190,994,861",12374,Generation X
+1430,Australia,1985,male,35-54 years,411,1906800,21.55,Australia1985,,"180,190,994,861",12374,Silent
+1431,Australia,1985,female,75+ years,36,382900,9.4,Australia1985,,"180,190,994,861",12374,G.I. Generation
+1432,Australia,1985,female,55-74 years,109,1286900,8.47,Australia1985,,"180,190,994,861",12374,G.I. Generation
+1433,Australia,1985,female,35-54 years,143,1832700,7.8,Australia1985,,"180,190,994,861",12374,Silent
+1434,Australia,1985,female,15-24 years,69,1304000,5.29,Australia1985,,"180,190,994,861",12374,Generation X
+1435,Australia,1985,female,25-34 years,64,1275900,5.02,Australia1985,,"180,190,994,861",12374,Boomers
+1436,Australia,1985,female,5-14 years,4,1231400,0.32,Australia1985,,"180,190,994,861",12374,Generation X
+1437,Australia,1985,male,5-14 years,4,1290600,0.31,Australia1985,,"180,190,994,861",12374,Generation X
+1438,Australia,1986,male,75+ years,89,233700,38.08,Australia1986,,"181,977,476,217",12288,G.I. Generation
+1439,Australia,1986,male,25-34 years,367,1317500,27.86,Australia1986,,"181,977,476,217",12288,Boomers
+1440,Australia,1986,male,55-74 years,324,1211800,26.74,Australia1986,,"181,977,476,217",12288,G.I. Generation
+1441,Australia,1986,male,35-54 years,487,1972000,24.7,Australia1986,,"181,977,476,217",12288,Silent
+1442,Australia,1986,male,15-24 years,296,1369000,21.62,Australia1986,,"181,977,476,217",12288,Generation X
+1443,Australia,1986,female,35-54 years,169,1888100,8.95,Australia1986,,"181,977,476,217",12288,Silent
+1444,Australia,1986,female,55-74 years,105,1306500,8.04,Australia1986,,"181,977,476,217",12288,G.I. Generation
+1445,Australia,1986,female,25-34 years,88,1300200,6.77,Australia1986,,"181,977,476,217",12288,Boomers
+1446,Australia,1986,female,15-24 years,77,1315000,5.86,Australia1986,,"181,977,476,217",12288,Generation X
+1447,Australia,1986,female,75+ years,23,405000,5.68,Australia1986,,"181,977,476,217",12288,G.I. Generation
+1448,Australia,1986,male,5-14 years,18,1277100,1.41,Australia1986,,"181,977,476,217",12288,Generation X
+1449,Australia,1986,female,5-14 years,1,1213900,0.08,Australia1986,,"181,977,476,217",12288,Generation X
+1450,Australia,1987,male,75+ years,111,244800,45.34,Australia1987,,"189,041,159,344",12564,G.I. Generation
+1451,Australia,1987,male,25-34 years,374,1345900,27.79,Australia1987,,"189,041,159,344",12564,Boomers
+1452,Australia,1987,male,35-54 years,554,2031000,27.28,Australia1987,,"189,041,159,344",12564,Silent
+1453,Australia,1987,male,55-74 years,328,1227000,26.73,Australia1987,,"189,041,159,344",12564,G.I. Generation
+1454,Australia,1987,male,15-24 years,354,1383900,25.58,Australia1987,,"189,041,159,344",12564,Generation X
+1455,Australia,1987,female,75+ years,38,421200,9.02,Australia1987,,"189,041,159,344",12564,G.I. Generation
+1456,Australia,1987,female,55-74 years,110,1318600,8.34,Australia1987,,"189,041,159,344",12564,G.I. Generation
+1457,Australia,1987,female,35-54 years,145,1950500,7.43,Australia1987,,"189,041,159,344",12564,Silent
+1458,Australia,1987,female,15-24 years,73,1329700,5.49,Australia1987,,"189,041,159,344",12564,Generation X
+1459,Australia,1987,female,25-34 years,70,1327700,5.27,Australia1987,,"189,041,159,344",12564,Boomers
+1460,Australia,1987,male,5-14 years,6,1264900,0.47,Australia1987,,"189,041,159,344",12564,Generation X
+1461,Australia,1987,female,5-14 years,1,1201300,0.08,Australia1987,,"189,041,159,344",12564,Generation X
+1462,Australia,1988,male,75+ years,93,256400,36.27,Australia1988,,"235,699,941,793",15393,G.I. Generation
+1463,Australia,1988,male,25-34 years,398,1375100,28.94,Australia1988,,"235,699,941,793",15393,Boomers
+1464,Australia,1988,male,15-24 years,366,1395800,26.22,Australia1988,,"235,699,941,793",15393,Generation X
+1465,Australia,1988,male,55-74 years,317,1240700,25.55,Australia1988,,"235,699,941,793",15393,G.I. Generation
+1466,Australia,1988,male,35-54 years,532,2097100,25.37,Australia1988,,"235,699,941,793",15393,Silent
+1467,Australia,1988,female,75+ years,40,438100,9.13,Australia1988,,"235,699,941,793",15393,G.I. Generation
+1468,Australia,1988,female,25-34 years,106,1354700,7.82,Australia1988,,"235,699,941,793",15393,Boomers
+1469,Australia,1988,female,35-54 years,157,2019000,7.78,Australia1988,,"235,699,941,793",15393,Silent
+1470,Australia,1988,female,55-74 years,103,1330200,7.74,Australia1988,,"235,699,941,793",15393,G.I. Generation
+1471,Australia,1988,female,15-24 years,53,1340300,3.95,Australia1988,,"235,699,941,793",15393,Generation X
+1472,Australia,1988,male,5-14 years,6,1264700,0.47,Australia1988,,"235,699,941,793",15393,Generation X
+1473,Australia,1988,female,5-14 years,1,1200000,0.08,Australia1988,,"235,699,941,793",15393,Generation X
+1474,Australia,1989,male,75+ years,91,266900,34.1,Australia1989,,"299,317,645,143",19223,G.I. Generation
+1475,Australia,1989,male,25-34 years,406,1399000,29.02,Australia1989,,"299,317,645,143",19223,Boomers
+1476,Australia,1989,male,15-24 years,353,1399300,25.23,Australia1989,,"299,317,645,143",19223,Generation X
+1477,Australia,1989,male,55-74 years,309,1255100,24.62,Australia1989,,"299,317,645,143",19223,G.I. Generation
+1478,Australia,1989,male,35-54 years,475,2156900,22.02,Australia1989,,"299,317,645,143",19223,Silent
+1479,Australia,1989,female,55-74 years,124,1340300,9.25,Australia1989,,"299,317,645,143",19223,G.I. Generation
+1480,Australia,1989,female,75+ years,31,451800,6.86,Australia1989,,"299,317,645,143",19223,G.I. Generation
+1481,Australia,1989,female,25-34 years,87,1383800,6.29,Australia1989,,"299,317,645,143",19223,Boomers
+1482,Australia,1989,female,35-54 years,130,2086700,6.23,Australia1989,,"299,317,645,143",19223,Silent
+1483,Australia,1989,female,15-24 years,51,1349700,3.78,Australia1989,,"299,317,645,143",19223,Generation X
+1484,Australia,1989,male,5-14 years,8,1273300,0.63,Australia1989,,"299,317,645,143",19223,Generation X
+1485,Australia,1989,female,5-14 years,1,1207800,0.08,Australia1989,,"299,317,645,143",19223,Generation X
+1486,Australia,1990,male,75+ years,87,276900,31.42,Australia1990,0.865,"310,838,014,621",19665,G.I. Generation
+1487,Australia,1990,male,25-34 years,418,1415000,29.54,Australia1990,0.865,"310,838,014,621",19665,Boomers
+1488,Australia,1990,male,15-24 years,374,1405900,26.6,Australia1990,0.865,"310,838,014,621",19665,Generation X
+1489,Australia,1990,male,55-74 years,325,1266400,25.66,Australia1990,0.865,"310,838,014,621",19665,G.I. Generation
+1490,Australia,1990,male,35-54 years,549,2220600,24.72,Australia1990,0.865,"310,838,014,621",19665,Silent
+1491,Australia,1990,female,75+ years,37,465600,7.95,Australia1990,0.865,"310,838,014,621",19665,G.I. Generation
+1492,Australia,1990,female,25-34 years,109,1401200,7.78,Australia1990,0.865,"310,838,014,621",19665,Boomers
+1493,Australia,1990,female,55-74 years,98,1349000,7.26,Australia1990,0.865,"310,838,014,621",19665,G.I. Generation
+1494,Australia,1990,female,35-54 years,136,2154800,6.31,Australia1990,0.865,"310,838,014,621",19665,Silent
+1495,Australia,1990,female,15-24 years,64,1354800,4.72,Australia1990,0.865,"310,838,014,621",19665,Generation X
+1496,Australia,1990,male,5-14 years,5,1281300,0.39,Australia1990,0.865,"310,838,014,621",19665,Generation X
+1497,Australia,1990,female,5-14 years,0,1215500,0.0,Australia1990,0.865,"310,838,014,621",19665,Generation X
+1498,Australia,1991,male,75+ years,114,287600,39.64,Australia1991,,"325,358,292,128",20320,G.I. Generation
+1499,Australia,1991,male,25-34 years,427,1416500,30.14,Australia1991,,"325,358,292,128",20320,Boomers
+1500,Australia,1991,male,35-54 years,631,2279600,27.68,Australia1991,,"325,358,292,128",20320,Boomers
+1501,Australia,1991,male,15-24 years,354,1405900,25.18,Australia1991,,"325,358,292,128",20320,Generation X
+1502,Australia,1991,male,55-74 years,273,1282700,21.28,Australia1991,,"325,358,292,128",20320,Silent
+1503,Australia,1991,female,75+ years,39,480900,8.11,Australia1991,,"325,358,292,128",20320,G.I. Generation
+1504,Australia,1991,female,35-54 years,169,2219100,7.62,Australia1991,,"325,358,292,128",20320,Boomers
+1505,Australia,1991,female,55-74 years,96,1362200,7.05,Australia1991,,"325,358,292,128",20320,Silent
+1506,Australia,1991,female,25-34 years,91,1408900,6.46,Australia1991,,"325,358,292,128",20320,Boomers
+1507,Australia,1991,female,15-24 years,84,1354900,6.2,Australia1991,,"325,358,292,128",20320,Generation X
+1508,Australia,1991,male,5-14 years,7,1290700,0.54,Australia1991,,"325,358,292,128",20320,Millenials
+1509,Australia,1991,female,5-14 years,3,1223100,0.25,Australia1991,,"325,358,292,128",20320,Millenials
+1510,Australia,1992,male,75+ years,87,298600,29.14,Australia1992,,"324,878,105,053",20050,G.I. Generation
+1511,Australia,1992,male,25-34 years,407,1417200,28.72,Australia1992,,"324,878,105,053",20050,Boomers
+1512,Australia,1992,male,15-24 years,384,1405300,27.33,Australia1992,,"324,878,105,053",20050,Generation X
+1513,Australia,1992,male,55-74 years,325,1299600,25.01,Australia1992,,"324,878,105,053",20050,Silent
+1514,Australia,1992,male,35-54 years,579,2336200,24.78,Australia1992,,"324,878,105,053",20050,Boomers
+1515,Australia,1992,female,75+ years,45,497100,9.05,Australia1992,,"324,878,105,053",20050,G.I. Generation
+1516,Australia,1992,female,55-74 years,102,1376100,7.41,Australia1992,,"324,878,105,053",20050,Silent
+1517,Australia,1992,female,25-34 years,96,1412600,6.8,Australia1992,,"324,878,105,053",20050,Boomers
+1518,Australia,1992,female,35-54 years,144,2280900,6.31,Australia1992,,"324,878,105,053",20050,Boomers
+1519,Australia,1992,female,15-24 years,76,1351300,5.62,Australia1992,,"324,878,105,053",20050,Generation X
+1520,Australia,1992,male,5-14 years,4,1298000,0.31,Australia1992,,"324,878,105,053",20050,Millenials
+1521,Australia,1992,female,5-14 years,2,1230600,0.16,Australia1992,,"324,878,105,053",20050,Millenials
+1522,Australia,1993,male,75+ years,95,307700,30.87,Australia1993,,"311,528,948,848",19030,G.I. Generation
+1523,Australia,1993,male,25-34 years,392,1413500,27.73,Australia1993,,"311,528,948,848",19030,Boomers
+1524,Australia,1993,male,15-24 years,332,1401500,23.69,Australia1993,,"311,528,948,848",19030,Generation X
+1525,Australia,1993,male,55-74 years,293,1320700,22.19,Australia1993,,"311,528,948,848",19030,Silent
+1526,Australia,1993,male,35-54 years,523,2389000,21.89,Australia1993,,"311,528,948,848",19030,Boomers
+1527,Australia,1993,female,35-54 years,161,2340600,6.88,Australia1993,,"311,528,948,848",19030,Boomers
+1528,Australia,1993,female,75+ years,34,510500,6.66,Australia1993,,"311,528,948,848",19030,G.I. Generation
+1529,Australia,1993,female,25-34 years,76,1409500,5.39,Australia1993,,"311,528,948,848",19030,Boomers
+1530,Australia,1993,female,55-74 years,75,1392400,5.39,Australia1993,,"311,528,948,848",19030,Silent
+1531,Australia,1993,female,15-24 years,50,1344900,3.72,Australia1993,,"311,528,948,848",19030,Generation X
+1532,Australia,1993,male,5-14 years,5,1303300,0.38,Australia1993,,"311,528,948,848",19030,Millenials
+1533,Australia,1993,female,5-14 years,2,1236400,0.16,Australia1993,,"311,528,948,848",19030,Millenials
+1534,Australia,1994,male,75+ years,100,315900,31.66,Australia1994,,"322,201,314,424",19469,G.I. Generation
+1535,Australia,1994,male,25-34 years,426,1414900,30.11,Australia1994,,"322,201,314,424",19469,Boomers
+1536,Australia,1994,male,15-24 years,377,1396400,27.0,Australia1994,,"322,201,314,424",19469,Generation X
+1537,Australia,1994,male,35-54 years,648,2441200,26.54,Australia1994,,"322,201,314,424",19469,Boomers
+1538,Australia,1994,male,55-74 years,311,1345000,23.12,Australia1994,,"322,201,314,424",19469,Silent
+1539,Australia,1994,female,35-54 years,162,2400300,6.75,Australia1994,,"322,201,314,424",19469,Boomers
+1540,Australia,1994,female,75+ years,33,522900,6.31,Australia1994,,"322,201,314,424",19469,G.I. Generation
+1541,Australia,1994,female,25-34 years,88,1411500,6.23,Australia1994,,"322,201,314,424",19469,Boomers
+1542,Australia,1994,female,55-74 years,79,1411700,5.6,Australia1994,,"322,201,314,424",19469,Silent
+1543,Australia,1994,female,15-24 years,55,1336300,4.12,Australia1994,,"322,201,314,424",19469,Generation X
+1544,Australia,1994,male,5-14 years,3,1310100,0.23,Australia1994,,"322,201,314,424",19469,Millenials
+1545,Australia,1994,female,5-14 years,1,1243200,0.08,Australia1994,,"322,201,314,424",19469,Millenials
+1546,Australia,1995,male,25-34 years,440,1421100,30.96,Australia1995,0.882,"367,216,364,716",21902,Generation X
+1547,Australia,1995,male,75+ years,88,328300,26.8,Australia1995,0.882,"367,216,364,716",21902,G.I. Generation
+1548,Australia,1995,male,35-54 years,587,2507400,23.41,Australia1995,0.882,"367,216,364,716",21902,Boomers
+1549,Australia,1995,male,15-24 years,318,1374600,23.13,Australia1995,0.882,"367,216,364,716",21902,Generation X
+1550,Australia,1995,male,55-74 years,274,1366600,20.05,Australia1995,0.882,"367,216,364,716",21902,Silent
+1551,Australia,1995,female,35-54 years,180,2472200,7.28,Australia1995,0.882,"367,216,364,716",21902,Boomers
+1552,Australia,1995,female,25-34 years,91,1417500,6.42,Australia1995,0.882,"367,216,364,716",21902,Generation X
+1553,Australia,1995,female,15-24 years,81,1321300,6.13,Australia1995,0.882,"367,216,364,716",21902,Generation X
+1554,Australia,1995,female,55-74 years,79,1430300,5.52,Australia1995,0.882,"367,216,364,716",21902,Silent
+1555,Australia,1995,female,75+ years,28,539200,5.19,Australia1995,0.882,"367,216,364,716",21902,G.I. Generation
+1556,Australia,1995,male,5-14 years,4,1326300,0.3,Australia1995,0.882,"367,216,364,716",21902,Millenials
+1557,Australia,1995,female,5-14 years,0,1261500,0.0,Australia1995,0.882,"367,216,364,716",21902,Millenials
+1558,Australia,1996,male,75+ years,122,346100,35.25,Australia1996,,"400,302,731,411",23526,G.I. Generation
+1559,Australia,1996,male,25-34 years,471,1431200,32.91,Australia1996,,"400,302,731,411",23526,Generation X
+1560,Australia,1996,male,15-24 years,366,1364200,26.83,Australia1996,,"400,302,731,411",23526,Generation X
+1561,Australia,1996,male,35-54 years,669,2574500,25.99,Australia1996,,"400,302,731,411",23526,Boomers
+1562,Australia,1996,male,55-74 years,330,1387200,23.79,Australia1996,,"400,302,731,411",23526,Silent
+1563,Australia,1996,female,35-54 years,182,2545300,7.15,Australia1996,,"400,302,731,411",23526,Boomers
+1564,Australia,1996,female,25-34 years,98,1431400,6.85,Australia1996,,"400,302,731,411",23526,Generation X
+1565,Australia,1996,female,55-74 years,86,1445900,5.95,Australia1996,,"400,302,731,411",23526,Silent
+1566,Australia,1996,female,75+ years,28,563200,4.97,Australia1996,,"400,302,731,411",23526,G.I. Generation
+1567,Australia,1996,female,15-24 years,59,1311800,4.5,Australia1996,,"400,302,731,411",23526,Generation X
+1568,Australia,1996,male,5-14 years,8,1339500,0.6,Australia1996,,"400,302,731,411",23526,Millenials
+1569,Australia,1996,female,5-14 years,7,1274800,0.55,Australia1996,,"400,302,731,411",23526,Millenials
+1570,Australia,1997,male,25-34 years,529,1436732,36.82,Australia1997,,"434,568,007,513",25234,Generation X
+1571,Australia,1997,male,75+ years,123,362657,33.92,Australia1997,,"434,568,007,513",25234,G.I. Generation
+1572,Australia,1997,male,15-24 years,408,1343245,30.37,Australia1997,,"434,568,007,513",25234,Generation X
+1573,Australia,1997,male,35-54 years,717,2632245,27.24,Australia1997,,"434,568,007,513",25234,Boomers
+1574,Australia,1997,male,55-74 years,305,1415672,21.54,Australia1997,,"434,568,007,513",25234,Silent
+1575,Australia,1997,female,35-54 years,219,2614291,8.38,Australia1997,,"434,568,007,513",25234,Boomers
+1576,Australia,1997,female,25-34 years,109,1441724,7.56,Australia1997,,"434,568,007,513",25234,Generation X
+1577,Australia,1997,female,75+ years,40,585676,6.83,Australia1997,,"434,568,007,513",25234,G.I. Generation
+1578,Australia,1997,female,15-24 years,86,1293106,6.65,Australia1997,,"434,568,007,513",25234,Generation X
+1579,Australia,1997,female,55-74 years,96,1465721,6.55,Australia1997,,"434,568,007,513",25234,Silent
+1580,Australia,1997,female,5-14 years,7,1283025,0.55,Australia1997,,"434,568,007,513",25234,Millenials
+1581,Australia,1997,male,5-14 years,7,1347206,0.52,Australia1997,,"434,568,007,513",25234,Millenials
+1582,Australia,1998,male,25-34 years,579,1434140,40.37,Australia1998,,"398,899,138,574",22897,Generation X
+1583,Australia,1998,male,35-54 years,773,2687916,28.76,Australia1998,,"398,899,138,574",22897,Boomers
+1584,Australia,1998,male,15-24 years,353,1330598,26.53,Australia1998,,"398,899,138,574",22897,Generation X
+1585,Australia,1998,male,75+ years,96,379719,25.28,Australia1998,,"398,899,138,574",22897,G.I. Generation
+1586,Australia,1998,male,55-74 years,301,1444867,20.83,Australia1998,,"398,899,138,574",22897,Silent
+1587,Australia,1998,female,25-34 years,109,1443163,7.55,Australia1998,,"398,899,138,574",22897,Generation X
+1588,Australia,1998,female,35-54 years,202,2680955,7.53,Australia1998,,"398,899,138,574",22897,Boomers
+1589,Australia,1998,female,75+ years,40,607609,6.58,Australia1998,,"398,899,138,574",22897,G.I. Generation
+1590,Australia,1998,female,15-24 years,81,1280391,6.33,Australia1998,,"398,899,138,574",22897,Generation X
+1591,Australia,1998,female,55-74 years,90,1486036,6.06,Australia1998,,"398,899,138,574",22897,Silent
+1592,Australia,1998,male,5-14 years,6,1355317,0.44,Australia1998,,"398,899,138,574",22897,Millenials
+1593,Australia,1998,female,5-14 years,2,1291019,0.15,Australia1998,,"398,899,138,574",22897,Millenials
+1594,Australia,1999,male,25-34 years,511,1431712,35.69,Australia1999,,"388,395,162,301",22016,Generation X
+1595,Australia,1999,male,75+ years,119,397612,29.93,Australia1999,,"388,395,162,301",22016,G.I. Generation
+1596,Australia,1999,male,35-54 years,741,2733238,27.11,Australia1999,,"388,395,162,301",22016,Boomers
+1597,Australia,1999,male,15-24 years,303,1326531,22.84,Australia1999,,"388,395,162,301",22016,Generation X
+1598,Australia,1999,male,55-74 years,315,1482441,21.25,Australia1999,,"388,395,162,301",22016,Silent
+1599,Australia,1999,female,25-34 years,117,1443911,8.1,Australia1999,,"388,395,162,301",22016,Generation X
+1600,Australia,1999,female,35-54 years,201,2735588,7.35,Australia1999,,"388,395,162,301",22016,Boomers
+1601,Australia,1999,female,15-24 years,70,1277560,5.48,Australia1999,,"388,395,162,301",22016,Generation X
+1602,Australia,1999,female,55-74 years,74,1516348,4.88,Australia1999,,"388,395,162,301",22016,Silent
+1603,Australia,1999,female,75+ years,21,630042,3.33,Australia1999,,"388,395,162,301",22016,G.I. Generation
+1604,Australia,1999,male,5-14 years,10,1366184,0.73,Australia1999,,"388,395,162,301",22016,Millenials
+1605,Australia,1999,female,5-14 years,6,1300535,0.46,Australia1999,,"388,395,162,301",22016,Millenials
+1606,Australia,2000,male,25-34 years,466,1430700,32.57,Australia2000,0.898,"415,034,227,218",23219,Generation X
+1607,Australia,2000,male,75+ years,115,416077,27.64,Australia2000,0.898,"415,034,227,218",23219,G.I. Generation
+1608,Australia,2000,male,35-54 years,745,2769752,26.9,Australia2000,0.898,"415,034,227,218",23219,Boomers
+1609,Australia,2000,male,15-24 years,271,1333011,20.33,Australia2000,0.898,"415,034,227,218",23219,Generation X
+1610,Australia,2000,male,55-74 years,281,1522620,18.46,Australia2000,0.898,"415,034,227,218",23219,Silent
+1611,Australia,2000,female,25-34 years,106,1445332,7.33,Australia2000,0.898,"415,034,227,218",23219,Generation X
+1612,Australia,2000,female,35-54 years,200,2782583,7.19,Australia2000,0.898,"415,034,227,218",23219,Boomers
+1613,Australia,2000,female,15-24 years,78,1285283,6.07,Australia2000,0.898,"415,034,227,218",23219,Generation X
+1614,Australia,2000,female,55-74 years,87,1549060,5.62,Australia2000,0.898,"415,034,227,218",23219,Silent
+1615,Australia,2000,female,75+ years,33,652895,5.05,Australia2000,0.898,"415,034,227,218",23219,G.I. Generation
+1616,Australia,2000,male,5-14 years,8,1377301,0.58,Australia2000,0.898,"415,034,227,218",23219,Millenials
+1617,Australia,2000,female,5-14 years,1,1309796,0.08,Australia2000,0.898,"415,034,227,218",23219,Millenials
+1618,Australia,2001,male,25-34 years,489,1427829,34.25,Australia2001,,"378,215,090,694",20860,Generation X
+1619,Australia,2001,male,35-54 years,752,2803465,26.82,Australia2001,,"378,215,090,694",20860,Boomers
+1620,Australia,2001,male,75+ years,115,437528,26.28,Australia2001,,"378,215,090,694",20860,Silent
+1621,Australia,2001,male,15-24 years,280,1351444,20.72,Australia2001,,"378,215,090,694",20860,Millenials
+1622,Australia,2001,male,55-74 years,296,1566014,18.9,Australia2001,,"378,215,090,694",20860,Silent
+1623,Australia,2001,female,35-54 years,226,2827367,7.99,Australia2001,,"378,215,090,694",20860,Boomers
+1624,Australia,2001,female,25-34 years,109,1445867,7.54,Australia2001,,"378,215,090,694",20860,Generation X
+1625,Australia,2001,female,75+ years,39,677113,5.76,Australia2001,,"378,215,090,694",20860,Silent
+1626,Australia,2001,female,55-74 years,81,1585702,5.11,Australia2001,,"378,215,090,694",20860,Silent
+1627,Australia,2001,female,15-24 years,63,1303713,4.83,Australia2001,,"378,215,090,694",20860,Millenials
+1628,Australia,2001,female,5-14 years,4,1317968,0.3,Australia2001,,"378,215,090,694",20860,Millenials
+1629,Australia,2001,male,5-14 years,4,1386873,0.29,Australia2001,,"378,215,090,694",20860,Millenials
+1630,Australia,2002,male,25-34 years,452,1433165,31.54,Australia2002,,"394,486,709,920",21474,Generation X
+1631,Australia,2002,male,35-54 years,744,2820596,26.38,Australia2002,,"394,486,709,920",21474,Boomers
+1632,Australia,2002,male,75+ years,101,456942,22.1,Australia2002,,"394,486,709,920",21474,Silent
+1633,Australia,2002,male,15-24 years,246,1372770,17.92,Australia2002,,"394,486,709,920",21474,Millenials
+1634,Australia,2002,male,55-74 years,266,1626692,16.35,Australia2002,,"394,486,709,920",21474,Silent
+1635,Australia,2002,female,35-54 years,213,2845525,7.49,Australia2002,,"394,486,709,920",21474,Boomers
+1636,Australia,2002,female,25-34 years,103,1444148,7.13,Australia2002,,"394,486,709,920",21474,Generation X
+1637,Australia,2002,female,55-74 years,92,1643643,5.6,Australia2002,,"394,486,709,920",21474,Silent
+1638,Australia,2002,female,75+ years,36,696793,5.17,Australia2002,,"394,486,709,920",21474,Silent
+1639,Australia,2002,female,15-24 years,58,1316527,4.41,Australia2002,,"394,486,709,920",21474,Millenials
+1640,Australia,2002,female,5-14 years,4,1321845,0.3,Australia2002,,"394,486,709,920",21474,Millenials
+1641,Australia,2002,male,5-14 years,4,1391412,0.29,Australia2002,,"394,486,709,920",21474,Millenials
+1642,Australia,2003,male,25-34 years,394,1437607,27.41,Australia2003,,"466,294,700,058",25059,Generation X
+1643,Australia,2003,male,35-54 years,654,2840522,23.02,Australia2003,,"466,294,700,058",25059,Boomers
+1644,Australia,2003,male,75+ years,103,476387,21.62,Australia2003,,"466,294,700,058",25059,Silent
+1645,Australia,2003,male,15-24 years,243,1394989,17.42,Australia2003,,"466,294,700,058",25059,Millenials
+1646,Australia,2003,male,55-74 years,284,1681943,16.89,Australia2003,,"466,294,700,058",25059,Silent
+1647,Australia,2003,female,25-34 years,106,1444160,7.34,Australia2003,,"466,294,700,058",25059,Generation X
+1648,Australia,2003,female,35-54 years,195,2868971,6.8,Australia2003,,"466,294,700,058",25059,Boomers
+1649,Australia,2003,female,55-74 years,91,1697104,5.36,Australia2003,,"466,294,700,058",25059,Silent
+1650,Australia,2003,female,15-24 years,48,1333189,3.6,Australia2003,,"466,294,700,058",25059,Millenials
+1651,Australia,2003,female,75+ years,24,716236,3.35,Australia2003,,"466,294,700,058",25059,Silent
+1652,Australia,2003,female,5-14 years,7,1323202,0.53,Australia2003,,"466,294,700,058",25059,Millenials
+1653,Australia,2003,male,5-14 years,7,1393719,0.5,Australia2003,,"466,294,700,058",25059,Millenials
+1654,Australia,2004,male,25-34 years,386,1441319,26.78,Australia2004,,"611,904,253,806",32454,Generation X
+1655,Australia,2004,male,75+ years,126,489016,25.77,Australia2004,,"611,904,253,806",32454,Silent
+1656,Australia,2004,male,35-54 years,655,2868425,22.83,Australia2004,,"611,904,253,806",32454,Boomers
+1657,Australia,2004,male,55-74 years,293,1721736,17.02,Australia2004,,"611,904,253,806",32454,Silent
+1658,Australia,2004,male,15-24 years,205,1420482,14.43,Australia2004,,"611,904,253,806",32454,Millenials
+1659,Australia,2004,female,35-54 years,183,2902618,6.3,Australia2004,,"611,904,253,806",32454,Boomers
+1660,Australia,2004,female,25-34 years,82,1446557,5.67,Australia2004,,"611,904,253,806",32454,Generation X
+1661,Australia,2004,female,75+ years,40,726532,5.51,Australia2004,,"611,904,253,806",32454,Silent
+1662,Australia,2004,female,15-24 years,67,1364452,4.91,Australia2004,,"611,904,253,806",32454,Millenials
+1663,Australia,2004,female,55-74 years,69,1741477,3.96,Australia2004,,"611,904,253,806",32454,Silent
+1664,Australia,2004,male,5-14 years,7,1402222,0.5,Australia2004,,"611,904,253,806",32454,Millenials
+1665,Australia,2004,female,5-14 years,1,1329715,0.08,Australia2004,,"611,904,253,806",32454,Millenials
+1666,Australia,2006,male,35-54 years,686,2894571,23.7,Australia2006,,"745,521,862,833",39014,Boomers
+1667,Australia,2006,male,75+ years,114,506926,22.49,Australia2006,,"745,521,862,833",39014,Silent
+1668,Australia,2006,male,25-34 years,277,1442942,19.2,Australia2006,,"745,521,862,833",39014,Generation X
+1669,Australia,2006,male,55-74 years,309,1772439,17.43,Australia2006,,"745,521,862,833",39014,Silent
+1670,Australia,2006,male,15-24 years,230,1446866,15.9,Australia2006,,"745,521,862,833",39014,Millenials
+1671,Australia,2006,female,35-54 years,195,2934459,6.65,Australia2006,,"745,521,862,833",39014,Boomers
+1672,Australia,2006,female,55-74 years,115,1798232,6.4,Australia2006,,"745,521,862,833",39014,Silent
+1673,Australia,2006,female,75+ years,41,743060,5.52,Australia2006,,"745,521,862,833",39014,Silent
+1674,Australia,2006,female,25-34 years,74,1444570,5.12,Australia2006,,"745,521,862,833",39014,Generation X
+1675,Australia,2006,female,15-24 years,68,1388615,4.9,Australia2006,,"745,521,862,833",39014,Millenials
+1676,Australia,2006,male,5-14 years,7,1404186,0.5,Australia2006,,"745,521,862,833",39014,Millenials
+1677,Australia,2006,female,5-14 years,1,1332380,0.08,Australia2006,,"745,521,862,833",39014,Millenials
+1678,Australia,2007,male,25-34 years,341,1470431,23.19,Australia2007,,"851,962,785,585",43171,Generation X
+1679,Australia,2007,male,35-54 years,687,2977977,23.07,Australia2007,,"851,962,785,585",43171,Boomers
+1680,Australia,2007,male,75+ years,124,539184,23.0,Australia2007,,"851,962,785,585",43171,Silent
+1681,Australia,2007,male,55-74 years,305,1877160,16.25,Australia2007,,"851,962,785,585",43171,Silent
+1682,Australia,2007,male,15-24 years,234,1515524,15.44,Australia2007,,"851,962,785,585",43171,Millenials
+1683,Australia,2007,female,35-54 years,219,3025248,7.24,Australia2007,,"851,962,785,585",43171,Boomers
+1684,Australia,2007,female,55-74 years,118,1911478,6.17,Australia2007,,"851,962,785,585",43171,Silent
+1685,Australia,2007,female,25-34 years,90,1460752,6.16,Australia2007,,"851,962,785,585",43171,Generation X
+1686,Australia,2007,female,15-24 years,66,1440419,4.58,Australia2007,,"851,962,785,585",43171,Millenials
+1687,Australia,2007,female,75+ years,33,770691,4.28,Australia2007,,"851,962,785,585",43171,Silent
+1688,Australia,2007,male,5-14 years,8,1408182,0.57,Australia2007,,"851,962,785,585",43171,Generation Z
+1689,Australia,2007,female,5-14 years,4,1337384,0.3,Australia2007,,"851,962,785,585",43171,Generation Z
+1690,Australia,2008,male,35-54 years,765,3015761,25.37,Australia2008,,"1,052,584,601,611",52315,Boomers
+1691,Australia,2008,male,25-34 years,354,1512033,23.41,Australia2008,,"1,052,584,601,611",52315,Generation X
+1692,Australia,2008,male,75+ years,121,552931,21.88,Australia2008,,"1,052,584,601,611",52315,Silent
+1693,Australia,2008,male,55-74 years,357,1935161,18.45,Australia2008,,"1,052,584,601,611",52315,Silent
+1694,Australia,2008,male,15-24 years,228,1560974,14.61,Australia2008,,"1,052,584,601,611",52315,Millenials
+1695,Australia,2008,female,35-54 years,231,3066609,7.53,Australia2008,,"1,052,584,601,611",52315,Boomers
+1696,Australia,2008,female,25-34 years,90,1494968,6.02,Australia2008,,"1,052,584,601,611",52315,Generation X
+1697,Australia,2008,female,55-74 years,97,1974752,4.91,Australia2008,,"1,052,584,601,611",52315,Silent
+1698,Australia,2008,female,15-24 years,60,1473105,4.07,Australia2008,,"1,052,584,601,611",52315,Millenials
+1699,Australia,2008,female,75+ years,27,781742,3.45,Australia2008,,"1,052,584,601,611",52315,Silent
+1700,Australia,2008,male,5-14 years,8,1411650,0.57,Australia2008,,"1,052,584,601,611",52315,Generation Z
+1701,Australia,2008,female,5-14 years,3,1340626,0.22,Australia2008,,"1,052,584,601,611",52315,Generation Z
+1702,Australia,2009,male,35-54 years,755,3051649,24.74,Australia2009,,"926,448,240,318",45128,Boomers
+1703,Australia,2009,male,75+ years,135,566784,23.82,Australia2009,,"926,448,240,318",45128,Silent
+1704,Australia,2009,male,25-34 years,336,1567118,21.44,Australia2009,,"926,448,240,318",45128,Generation X
+1705,Australia,2009,male,55-74 years,349,1991883,17.52,Australia2009,,"926,448,240,318",45128,Silent
+1706,Australia,2009,male,15-24 years,210,1605456,13.08,Australia2009,,"926,448,240,318",45128,Millenials
+1707,Australia,2009,female,35-54 years,221,3104929,7.12,Australia2009,,"926,448,240,318",45128,Boomers
+1708,Australia,2009,female,25-34 years,103,1541393,6.68,Australia2009,,"926,448,240,318",45128,Generation X
+1709,Australia,2009,female,55-74 years,116,2037989,5.69,Australia2009,,"926,448,240,318",45128,Silent
+1710,Australia,2009,female,75+ years,43,792218,5.43,Australia2009,,"926,448,240,318",45128,Silent
+1711,Australia,2009,female,15-24 years,66,1506719,4.38,Australia2009,,"926,448,240,318",45128,Millenials
+1712,Australia,2009,female,5-14 years,3,1345910,0.22,Australia2009,,"926,448,240,318",45128,Generation Z
+1713,Australia,2009,male,5-14 years,0,1417269,0.0,Australia2009,,"926,448,240,318",45128,Generation Z
+1714,Australia,2010,male,35-54 years,816,3076853,26.52,Australia2010,0.927,"1,144,260,547,873",54887,Generation X
+1715,Australia,2010,male,75+ years,151,582009,25.94,Australia2010,0.927,"1,144,260,547,873",54887,Silent
+1716,Australia,2010,male,25-34 years,311,1606526,19.36,Australia2010,0.927,"1,144,260,547,873",54887,Generation X
+1717,Australia,2010,male,55-74 years,360,2051197,17.55,Australia2010,0.927,"1,144,260,547,873",54887,Silent
+1718,Australia,2010,male,15-24 years,222,1618860,13.71,Australia2010,0.927,"1,144,260,547,873",54887,Millenials
+1719,Australia,2010,female,35-54 years,228,3132534,7.28,Australia2010,0.927,"1,144,260,547,873",54887,Generation X
+1720,Australia,2010,female,25-34 years,94,1579905,5.95,Australia2010,0.927,"1,144,260,547,873",54887,Generation X
+1721,Australia,2010,female,75+ years,43,805401,5.34,Australia2010,0.927,"1,144,260,547,873",54887,Silent
+1722,Australia,2010,female,15-24 years,80,1521652,5.26,Australia2010,0.927,"1,144,260,547,873",54887,Millenials
+1723,Australia,2010,female,55-74 years,104,2103428,4.94,Australia2010,0.927,"1,144,260,547,873",54887,Silent
+1724,Australia,2010,male,5-14 years,7,1420846,0.49,Australia2010,0.927,"1,144,260,547,873",54887,Generation Z
+1725,Australia,2010,female,5-14 years,4,1348336,0.3,Australia2010,0.927,"1,144,260,547,873",54887,Generation Z
+1726,Australia,2011,male,75+ years,146,588053,24.83,Australia2011,0.93,"1,394,280,784,778",66770,Silent
+1727,Australia,2011,male,35-54 years,704,3072726,22.91,Australia2011,0.93,"1,394,280,784,778",66770,Generation X
+1728,Australia,2011,male,25-34 years,347,1610295,21.55,Australia2011,0.93,"1,394,280,784,778",66770,Millenials
+1729,Australia,2011,male,55-74 years,366,2104816,17.39,Australia2011,0.93,"1,394,280,784,778",66770,Boomers
+1730,Australia,2011,male,15-24 years,242,1570069,15.41,Australia2011,0.93,"1,394,280,784,778",66770,Millenials
+1731,Australia,2011,female,35-54 years,230,3124328,7.36,Australia2011,0.93,"1,394,280,784,778",66770,Generation X
+1732,Australia,2011,female,15-24 years,93,1495053,6.22,Australia2011,0.93,"1,394,280,784,778",66770,Millenials
+1733,Australia,2011,female,55-74 years,118,2139108,5.52,Australia2011,0.93,"1,394,280,784,778",66770,Boomers
+1734,Australia,2011,female,75+ years,45,817927,5.5,Australia2011,0.93,"1,394,280,784,778",66770,Silent
+1735,Australia,2011,female,25-34 years,85,1584036,5.37,Australia2011,0.93,"1,394,280,784,778",66770,Millenials
+1736,Australia,2011,female,5-14 years,9,1351751,0.67,Australia2011,0.93,"1,394,280,784,778",66770,Generation Z
+1737,Australia,2011,male,5-14 years,7,1423748,0.49,Australia2011,0.93,"1,394,280,784,778",66770,Generation Z
+1738,Australia,2012,male,75+ years,158,606842,26.04,Australia2012,0.932,"1,543,411,012,580",72669,Silent
+1739,Australia,2012,male,35-54 years,802,3098534,25.88,Australia2012,0.932,"1,543,411,012,580",72669,Generation X
+1740,Australia,2012,male,25-34 years,351,1657638,21.17,Australia2012,0.932,"1,543,411,012,580",72669,Millenials
+1741,Australia,2012,male,55-74 years,396,2162980,18.31,Australia2012,0.932,"1,543,411,012,580",72669,Boomers
+1742,Australia,2012,male,15-24 years,217,1579672,13.74,Australia2012,0.932,"1,543,411,012,580",72669,Millenials
+1743,Australia,2012,female,35-54 years,258,3149749,8.19,Australia2012,0.932,"1,543,411,012,580",72669,Generation X
+1744,Australia,2012,female,15-24 years,109,1503934,7.25,Australia2012,0.932,"1,543,411,012,580",72669,Millenials
+1745,Australia,2012,female,75+ years,52,832122,6.25,Australia2012,0.932,"1,543,411,012,580",72669,Silent
+1746,Australia,2012,female,25-34 years,98,1630077,6.01,Australia2012,0.932,"1,543,411,012,580",72669,Millenials
+1747,Australia,2012,female,55-74 years,123,2206179,5.58,Australia2012,0.932,"1,543,411,012,580",72669,Boomers
+1748,Australia,2012,female,5-14 years,10,1368580,0.73,Australia2012,0.932,"1,543,411,012,580",72669,Generation Z
+1749,Australia,2012,male,5-14 years,6,1442602,0.42,Australia2012,0.932,"1,543,411,012,580",72669,Generation Z
+1750,Australia,2013,male,75+ years,160,627275,25.51,Australia2013,0.9329999999999999,"1,573,696,522,007",72856,Silent
+1751,Australia,2013,male,35-54 years,754,3118829,24.18,Australia2013,0.9329999999999999,"1,573,696,522,007",72856,Generation X
+1752,Australia,2013,male,25-34 years,329,1702401,19.33,Australia2013,0.9329999999999999,"1,573,696,522,007",72856,Millenials
+1753,Australia,2013,male,55-74 years,418,2221866,18.81,Australia2013,0.9329999999999999,"1,573,696,522,007",72856,Boomers
+1754,Australia,2013,male,15-24 years,267,1591539,16.78,Australia2013,0.9329999999999999,"1,573,696,522,007",72856,Millenials
+1755,Australia,2013,female,35-54 years,275,3171477,8.67,Australia2013,0.9329999999999999,"1,573,696,522,007",72856,Generation X
+1756,Australia,2013,female,55-74 years,145,2276104,6.37,Australia2013,0.9329999999999999,"1,573,696,522,007",72856,Boomers
+1757,Australia,2013,female,15-24 years,95,1512779,6.28,Australia2013,0.9329999999999999,"1,573,696,522,007",72856,Millenials
+1758,Australia,2013,female,25-34 years,95,1676648,5.67,Australia2013,0.9329999999999999,"1,573,696,522,007",72856,Millenials
+1759,Australia,2013,female,75+ years,48,847577,5.66,Australia2013,0.9329999999999999,"1,573,696,522,007",72856,Silent
+1760,Australia,2013,male,5-14 years,16,1464302,1.09,Australia2013,0.9329999999999999,"1,573,696,522,007",72856,Generation Z
+1761,Australia,2013,female,5-14 years,6,1389383,0.43,Australia2013,0.9329999999999999,"1,573,696,522,007",72856,Generation Z
+1762,Australia,2014,male,35-54 years,866,3130341,27.66,Australia2014,0.935,"1,464,955,475,994",66809,Generation X
+1763,Australia,2014,male,75+ years,164,649925,25.23,Australia2014,0.935,"1,464,955,475,994",66809,Silent
+1764,Australia,2014,male,25-34 years,404,1730968,23.34,Australia2014,0.935,"1,464,955,475,994",66809,Millenials
+1765,Australia,2014,male,55-74 years,471,2279114,20.67,Australia2014,0.935,"1,464,955,475,994",66809,Boomers
+1766,Australia,2014,male,15-24 years,271,1604935,16.89,Australia2014,0.935,"1,464,955,475,994",66809,Millenials
+1767,Australia,2014,female,35-54 years,277,3189475,8.68,Australia2014,0.935,"1,464,955,475,994",66809,Generation X
+1768,Australia,2014,female,25-34 years,119,1716803,6.93,Australia2014,0.935,"1,464,955,475,994",66809,Millenials
+1769,Australia,2014,female,55-74 years,157,2344644,6.7,Australia2014,0.935,"1,464,955,475,994",66809,Boomers
+1770,Australia,2014,female,15-24 years,96,1520955,6.31,Australia2014,0.935,"1,464,955,475,994",66809,Millenials
+1771,Australia,2014,female,75+ years,45,865915,5.2,Australia2014,0.935,"1,464,955,475,994",66809,Silent
+1772,Australia,2014,female,5-14 years,15,1408758,1.06,Australia2014,0.935,"1,464,955,475,994",66809,Generation Z
+1773,Australia,2014,male,5-14 years,6,1485754,0.4,Australia2014,0.935,"1,464,955,475,994",66809,Generation Z
+1774,Australia,2015,male,35-54 years,944,3149299,29.97,Australia2015,,"1,349,034,029,453",60656,Generation X
+1775,Australia,2015,male,75+ years,181,673787,26.86,Australia2015,,"1,349,034,029,453",60656,Silent
+1776,Australia,2015,male,25-34 years,423,1762265,24.0,Australia2015,,"1,349,034,029,453",60656,Millenials
+1777,Australia,2015,male,55-74 years,457,2337430,19.55,Australia2015,,"1,349,034,029,453",60656,Boomers
+1778,Australia,2015,male,15-24 years,281,1608990,17.46,Australia2015,,"1,349,034,029,453",60656,Millenials
+1779,Australia,2015,female,35-54 years,294,3203643,9.18,Australia2015,,"1,349,034,029,453",60656,Generation X
+1780,Australia,2015,female,15-24 years,110,1526305,7.21,Australia2015,,"1,349,034,029,453",60656,Millenials
+1781,Australia,2015,female,25-34 years,119,1747715,6.81,Australia2015,,"1,349,034,029,453",60656,Millenials
+1782,Australia,2015,female,55-74 years,152,2411343,6.3,Australia2015,,"1,349,034,029,453",60656,Boomers
+1783,Australia,2015,female,75+ years,52,884347,5.88,Australia2015,,"1,349,034,029,453",60656,Silent
+1784,Australia,2015,female,5-14 years,8,1428159,0.56,Australia2015,,"1,349,034,029,453",60656,Generation Z
+1785,Australia,2015,male,5-14 years,6,1507502,0.4,Australia2015,,"1,349,034,029,453",60656,Generation Z

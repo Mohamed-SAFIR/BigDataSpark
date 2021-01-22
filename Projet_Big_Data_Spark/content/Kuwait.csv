@@ -1,0 +1,301 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+14180,Kuwait,1985,male,55-74 years,1,35200,2.84,Kuwait1985,0.732,"21,442,619,681",14607,G.I. Generation
+14181,Kuwait,1985,male,35-54 years,6,235600,2.55,Kuwait1985,0.732,"21,442,619,681",14607,Silent
+14182,Kuwait,1985,male,25-34 years,5,228000,2.19,Kuwait1985,0.732,"21,442,619,681",14607,Boomers
+14183,Kuwait,1985,female,25-34 years,2,136200,1.47,Kuwait1985,0.732,"21,442,619,681",14607,Boomers
+14184,Kuwait,1985,male,15-24 years,2,150900,1.33,Kuwait1985,0.732,"21,442,619,681",14607,Generation X
+14185,Kuwait,1985,female,35-54 years,1,121900,0.82,Kuwait1985,0.732,"21,442,619,681",14607,Silent
+14186,Kuwait,1985,female,15-24 years,0,145200,0.0,Kuwait1985,0.732,"21,442,619,681",14607,Generation X
+14187,Kuwait,1985,female,5-14 years,0,189600,0.0,Kuwait1985,0.732,"21,442,619,681",14607,Generation X
+14188,Kuwait,1985,female,55-74 years,0,22400,0.0,Kuwait1985,0.732,"21,442,619,681",14607,G.I. Generation
+14189,Kuwait,1985,female,75+ years,0,3400,0.0,Kuwait1985,0.732,"21,442,619,681",14607,G.I. Generation
+14190,Kuwait,1985,male,5-14 years,0,196600,0.0,Kuwait1985,0.732,"21,442,619,681",14607,Generation X
+14191,Kuwait,1985,male,75+ years,0,3000,0.0,Kuwait1985,0.732,"21,442,619,681",14607,G.I. Generation
+14192,Kuwait,1986,male,15-24 years,4,157400,2.54,Kuwait1986,,"17,903,681,693",11661,Generation X
+14193,Kuwait,1986,female,25-34 years,3,143000,2.1,Kuwait1986,,"17,903,681,693",11661,Boomers
+14194,Kuwait,1986,male,25-34 years,5,238400,2.1,Kuwait1986,,"17,903,681,693",11661,Boomers
+14195,Kuwait,1986,male,35-54 years,3,246500,1.22,Kuwait1986,,"17,903,681,693",11661,Silent
+14196,Kuwait,1986,female,35-54 years,1,127800,0.78,Kuwait1986,,"17,903,681,693",11661,Silent
+14197,Kuwait,1986,female,15-24 years,0,152100,0.0,Kuwait1986,,"17,903,681,693",11661,Generation X
+14198,Kuwait,1986,female,5-14 years,0,198400,0.0,Kuwait1986,,"17,903,681,693",11661,Generation X
+14199,Kuwait,1986,female,55-74 years,0,23400,0.0,Kuwait1986,,"17,903,681,693",11661,G.I. Generation
+14200,Kuwait,1986,female,75+ years,0,3400,0.0,Kuwait1986,,"17,903,681,693",11661,G.I. Generation
+14201,Kuwait,1986,male,5-14 years,0,205000,0.0,Kuwait1986,,"17,903,681,693",11661,Generation X
+14202,Kuwait,1986,male,55-74 years,0,36700,0.0,Kuwait1986,,"17,903,681,693",11661,G.I. Generation
+14203,Kuwait,1986,male,75+ years,0,3200,0.0,Kuwait1986,,"17,903,681,693",11661,G.I. Generation
+14204,Kuwait,1987,female,55-74 years,1,24300,4.12,Kuwait1987,,"22,365,734,482",13924,G.I. Generation
+14205,Kuwait,1987,male,25-34 years,6,249500,2.4,Kuwait1987,,"22,365,734,482",13924,Boomers
+14206,Kuwait,1987,male,35-54 years,4,257900,1.55,Kuwait1987,,"22,365,734,482",13924,Silent
+14207,Kuwait,1987,female,35-54 years,2,134100,1.49,Kuwait1987,,"22,365,734,482",13924,Silent
+14208,Kuwait,1987,female,25-34 years,1,150100,0.67,Kuwait1987,,"22,365,734,482",13924,Boomers
+14209,Kuwait,1987,female,15-24 years,1,159300,0.63,Kuwait1987,,"22,365,734,482",13924,Generation X
+14210,Kuwait,1987,male,15-24 years,1,164300,0.61,Kuwait1987,,"22,365,734,482",13924,Generation X
+14211,Kuwait,1987,female,5-14 years,0,207600,0.0,Kuwait1987,,"22,365,734,482",13924,Generation X
+14212,Kuwait,1987,female,75+ years,0,3700,0.0,Kuwait1987,,"22,365,734,482",13924,G.I. Generation
+14213,Kuwait,1987,male,5-14 years,0,213800,0.0,Kuwait1987,,"22,365,734,482",13924,Generation X
+14214,Kuwait,1987,male,55-74 years,0,38400,0.0,Kuwait1987,,"22,365,734,482",13924,G.I. Generation
+14215,Kuwait,1987,male,75+ years,0,3300,0.0,Kuwait1987,,"22,365,734,482",13924,G.I. Generation
+14216,Kuwait,1993,female,25-34 years,4,130800,3.06,Kuwait1993,,"23,941,391,391",18798,Boomers
+14217,Kuwait,1993,male,25-34 years,6,207800,2.89,Kuwait1993,,"23,941,391,391",18798,Boomers
+14218,Kuwait,1993,male,55-74 years,1,35200,2.84,Kuwait1993,,"23,941,391,391",18798,Silent
+14219,Kuwait,1993,male,35-54 years,4,227100,1.76,Kuwait1993,,"23,941,391,391",18798,Boomers
+14220,Kuwait,1993,female,35-54 years,2,123800,1.62,Kuwait1993,,"23,941,391,391",18798,Boomers
+14221,Kuwait,1993,male,15-24 years,1,119600,0.84,Kuwait1993,,"23,941,391,391",18798,Generation X
+14222,Kuwait,1993,female,15-24 years,0,112300,0.0,Kuwait1993,,"23,941,391,391",18798,Generation X
+14223,Kuwait,1993,female,5-14 years,0,144300,0.0,Kuwait1993,,"23,941,391,391",18798,Millenials
+14224,Kuwait,1993,female,55-74 years,0,23500,0.0,Kuwait1993,,"23,941,391,391",18798,Silent
+14225,Kuwait,1993,female,75+ years,0,2800,0.0,Kuwait1993,,"23,941,391,391",18798,G.I. Generation
+14226,Kuwait,1993,male,5-14 years,0,143300,0.0,Kuwait1993,,"23,941,391,391",18798,Millenials
+14227,Kuwait,1993,male,75+ years,0,3100,0.0,Kuwait1993,,"23,941,391,391",18798,G.I. Generation
+14228,Kuwait,1994,female,25-34 years,7,132800,5.27,Kuwait1994,,"24,848,483,838",17161,Boomers
+14229,Kuwait,1994,female,35-54 years,5,123000,4.07,Kuwait1994,,"24,848,483,838",17161,Boomers
+14230,Kuwait,1994,male,25-34 years,8,279700,2.86,Kuwait1994,,"24,848,483,838",17161,Boomers
+14231,Kuwait,1994,male,35-54 years,7,289600,2.42,Kuwait1994,,"24,848,483,838",17161,Boomers
+14232,Kuwait,1994,male,55-74 years,1,41900,2.39,Kuwait1994,,"24,848,483,838",17161,Silent
+14233,Kuwait,1994,male,15-24 years,2,137100,1.46,Kuwait1994,,"24,848,483,838",17161,Generation X
+14234,Kuwait,1994,female,15-24 years,0,111900,0.0,Kuwait1994,,"24,848,483,838",17161,Generation X
+14235,Kuwait,1994,female,5-14 years,0,149200,0.0,Kuwait1994,,"24,848,483,838",17161,Millenials
+14236,Kuwait,1994,female,55-74 years,0,22500,0.0,Kuwait1994,,"24,848,483,838",17161,Silent
+14237,Kuwait,1994,female,75+ years,0,2500,0.0,Kuwait1994,,"24,848,483,838",17161,G.I. Generation
+14238,Kuwait,1994,male,5-14 years,0,154600,0.0,Kuwait1994,,"24,848,483,838",17161,Millenials
+14239,Kuwait,1994,male,75+ years,0,3200,0.0,Kuwait1994,,"24,848,483,838",17161,G.I. Generation
+14240,Kuwait,1995,male,15-24 years,5,142900,3.5,Kuwait1995,0.752,"27,191,689,008",17995,Generation X
+14241,Kuwait,1995,male,25-34 years,9,292900,3.07,Kuwait1995,0.752,"27,191,689,008",17995,Generation X
+14242,Kuwait,1995,male,35-54 years,7,303300,2.31,Kuwait1995,0.752,"27,191,689,008",17995,Boomers
+14243,Kuwait,1995,female,35-54 years,2,128200,1.56,Kuwait1995,0.752,"27,191,689,008",17995,Boomers
+14244,Kuwait,1995,female,25-34 years,2,138600,1.44,Kuwait1995,0.752,"27,191,689,008",17995,Generation X
+14245,Kuwait,1995,female,15-24 years,1,116400,0.86,Kuwait1995,0.752,"27,191,689,008",17995,Generation X
+14246,Kuwait,1995,female,5-14 years,0,155100,0.0,Kuwait1995,0.752,"27,191,689,008",17995,Millenials
+14247,Kuwait,1995,female,55-74 years,0,23300,0.0,Kuwait1995,0.752,"27,191,689,008",17995,Silent
+14248,Kuwait,1995,female,75+ years,0,2600,0.0,Kuwait1995,0.752,"27,191,689,008",17995,G.I. Generation
+14249,Kuwait,1995,male,5-14 years,0,160900,0.0,Kuwait1995,0.752,"27,191,689,008",17995,Millenials
+14250,Kuwait,1995,male,55-74 years,0,43700,0.0,Kuwait1995,0.752,"27,191,689,008",17995,Silent
+14251,Kuwait,1995,male,75+ years,0,3200,0.0,Kuwait1995,0.752,"27,191,689,008",17995,G.I. Generation
+14252,Kuwait,1996,female,25-34 years,8,143900,5.56,Kuwait1996,,"31,493,987,642",20076,Generation X
+14253,Kuwait,1996,male,55-74 years,2,45300,4.42,Kuwait1996,,"31,493,987,642",20076,Silent
+14254,Kuwait,1996,male,25-34 years,10,304400,3.29,Kuwait1996,,"31,493,987,642",20076,Generation X
+14255,Kuwait,1996,female,15-24 years,3,120600,2.49,Kuwait1996,,"31,493,987,642",20076,Generation X
+14256,Kuwait,1996,male,35-54 years,6,315300,1.9,Kuwait1996,,"31,493,987,642",20076,Boomers
+14257,Kuwait,1996,male,15-24 years,1,148200,0.67,Kuwait1996,,"31,493,987,642",20076,Generation X
+14258,Kuwait,1996,female,35-54 years,0,133200,0.0,Kuwait1996,,"31,493,987,642",20076,Boomers
+14259,Kuwait,1996,female,5-14 years,0,160800,0.0,Kuwait1996,,"31,493,987,642",20076,Millenials
+14260,Kuwait,1996,female,55-74 years,0,24200,0.0,Kuwait1996,,"31,493,987,642",20076,Silent
+14261,Kuwait,1996,female,75+ years,0,2700,0.0,Kuwait1996,,"31,493,987,642",20076,G.I. Generation
+14262,Kuwait,1996,male,5-14 years,0,166800,0.0,Kuwait1996,,"31,493,987,642",20076,Millenials
+14263,Kuwait,1996,male,75+ years,0,3300,0.0,Kuwait1996,,"31,493,987,642",20076,G.I. Generation
+14264,Kuwait,1997,female,25-34 years,7,148300,4.72,Kuwait1997,,"30,354,434,553",18766,Generation X
+14265,Kuwait,1997,female,15-24 years,5,124500,4.02,Kuwait1997,,"30,354,434,553",18766,Generation X
+14266,Kuwait,1997,female,35-54 years,5,137300,3.64,Kuwait1997,,"30,354,434,553",18766,Boomers
+14267,Kuwait,1997,male,25-34 years,10,313700,3.19,Kuwait1997,,"30,354,434,553",18766,Generation X
+14268,Kuwait,1997,male,55-74 years,1,46700,2.14,Kuwait1997,,"30,354,434,553",18766,Silent
+14269,Kuwait,1997,male,15-24 years,2,153000,1.31,Kuwait1997,,"30,354,434,553",18766,Generation X
+14270,Kuwait,1997,male,35-54 years,3,324800,0.92,Kuwait1997,,"30,354,434,553",18766,Boomers
+14271,Kuwait,1997,female,5-14 years,0,165900,0.0,Kuwait1997,,"30,354,434,553",18766,Millenials
+14272,Kuwait,1997,female,55-74 years,0,25000,0.0,Kuwait1997,,"30,354,434,553",18766,Silent
+14273,Kuwait,1997,female,75+ years,0,2700,0.0,Kuwait1997,,"30,354,434,553",18766,G.I. Generation
+14274,Kuwait,1997,male,5-14 years,0,172100,0.0,Kuwait1997,,"30,354,434,553",18766,Millenials
+14275,Kuwait,1997,male,75+ years,0,3500,0.0,Kuwait1997,,"30,354,434,553",18766,G.I. Generation
+14276,Kuwait,1998,female,25-34 years,6,176454,3.4,Kuwait1998,,"25,941,929,462",14209,Generation X
+14277,Kuwait,1998,female,35-54 years,6,184143,3.26,Kuwait1998,,"25,941,929,462",14209,Boomers
+14278,Kuwait,1998,male,25-34 years,10,342775,2.92,Kuwait1998,,"25,941,929,462",14209,Generation X
+14279,Kuwait,1998,female,15-24 years,3,137997,2.17,Kuwait1998,,"25,941,929,462",14209,Generation X
+14280,Kuwait,1998,male,35-54 years,8,396063,2.02,Kuwait1998,,"25,941,929,462",14209,Boomers
+14281,Kuwait,1998,male,55-74 years,1,56327,1.78,Kuwait1998,,"25,941,929,462",14209,Silent
+14282,Kuwait,1998,male,15-24 years,1,151264,0.66,Kuwait1998,,"25,941,929,462",14209,Generation X
+14283,Kuwait,1998,female,5-14 years,0,166981,0.0,Kuwait1998,,"25,941,929,462",14209,Millenials
+14284,Kuwait,1998,female,55-74 years,0,32097,0.0,Kuwait1998,,"25,941,929,462",14209,Silent
+14285,Kuwait,1998,female,75+ years,0,3970,0.0,Kuwait1998,,"25,941,929,462",14209,G.I. Generation
+14286,Kuwait,1998,male,5-14 years,0,173841,0.0,Kuwait1998,,"25,941,929,462",14209,Millenials
+14287,Kuwait,1998,male,75+ years,0,3854,0.0,Kuwait1998,,"25,941,929,462",14209,G.I. Generation
+14288,Kuwait,1999,male,25-34 years,16,357800,4.47,Kuwait1999,,"30,121,879,435",15864,Generation X
+14289,Kuwait,1999,female,25-34 years,7,182700,3.83,Kuwait1999,,"30,121,879,435",15864,Generation X
+14290,Kuwait,1999,male,35-54 years,14,413600,3.38,Kuwait1999,,"30,121,879,435",15864,Boomers
+14291,Kuwait,1999,female,35-54 years,5,190600,2.62,Kuwait1999,,"30,121,879,435",15864,Boomers
+14292,Kuwait,1999,male,15-24 years,2,157500,1.27,Kuwait1999,,"30,121,879,435",15864,Generation X
+14293,Kuwait,1999,female,15-24 years,1,142800,0.7,Kuwait1999,,"30,121,879,435",15864,Generation X
+14294,Kuwait,1999,male,5-14 years,1,180700,0.55,Kuwait1999,,"30,121,879,435",15864,Millenials
+14295,Kuwait,1999,female,5-14 years,0,172800,0.0,Kuwait1999,,"30,121,879,435",15864,Millenials
+14296,Kuwait,1999,female,55-74 years,0,33300,0.0,Kuwait1999,,"30,121,879,435",15864,Silent
+14297,Kuwait,1999,female,75+ years,0,4200,0.0,Kuwait1999,,"30,121,879,435",15864,G.I. Generation
+14298,Kuwait,1999,male,55-74 years,0,58700,0.0,Kuwait1999,,"30,121,879,435",15864,Silent
+14299,Kuwait,1999,male,75+ years,0,4000,0.0,Kuwait1999,,"30,121,879,435",15864,G.I. Generation
+14300,Kuwait,2000,female,25-34 years,10,189015,5.29,Kuwait2000,0.804,"37,711,864,407",19112,Generation X
+14301,Kuwait,2000,male,25-34 years,11,373318,2.95,Kuwait2000,0.804,"37,711,864,407",19112,Generation X
+14302,Kuwait,2000,male,15-24 years,3,163848,1.83,Kuwait2000,0.804,"37,711,864,407",19112,Generation X
+14303,Kuwait,2000,male,55-74 years,1,61145,1.64,Kuwait2000,0.804,"37,711,864,407",19112,Silent
+14304,Kuwait,2000,female,15-24 years,2,147681,1.35,Kuwait2000,0.804,"37,711,864,407",19112,Generation X
+14305,Kuwait,2000,male,35-54 years,5,431562,1.16,Kuwait2000,0.804,"37,711,864,407",19112,Boomers
+14306,Kuwait,2000,female,35-54 years,2,197224,1.01,Kuwait2000,0.804,"37,711,864,407",19112,Boomers
+14307,Kuwait,2000,female,5-14 years,0,178644,0.0,Kuwait2000,0.804,"37,711,864,407",19112,Millenials
+14308,Kuwait,2000,female,55-74 years,0,34331,0.0,Kuwait2000,0.804,"37,711,864,407",19112,Silent
+14309,Kuwait,2000,female,75+ years,0,4246,0.0,Kuwait2000,0.804,"37,711,864,407",19112,G.I. Generation
+14310,Kuwait,2000,male,5-14 years,0,187983,0.0,Kuwait2000,0.804,"37,711,864,407",19112,Millenials
+14311,Kuwait,2000,male,75+ years,0,4156,0.0,Kuwait2000,0.804,"37,711,864,407",19112,G.I. Generation
+14312,Kuwait,2001,male,35-54 years,15,453739,3.31,Kuwait2001,,"34,890,772,742",17116,Boomers
+14313,Kuwait,2001,male,25-34 years,8,367180,2.18,Kuwait2001,,"34,890,772,742",17116,Generation X
+14314,Kuwait,2001,female,25-34 years,3,197334,1.52,Kuwait2001,,"34,890,772,742",17116,Generation X
+14315,Kuwait,2001,male,15-24 years,2,172345,1.16,Kuwait2001,,"34,890,772,742",17116,Millenials
+14316,Kuwait,2001,female,35-54 years,2,209093,0.96,Kuwait2001,,"34,890,772,742",17116,Boomers
+14317,Kuwait,2001,female,15-24 years,0,158070,0.0,Kuwait2001,,"34,890,772,742",17116,Millenials
+14318,Kuwait,2001,female,5-14 years,0,180414,0.0,Kuwait2001,,"34,890,772,742",17116,Millenials
+14319,Kuwait,2001,female,55-74 years,0,38503,0.0,Kuwait2001,,"34,890,772,742",17116,Silent
+14320,Kuwait,2001,female,75+ years,0,4919,0.0,Kuwait2001,,"34,890,772,742",17116,Silent
+14321,Kuwait,2001,male,5-14 years,0,189011,0.0,Kuwait2001,,"34,890,772,742",17116,Millenials
+14322,Kuwait,2001,male,55-74 years,0,63433,0.0,Kuwait2001,,"34,890,772,742",17116,Silent
+14323,Kuwait,2001,male,75+ years,0,4489,0.0,Kuwait2001,,"34,890,772,742",17116,Silent
+14324,Kuwait,2002,male,35-54 years,18,482228,3.73,Kuwait2002,,"38,137,545,245",17668,Boomers
+14325,Kuwait,2002,male,25-34 years,11,388020,2.83,Kuwait2002,,"38,137,545,245",17668,Generation X
+14326,Kuwait,2002,male,15-24 years,5,185185,2.7,Kuwait2002,,"38,137,545,245",17668,Millenials
+14327,Kuwait,2002,female,25-34 years,5,213750,2.34,Kuwait2002,,"38,137,545,245",17668,Generation X
+14328,Kuwait,2002,female,35-54 years,4,225709,1.77,Kuwait2002,,"38,137,545,245",17668,Boomers
+14329,Kuwait,2002,female,15-24 years,2,168033,1.19,Kuwait2002,,"38,137,545,245",17668,Millenials
+14330,Kuwait,2002,female,5-14 years,0,183948,0.0,Kuwait2002,,"38,137,545,245",17668,Millenials
+14331,Kuwait,2002,female,55-74 years,0,41294,0.0,Kuwait2002,,"38,137,545,245",17668,Silent
+14332,Kuwait,2002,female,75+ years,0,5290,0.0,Kuwait2002,,"38,137,545,245",17668,Silent
+14333,Kuwait,2002,male,5-14 years,0,193020,0.0,Kuwait2002,,"38,137,545,245",17668,Millenials
+14334,Kuwait,2002,male,55-74 years,0,67364,0.0,Kuwait2002,,"38,137,545,245",17668,Silent
+14335,Kuwait,2002,male,75+ years,0,4762,0.0,Kuwait2002,,"38,137,545,245",17668,Silent
+14336,Kuwait,2003,female,25-34 years,9,185021,4.86,Kuwait2003,,"47,875,838,926",24544,Generation X
+14337,Kuwait,2003,male,35-54 years,17,397654,4.28,Kuwait2003,,"47,875,838,926",24544,Boomers
+14338,Kuwait,2003,male,25-34 years,11,296337,3.71,Kuwait2003,,"47,875,838,926",24544,Generation X
+14339,Kuwait,2003,female,35-54 years,3,208524,1.44,Kuwait2003,,"47,875,838,926",24544,Boomers
+14340,Kuwait,2003,female,15-24 years,2,167291,1.2,Kuwait2003,,"47,875,838,926",24544,Millenials
+14341,Kuwait,2003,male,15-24 years,2,209956,0.95,Kuwait2003,,"47,875,838,926",24544,Millenials
+14342,Kuwait,2003,female,5-14 years,0,172216,0.0,Kuwait2003,,"47,875,838,926",24544,Millenials
+14343,Kuwait,2003,female,55-74 years,0,44516,0.0,Kuwait2003,,"47,875,838,926",24544,Silent
+14344,Kuwait,2003,female,75+ years,0,3525,0.0,Kuwait2003,,"47,875,838,926",24544,Silent
+14345,Kuwait,2003,male,5-14 years,0,190628,0.0,Kuwait2003,,"47,875,838,926",24544,Millenials
+14346,Kuwait,2003,male,55-74 years,0,70627,0.0,Kuwait2003,,"47,875,838,926",24544,Silent
+14347,Kuwait,2003,male,75+ years,0,4327,0.0,Kuwait2003,,"47,875,838,926",24544,Silent
+14348,Kuwait,2004,male,35-54 years,17,402163,4.23,Kuwait2004,,"59,440,108,585",29778,Boomers
+14349,Kuwait,2004,female,25-34 years,7,192013,3.65,Kuwait2004,,"59,440,108,585",29778,Generation X
+14350,Kuwait,2004,female,35-54 years,7,212485,3.29,Kuwait2004,,"59,440,108,585",29778,Boomers
+14351,Kuwait,2004,male,15-24 years,5,206153,2.43,Kuwait2004,,"59,440,108,585",29778,Millenials
+14352,Kuwait,2004,male,25-34 years,6,318728,1.88,Kuwait2004,,"59,440,108,585",29778,Generation X
+14353,Kuwait,2004,female,15-24 years,3,168373,1.78,Kuwait2004,,"59,440,108,585",29778,Millenials
+14354,Kuwait,2004,female,5-14 years,0,175678,0.0,Kuwait2004,,"59,440,108,585",29778,Millenials
+14355,Kuwait,2004,female,55-74 years,0,47016,0.0,Kuwait2004,,"59,440,108,585",29778,Silent
+14356,Kuwait,2004,female,75+ years,0,3453,0.0,Kuwait2004,,"59,440,108,585",29778,Silent
+14357,Kuwait,2004,male,5-14 years,0,192791,0.0,Kuwait2004,,"59,440,108,585",29778,Millenials
+14358,Kuwait,2004,male,55-74 years,0,73036,0.0,Kuwait2004,,"59,440,108,585",29778,Silent
+14359,Kuwait,2004,male,75+ years,0,4197,0.0,Kuwait2004,,"59,440,108,585",29778,Silent
+14360,Kuwait,2005,male,25-34 years,21,346283,6.06,Kuwait2005,0.795,"80,797,945,205",39166,Generation X
+14361,Kuwait,2005,male,35-54 years,17,413321,4.11,Kuwait2005,0.795,"80,797,945,205",39166,Boomers
+14362,Kuwait,2005,female,25-34 years,7,203126,3.45,Kuwait2005,0.795,"80,797,945,205",39166,Generation X
+14363,Kuwait,2005,female,15-24 years,3,168662,1.78,Kuwait2005,0.795,"80,797,945,205",39166,Millenials
+14364,Kuwait,2005,male,55-74 years,1,74974,1.33,Kuwait2005,0.795,"80,797,945,205",39166,Silent
+14365,Kuwait,2005,male,15-24 years,2,201000,1.0,Kuwait2005,0.795,"80,797,945,205",39166,Millenials
+14366,Kuwait,2005,female,35-54 years,1,220232,0.45,Kuwait2005,0.795,"80,797,945,205",39166,Boomers
+14367,Kuwait,2005,female,5-14 years,0,181830,0.0,Kuwait2005,0.795,"80,797,945,205",39166,Millenials
+14368,Kuwait,2005,female,55-74 years,0,49714,0.0,Kuwait2005,0.795,"80,797,945,205",39166,Silent
+14369,Kuwait,2005,female,75+ years,0,3575,0.0,Kuwait2005,0.795,"80,797,945,205",39166,Silent
+14370,Kuwait,2005,male,5-14 years,0,195927,0.0,Kuwait2005,0.795,"80,797,945,205",39166,Millenials
+14371,Kuwait,2005,male,75+ years,0,4324,0.0,Kuwait2005,0.795,"80,797,945,205",39166,Silent
+14372,Kuwait,2006,male,25-34 years,18,360383,4.99,Kuwait2006,,"101,550,654,721",46890,Generation X
+14373,Kuwait,2006,male,35-54 years,14,432150,3.24,Kuwait2006,,"101,550,654,721",46890,Boomers
+14374,Kuwait,2006,female,25-34 years,5,215556,2.32,Kuwait2006,,"101,550,654,721",46890,Generation X
+14375,Kuwait,2006,female,55-74 years,1,50864,1.97,Kuwait2006,,"101,550,654,721",46890,Silent
+14376,Kuwait,2006,female,35-54 years,3,235105,1.28,Kuwait2006,,"101,550,654,721",46890,Boomers
+14377,Kuwait,2006,female,15-24 years,2,182410,1.1,Kuwait2006,,"101,550,654,721",46890,Millenials
+14378,Kuwait,2006,male,15-24 years,2,215810,0.93,Kuwait2006,,"101,550,654,721",46890,Millenials
+14379,Kuwait,2006,female,5-14 years,0,187102,0.0,Kuwait2006,,"101,550,654,721",46890,Millenials
+14380,Kuwait,2006,female,75+ years,0,3887,0.0,Kuwait2006,,"101,550,654,721",46890,Silent
+14381,Kuwait,2006,male,5-14 years,0,199187,0.0,Kuwait2006,,"101,550,654,721",46890,Millenials
+14382,Kuwait,2006,male,55-74 years,0,78524,0.0,Kuwait2006,,"101,550,654,721",46890,Silent
+14383,Kuwait,2006,male,75+ years,0,4735,0.0,Kuwait2006,,"101,550,654,721",46890,Silent
+14384,Kuwait,2007,male,25-34 years,21,640909,3.28,Kuwait2007,,"114,641,097,818",37283,Generation X
+14385,Kuwait,2007,female,25-34 years,7,301345,2.32,Kuwait2007,,"114,641,097,818",37283,Generation X
+14386,Kuwait,2007,male,55-74 years,2,99708,2.01,Kuwait2007,,"114,641,097,818",37283,Silent
+14387,Kuwait,2007,male,15-24 years,5,268049,1.87,Kuwait2007,,"114,641,097,818",37283,Millenials
+14388,Kuwait,2007,female,35-54 years,6,325356,1.84,Kuwait2007,,"114,641,097,818",37283,Boomers
+14389,Kuwait,2007,male,35-54 years,9,717868,1.25,Kuwait2007,,"114,641,097,818",37283,Boomers
+14390,Kuwait,2007,female,15-24 years,1,220418,0.45,Kuwait2007,,"114,641,097,818",37283,Millenials
+14391,Kuwait,2007,female,5-14 years,0,207774,0.0,Kuwait2007,,"114,641,097,818",37283,Generation Z
+14392,Kuwait,2007,female,55-74 years,0,58858,0.0,Kuwait2007,,"114,641,097,818",37283,Silent
+14393,Kuwait,2007,female,75+ years,0,7399,0.0,Kuwait2007,,"114,641,097,818",37283,Silent
+14394,Kuwait,2007,male,5-14 years,0,220886,0.0,Kuwait2007,,"114,641,097,818",37283,Generation Z
+14395,Kuwait,2007,male,75+ years,0,6348,0.0,Kuwait2007,,"114,641,097,818",37283,Silent
+14396,Kuwait,2008,male,25-34 years,13,712955,1.82,Kuwait2008,,"147,395,833,333",43746,Generation X
+14397,Kuwait,2008,male,35-54 years,14,780428,1.79,Kuwait2008,,"147,395,833,333",43746,Boomers
+14398,Kuwait,2008,male,15-24 years,5,283568,1.76,Kuwait2008,,"147,395,833,333",43746,Millenials
+14399,Kuwait,2008,female,25-34 years,6,348503,1.72,Kuwait2008,,"147,395,833,333",43746,Generation X
+14400,Kuwait,2008,female,55-74 years,1,63516,1.57,Kuwait2008,,"147,395,833,333",43746,Silent
+14401,Kuwait,2008,female,35-54 years,5,363431,1.38,Kuwait2008,,"147,395,833,333",43746,Boomers
+14402,Kuwait,2008,male,55-74 years,1,110218,0.91,Kuwait2008,,"147,395,833,333",43746,Silent
+14403,Kuwait,2008,female,15-24 years,2,247755,0.81,Kuwait2008,,"147,395,833,333",43746,Millenials
+14404,Kuwait,2008,female,5-14 years,0,215473,0.0,Kuwait2008,,"147,395,833,333",43746,Generation Z
+14405,Kuwait,2008,female,75+ years,0,8038,0.0,Kuwait2008,,"147,395,833,333",43746,Silent
+14406,Kuwait,2008,male,5-14 years,0,228709,0.0,Kuwait2008,,"147,395,833,333",43746,Generation Z
+14407,Kuwait,2008,male,75+ years,0,6800,0.0,Kuwait2008,,"147,395,833,333",43746,Silent
+14408,Kuwait,2009,female,25-34 years,11,309613,3.55,Kuwait2009,,"105,899,930,507",33453,Generation X
+14409,Kuwait,2009,male,35-54 years,22,747742,2.94,Kuwait2009,,"105,899,930,507",33453,Boomers
+14410,Kuwait,2009,male,25-34 years,14,635172,2.2,Kuwait2009,,"105,899,930,507",33453,Generation X
+14411,Kuwait,2009,female,35-54 years,6,342583,1.75,Kuwait2009,,"105,899,930,507",33453,Boomers
+14412,Kuwait,2009,male,15-24 years,4,262196,1.53,Kuwait2009,,"105,899,930,507",33453,Millenials
+14413,Kuwait,2009,female,55-74 years,1,68187,1.47,Kuwait2009,,"105,899,930,507",33453,Silent
+14414,Kuwait,2009,female,15-24 years,3,219634,1.37,Kuwait2009,,"105,899,930,507",33453,Millenials
+14415,Kuwait,2009,female,5-14 years,0,219779,0.0,Kuwait2009,,"105,899,930,507",33453,Generation Z
+14416,Kuwait,2009,female,75+ years,0,8255,0.0,Kuwait2009,,"105,899,930,507",33453,Silent
+14417,Kuwait,2009,male,5-14 years,0,231825,0.0,Kuwait2009,,"105,899,930,507",33453,Generation Z
+14418,Kuwait,2009,male,55-74 years,0,113405,0.0,Kuwait2009,,"105,899,930,507",33453,Silent
+14419,Kuwait,2009,male,75+ years,0,7263,0.0,Kuwait2009,,"105,899,930,507",33453,Silent
+14420,Kuwait,2010,male,55-74 years,3,121359,2.47,Kuwait2010,0.809,"115,419,050,942",35171,Silent
+14421,Kuwait,2010,female,25-34 years,8,351659,2.27,Kuwait2010,0.809,"115,419,050,942",35171,Generation X
+14422,Kuwait,2010,male,25-34 years,13,619392,2.1,Kuwait2010,0.809,"115,419,050,942",35171,Generation X
+14423,Kuwait,2010,male,35-54 years,9,762814,1.18,Kuwait2010,0.809,"115,419,050,942",35171,Generation X
+14424,Kuwait,2010,female,15-24 years,2,231645,0.86,Kuwait2010,0.809,"115,419,050,942",35171,Millenials
+14425,Kuwait,2010,female,35-54 years,3,387443,0.77,Kuwait2010,0.809,"115,419,050,942",35171,Generation X
+14426,Kuwait,2010,male,15-24 years,1,254945,0.39,Kuwait2010,0.809,"115,419,050,942",35171,Millenials
+14427,Kuwait,2010,female,5-14 years,0,225440,0.0,Kuwait2010,0.809,"115,419,050,942",35171,Generation Z
+14428,Kuwait,2010,female,55-74 years,0,72487,0.0,Kuwait2010,0.809,"115,419,050,942",35171,Silent
+14429,Kuwait,2010,female,75+ years,0,8964,0.0,Kuwait2010,0.809,"115,419,050,942",35171,Silent
+14430,Kuwait,2010,male,5-14 years,0,237315,0.0,Kuwait2010,0.809,"115,419,050,942",35171,Generation Z
+14431,Kuwait,2010,male,75+ years,0,8151,0.0,Kuwait2010,0.809,"115,419,050,942",35171,Silent
+14432,Kuwait,2011,female,25-34 years,6,354327,1.69,Kuwait2011,0.812,"154,027,536,232",46203,Millenials
+14433,Kuwait,2011,male,55-74 years,2,128263,1.56,Kuwait2011,0.812,"154,027,536,232",46203,Boomers
+14434,Kuwait,2011,male,15-24 years,4,260399,1.54,Kuwait2011,0.812,"154,027,536,232",46203,Millenials
+14435,Kuwait,2011,male,25-34 years,9,614348,1.46,Kuwait2011,0.812,"154,027,536,232",46203,Millenials
+14436,Kuwait,2011,female,5-14 years,3,230439,1.3,Kuwait2011,0.812,"154,027,536,232",46203,Generation Z
+14437,Kuwait,2011,male,35-54 years,9,777932,1.16,Kuwait2011,0.812,"154,027,536,232",46203,Generation X
+14438,Kuwait,2011,female,35-54 years,4,396994,1.01,Kuwait2011,0.812,"154,027,536,232",46203,Generation X
+14439,Kuwait,2011,female,15-24 years,2,232768,0.86,Kuwait2011,0.812,"154,027,536,232",46203,Millenials
+14440,Kuwait,2011,male,5-14 years,2,242095,0.83,Kuwait2011,0.812,"154,027,536,232",46203,Generation Z
+14441,Kuwait,2011,female,55-74 years,0,77462,0.0,Kuwait2011,0.812,"154,027,536,232",46203,Boomers
+14442,Kuwait,2011,female,75+ years,0,9934,0.0,Kuwait2011,0.812,"154,027,536,232",46203,Silent
+14443,Kuwait,2011,male,75+ years,0,8737,0.0,Kuwait2011,0.812,"154,027,536,232",46203,Silent
+14444,Kuwait,2012,male,15-24 years,10,267410,3.74,Kuwait2012,0.815,"174,070,025,009",49781,Millenials
+14445,Kuwait,2012,female,55-74 years,2,83066,2.41,Kuwait2012,0.815,"174,070,025,009",49781,Boomers
+14446,Kuwait,2012,female,25-34 years,8,377621,2.12,Kuwait2012,0.815,"174,070,025,009",49781,Millenials
+14447,Kuwait,2012,male,35-54 years,17,822229,2.07,Kuwait2012,0.815,"174,070,025,009",49781,Generation X
+14448,Kuwait,2012,female,15-24 years,4,237359,1.69,Kuwait2012,0.815,"174,070,025,009",49781,Millenials
+14449,Kuwait,2012,male,25-34 years,8,637302,1.26,Kuwait2012,0.815,"174,070,025,009",49781,Millenials
+14450,Kuwait,2012,female,35-54 years,5,423084,1.18,Kuwait2012,0.815,"174,070,025,009",49781,Generation X
+14451,Kuwait,2012,male,55-74 years,1,138505,0.72,Kuwait2012,0.815,"174,070,025,009",49781,Boomers
+14452,Kuwait,2012,male,5-14 years,1,250917,0.4,Kuwait2012,0.815,"174,070,025,009",49781,Generation Z
+14453,Kuwait,2012,female,5-14 years,0,239552,0.0,Kuwait2012,0.815,"174,070,025,009",49781,Generation Z
+14454,Kuwait,2012,female,75+ years,0,10287,0.0,Kuwait2012,0.815,"174,070,025,009",49781,Silent
+14455,Kuwait,2012,male,75+ years,0,9366,0.0,Kuwait2012,0.815,"174,070,025,009",49781,Silent
+14456,Kuwait,2013,male,25-34 years,16,643877,2.48,Kuwait2013,0.816,"174,161,142,454",48729,Millenials
+14457,Kuwait,2013,male,55-74 years,3,146172,2.05,Kuwait2013,0.816,"174,161,142,454",48729,Boomers
+14458,Kuwait,2013,female,25-34 years,5,380061,1.32,Kuwait2013,0.816,"174,161,142,454",48729,Millenials
+14459,Kuwait,2013,female,15-24 years,3,233349,1.29,Kuwait2013,0.816,"174,161,142,454",48729,Millenials
+14460,Kuwait,2013,female,35-54 years,5,431425,1.16,Kuwait2013,0.816,"174,161,142,454",48729,Generation X
+14461,Kuwait,2013,male,35-54 years,7,847524,0.83,Kuwait2013,0.816,"174,161,142,454",48729,Generation X
+14462,Kuwait,2013,male,15-24 years,2,267988,0.75,Kuwait2013,0.816,"174,161,142,454",48729,Millenials
+14463,Kuwait,2013,female,5-14 years,0,251412,0.0,Kuwait2013,0.816,"174,161,142,454",48729,Generation Z
+14464,Kuwait,2013,female,55-74 years,0,88514,0.0,Kuwait2013,0.816,"174,161,142,454",48729,Boomers
+14465,Kuwait,2013,female,75+ years,0,10926,0.0,Kuwait2013,0.816,"174,161,142,454",48729,Silent
+14466,Kuwait,2013,male,5-14 years,0,262862,0.0,Kuwait2013,0.816,"174,161,142,454",48729,Generation Z
+14467,Kuwait,2013,male,75+ years,0,9980,0.0,Kuwait2013,0.816,"174,161,142,454",48729,Silent
+14468,Kuwait,2014,male,25-34 years,22,663735,3.31,Kuwait2014,0.816,"162,631,412,509",43774,Millenials
+14469,Kuwait,2014,male,15-24 years,7,270301,2.59,Kuwait2014,0.816,"162,631,412,509",43774,Millenials
+14470,Kuwait,2014,female,15-24 years,5,228222,2.19,Kuwait2014,0.816,"162,631,412,509",43774,Millenials
+14471,Kuwait,2014,male,35-54 years,18,892860,2.02,Kuwait2014,0.816,"162,631,412,509",43774,Generation X
+14472,Kuwait,2014,male,55-74 years,3,156953,1.91,Kuwait2014,0.816,"162,631,412,509",43774,Boomers
+14473,Kuwait,2014,female,35-54 years,8,454428,1.76,Kuwait2014,0.816,"162,631,412,509",43774,Generation X
+14474,Kuwait,2014,female,55-74 years,1,94314,1.06,Kuwait2014,0.816,"162,631,412,509",43774,Boomers
+14475,Kuwait,2014,female,25-34 years,4,390934,1.02,Kuwait2014,0.816,"162,631,412,509",43774,Millenials
+14476,Kuwait,2014,female,5-14 years,0,264790,0.0,Kuwait2014,0.816,"162,631,412,509",43774,Generation Z
+14477,Kuwait,2014,female,75+ years,0,11335,0.0,Kuwait2014,0.816,"162,631,412,509",43774,Silent
+14478,Kuwait,2014,male,5-14 years,0,276927,0.0,Kuwait2014,0.816,"162,631,412,509",43774,Generation Z
+14479,Kuwait,2014,male,75+ years,0,10485,0.0,Kuwait2014,0.816,"162,631,412,509",43774,Silent

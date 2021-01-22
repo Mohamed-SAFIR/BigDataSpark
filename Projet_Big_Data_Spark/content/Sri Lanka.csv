@@ -1,0 +1,133 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+23900,Sri Lanka,1985,male,75+ years,144,115000,125.22,Sri Lanka1985,0.597,"5,978,460,972",431,G.I. Generation
+23901,Sri Lanka,1985,male,15-24 years,1432,1673000,85.59,Sri Lanka1985,0.597,"5,978,460,972",431,Generation X
+23902,Sri Lanka,1985,male,25-34 years,1024,1288000,79.5,Sri Lanka1985,0.597,"5,978,460,972",431,Boomers
+23903,Sri Lanka,1985,male,55-74 years,443,680000,65.15,Sri Lanka1985,0.597,"5,978,460,972",431,G.I. Generation
+23904,Sri Lanka,1985,female,15-24 years,943,1652000,57.08,Sri Lanka1985,0.597,"5,978,460,972",431,Generation X
+23905,Sri Lanka,1985,male,35-54 years,824,1469000,56.09,Sri Lanka1985,0.597,"5,978,460,972",431,Silent
+23906,Sri Lanka,1985,female,25-34 years,426,1268000,33.6,Sri Lanka1985,0.597,"5,978,460,972",431,Boomers
+23907,Sri Lanka,1985,female,75+ years,23,106000,21.7,Sri Lanka1985,0.597,"5,978,460,972",431,G.I. Generation
+23908,Sri Lanka,1985,female,35-54 years,203,1402000,14.48,Sri Lanka1985,0.597,"5,978,460,972",431,Silent
+23909,Sri Lanka,1985,female,55-74 years,80,600000,13.33,Sri Lanka1985,0.597,"5,978,460,972",431,G.I. Generation
+23910,Sri Lanka,1985,male,5-14 years,71,1836000,3.87,Sri Lanka1985,0.597,"5,978,460,972",431,Generation X
+23911,Sri Lanka,1985,female,5-14 years,55,1768000,3.11,Sri Lanka1985,0.597,"5,978,460,972",431,Generation X
+23912,Sri Lanka,1986,male,75+ years,145,117200,123.72,Sri Lanka1986,,"6,405,210,564",454,G.I. Generation
+23913,Sri Lanka,1986,male,25-34 years,1045,1310300,79.75,Sri Lanka1986,,"6,405,210,564",454,Boomers
+23914,Sri Lanka,1986,male,15-24 years,1304,1702300,76.6,Sri Lanka1986,,"6,405,210,564",454,Generation X
+23915,Sri Lanka,1986,male,55-74 years,461,690600,66.75,Sri Lanka1986,,"6,405,210,564",454,G.I. Generation
+23916,Sri Lanka,1986,male,35-54 years,851,1495400,56.91,Sri Lanka1986,,"6,405,210,564",454,Silent
+23917,Sri Lanka,1986,female,15-24 years,804,1680400,47.85,Sri Lanka1986,,"6,405,210,564",454,Generation X
+23918,Sri Lanka,1986,female,25-34 years,365,1290400,28.29,Sri Lanka1986,,"6,405,210,564",454,Boomers
+23919,Sri Lanka,1986,female,75+ years,22,109400,20.11,Sri Lanka1986,,"6,405,210,564",454,G.I. Generation
+23920,Sri Lanka,1986,female,35-54 years,193,1425200,13.54,Sri Lanka1986,,"6,405,210,564",454,Silent
+23921,Sri Lanka,1986,female,55-74 years,72,611700,11.77,Sri Lanka1986,,"6,405,210,564",454,G.I. Generation
+23922,Sri Lanka,1986,male,5-14 years,48,1868800,2.57,Sri Lanka1986,,"6,405,210,564",454,Generation X
+23923,Sri Lanka,1986,female,5-14 years,35,1799700,1.94,Sri Lanka1986,,"6,405,210,564",454,Generation X
+23924,Sri Lanka,1996,male,75+ years,146,191662,76.18,Sri Lanka1996,,"13,897,738,375",834,G.I. Generation
+23925,Sri Lanka,1996,male,55-74 years,648,919081,70.51,Sri Lanka1996,,"13,897,738,375",834,Silent
+23926,Sri Lanka,1996,male,25-34 years,918,1524411,60.22,Sri Lanka1996,,"13,897,738,375",834,Generation X
+23927,Sri Lanka,1996,male,35-54 years,1211,2095820,57.78,Sri Lanka1996,,"13,897,738,375",834,Boomers
+23928,Sri Lanka,1996,male,15-24 years,768,1772399,43.33,Sri Lanka1996,,"13,897,738,375",834,Generation X
+23929,Sri Lanka,1996,female,15-24 years,500,1726757,28.96,Sri Lanka1996,,"13,897,738,375",834,Generation X
+23930,Sri Lanka,1996,female,25-34 years,284,1516469,18.73,Sri Lanka1996,,"13,897,738,375",834,Generation X
+23931,Sri Lanka,1996,female,75+ years,30,196180,15.29,Sri Lanka1996,,"13,897,738,375",834,G.I. Generation
+23932,Sri Lanka,1996,female,35-54 years,228,2135855,10.67,Sri Lanka1996,,"13,897,738,375",834,Boomers
+23933,Sri Lanka,1996,female,55-74 years,102,966021,10.56,Sri Lanka1996,,"13,897,738,375",834,Silent
+23934,Sri Lanka,1996,male,5-14 years,37,1840930,2.01,Sri Lanka1996,,"13,897,738,375",834,Millenials
+23935,Sri Lanka,1996,female,5-14 years,26,1768842,1.47,Sri Lanka1996,,"13,897,738,375",834,Millenials
+23936,Sri Lanka,1997,male,75+ years,181,195537,92.57,Sri Lanka1997,,"15,091,913,884",900,G.I. Generation
+23937,Sri Lanka,1997,male,25-34 years,1109,1514832,73.21,Sri Lanka1997,,"15,091,913,884",900,Generation X
+23938,Sri Lanka,1997,male,55-74 years,649,930446,69.75,Sri Lanka1997,,"15,091,913,884",900,Silent
+23939,Sri Lanka,1997,male,35-54 years,1491,2161948,68.97,Sri Lanka1997,,"15,091,913,884",900,Boomers
+23940,Sri Lanka,1997,male,15-24 years,924,1779781,51.92,Sri Lanka1997,,"15,091,913,884",900,Generation X
+23941,Sri Lanka,1997,female,15-24 years,623,1738059,35.84,Sri Lanka1997,,"15,091,913,884",900,Generation X
+23942,Sri Lanka,1997,female,75+ years,53,201309,26.33,Sri Lanka1997,,"15,091,913,884",900,G.I. Generation
+23943,Sri Lanka,1997,female,25-34 years,341,1514575,22.51,Sri Lanka1997,,"15,091,913,884",900,Generation X
+23944,Sri Lanka,1997,female,35-54 years,313,2204629,14.2,Sri Lanka1997,,"15,091,913,884",900,Boomers
+23945,Sri Lanka,1997,female,55-74 years,118,984037,11.99,Sri Lanka1997,,"15,091,913,884",900,Silent
+23946,Sri Lanka,1997,female,5-14 years,49,1739451,2.82,Sri Lanka1997,,"15,091,913,884",900,Millenials
+23947,Sri Lanka,1997,male,5-14 years,36,1810805,1.99,Sri Lanka1997,,"15,091,913,884",900,Millenials
+23948,Sri Lanka,1998,male,75+ years,214,197754,108.22,Sri Lanka1998,,"15,794,972,847",935,G.I. Generation
+23949,Sri Lanka,1998,male,55-74 years,677,946470,71.53,Sri Lanka1998,,"15,794,972,847",935,Silent
+23950,Sri Lanka,1998,male,35-54 years,1567,2224435,70.44,Sri Lanka1998,,"15,794,972,847",935,Boomers
+23951,Sri Lanka,1998,male,25-34 years,968,1499623,64.55,Sri Lanka1998,,"15,794,972,847",935,Generation X
+23952,Sri Lanka,1998,male,15-24 years,740,1792565,41.28,Sri Lanka1998,,"15,794,972,847",935,Generation X
+23953,Sri Lanka,1998,female,15-24 years,522,1753245,29.77,Sri Lanka1998,,"15,794,972,847",935,Generation X
+23954,Sri Lanka,1998,female,25-34 years,310,1508958,20.54,Sri Lanka1998,,"15,794,972,847",935,Generation X
+23955,Sri Lanka,1998,female,75+ years,32,205515,15.57,Sri Lanka1998,,"15,794,972,847",935,G.I. Generation
+23956,Sri Lanka,1998,female,35-54 years,278,2271131,12.24,Sri Lanka1998,,"15,794,972,847",935,Boomers
+23957,Sri Lanka,1998,female,55-74 years,118,1006698,11.72,Sri Lanka1998,,"15,794,972,847",935,Silent
+23958,Sri Lanka,1998,female,5-14 years,52,1710834,3.04,Sri Lanka1998,,"15,794,972,847",935,Millenials
+23959,Sri Lanka,1998,male,5-14 years,40,1780463,2.25,Sri Lanka1998,,"15,794,972,847",935,Millenials
+23960,Sri Lanka,1999,male,75+ years,182,198230,91.81,Sri Lanka1999,,"15,656,327,860",920,G.I. Generation
+23961,Sri Lanka,1999,male,35-54 years,1609,2281687,70.52,Sri Lanka1999,,"15,656,327,860",920,Boomers
+23962,Sri Lanka,1999,male,55-74 years,683,968940,70.49,Sri Lanka1999,,"15,656,327,860",920,Silent
+23963,Sri Lanka,1999,male,25-34 years,997,1481693,67.29,Sri Lanka1999,,"15,656,327,860",920,Generation X
+23964,Sri Lanka,1999,male,15-24 years,765,1805721,42.37,Sri Lanka1999,,"15,656,327,860",920,Generation X
+23965,Sri Lanka,1999,female,15-24 years,536,1767426,30.33,Sri Lanka1999,,"15,656,327,860",920,Generation X
+23966,Sri Lanka,1999,female,75+ years,49,208739,23.47,Sri Lanka1999,,"15,656,327,860",920,G.I. Generation
+23967,Sri Lanka,1999,female,25-34 years,303,1501778,20.18,Sri Lanka1999,,"15,656,327,860",920,Generation X
+23968,Sri Lanka,1999,female,35-54 years,304,2334618,13.02,Sri Lanka1999,,"15,656,327,860",920,Boomers
+23969,Sri Lanka,1999,female,55-74 years,121,1035715,11.68,Sri Lanka1999,,"15,656,327,860",920,Silent
+23970,Sri Lanka,1999,female,5-14 years,35,1684408,2.08,Sri Lanka1999,,"15,656,327,860",920,Millenials
+23971,Sri Lanka,1999,male,5-14 years,35,1751332,2.0,Sri Lanka1999,,"15,656,327,860",920,Millenials
+23972,Sri Lanka,2000,male,75+ years,200,196877,101.59,Sri Lanka2000,0.679,"16,330,814,180",953,G.I. Generation
+23973,Sri Lanka,2000,male,55-74 years,729,999107,72.97,Sri Lanka2000,0.679,"16,330,814,180",953,Silent
+23974,Sri Lanka,2000,male,35-54 years,1521,2331906,65.23,Sri Lanka2000,0.679,"16,330,814,180",953,Boomers
+23975,Sri Lanka,2000,male,25-34 years,873,1464384,59.62,Sri Lanka2000,0.679,"16,330,814,180",953,Generation X
+23976,Sri Lanka,2000,male,15-24 years,615,1815183,33.88,Sri Lanka2000,0.679,"16,330,814,180",953,Generation X
+23977,Sri Lanka,2000,female,15-24 years,504,1776940,28.36,Sri Lanka2000,0.679,"16,330,814,180",953,Generation X
+23978,Sri Lanka,2000,female,25-34 years,288,1495529,19.26,Sri Lanka2000,0.679,"16,330,814,180",953,Generation X
+23979,Sri Lanka,2000,female,75+ years,40,210936,18.96,Sri Lanka2000,0.679,"16,330,814,180",953,G.I. Generation
+23980,Sri Lanka,2000,female,35-54 years,309,2394085,12.91,Sri Lanka2000,0.679,"16,330,814,180",953,Boomers
+23981,Sri Lanka,2000,female,55-74 years,125,1072256,11.66,Sri Lanka2000,0.679,"16,330,814,180",953,Silent
+23982,Sri Lanka,2000,female,5-14 years,27,1659830,1.63,Sri Lanka2000,0.679,"16,330,814,180",953,Millenials
+23983,Sri Lanka,2000,male,5-14 years,21,1723309,1.22,Sri Lanka2000,0.679,"16,330,814,180",953,Millenials
+23984,Sri Lanka,2001,male,75+ years,162,204801,79.1,Sri Lanka2001,,"15,749,753,805",912,Silent
+23985,Sri Lanka,2001,male,55-74 years,671,1025106,65.46,Sri Lanka2001,,"15,749,753,805",912,Silent
+23986,Sri Lanka,2001,male,35-54 years,1468,2362538,62.14,Sri Lanka2001,,"15,749,753,805",912,Boomers
+23987,Sri Lanka,2001,male,25-34 years,755,1469938,51.36,Sri Lanka2001,,"15,749,753,805",912,Generation X
+23988,Sri Lanka,2001,male,15-24 years,508,1811743,28.04,Sri Lanka2001,,"15,749,753,805",912,Millenials
+23989,Sri Lanka,2001,female,15-24 years,394,1778830,22.15,Sri Lanka2001,,"15,749,753,805",912,Millenials
+23990,Sri Lanka,2001,female,25-34 years,224,1503451,14.9,Sri Lanka2001,,"15,749,753,805",912,Generation X
+23991,Sri Lanka,2001,female,75+ years,31,222745,13.92,Sri Lanka2001,,"15,749,753,805",912,Silent
+23992,Sri Lanka,2001,female,35-54 years,244,2437630,10.01,Sri Lanka2001,,"15,749,753,805",912,Boomers
+23993,Sri Lanka,2001,female,55-74 years,100,1109859,9.01,Sri Lanka2001,,"15,749,753,805",912,Silent
+23994,Sri Lanka,2001,male,5-14 years,18,1699714,1.06,Sri Lanka2001,,"15,749,753,805",912,Millenials
+23995,Sri Lanka,2001,female,5-14 years,15,1640606,0.91,Sri Lanka2001,,"15,749,753,805",912,Millenials
+23996,Sri Lanka,2002,male,75+ years,165,211446,78.03,Sri Lanka2002,,"16,536,535,647",951,Silent
+23997,Sri Lanka,2002,male,35-54 years,1476,2389646,61.77,Sri Lanka2002,,"16,536,535,647",951,Boomers
+23998,Sri Lanka,2002,male,55-74 years,641,1055685,60.72,Sri Lanka2002,,"16,536,535,647",951,Silent
+23999,Sri Lanka,2002,male,25-34 years,639,1478000,43.23,Sri Lanka2002,,"16,536,535,647",951,Generation X
+24000,Sri Lanka,2002,male,15-24 years,520,1799884,28.89,Sri Lanka2002,,"16,536,535,647",951,Millenials
+24001,Sri Lanka,2002,female,15-24 years,335,1772766,18.9,Sri Lanka2002,,"16,536,535,647",951,Millenials
+24002,Sri Lanka,2002,female,25-34 years,213,1514774,14.06,Sri Lanka2002,,"16,536,535,647",951,Generation X
+24003,Sri Lanka,2002,female,75+ years,31,234216,13.24,Sri Lanka2002,,"16,536,535,647",951,Silent
+24004,Sri Lanka,2002,female,55-74 years,106,1153099,9.19,Sri Lanka2002,,"16,536,535,647",951,Silent
+24005,Sri Lanka,2002,female,35-54 years,204,2477980,8.23,Sri Lanka2002,,"16,536,535,647",951,Boomers
+24006,Sri Lanka,2002,female,5-14 years,28,1626383,1.72,Sri Lanka2002,,"16,536,535,647",951,Millenials
+24007,Sri Lanka,2002,male,5-14 years,24,1682076,1.43,Sri Lanka2002,,"16,536,535,647",951,Millenials
+24008,Sri Lanka,2003,male,75+ years,190,216549,87.74,Sri Lanka2003,,"18,881,765,437",1077,Silent
+24009,Sri Lanka,2003,male,55-74 years,690,1089743,63.32,Sri Lanka2003,,"18,881,765,437",1077,Silent
+24010,Sri Lanka,2003,male,35-54 years,1483,2413016,61.46,Sri Lanka2003,,"18,881,765,437",1077,Boomers
+24011,Sri Lanka,2003,male,25-34 years,650,1488285,43.67,Sri Lanka2003,,"18,881,765,437",1077,Generation X
+24012,Sri Lanka,2003,male,15-24 years,509,1781707,28.57,Sri Lanka2003,,"18,881,765,437",1077,Millenials
+24013,Sri Lanka,2003,female,15-24 years,358,1760232,20.34,Sri Lanka2003,,"18,881,765,437",1077,Millenials
+24014,Sri Lanka,2003,female,75+ years,38,245223,15.5,Sri Lanka2003,,"18,881,765,437",1077,Silent
+24015,Sri Lanka,2003,female,25-34 years,186,1529565,12.16,Sri Lanka2003,,"18,881,765,437",1077,Generation X
+24016,Sri Lanka,2003,female,55-74 years,111,1200816,9.24,Sri Lanka2003,,"18,881,765,437",1077,Silent
+24017,Sri Lanka,2003,female,35-54 years,218,2514643,8.67,Sri Lanka2003,,"18,881,765,437",1077,Boomers
+24018,Sri Lanka,2003,female,5-14 years,23,1615933,1.42,Sri Lanka2003,,"18,881,765,437",1077,Millenials
+24019,Sri Lanka,2003,male,5-14 years,11,1668884,0.66,Sri Lanka2003,,"18,881,765,437",1077,Millenials
+24020,Sri Lanka,2006,male,75+ years,211,224927,93.81,Sri Lanka2006,,"28,267,410,543",1580,Silent
+24021,Sri Lanka,2006,male,55-74 years,649,1187973,54.63,Sri Lanka2006,,"28,267,410,543",1580,Silent
+24022,Sri Lanka,2006,male,35-54 years,1246,2465505,50.54,Sri Lanka2006,,"28,267,410,543",1580,Boomers
+24023,Sri Lanka,2006,male,25-34 years,573,1541529,37.17,Sri Lanka2006,,"28,267,410,543",1580,Generation X
+24024,Sri Lanka,2006,male,15-24 years,423,1697398,24.92,Sri Lanka2006,,"28,267,410,543",1580,Millenials
+24025,Sri Lanka,2006,female,15-24 years,333,1699144,19.6,Sri Lanka2006,,"28,267,410,543",1580,Millenials
+24026,Sri Lanka,2006,female,75+ years,51,276505,18.44,Sri Lanka2006,,"28,267,410,543",1580,Silent
+24027,Sri Lanka,2006,female,25-34 years,194,1594072,12.17,Sri Lanka2006,,"28,267,410,543",1580,Generation X
+24028,Sri Lanka,2006,female,55-74 years,111,1344897,8.25,Sri Lanka2006,,"28,267,410,543",1580,Silent
+24029,Sri Lanka,2006,female,35-54 years,198,2603293,7.61,Sri Lanka2006,,"28,267,410,543",1580,Boomers
+24030,Sri Lanka,2006,male,5-14 years,15,1650300,0.91,Sri Lanka2006,,"28,267,410,543",1580,Millenials
+24031,Sri Lanka,2006,female,5-14 years,11,1606015,0.68,Sri Lanka2006,,"28,267,410,543",1580,Millenials

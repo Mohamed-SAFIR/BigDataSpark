@@ -1,0 +1,323 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+7096,Czech Republic,1990,male,75+ years,198,179200,110.49,Czech Republic1990,0.7609999999999999,"40,477,403,220",4168,G.I. Generation
+7097,Czech Republic,1990,male,55-74 years,385,800800,48.08,Czech Republic1990,0.7609999999999999,"40,477,403,220",4168,G.I. Generation
+7098,Czech Republic,1990,male,35-54 years,571,1421800,40.16,Czech Republic1990,0.7609999999999999,"40,477,403,220",4168,Silent
+7099,Czech Republic,1990,female,75+ years,129,364700,35.37,Czech Republic1990,0.7609999999999999,"40,477,403,220",4168,G.I. Generation
+7100,Czech Republic,1990,male,25-34 years,176,713900,24.65,Czech Republic1990,0.7609999999999999,"40,477,403,220",4168,Boomers
+7101,Czech Republic,1990,female,55-74 years,196,1017200,19.27,Czech Republic1990,0.7609999999999999,"40,477,403,220",4168,G.I. Generation
+7102,Czech Republic,1990,male,15-24 years,99,783000,12.64,Czech Republic1990,0.7609999999999999,"40,477,403,220",4168,Generation X
+7103,Czech Republic,1990,female,35-54 years,150,1426600,10.51,Czech Republic1990,0.7609999999999999,"40,477,403,220",4168,Silent
+7104,Czech Republic,1990,female,25-34 years,53,684200,7.75,Czech Republic1990,0.7609999999999999,"40,477,403,220",4168,Boomers
+7105,Czech Republic,1990,female,15-24 years,34,747900,4.55,Czech Republic1990,0.7609999999999999,"40,477,403,220",4168,Generation X
+7106,Czech Republic,1990,male,5-14 years,5,804100,0.62,Czech Republic1990,0.7609999999999999,"40,477,403,220",4168,Generation X
+7107,Czech Republic,1990,female,5-14 years,1,767500,0.13,Czech Republic1990,0.7609999999999999,"40,477,403,220",4168,Generation X
+7108,Czech Republic,1991,male,75+ years,168,171200,98.13,Czech Republic1991,,"29,675,502,270",3070,G.I. Generation
+7109,Czech Republic,1991,male,55-74 years,365,805100,45.34,Czech Republic1991,,"29,675,502,270",3070,Silent
+7110,Czech Republic,1991,male,35-54 years,554,1432400,38.68,Czech Republic1991,,"29,675,502,270",3070,Boomers
+7111,Czech Republic,1991,female,75+ years,104,352900,29.47,Czech Republic1991,,"29,675,502,270",3070,G.I. Generation
+7112,Czech Republic,1991,male,25-34 years,176,693100,25.39,Czech Republic1991,,"29,675,502,270",3070,Boomers
+7113,Czech Republic,1991,female,55-74 years,171,1024900,16.68,Czech Republic1991,,"29,675,502,270",3070,Silent
+7114,Czech Republic,1991,male,15-24 years,116,802000,14.46,Czech Republic1991,,"29,675,502,270",3070,Generation X
+7115,Czech Republic,1991,female,35-54 years,157,1443700,10.87,Czech Republic1991,,"29,675,502,270",3070,Boomers
+7116,Czech Republic,1991,female,25-34 years,45,668900,6.73,Czech Republic1991,,"29,675,502,270",3070,Boomers
+7117,Czech Republic,1991,female,15-24 years,33,766400,4.31,Czech Republic1991,,"29,675,502,270",3070,Generation X
+7118,Czech Republic,1991,male,5-14 years,14,771400,1.81,Czech Republic1991,,"29,675,502,270",3070,Millenials
+7119,Czech Republic,1991,female,5-14 years,1,735500,0.14,Czech Republic1991,,"29,675,502,270",3070,Millenials
+7120,Czech Republic,1992,male,75+ years,165,161400,102.23,Czech Republic1992,,"34,590,052,812",3573,G.I. Generation
+7121,Czech Republic,1992,male,55-74 years,394,811100,48.58,Czech Republic1992,,"34,590,052,812",3573,Silent
+7122,Czech Republic,1992,male,35-54 years,623,1454300,42.84,Czech Republic1992,,"34,590,052,812",3573,Boomers
+7123,Czech Republic,1992,female,75+ years,104,337800,30.79,Czech Republic1992,,"34,590,052,812",3573,G.I. Generation
+7124,Czech Republic,1992,male,25-34 years,172,685500,25.09,Czech Republic1992,,"34,590,052,812",3573,Boomers
+7125,Czech Republic,1992,female,55-74 years,164,1035800,15.83,Czech Republic1992,,"34,590,052,812",3573,Silent
+7126,Czech Republic,1992,male,15-24 years,122,825400,14.78,Czech Republic1992,,"34,590,052,812",3573,Generation X
+7127,Czech Republic,1992,female,35-54 years,164,1465300,11.19,Czech Republic1992,,"34,590,052,812",3573,Boomers
+7128,Czech Republic,1992,female,25-34 years,52,660200,7.88,Czech Republic1992,,"34,590,052,812",3573,Boomers
+7129,Czech Republic,1992,female,15-24 years,22,789000,2.79,Czech Republic1992,,"34,590,052,812",3573,Generation X
+7130,Czech Republic,1992,male,5-14 years,9,745800,1.21,Czech Republic1992,,"34,590,052,812",3573,Millenials
+7131,Czech Republic,1992,female,5-14 years,0,710300,0.0,Czech Republic1992,,"34,590,052,812",3573,Millenials
+7132,Czech Republic,1993,male,75+ years,155,152300,101.77,Czech Republic1993,,"40,614,350,197",4186,G.I. Generation
+7133,Czech Republic,1993,male,55-74 years,355,819300,43.33,Czech Republic1993,,"40,614,350,197",4186,Silent
+7134,Czech Republic,1993,male,35-54 years,592,1472000,40.22,Czech Republic1993,,"40,614,350,197",4186,Boomers
+7135,Czech Republic,1993,female,75+ years,110,322400,34.12,Czech Republic1993,,"40,614,350,197",4186,G.I. Generation
+7136,Czech Republic,1993,male,25-34 years,159,682100,23.31,Czech Republic1993,,"40,614,350,197",4186,Boomers
+7137,Czech Republic,1993,male,15-24 years,139,847600,16.4,Czech Republic1993,,"40,614,350,197",4186,Generation X
+7138,Czech Republic,1993,female,55-74 years,155,1049400,14.77,Czech Republic1993,,"40,614,350,197",4186,Silent
+7139,Czech Republic,1993,female,35-54 years,159,1482300,10.73,Czech Republic1993,,"40,614,350,197",4186,Boomers
+7140,Czech Republic,1993,female,25-34 years,46,655900,7.01,Czech Republic1993,,"40,614,350,197",4186,Boomers
+7141,Czech Republic,1993,female,15-24 years,35,810500,4.32,Czech Republic1993,,"40,614,350,197",4186,Generation X
+7142,Czech Republic,1993,male,5-14 years,12,722000,1.66,Czech Republic1993,,"40,614,350,197",4186,Millenials
+7143,Czech Republic,1993,female,5-14 years,0,687600,0.0,Czech Republic1993,,"40,614,350,197",4186,Millenials
+7144,Czech Republic,1994,male,75+ years,150,148000,101.35,Czech Republic1994,,"47,554,674,591",4891,G.I. Generation
+7145,Czech Republic,1994,male,55-74 years,333,825100,40.36,Czech Republic1994,,"47,554,674,591",4891,Silent
+7146,Czech Republic,1994,male,35-54 years,522,1482500,35.21,Czech Republic1994,,"47,554,674,591",4891,Boomers
+7147,Czech Republic,1994,female,75+ years,104,314000,33.12,Czech Republic1994,,"47,554,674,591",4891,G.I. Generation
+7148,Czech Republic,1994,male,25-34 years,177,686000,25.8,Czech Republic1994,,"47,554,674,591",4891,Boomers
+7149,Czech Republic,1994,male,15-24 years,148,865700,17.1,Czech Republic1994,,"47,554,674,591",4891,Generation X
+7150,Czech Republic,1994,female,55-74 years,176,1057000,16.65,Czech Republic1994,,"47,554,674,591",4891,Silent
+7151,Czech Republic,1994,female,35-54 years,177,1491800,11.86,Czech Republic1994,,"47,554,674,591",4891,Boomers
+7152,Czech Republic,1994,female,25-34 years,41,658900,6.22,Czech Republic1994,,"47,554,674,591",4891,Boomers
+7153,Czech Republic,1994,female,15-24 years,31,828100,3.74,Czech Republic1994,,"47,554,674,591",4891,Generation X
+7154,Czech Republic,1994,male,5-14 years,11,699800,1.57,Czech Republic1994,,"47,554,674,591",4891,Millenials
+7155,Czech Republic,1994,female,5-14 years,2,666800,0.3,Czech Republic1994,,"47,554,674,591",4891,Millenials
+7156,Czech Republic,1995,male,75+ years,132,150800,87.53,Czech Republic1995,0.785,"59,775,697,061",6134,G.I. Generation
+7157,Czech Republic,1995,male,35-54 years,524,1486300,35.26,Czech Republic1995,0.785,"59,775,697,061",6134,Boomers
+7158,Czech Republic,1995,male,55-74 years,280,828300,33.8,Czech Republic1995,0.785,"59,775,697,061",6134,Silent
+7159,Czech Republic,1995,female,75+ years,97,317400,30.56,Czech Republic1995,0.785,"59,775,697,061",6134,G.I. Generation
+7160,Czech Republic,1995,male,25-34 years,180,695700,25.87,Czech Republic1995,0.785,"59,775,697,061",6134,Generation X
+7161,Czech Republic,1995,male,15-24 years,161,874900,18.4,Czech Republic1995,0.785,"59,775,697,061",6134,Generation X
+7162,Czech Republic,1995,female,55-74 years,150,1056900,14.19,Czech Republic1995,0.785,"59,775,697,061",6134,Silent
+7163,Czech Republic,1995,female,35-54 years,138,1494200,9.24,Czech Republic1995,0.785,"59,775,697,061",6134,Boomers
+7164,Czech Republic,1995,female,15-24 years,35,837000,4.18,Czech Republic1995,0.785,"59,775,697,061",6134,Generation X
+7165,Czech Republic,1995,female,25-34 years,25,668100,3.74,Czech Republic1995,0.785,"59,775,697,061",6134,Generation X
+7166,Czech Republic,1995,male,5-14 years,7,683100,1.02,Czech Republic1995,0.785,"59,775,697,061",6134,Millenials
+7167,Czech Republic,1995,female,5-14 years,4,651600,0.61,Czech Republic1995,0.785,"59,775,697,061",6134,Millenials
+7168,Czech Republic,1996,male,75+ years,140,157200,89.06,Czech Republic1996,,"66,985,765,439",6861,G.I. Generation
+7169,Czech Republic,1996,male,35-54 years,488,1487000,32.82,Czech Republic1996,,"66,985,765,439",6861,Boomers
+7170,Czech Republic,1996,male,55-74 years,266,831800,31.98,Czech Republic1996,,"66,985,765,439",6861,Silent
+7171,Czech Republic,1996,female,75+ years,77,327500,23.51,Czech Republic1996,,"66,985,765,439",6861,G.I. Generation
+7172,Czech Republic,1996,male,25-34 years,162,708200,22.87,Czech Republic1996,,"66,985,765,439",6861,Generation X
+7173,Czech Republic,1996,male,15-24 years,142,873600,16.25,Czech Republic1996,,"66,985,765,439",6861,Generation X
+7174,Czech Republic,1996,female,55-74 years,117,1054200,11.1,Czech Republic1996,,"66,985,765,439",6861,Silent
+7175,Czech Republic,1996,female,35-54 years,117,1493000,7.84,Czech Republic1996,,"66,985,765,439",6861,Boomers
+7176,Czech Republic,1996,female,25-34 years,26,679400,3.83,Czech Republic1996,,"66,985,765,439",6861,Generation X
+7177,Czech Republic,1996,female,15-24 years,24,835700,2.87,Czech Republic1996,,"66,985,765,439",6861,Generation X
+7178,Czech Republic,1996,male,5-14 years,8,673700,1.19,Czech Republic1996,,"66,985,765,439",6861,Millenials
+7179,Czech Republic,1996,female,5-14 years,1,642600,0.16,Czech Republic1996,,"66,985,765,439",6861,Millenials
+7180,Czech Republic,1997,male,75+ years,122,165300,73.81,Czech Republic1997,,"61,792,161,168",6314,G.I. Generation
+7181,Czech Republic,1997,male,55-74 years,333,836100,39.83,Czech Republic1997,,"61,792,161,168",6314,Silent
+7182,Czech Republic,1997,male,35-54 years,550,1487400,36.98,Czech Republic1997,,"61,792,161,168",6314,Boomers
+7183,Czech Republic,1997,male,25-34 years,165,724200,22.78,Czech Republic1997,,"61,792,161,168",6314,Generation X
+7184,Czech Republic,1997,female,75+ years,61,340800,17.9,Czech Republic1997,,"61,792,161,168",6314,G.I. Generation
+7185,Czech Republic,1997,male,15-24 years,136,865600,15.71,Czech Republic1997,,"61,792,161,168",6314,Generation X
+7186,Czech Republic,1997,female,55-74 years,106,1051400,10.08,Czech Republic1997,,"61,792,161,168",6314,Silent
+7187,Czech Republic,1997,female,35-54 years,134,1492200,8.98,Czech Republic1997,,"61,792,161,168",6314,Boomers
+7188,Czech Republic,1997,female,25-34 years,32,693900,4.61,Czech Republic1997,,"61,792,161,168",6314,Generation X
+7189,Czech Republic,1997,female,15-24 years,21,828400,2.54,Czech Republic1997,,"61,792,161,168",6314,Generation X
+7190,Czech Republic,1997,male,5-14 years,5,666600,0.75,Czech Republic1997,,"61,792,161,168",6314,Millenials
+7191,Czech Republic,1997,female,5-14 years,1,634800,0.16,Czech Republic1997,,"61,792,161,168",6314,Millenials
+7192,Czech Republic,1998,male,75+ years,127,173500,73.2,Czech Republic1998,,"66,490,372,105",6779,G.I. Generation
+7193,Czech Republic,1998,male,35-54 years,554,1487500,37.24,Czech Republic1998,,"66,490,372,105",6779,Boomers
+7194,Czech Republic,1998,male,55-74 years,277,845700,32.75,Czech Republic1998,,"66,490,372,105",6779,Silent
+7195,Czech Republic,1998,male,25-34 years,179,742300,24.11,Czech Republic1998,,"66,490,372,105",6779,Generation X
+7196,Czech Republic,1998,female,75+ years,65,354800,18.32,Czech Republic1998,,"66,490,372,105",6779,G.I. Generation
+7197,Czech Republic,1998,male,15-24 years,126,849600,14.83,Czech Republic1998,,"66,490,372,105",6779,Generation X
+7198,Czech Republic,1998,female,55-74 years,116,1053700,11.01,Czech Republic1998,,"66,490,372,105",6779,Silent
+7199,Czech Republic,1998,female,35-54 years,110,1490700,7.38,Czech Republic1998,,"66,490,372,105",6779,Boomers
+7200,Czech Republic,1998,female,15-24 years,31,813700,3.81,Czech Republic1998,,"66,490,372,105",6779,Generation X
+7201,Czech Republic,1998,female,25-34 years,20,710600,2.81,Czech Republic1998,,"66,490,372,105",6779,Generation X
+7202,Czech Republic,1998,male,5-14 years,5,659000,0.76,Czech Republic1998,,"66,490,372,105",6779,Millenials
+7203,Czech Republic,1998,female,5-14 years,3,627200,0.48,Czech Republic1998,,"66,490,372,105",6779,Millenials
+7204,Czech Republic,1999,male,75+ years,154,181079,85.05,Czech Republic1999,,"64,867,483,193",6606,G.I. Generation
+7205,Czech Republic,1999,male,55-74 years,302,860656,35.09,Czech Republic1999,,"64,867,483,193",6606,Silent
+7206,Czech Republic,1999,male,35-54 years,509,1488504,34.2,Czech Republic1999,,"64,867,483,193",6606,Boomers
+7207,Czech Republic,1999,male,25-34 years,173,761534,22.72,Czech Republic1999,,"64,867,483,193",6606,Generation X
+7208,Czech Republic,1999,female,75+ years,68,368195,18.47,Czech Republic1999,,"64,867,483,193",6606,G.I. Generation
+7209,Czech Republic,1999,male,15-24 years,144,824827,17.46,Czech Republic1999,,"64,867,483,193",6606,Generation X
+7210,Czech Republic,1999,female,55-74 years,94,1061220,8.86,Czech Republic1999,,"64,867,483,193",6606,Silent
+7211,Czech Republic,1999,female,35-54 years,107,1488619,7.19,Czech Republic1999,,"64,867,483,193",6606,Boomers
+7212,Czech Republic,1999,female,25-34 years,32,728994,4.39,Czech Republic1999,,"64,867,483,193",6606,Generation X
+7213,Czech Republic,1999,female,15-24 years,24,790478,3.04,Czech Republic1999,,"64,867,483,193",6606,Generation X
+7214,Czech Republic,1999,male,5-14 years,3,648214,0.46,Czech Republic1999,,"64,867,483,193",6606,Millenials
+7215,Czech Republic,1999,female,5-14 years,0,616895,0.0,Czech Republic1999,,"64,867,483,193",6606,Millenials
+7216,Czech Republic,2000,male,75+ years,137,187872,72.92,Czech Republic2000,0.821,"61,649,492,817",6278,G.I. Generation
+7217,Czech Republic,2000,male,35-54 years,546,1490793,36.62,Czech Republic2000,0.821,"61,649,492,817",6278,Boomers
+7218,Czech Republic,2000,male,55-74 years,294,875298,33.59,Czech Republic2000,0.821,"61,649,492,817",6278,Silent
+7219,Czech Republic,2000,male,25-34 years,174,783436,22.21,Czech Republic2000,0.821,"61,649,492,817",6278,Generation X
+7220,Czech Republic,2000,male,15-24 years,139,797534,17.43,Czech Republic2000,0.821,"61,649,492,817",6278,Generation X
+7221,Czech Republic,2000,female,75+ years,63,380114,16.57,Czech Republic2000,0.821,"61,649,492,817",6278,G.I. Generation
+7222,Czech Republic,2000,female,55-74 years,113,1069748,10.56,Czech Republic2000,0.821,"61,649,492,817",6278,Silent
+7223,Czech Republic,2000,female,35-54 years,120,1487345,8.07,Czech Republic2000,0.821,"61,649,492,817",6278,Boomers
+7224,Czech Republic,2000,female,25-34 years,26,751117,3.46,Czech Republic2000,0.821,"61,649,492,817",6278,Generation X
+7225,Czech Republic,2000,female,15-24 years,25,763848,3.27,Czech Republic2000,0.821,"61,649,492,817",6278,Generation X
+7226,Czech Republic,2000,male,5-14 years,8,631794,1.27,Czech Republic2000,0.821,"61,649,492,817",6278,Millenials
+7227,Czech Republic,2000,female,5-14 years,4,600843,0.67,Czech Republic2000,0.821,"61,649,492,817",6278,Millenials
+7228,Czech Republic,2001,male,75+ years,142,191730,74.06,Czech Republic2001,,"67,523,642,262",6863,Silent
+7229,Czech Republic,2001,male,35-54 years,558,1489505,37.46,Czech Republic2001,,"67,523,642,262",6863,Boomers
+7230,Czech Republic,2001,male,55-74 years,285,897842,31.74,Czech Republic2001,,"67,523,642,262",6863,Silent
+7231,Czech Republic,2001,male,25-34 years,172,809431,21.25,Czech Republic2001,,"67,523,642,262",6863,Generation X
+7232,Czech Republic,2001,male,15-24 years,133,779015,17.07,Czech Republic2001,,"67,523,642,262",6863,Millenials
+7233,Czech Republic,2001,female,75+ years,57,387754,14.7,Czech Republic2001,,"67,523,642,262",6863,Silent
+7234,Czech Republic,2001,female,35-54 years,129,1476998,8.73,Czech Republic2001,,"67,523,642,262",6863,Boomers
+7235,Czech Republic,2001,female,55-74 years,92,1084169,8.49,Czech Republic2001,,"67,523,642,262",6863,Silent
+7236,Czech Republic,2001,female,25-34 years,30,772655,3.88,Czech Republic2001,,"67,523,642,262",6863,Generation X
+7237,Czech Republic,2001,female,15-24 years,19,745082,2.55,Czech Republic2001,,"67,523,642,262",6863,Millenials
+7238,Czech Republic,2001,male,5-14 years,4,617745,0.65,Czech Republic2001,,"67,523,642,262",6863,Millenials
+7239,Czech Republic,2001,female,5-14 years,2,586157,0.34,Czech Republic2001,,"67,523,642,262",6863,Millenials
+7240,Czech Republic,2002,male,75+ years,140,196619,71.2,Czech Republic2002,,"81,910,771,994",8399,Silent
+7241,Czech Republic,2002,male,35-54 years,518,1458286,35.52,Czech Republic2002,,"81,910,771,994",8399,Boomers
+7242,Czech Republic,2002,male,55-74 years,282,921139,30.61,Czech Republic2002,,"81,910,771,994",8399,Silent
+7243,Czech Republic,2002,male,25-34 years,180,818936,21.98,Czech Republic2002,,"81,910,771,994",8399,Generation X
+7244,Czech Republic,2002,female,75+ years,67,395065,16.96,Czech Republic2002,,"81,910,771,994",8399,Silent
+7245,Czech Republic,2002,male,15-24 years,91,746413,12.19,Czech Republic2002,,"81,910,771,994",8399,Millenials
+7246,Czech Republic,2002,female,55-74 years,86,1105366,7.78,Czech Republic2002,,"81,910,771,994",8399,Silent
+7247,Czech Republic,2002,female,35-54 years,108,1451319,7.44,Czech Republic2002,,"81,910,771,994",8399,Boomers
+7248,Czech Republic,2002,female,25-34 years,30,788166,3.81,Czech Republic2002,,"81,910,771,994",8399,Generation X
+7249,Czech Republic,2002,female,15-24 years,26,714488,3.64,Czech Republic2002,,"81,910,771,994",8399,Millenials
+7250,Czech Republic,2002,male,5-14 years,5,592734,0.84,Czech Republic2002,,"81,910,771,994",8399,Millenials
+7251,Czech Republic,2002,female,5-14 years,1,563932,0.18,Czech Republic2002,,"81,910,771,994",8399,Millenials
+7252,Czech Republic,2003,male,75+ years,158,202317,78.1,Czech Republic2003,,"99,627,140,274",10220,Silent
+7253,Czech Republic,2003,male,35-54 years,572,1441293,39.69,Czech Republic2003,,"99,627,140,274",10220,Boomers
+7254,Czech Republic,2003,male,55-74 years,307,949402,32.34,Czech Republic2003,,"99,627,140,274",10220,Silent
+7255,Czech Republic,2003,male,25-34 years,206,842279,24.46,Czech Republic2003,,"99,627,140,274",10220,Generation X
+7256,Czech Republic,2003,female,75+ years,74,403426,18.34,Czech Republic2003,,"99,627,140,274",10220,Silent
+7257,Czech Republic,2003,male,15-24 years,116,726604,15.96,Czech Republic2003,,"99,627,140,274",10220,Millenials
+7258,Czech Republic,2003,female,35-54 years,127,1431458,8.87,Czech Republic2003,,"99,627,140,274",10220,Boomers
+7259,Czech Republic,2003,female,55-74 years,99,1129314,8.77,Czech Republic2003,,"99,627,140,274",10220,Silent
+7260,Czech Republic,2003,female,25-34 years,29,810207,3.58,Czech Republic2003,,"99,627,140,274",10220,Generation X
+7261,Czech Republic,2003,female,15-24 years,22,694102,3.17,Czech Republic2003,,"99,627,140,274",10220,Millenials
+7262,Czech Republic,2003,male,5-14 years,6,573339,1.05,Czech Republic2003,,"99,627,140,274",10220,Millenials
+7263,Czech Republic,2003,female,5-14 years,3,544809,0.55,Czech Republic2003,,"99,627,140,274",10220,Millenials
+7264,Czech Republic,2004,male,75+ years,121,208455,58.05,Czech Republic2004,,"119,162,172,468",12226,Silent
+7265,Czech Republic,2004,male,35-54 years,540,1429901,37.76,Czech Republic2004,,"119,162,172,468",12226,Boomers
+7266,Czech Republic,2004,male,55-74 years,317,973192,32.57,Czech Republic2004,,"119,162,172,468",12226,Silent
+7267,Czech Republic,2004,male,25-34 years,193,862649,22.37,Czech Republic2004,,"119,162,172,468",12226,Generation X
+7268,Czech Republic,2004,male,15-24 years,110,707587,15.55,Czech Republic2004,,"119,162,172,468",12226,Millenials
+7269,Czech Republic,2004,female,75+ years,62,411827,15.05,Czech Republic2004,,"119,162,172,468",12226,Silent
+7270,Czech Republic,2004,female,55-74 years,95,1150600,8.26,Czech Republic2004,,"119,162,172,468",12226,Silent
+7271,Czech Republic,2004,female,35-54 years,99,1417483,6.98,Czech Republic2004,,"119,162,172,468",12226,Boomers
+7272,Czech Republic,2004,female,25-34 years,24,829828,2.89,Czech Republic2004,,"119,162,172,468",12226,Generation X
+7273,Czech Republic,2004,female,15-24 years,14,676084,2.07,Czech Republic2004,,"119,162,172,468",12226,Millenials
+7274,Czech Republic,2004,male,5-14 years,5,553266,0.9,Czech Republic2004,,"119,162,172,468",12226,Millenials
+7275,Czech Republic,2004,female,5-14 years,3,525775,0.57,Czech Republic2004,,"119,162,172,468",12226,Millenials
+7276,Czech Republic,2005,male,75+ years,113,215366,52.47,Czech Republic2005,0.847,"136,280,689,891",13961,Silent
+7277,Czech Republic,2005,male,35-54 years,516,1427262,36.15,Czech Republic2005,0.847,"136,280,689,891",13961,Boomers
+7278,Czech Republic,2005,male,55-74 years,347,998004,34.77,Czech Republic2005,0.847,"136,280,689,891",13961,Silent
+7279,Czech Republic,2005,male,25-34 years,208,877897,23.69,Czech Republic2005,0.847,"136,280,689,891",13961,Generation X
+7280,Czech Republic,2005,male,15-24 years,85,695191,12.23,Czech Republic2005,0.847,"136,280,689,891",13961,Millenials
+7281,Czech Republic,2005,female,75+ years,50,420901,11.88,Czech Republic2005,0.847,"136,280,689,891",13961,Silent
+7282,Czech Republic,2005,female,35-54 years,109,1408555,7.74,Czech Republic2005,0.847,"136,280,689,891",13961,Boomers
+7283,Czech Republic,2005,female,55-74 years,82,1171511,7.0,Czech Republic2005,0.847,"136,280,689,891",13961,Silent
+7284,Czech Republic,2005,female,25-34 years,33,841934,3.92,Czech Republic2005,0.847,"136,280,689,891",13961,Generation X
+7285,Czech Republic,2005,female,15-24 years,16,663458,2.41,Czech Republic2005,0.847,"136,280,689,891",13961,Millenials
+7286,Czech Republic,2005,male,5-14 years,4,534812,0.75,Czech Republic2005,0.847,"136,280,689,891",13961,Millenials
+7287,Czech Republic,2005,female,5-14 years,2,506842,0.39,Czech Republic2005,0.847,"136,280,689,891",13961,Millenials
+7288,Czech Republic,2006,male,75+ years,125,222276,56.24,Czech Republic2006,,"155,463,807,113",15896,Silent
+7289,Czech Republic,2006,male,35-54 years,459,1426930,32.17,Czech Republic2006,,"155,463,807,113",15896,Boomers
+7290,Czech Republic,2006,male,55-74 years,299,1022887,29.23,Czech Republic2006,,"155,463,807,113",15896,Silent
+7291,Czech Republic,2006,male,25-34 years,155,884745,17.52,Czech Republic2006,,"155,463,807,113",15896,Generation X
+7292,Czech Republic,2006,male,15-24 years,101,690682,14.62,Czech Republic2006,,"155,463,807,113",15896,Millenials
+7293,Czech Republic,2006,female,75+ years,41,430258,9.53,Czech Republic2006,,"155,463,807,113",15896,Silent
+7294,Czech Republic,2006,female,55-74 years,90,1193318,7.54,Czech Republic2006,,"155,463,807,113",15896,Silent
+7295,Czech Republic,2006,female,35-54 years,95,1401646,6.78,Czech Republic2006,,"155,463,807,113",15896,Boomers
+7296,Czech Republic,2006,female,25-34 years,20,845584,2.37,Czech Republic2006,,"155,463,807,113",15896,Generation X
+7297,Czech Republic,2006,female,15-24 years,12,658122,1.82,Czech Republic2006,,"155,463,807,113",15896,Millenials
+7298,Czech Republic,2006,male,5-14 years,3,515573,0.58,Czech Republic2006,,"155,463,807,113",15896,Millenials
+7299,Czech Republic,2006,female,5-14 years,0,488298,0.0,Czech Republic2006,,"155,463,807,113",15896,Millenials
+7300,Czech Republic,2007,male,75+ years,109,229015,47.6,Czech Republic2007,,"189,227,050,760",19273,Silent
+7301,Czech Republic,2007,male,55-74 years,322,1047512,30.74,Czech Republic2007,,"189,227,050,760",19273,Silent
+7302,Czech Republic,2007,male,35-54 years,440,1434256,30.68,Czech Republic2007,,"189,227,050,760",19273,Boomers
+7303,Czech Republic,2007,male,25-34 years,176,888983,19.8,Czech Republic2007,,"189,227,050,760",19273,Generation X
+7304,Czech Republic,2007,male,15-24 years,100,690165,14.49,Czech Republic2007,,"189,227,050,760",19273,Millenials
+7305,Czech Republic,2007,female,75+ years,49,438726,11.17,Czech Republic2007,,"189,227,050,760",19273,Silent
+7306,Czech Republic,2007,female,55-74 years,72,1216178,5.92,Czech Republic2007,,"189,227,050,760",19273,Silent
+7307,Czech Republic,2007,female,35-54 years,73,1400706,5.21,Czech Republic2007,,"189,227,050,760",19273,Boomers
+7308,Czech Republic,2007,female,25-34 years,21,846092,2.48,Czech Republic2007,,"189,227,050,760",19273,Generation X
+7309,Czech Republic,2007,female,15-24 years,15,654550,2.29,Czech Republic2007,,"189,227,050,760",19273,Millenials
+7310,Czech Republic,2007,male,5-14 years,2,499126,0.4,Czech Republic2007,,"189,227,050,760",19273,Generation Z
+7311,Czech Republic,2007,female,5-14 years,0,472986,0.0,Czech Republic2007,,"189,227,050,760",19273,Generation Z
+7312,Czech Republic,2008,male,75+ years,137,235750,58.11,Czech Republic2008,,"235,718,586,901",23811,Silent
+7313,Czech Republic,2008,male,35-54 years,434,1457201,29.78,Czech Republic2008,,"235,718,586,901",23811,Boomers
+7314,Czech Republic,2008,male,55-74 years,291,1075692,27.05,Czech Republic2008,,"235,718,586,901",23811,Silent
+7315,Czech Republic,2008,male,25-34 years,162,892070,18.16,Czech Republic2008,,"235,718,586,901",23811,Generation X
+7316,Czech Republic,2008,male,15-24 years,96,692756,13.86,Czech Republic2008,,"235,718,586,901",23811,Millenials
+7317,Czech Republic,2008,female,75+ years,37,446156,8.29,Czech Republic2008,,"235,718,586,901",23811,Silent
+7318,Czech Republic,2008,female,55-74 years,84,1241767,6.76,Czech Republic2008,,"235,718,586,901",23811,Silent
+7319,Czech Republic,2008,female,35-54 years,88,1412333,6.23,Czech Republic2008,,"235,718,586,901",23811,Boomers
+7320,Czech Republic,2008,female,25-34 years,32,842858,3.8,Czech Republic2008,,"235,718,586,901",23811,Generation X
+7321,Czech Republic,2008,female,15-24 years,14,653487,2.14,Czech Republic2008,,"235,718,586,901",23811,Millenials
+7322,Czech Republic,2008,male,5-14 years,3,487813,0.61,Czech Republic2008,,"235,718,586,901",23811,Generation Z
+7323,Czech Republic,2008,female,5-14 years,1,461711,0.22,Czech Republic2008,,"235,718,586,901",23811,Generation Z
+7324,Czech Republic,2009,male,75+ years,135,240265,56.19,Czech Republic2009,,"206,179,982,164",20748,Silent
+7325,Czech Republic,2009,male,35-54 years,476,1480738,32.15,Czech Republic2009,,"206,179,982,164",20748,Boomers
+7326,Czech Republic,2009,male,55-74 years,337,1100133,30.63,Czech Republic2009,,"206,179,982,164",20748,Silent
+7327,Czech Republic,2009,male,25-34 years,199,880108,22.61,Czech Republic2009,,"206,179,982,164",20748,Generation X
+7328,Czech Republic,2009,male,15-24 years,81,685218,11.82,Czech Republic2009,,"206,179,982,164",20748,Millenials
+7329,Czech Republic,2009,female,75+ years,42,450517,9.32,Czech Republic2009,,"206,179,982,164",20748,Silent
+7330,Czech Republic,2009,female,55-74 years,78,1265312,6.16,Czech Republic2009,,"206,179,982,164",20748,Silent
+7331,Czech Republic,2009,female,35-54 years,79,1428022,5.53,Czech Republic2009,,"206,179,982,164",20748,Boomers
+7332,Czech Republic,2009,female,15-24 years,16,646079,2.48,Czech Republic2009,,"206,179,982,164",20748,Millenials
+7333,Czech Republic,2009,female,25-34 years,18,827079,2.18,Czech Republic2009,,"206,179,982,164",20748,Generation X
+7334,Czech Republic,2009,male,5-14 years,2,479988,0.42,Czech Republic2009,,"206,179,982,164",20748,Generation Z
+7335,Czech Republic,2009,female,5-14 years,1,453948,0.22,Czech Republic2009,,"206,179,982,164",20748,Generation Z
+7336,Czech Republic,2010,male,75+ years,115,243211,47.28,Czech Republic2010,0.863,"207,477,857,919",20862,Silent
+7337,Czech Republic,2010,male,55-74 years,394,1121705,35.13,Czech Republic2010,0.863,"207,477,857,919",20862,Silent
+7338,Czech Republic,2010,male,35-54 years,473,1499075,31.55,Czech Republic2010,0.863,"207,477,857,919",20862,Generation X
+7339,Czech Republic,2010,male,25-34 years,168,858416,19.57,Czech Republic2010,0.863,"207,477,857,919",20862,Generation X
+7340,Czech Republic,2010,male,15-24 years,94,665538,14.12,Czech Republic2010,0.863,"207,477,857,919",20862,Millenials
+7341,Czech Republic,2010,female,75+ years,40,453417,8.82,Czech Republic2010,0.863,"207,477,857,919",20862,Silent
+7342,Czech Republic,2010,female,55-74 years,84,1288749,6.52,Czech Republic2010,0.863,"207,477,857,919",20862,Silent
+7343,Czech Republic,2010,female,35-54 years,87,1445352,6.02,Czech Republic2010,0.863,"207,477,857,919",20862,Generation X
+7344,Czech Republic,2010,female,25-34 years,26,805752,3.23,Czech Republic2010,0.863,"207,477,857,919",20862,Generation X
+7345,Czech Republic,2010,female,15-24 years,20,629937,3.17,Czech Republic2010,0.863,"207,477,857,919",20862,Millenials
+7346,Czech Republic,2010,male,5-14 years,1,479853,0.21,Czech Republic2010,0.863,"207,477,857,919",20862,Generation Z
+7347,Czech Republic,2010,female,5-14 years,0,454268,0.0,Czech Republic2010,0.863,"207,477,857,919",20862,Generation Z
+7348,Czech Republic,2011,male,75+ years,118,246004,47.97,Czech Republic2011,0.866,"227,948,349,666",23010,Silent
+7349,Czech Republic,2011,male,55-74 years,424,1152114,36.8,Czech Republic2011,0.866,"227,948,349,666",23010,Boomers
+7350,Czech Republic,2011,male,35-54 years,500,1517715,32.94,Czech Republic2011,0.866,"227,948,349,666",23010,Generation X
+7351,Czech Republic,2011,male,25-34 years,173,818695,21.13,Czech Republic2011,0.866,"227,948,349,666",23010,Millenials
+7352,Czech Republic,2011,male,15-24 years,120,632356,18.98,Czech Republic2011,0.866,"227,948,349,666",23010,Millenials
+7353,Czech Republic,2011,female,75+ years,43,454906,9.45,Czech Republic2011,0.866,"227,948,349,666",23010,Silent
+7354,Czech Republic,2011,female,35-54 years,86,1456523,5.9,Czech Republic2011,0.866,"227,948,349,666",23010,Generation X
+7355,Czech Republic,2011,female,55-74 years,77,1312571,5.87,Czech Republic2011,0.866,"227,948,349,666",23010,Boomers
+7356,Czech Republic,2011,female,25-34 years,28,771896,3.63,Czech Republic2011,0.866,"227,948,349,666",23010,Millenials
+7357,Czech Republic,2011,female,15-24 years,19,602033,3.16,Czech Republic2011,0.866,"227,948,349,666",23010,Millenials
+7358,Czech Republic,2011,male,5-14 years,2,483911,0.41,Czech Republic2011,0.866,"227,948,349,666",23010,Generation Z
+7359,Czech Republic,2011,female,5-14 years,0,457594,0.0,Czech Republic2011,0.866,"227,948,349,666",23010,Generation Z
+7360,Czech Republic,2012,male,75+ years,146,248952,58.65,Czech Republic2012,0.867,"207,376,427,021",20898,Silent
+7361,Czech Republic,2012,male,55-74 years,430,1173069,36.66,Czech Republic2012,0.867,"207,376,427,021",20898,Boomers
+7362,Czech Republic,2012,male,35-54 years,538,1537251,35.0,Czech Republic2012,0.867,"207,376,427,021",20898,Generation X
+7363,Czech Republic,2012,male,25-34 years,179,796162,22.48,Czech Republic2012,0.867,"207,376,427,021",20898,Millenials
+7364,Czech Republic,2012,male,15-24 years,84,609704,13.78,Czech Republic2012,0.867,"207,376,427,021",20898,Millenials
+7365,Czech Republic,2012,female,75+ years,45,456859,9.85,Czech Republic2012,0.867,"207,376,427,021",20898,Silent
+7366,Czech Republic,2012,female,55-74 years,106,1333013,7.95,Czech Republic2012,0.867,"207,376,427,021",20898,Boomers
+7367,Czech Republic,2012,female,35-54 years,94,1471892,6.39,Czech Republic2012,0.867,"207,376,427,021",20898,Generation X
+7368,Czech Republic,2012,female,25-34 years,22,750032,2.93,Czech Republic2012,0.867,"207,376,427,021",20898,Millenials
+7369,Czech Republic,2012,female,15-24 years,10,581629,1.72,Czech Republic2012,0.867,"207,376,427,021",20898,Millenials
+7370,Czech Republic,2012,male,5-14 years,3,495721,0.61,Czech Republic2012,0.867,"207,376,427,021",20898,Generation Z
+7371,Czech Republic,2012,female,5-14 years,1,468843,0.21,Czech Republic2012,0.867,"207,376,427,021",20898,Generation Z
+7372,Czech Republic,2013,male,75+ years,129,252532,51.08,Czech Republic2013,0.868,"209,402,444,996",21073,Silent
+7373,Czech Republic,2013,male,55-74 years,399,1188011,33.59,Czech Republic2013,0.868,"209,402,444,996",21073,Boomers
+7374,Czech Republic,2013,male,35-54 years,485,1556338,31.16,Czech Republic2013,0.868,"209,402,444,996",21073,Generation X
+7375,Czech Republic,2013,male,25-34 years,168,773130,21.73,Czech Republic2013,0.868,"209,402,444,996",21073,Millenials
+7376,Czech Republic,2013,male,15-24 years,108,586871,18.4,Czech Republic2013,0.868,"209,402,444,996",21073,Millenials
+7377,Czech Republic,2013,female,75+ years,36,459282,7.84,Czech Republic2013,0.868,"209,402,444,996",21073,Silent
+7378,Czech Republic,2013,female,35-54 years,108,1488299,7.26,Czech Republic2013,0.868,"209,402,444,996",21073,Generation X
+7379,Czech Republic,2013,female,55-74 years,92,1347862,6.83,Czech Republic2013,0.868,"209,402,444,996",21073,Boomers
+7380,Czech Republic,2013,female,25-34 years,30,729365,4.11,Czech Republic2013,0.868,"209,402,444,996",21073,Millenials
+7381,Czech Republic,2013,female,15-24 years,15,560391,2.68,Czech Republic2013,0.868,"209,402,444,996",21073,Millenials
+7382,Czech Republic,2013,male,5-14 years,5,510895,0.98,Czech Republic2013,0.868,"209,402,444,996",21073,Generation Z
+7383,Czech Republic,2013,female,5-14 years,2,483804,0.41,Czech Republic2013,0.868,"209,402,444,996",21073,Generation Z
+7384,Czech Republic,2014,male,75+ years,123,257383,47.79,Czech Republic2014,0.87,"207,818,330,724",20859,Silent
+7385,Czech Republic,2014,male,55-74 years,364,1197687,30.39,Czech Republic2014,0.87,"207,818,330,724",20859,Boomers
+7386,Czech Republic,2014,male,35-54 years,467,1580637,29.55,Czech Republic2014,0.87,"207,818,330,724",20859,Generation X
+7387,Czech Republic,2014,male,25-34 years,157,752372,20.87,Czech Republic2014,0.87,"207,818,330,724",20859,Millenials
+7388,Czech Republic,2014,male,15-24 years,84,565782,14.85,Czech Republic2014,0.87,"207,818,330,724",20859,Millenials
+7389,Czech Republic,2014,female,75+ years,54,464061,11.64,Czech Republic2014,0.87,"207,818,330,724",20859,Silent
+7390,Czech Republic,2014,female,55-74 years,107,1356408,7.89,Czech Republic2014,0.87,"207,818,330,724",20859,Boomers
+7391,Czech Republic,2014,female,35-54 years,94,1509758,6.23,Czech Republic2014,0.87,"207,818,330,724",20859,Generation X
+7392,Czech Republic,2014,female,25-34 years,26,711374,3.65,Czech Republic2014,0.87,"207,818,330,724",20859,Millenials
+7393,Czech Republic,2014,female,15-24 years,11,540106,2.04,Czech Republic2014,0.87,"207,818,330,724",20859,Millenials
+7394,Czech Republic,2014,female,5-14 years,1,500027,0.2,Czech Republic2014,0.87,"207,818,330,724",20859,Generation Z
+7395,Czech Republic,2014,male,5-14 years,1,527532,0.19,Czech Republic2014,0.87,"207,818,330,724",20859,Generation Z
+7396,Czech Republic,2015,male,75+ years,145,264401,54.84,Czech Republic2015,,"186,829,940,546",18703,Silent
+7397,Czech Republic,2015,male,55-74 years,373,1202553,31.02,Czech Republic2015,,"186,829,940,546",18703,Boomers
+7398,Czech Republic,2015,male,35-54 years,404,1602521,25.21,Czech Republic2015,,"186,829,940,546",18703,Generation X
+7399,Czech Republic,2015,male,25-34 years,151,737221,20.48,Czech Republic2015,,"186,829,940,546",18703,Millenials
+7400,Czech Republic,2015,male,15-24 years,58,546597,10.61,Czech Republic2015,,"186,829,940,546",18703,Millenials
+7401,Czech Republic,2015,female,75+ years,44,471092,9.34,Czech Republic2015,,"186,829,940,546",18703,Silent
+7402,Czech Republic,2015,female,55-74 years,80,1358421,5.89,Czech Republic2015,,"186,829,940,546",18703,Boomers
+7403,Czech Republic,2015,female,35-54 years,86,1528289,5.63,Czech Republic2015,,"186,829,940,546",18703,Generation X
+7404,Czech Republic,2015,female,15-24 years,19,521060,3.65,Czech Republic2015,,"186,829,940,546",18703,Millenials
+7405,Czech Republic,2015,female,25-34 years,20,698584,2.86,Czech Republic2015,,"186,829,940,546",18703,Millenials
+7406,Czech Republic,2015,female,5-14 years,5,515457,0.97,Czech Republic2015,,"186,829,940,546",18703,Generation Z
+7407,Czech Republic,2015,male,5-14 years,2,543129,0.37,Czech Republic2015,,"186,829,940,546",18703,Generation Z
+7408,Czech Republic,2016,male,75+ years,140,273637,51.16,Czech Republic2016,,"195,305,084,919",19505,Silent
+7409,Czech Republic,2016,male,55-74 years,319,1205832,26.45,Czech Republic2016,,"195,305,084,919",19505,Boomers
+7410,Czech Republic,2016,male,35-54 years,386,1617906,23.86,Czech Republic2016,,"195,305,084,919",19505,Generation X
+7411,Czech Republic,2016,male,25-34 years,137,729199,18.79,Czech Republic2016,,"195,305,084,919",19505,Millenials
+7412,Czech Republic,2016,male,15-24 years,78,527890,14.78,Czech Republic2016,,"195,305,084,919",19505,Millenials
+7413,Czech Republic,2016,female,55-74 years,86,1358948,6.33,Czech Republic2016,,"195,305,084,919",19505,Boomers
+7414,Czech Republic,2016,female,35-54 years,91,1541109,5.9,Czech Republic2016,,"195,305,084,919",19505,Generation X
+7415,Czech Republic,2016,female,75+ years,25,480884,5.2,Czech Republic2016,,"195,305,084,919",19505,Silent
+7416,Czech Republic,2016,female,25-34 years,34,691963,4.91,Czech Republic2016,,"195,305,084,919",19505,Millenials
+7417,Czech Republic,2016,female,15-24 years,22,502574,4.38,Czech Republic2016,,"195,305,084,919",19505,Millenials

@@ -1,0 +1,383 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+16182,Mauritius,1985,female,75+ years,2,8800,22.73,Mauritius1985,0.575,"1,080,642,033",1223,G.I. Generation
+16183,Mauritius,1985,male,25-34 years,19,88500,21.47,Mauritius1985,0.575,"1,080,642,033",1223,Boomers
+16184,Mauritius,1985,male,35-54 years,18,89500,20.11,Mauritius1985,0.575,"1,080,642,033",1223,Silent
+16185,Mauritius,1985,male,55-74 years,9,45300,19.87,Mauritius1985,0.575,"1,080,642,033",1223,G.I. Generation
+16186,Mauritius,1985,male,15-24 years,21,109400,19.2,Mauritius1985,0.575,"1,080,642,033",1223,Generation X
+16187,Mauritius,1985,female,15-24 years,18,106300,16.93,Mauritius1985,0.575,"1,080,642,033",1223,Generation X
+16188,Mauritius,1985,female,55-74 years,4,47900,8.35,Mauritius1985,0.575,"1,080,642,033",1223,G.I. Generation
+16189,Mauritius,1985,female,25-34 years,6,87200,6.88,Mauritius1985,0.575,"1,080,642,033",1223,Boomers
+16190,Mauritius,1985,female,35-54 years,6,90500,6.63,Mauritius1985,0.575,"1,080,642,033",1223,Silent
+16191,Mauritius,1985,male,5-14 years,1,104700,0.96,Mauritius1985,0.575,"1,080,642,033",1223,Generation X
+16192,Mauritius,1985,female,5-14 years,0,100900,0.0,Mauritius1985,0.575,"1,080,642,033",1223,Generation X
+16193,Mauritius,1985,male,75+ years,0,4400,0.0,Mauritius1985,0.575,"1,080,642,033",1223,G.I. Generation
+16194,Mauritius,1986,male,25-34 years,7,88800,7.88,Mauritius1986,,"1,469,046,115",1636,Boomers
+16195,Mauritius,1986,male,35-54 years,7,94900,7.38,Mauritius1986,,"1,469,046,115",1636,Silent
+16196,Mauritius,1986,female,15-24 years,6,104600,5.74,Mauritius1986,,"1,469,046,115",1636,Generation X
+16197,Mauritius,1986,male,15-24 years,5,108300,4.62,Mauritius1986,,"1,469,046,115",1636,Generation X
+16198,Mauritius,1986,female,25-34 years,2,88500,2.26,Mauritius1986,,"1,469,046,115",1636,Boomers
+16199,Mauritius,1986,male,55-74 years,1,45700,2.19,Mauritius1986,,"1,469,046,115",1636,G.I. Generation
+16200,Mauritius,1986,female,35-54 years,0,96400,0.0,Mauritius1986,,"1,469,046,115",1636,Silent
+16201,Mauritius,1986,female,5-14 years,0,102100,0.0,Mauritius1986,,"1,469,046,115",1636,Generation X
+16202,Mauritius,1986,female,55-74 years,0,48500,0.0,Mauritius1986,,"1,469,046,115",1636,G.I. Generation
+16203,Mauritius,1986,female,75+ years,0,9100,0.0,Mauritius1986,,"1,469,046,115",1636,G.I. Generation
+16204,Mauritius,1986,male,5-14 years,0,106500,0.0,Mauritius1986,,"1,469,046,115",1636,Generation X
+16205,Mauritius,1986,male,75+ years,0,4700,0.0,Mauritius1986,,"1,469,046,115",1636,G.I. Generation
+16206,Mauritius,1987,male,35-54 years,36,98200,36.66,Mauritius1987,,"1,888,754,655",2073,Silent
+16207,Mauritius,1987,female,15-24 years,28,102000,27.45,Mauritius1987,,"1,888,754,655",2073,Generation X
+16208,Mauritius,1987,male,25-34 years,21,91300,23.0,Mauritius1987,,"1,888,754,655",2073,Boomers
+16209,Mauritius,1987,male,15-24 years,24,105000,22.86,Mauritius1987,,"1,888,754,655",2073,Generation X
+16210,Mauritius,1987,female,75+ years,2,9000,22.22,Mauritius1987,,"1,888,754,655",2073,G.I. Generation
+16211,Mauritius,1987,male,55-74 years,6,45800,13.1,Mauritius1987,,"1,888,754,655",2073,G.I. Generation
+16212,Mauritius,1987,female,25-34 years,10,92900,10.76,Mauritius1987,,"1,888,754,655",2073,Boomers
+16213,Mauritius,1987,female,55-74 years,3,49500,6.06,Mauritius1987,,"1,888,754,655",2073,G.I. Generation
+16214,Mauritius,1987,female,35-54 years,6,100300,5.98,Mauritius1987,,"1,888,754,655",2073,Silent
+16215,Mauritius,1987,female,5-14 years,4,103900,3.85,Mauritius1987,,"1,888,754,655",2073,Generation X
+16216,Mauritius,1987,male,5-14 years,0,108600,0.0,Mauritius1987,,"1,888,754,655",2073,Generation X
+16217,Mauritius,1987,male,75+ years,0,4800,0.0,Mauritius1987,,"1,888,754,655",2073,G.I. Generation
+16218,Mauritius,1988,male,75+ years,3,4800,62.5,Mauritius1988,,"2,143,484,488",2317,G.I. Generation
+16219,Mauritius,1988,male,35-54 years,44,101600,43.31,Mauritius1988,,"2,143,484,488",2317,Silent
+16220,Mauritius,1988,male,55-74 years,14,46800,29.91,Mauritius1988,,"2,143,484,488",2317,G.I. Generation
+16221,Mauritius,1988,male,25-34 years,28,95100,29.44,Mauritius1988,,"2,143,484,488",2317,Boomers
+16222,Mauritius,1988,female,15-24 years,21,99200,21.17,Mauritius1988,,"2,143,484,488",2317,Generation X
+16223,Mauritius,1988,male,15-24 years,21,102000,20.59,Mauritius1988,,"2,143,484,488",2317,Generation X
+16224,Mauritius,1988,female,25-34 years,19,95000,20.0,Mauritius1988,,"2,143,484,488",2317,Boomers
+16225,Mauritius,1988,female,35-54 years,11,106100,10.37,Mauritius1988,,"2,143,484,488",2317,Silent
+16226,Mauritius,1988,female,55-74 years,3,49900,6.01,Mauritius1988,,"2,143,484,488",2317,G.I. Generation
+16227,Mauritius,1988,female,5-14 years,2,105100,1.9,Mauritius1988,,"2,143,484,488",2317,Generation X
+16228,Mauritius,1988,male,5-14 years,1,109800,0.91,Mauritius1988,,"2,143,484,488",2317,Generation X
+16229,Mauritius,1988,female,75+ years,0,9600,0.0,Mauritius1988,,"2,143,484,488",2317,G.I. Generation
+16230,Mauritius,1989,male,25-34 years,41,96900,42.31,Mauritius1989,,"2,191,096,860",2349,Boomers
+16231,Mauritius,1989,male,75+ years,2,5200,38.46,Mauritius1989,,"2,191,096,860",2349,G.I. Generation
+16232,Mauritius,1989,male,35-54 years,37,103400,35.78,Mauritius1989,,"2,191,096,860",2349,Silent
+16233,Mauritius,1989,female,75+ years,2,10200,19.61,Mauritius1989,,"2,191,096,860",2349,G.I. Generation
+16234,Mauritius,1989,male,15-24 years,19,100400,18.92,Mauritius1989,,"2,191,096,860",2349,Generation X
+16235,Mauritius,1989,male,55-74 years,8,47500,16.84,Mauritius1989,,"2,191,096,860",2349,G.I. Generation
+16236,Mauritius,1989,female,15-24 years,11,97900,11.24,Mauritius1989,,"2,191,096,860",2349,Generation X
+16237,Mauritius,1989,female,55-74 years,5,50900,9.82,Mauritius1989,,"2,191,096,860",2349,G.I. Generation
+16238,Mauritius,1989,female,25-34 years,9,96500,9.33,Mauritius1989,,"2,191,096,860",2349,Boomers
+16239,Mauritius,1989,female,5-14 years,5,104600,4.78,Mauritius1989,,"2,191,096,860",2349,Generation X
+16240,Mauritius,1989,female,35-54 years,5,109900,4.55,Mauritius1989,,"2,191,096,860",2349,Silent
+16241,Mauritius,1989,male,5-14 years,0,109500,0.0,Mauritius1989,,"2,191,096,860",2349,Generation X
+16242,Mauritius,1990,male,35-54 years,33,107800,30.61,Mauritius1990,0.619,"2,653,480,001",2820,Silent
+16243,Mauritius,1990,male,55-74 years,13,48700,26.69,Mauritius1990,0.619,"2,653,480,001",2820,G.I. Generation
+16244,Mauritius,1990,male,25-34 years,26,98100,26.5,Mauritius1990,0.619,"2,653,480,001",2820,Boomers
+16245,Mauritius,1990,female,15-24 years,23,95400,24.11,Mauritius1990,0.619,"2,653,480,001",2820,Generation X
+16246,Mauritius,1990,female,25-34 years,18,97100,18.54,Mauritius1990,0.619,"2,653,480,001",2820,Boomers
+16247,Mauritius,1990,male,15-24 years,18,98500,18.27,Mauritius1990,0.619,"2,653,480,001",2820,Generation X
+16248,Mauritius,1990,female,55-74 years,4,51800,7.72,Mauritius1990,0.619,"2,653,480,001",2820,G.I. Generation
+16249,Mauritius,1990,female,35-54 years,8,115600,6.92,Mauritius1990,0.619,"2,653,480,001",2820,Silent
+16250,Mauritius,1990,female,5-14 years,3,103400,2.9,Mauritius1990,0.619,"2,653,480,001",2820,Generation X
+16251,Mauritius,1990,male,5-14 years,1,108400,0.92,Mauritius1990,0.619,"2,653,480,001",2820,Generation X
+16252,Mauritius,1990,female,75+ years,0,10500,0.0,Mauritius1990,0.619,"2,653,480,001",2820,G.I. Generation
+16253,Mauritius,1990,male,75+ years,0,5800,0.0,Mauritius1990,0.619,"2,653,480,001",2820,G.I. Generation
+16254,Mauritius,1991,male,75+ years,3,6300,47.62,Mauritius1991,,"2,856,890,681",3045,G.I. Generation
+16255,Mauritius,1991,male,25-34 years,37,100400,36.85,Mauritius1991,,"2,856,890,681",3045,Boomers
+16256,Mauritius,1991,male,55-74 years,12,47400,25.32,Mauritius1991,,"2,856,890,681",3045,Silent
+16257,Mauritius,1991,male,35-54 years,27,113400,23.81,Mauritius1991,,"2,856,890,681",3045,Boomers
+16258,Mauritius,1991,female,15-24 years,15,93300,16.08,Mauritius1991,,"2,856,890,681",3045,Generation X
+16259,Mauritius,1991,male,15-24 years,15,96200,15.59,Mauritius1991,,"2,856,890,681",3045,Generation X
+16260,Mauritius,1991,female,25-34 years,11,97100,11.33,Mauritius1991,,"2,856,890,681",3045,Boomers
+16261,Mauritius,1991,female,55-74 years,5,53600,9.33,Mauritius1991,,"2,856,890,681",3045,Silent
+16262,Mauritius,1991,female,35-54 years,9,114000,7.89,Mauritius1991,,"2,856,890,681",3045,Boomers
+16263,Mauritius,1991,female,5-14 years,3,101000,2.97,Mauritius1991,,"2,856,890,681",3045,Millenials
+16264,Mauritius,1991,female,75+ years,0,11500,0.0,Mauritius1991,,"2,856,890,681",3045,G.I. Generation
+16265,Mauritius,1991,male,5-14 years,0,103900,0.0,Mauritius1991,,"2,856,890,681",3045,Millenials
+16266,Mauritius,1992,male,75+ years,3,6600,45.45,Mauritius1992,,"3,224,267,548",3400,G.I. Generation
+16267,Mauritius,1992,male,35-54 years,47,118800,39.56,Mauritius1992,,"3,224,267,548",3400,Boomers
+16268,Mauritius,1992,male,25-34 years,24,101400,23.67,Mauritius1992,,"3,224,267,548",3400,Boomers
+16269,Mauritius,1992,male,15-24 years,17,96800,17.56,Mauritius1992,,"3,224,267,548",3400,Generation X
+16270,Mauritius,1992,male,55-74 years,8,48000,16.67,Mauritius1992,,"3,224,267,548",3400,Silent
+16271,Mauritius,1992,female,15-24 years,13,93200,13.95,Mauritius1992,,"3,224,267,548",3400,Generation X
+16272,Mauritius,1992,female,35-54 years,14,118500,11.81,Mauritius1992,,"3,224,267,548",3400,Boomers
+16273,Mauritius,1992,female,25-34 years,11,96800,11.36,Mauritius1992,,"3,224,267,548",3400,Boomers
+16274,Mauritius,1992,female,75+ years,1,11800,8.47,Mauritius1992,,"3,224,267,548",3400,G.I. Generation
+16275,Mauritius,1992,female,55-74 years,3,54700,5.48,Mauritius1992,,"3,224,267,548",3400,Silent
+16276,Mauritius,1992,female,5-14 years,4,99300,4.03,Mauritius1992,,"3,224,267,548",3400,Millenials
+16277,Mauritius,1992,male,5-14 years,1,102400,0.98,Mauritius1992,,"3,224,267,548",3400,Millenials
+16278,Mauritius,1993,male,75+ years,2,6800,29.41,Mauritius1993,,"3,263,368,410",3405,G.I. Generation
+16279,Mauritius,1993,male,25-34 years,30,102500,29.27,Mauritius1993,,"3,263,368,410",3405,Boomers
+16280,Mauritius,1993,male,35-54 years,33,123400,26.74,Mauritius1993,,"3,263,368,410",3405,Boomers
+16281,Mauritius,1993,male,55-74 years,13,48700,26.69,Mauritius1993,,"3,263,368,410",3405,Silent
+16282,Mauritius,1993,female,15-24 years,16,93500,17.11,Mauritius1993,,"3,263,368,410",3405,Generation X
+16283,Mauritius,1993,female,25-34 years,16,97000,16.49,Mauritius1993,,"3,263,368,410",3405,Boomers
+16284,Mauritius,1993,male,15-24 years,13,97500,13.33,Mauritius1993,,"3,263,368,410",3405,Generation X
+16285,Mauritius,1993,female,35-54 years,8,122700,6.52,Mauritius1993,,"3,263,368,410",3405,Boomers
+16286,Mauritius,1993,female,55-74 years,3,55600,5.4,Mauritius1993,,"3,263,368,410",3405,Silent
+16287,Mauritius,1993,female,5-14 years,2,97600,2.05,Mauritius1993,,"3,263,368,410",3405,Millenials
+16288,Mauritius,1993,male,5-14 years,2,100800,1.98,Mauritius1993,,"3,263,368,410",3405,Millenials
+16289,Mauritius,1993,female,75+ years,0,12200,0.0,Mauritius1993,,"3,263,368,410",3405,G.I. Generation
+16290,Mauritius,1994,male,25-34 years,41,102600,39.96,Mauritius1994,,"3,558,137,040",3658,Boomers
+16291,Mauritius,1994,male,15-24 years,25,99500,25.13,Mauritius1994,,"3,558,137,040",3658,Generation X
+16292,Mauritius,1994,male,55-74 years,12,49100,24.44,Mauritius1994,,"3,558,137,040",3658,Silent
+16293,Mauritius,1994,male,35-54 years,28,128600,21.77,Mauritius1994,,"3,558,137,040",3658,Boomers
+16294,Mauritius,1994,male,75+ years,1,7000,14.29,Mauritius1994,,"3,558,137,040",3658,G.I. Generation
+16295,Mauritius,1994,female,15-24 years,9,96100,9.37,Mauritius1994,,"3,558,137,040",3658,Generation X
+16296,Mauritius,1994,female,25-34 years,8,97100,8.24,Mauritius1994,,"3,558,137,040",3658,Boomers
+16297,Mauritius,1994,female,75+ years,1,12400,8.06,Mauritius1994,,"3,558,137,040",3658,G.I. Generation
+16298,Mauritius,1994,female,35-54 years,3,127900,2.35,Mauritius1994,,"3,558,137,040",3658,Boomers
+16299,Mauritius,1994,female,5-14 years,1,96300,1.04,Mauritius1994,,"3,558,137,040",3658,Millenials
+16300,Mauritius,1994,female,55-74 years,0,56700,0.0,Mauritius1994,,"3,558,137,040",3658,Silent
+16301,Mauritius,1994,male,5-14 years,0,99500,0.0,Mauritius1994,,"3,558,137,040",3658,Millenials
+16302,Mauritius,1995,male,35-54 years,49,133300,36.76,Mauritius1995,0.647,"4,040,345,933",4115,Boomers
+16303,Mauritius,1995,male,25-34 years,34,101700,33.43,Mauritius1995,0.647,"4,040,345,933",4115,Generation X
+16304,Mauritius,1995,male,75+ years,2,7200,27.78,Mauritius1995,0.647,"4,040,345,933",4115,G.I. Generation
+16305,Mauritius,1995,male,55-74 years,13,49900,26.05,Mauritius1995,0.647,"4,040,345,933",4115,Silent
+16306,Mauritius,1995,male,15-24 years,16,101000,15.84,Mauritius1995,0.647,"4,040,345,933",4115,Generation X
+16307,Mauritius,1995,female,15-24 years,11,97900,11.24,Mauritius1995,0.647,"4,040,345,933",4115,Generation X
+16308,Mauritius,1995,female,55-74 years,6,57800,10.38,Mauritius1995,0.647,"4,040,345,933",4115,Silent
+16309,Mauritius,1995,female,75+ years,1,12800,7.81,Mauritius1995,0.647,"4,040,345,933",4115,G.I. Generation
+16310,Mauritius,1995,female,35-54 years,8,132400,6.04,Mauritius1995,0.647,"4,040,345,933",4115,Boomers
+16311,Mauritius,1995,female,25-34 years,4,95700,4.18,Mauritius1995,0.647,"4,040,345,933",4115,Generation X
+16312,Mauritius,1995,female,5-14 years,2,94400,2.12,Mauritius1995,0.647,"4,040,345,933",4115,Millenials
+16313,Mauritius,1995,male,5-14 years,1,97800,1.02,Mauritius1995,0.647,"4,040,345,933",4115,Millenials
+16314,Mauritius,1996,male,25-34 years,33,100700,32.77,Mauritius1996,,"4,421,943,910",4444,Generation X
+16315,Mauritius,1996,male,55-74 years,16,50200,31.87,Mauritius1996,,"4,421,943,910",4444,Silent
+16316,Mauritius,1996,male,35-54 years,41,138600,29.58,Mauritius1996,,"4,421,943,910",4444,Boomers
+16317,Mauritius,1996,male,15-24 years,27,103000,26.21,Mauritius1996,,"4,421,943,910",4444,Generation X
+16318,Mauritius,1996,female,25-34 years,12,94900,12.64,Mauritius1996,,"4,421,943,910",4444,Generation X
+16319,Mauritius,1996,female,55-74 years,6,58500,10.26,Mauritius1996,,"4,421,943,910",4444,Silent
+16320,Mauritius,1996,female,15-24 years,8,100000,8.0,Mauritius1996,,"4,421,943,910",4444,Generation X
+16321,Mauritius,1996,female,75+ years,1,13200,7.58,Mauritius1996,,"4,421,943,910",4444,G.I. Generation
+16322,Mauritius,1996,female,35-54 years,7,137300,5.1,Mauritius1996,,"4,421,943,910",4444,Boomers
+16323,Mauritius,1996,female,5-14 years,2,93900,2.13,Mauritius1996,,"4,421,943,910",4444,Millenials
+16324,Mauritius,1996,male,5-14 years,0,97200,0.0,Mauritius1996,,"4,421,943,910",4444,Millenials
+16325,Mauritius,1996,male,75+ years,0,7500,0.0,Mauritius1996,,"4,421,943,910",4444,G.I. Generation
+16326,Mauritius,1997,male,35-54 years,40,144500,27.68,Mauritius1997,,"4,187,367,602",4139,Boomers
+16327,Mauritius,1997,male,25-34 years,27,100000,27.0,Mauritius1997,,"4,187,367,602",4139,Generation X
+16328,Mauritius,1997,male,75+ years,2,7800,25.64,Mauritius1997,,"4,187,367,602",4139,G.I. Generation
+16329,Mauritius,1997,male,55-74 years,11,50600,21.74,Mauritius1997,,"4,187,367,602",4139,Silent
+16330,Mauritius,1997,male,15-24 years,21,104800,20.04,Mauritius1997,,"4,187,367,602",4139,Generation X
+16331,Mauritius,1997,female,15-24 years,6,101800,5.89,Mauritius1997,,"4,187,367,602",4139,Generation X
+16332,Mauritius,1997,female,55-74 years,3,59300,5.06,Mauritius1997,,"4,187,367,602",4139,Silent
+16333,Mauritius,1997,female,25-34 years,4,94100,4.25,Mauritius1997,,"4,187,367,602",4139,Generation X
+16334,Mauritius,1997,female,35-54 years,6,143100,4.19,Mauritius1997,,"4,187,367,602",4139,Boomers
+16335,Mauritius,1997,female,5-14 years,1,94100,1.06,Mauritius1997,,"4,187,367,602",4139,Millenials
+16336,Mauritius,1997,male,5-14 years,1,97900,1.02,Mauritius1997,,"4,187,367,602",4139,Millenials
+16337,Mauritius,1997,female,75+ years,0,13700,0.0,Mauritius1997,,"4,187,367,602",4139,G.I. Generation
+16338,Mauritius,1998,male,25-34 years,35,98200,35.64,Mauritius1998,,"4,169,664,285",4063,Generation X
+16339,Mauritius,1998,male,35-54 years,46,150700,30.52,Mauritius1998,,"4,169,664,285",4063,Boomers
+16340,Mauritius,1998,male,55-74 years,11,50700,21.7,Mauritius1998,,"4,169,664,285",4063,Silent
+16341,Mauritius,1998,male,15-24 years,20,105800,18.9,Mauritius1998,,"4,169,664,285",4063,Generation X
+16342,Mauritius,1998,female,25-34 years,16,92200,17.35,Mauritius1998,,"4,169,664,285",4063,Generation X
+16343,Mauritius,1998,female,15-24 years,15,103000,14.56,Mauritius1998,,"4,169,664,285",4063,Generation X
+16344,Mauritius,1998,female,75+ years,1,14200,7.04,Mauritius1998,,"4,169,664,285",4063,G.I. Generation
+16345,Mauritius,1998,female,35-54 years,8,148800,5.38,Mauritius1998,,"4,169,664,285",4063,Boomers
+16346,Mauritius,1998,male,5-14 years,2,99000,2.02,Mauritius1998,,"4,169,664,285",4063,Millenials
+16347,Mauritius,1998,female,55-74 years,1,60100,1.66,Mauritius1998,,"4,169,664,285",4063,Silent
+16348,Mauritius,1998,female,5-14 years,0,95400,0.0,Mauritius1998,,"4,169,664,285",4063,Millenials
+16349,Mauritius,1998,male,75+ years,0,8200,0.0,Mauritius1998,,"4,169,664,285",4063,G.I. Generation
+16350,Mauritius,1999,male,25-34 years,41,97800,41.92,Mauritius1999,,"4,291,172,816",4117,Generation X
+16351,Mauritius,1999,male,35-54 years,57,156300,36.47,Mauritius1999,,"4,291,172,816",4117,Boomers
+16352,Mauritius,1999,male,75+ years,3,8700,34.48,Mauritius1999,,"4,291,172,816",4117,G.I. Generation
+16353,Mauritius,1999,female,25-34 years,17,92200,18.44,Mauritius1999,,"4,291,172,816",4117,Generation X
+16354,Mauritius,1999,female,15-24 years,18,102900,17.49,Mauritius1999,,"4,291,172,816",4117,Generation X
+16355,Mauritius,1999,male,15-24 years,13,105600,12.31,Mauritius1999,,"4,291,172,816",4117,Generation X
+16356,Mauritius,1999,female,35-54 years,17,154100,11.03,Mauritius1999,,"4,291,172,816",4117,Boomers
+16357,Mauritius,1999,male,55-74 years,5,51800,9.65,Mauritius1999,,"4,291,172,816",4117,Silent
+16358,Mauritius,1999,female,55-74 years,2,61600,3.25,Mauritius1999,,"4,291,172,816",4117,Silent
+16359,Mauritius,1999,male,5-14 years,1,100000,1.0,Mauritius1999,,"4,291,172,816",4117,Millenials
+16360,Mauritius,1999,female,5-14 years,0,96600,0.0,Mauritius1999,,"4,291,172,816",4117,Millenials
+16361,Mauritius,1999,female,75+ years,0,14800,0.0,Mauritius1999,,"4,291,172,816",4117,G.I. Generation
+16362,Mauritius,2000,male,25-34 years,28,94136,29.74,Mauritius2000,0.674,"4,582,555,125",4339,Generation X
+16363,Mauritius,2000,male,35-54 years,40,160762,24.88,Mauritius2000,0.674,"4,582,555,125",4339,Boomers
+16364,Mauritius,2000,male,15-24 years,25,102779,24.32,Mauritius2000,0.674,"4,582,555,125",4339,Generation X
+16365,Mauritius,2000,male,55-74 years,13,54106,24.03,Mauritius2000,0.674,"4,582,555,125",4339,Silent
+16366,Mauritius,2000,female,15-24 years,11,102131,10.77,Mauritius2000,0.674,"4,582,555,125",4339,Generation X
+16367,Mauritius,2000,male,75+ years,1,9735,10.27,Mauritius2000,0.674,"4,582,555,125",4339,G.I. Generation
+16368,Mauritius,2000,female,25-34 years,9,93975,9.58,Mauritius2000,0.674,"4,582,555,125",4339,Generation X
+16369,Mauritius,2000,female,35-54 years,9,159364,5.65,Mauritius2000,0.674,"4,582,555,125",4339,Boomers
+16370,Mauritius,2000,female,55-74 years,1,63460,1.58,Mauritius2000,0.674,"4,582,555,125",4339,Silent
+16371,Mauritius,2000,female,5-14 years,0,98361,0.0,Mauritius2000,0.674,"4,582,555,125",4339,Millenials
+16372,Mauritius,2000,female,75+ years,0,16509,0.0,Mauritius2000,0.674,"4,582,555,125",4339,G.I. Generation
+16373,Mauritius,2000,male,5-14 years,0,100755,0.0,Mauritius2000,0.674,"4,582,555,125",4339,Millenials
+16374,Mauritius,2001,male,25-34 years,21,93054,22.57,Mauritius2001,,"4,536,538,211",4244,Generation X
+16375,Mauritius,2001,male,55-74 years,12,54628,21.97,Mauritius2001,,"4,536,538,211",4244,Silent
+16376,Mauritius,2001,male,35-54 years,33,166424,19.83,Mauritius2001,,"4,536,538,211",4244,Boomers
+16377,Mauritius,2001,female,15-24 years,13,101083,12.86,Mauritius2001,,"4,536,538,211",4244,Millenials
+16378,Mauritius,2001,male,75+ years,1,10419,9.6,Mauritius2001,,"4,536,538,211",4244,Silent
+16379,Mauritius,2001,female,35-54 years,13,165008,7.88,Mauritius2001,,"4,536,538,211",4244,Boomers
+16380,Mauritius,2001,male,15-24 years,8,102151,7.83,Mauritius2001,,"4,536,538,211",4244,Millenials
+16381,Mauritius,2001,female,55-74 years,4,64392,6.21,Mauritius2001,,"4,536,538,211",4244,Silent
+16382,Mauritius,2001,female,75+ years,1,17391,5.75,Mauritius2001,,"4,536,538,211",4244,Silent
+16383,Mauritius,2001,female,25-34 years,5,93411,5.35,Mauritius2001,,"4,536,538,211",4244,Generation X
+16384,Mauritius,2001,female,5-14 years,1,99293,1.01,Mauritius2001,,"4,536,538,211",4244,Millenials
+16385,Mauritius,2001,male,5-14 years,1,101693,0.98,Mauritius2001,,"4,536,538,211",4244,Millenials
+16386,Mauritius,2002,male,25-34 years,28,93399,29.98,Mauritius2002,,"4,767,303,154",4415,Generation X
+16387,Mauritius,2002,male,35-54 years,43,170023,25.29,Mauritius2002,,"4,767,303,154",4415,Boomers
+16388,Mauritius,2002,male,55-74 years,13,56153,23.15,Mauritius2002,,"4,767,303,154",4415,Silent
+16389,Mauritius,2002,male,15-24 years,17,100533,16.91,Mauritius2002,,"4,767,303,154",4415,Millenials
+16390,Mauritius,2002,female,15-24 years,11,99542,11.05,Mauritius2002,,"4,767,303,154",4415,Millenials
+16391,Mauritius,2002,male,75+ years,1,10790,9.27,Mauritius2002,,"4,767,303,154",4415,Silent
+16392,Mauritius,2002,female,25-34 years,6,94139,6.37,Mauritius2002,,"4,767,303,154",4415,Generation X
+16393,Mauritius,2002,female,35-54 years,9,168822,5.33,Mauritius2002,,"4,767,303,154",4415,Boomers
+16394,Mauritius,2002,female,55-74 years,3,66002,4.55,Mauritius2002,,"4,767,303,154",4415,Silent
+16395,Mauritius,2002,female,5-14 years,0,99967,0.0,Mauritius2002,,"4,767,303,154",4415,Millenials
+16396,Mauritius,2002,female,75+ years,0,18012,0.0,Mauritius2002,,"4,767,303,154",4415,Silent
+16397,Mauritius,2002,male,5-14 years,0,102373,0.0,Mauritius2002,,"4,767,303,154",4415,Millenials
+16398,Mauritius,2003,male,25-34 years,20,94542,21.15,Mauritius2003,,"5,609,831,328",5136,Generation X
+16399,Mauritius,2003,male,55-74 years,12,58071,20.66,Mauritius2003,,"5,609,831,328",5136,Silent
+16400,Mauritius,2003,male,35-54 years,24,173619,13.82,Mauritius2003,,"5,609,831,328",5136,Boomers
+16401,Mauritius,2003,male,75+ years,1,11185,8.94,Mauritius2003,,"5,609,831,328",5136,Silent
+16402,Mauritius,2003,female,15-24 years,8,97740,8.18,Mauritius2003,,"5,609,831,328",5136,Millenials
+16403,Mauritius,2003,male,15-24 years,6,99166,6.05,Mauritius2003,,"5,609,831,328",5136,Millenials
+16404,Mauritius,2003,female,25-34 years,5,95550,5.23,Mauritius2003,,"5,609,831,328",5136,Generation X
+16405,Mauritius,2003,female,35-54 years,8,172697,4.63,Mauritius2003,,"5,609,831,328",5136,Boomers
+16406,Mauritius,2003,female,55-74 years,3,68440,4.38,Mauritius2003,,"5,609,831,328",5136,Silent
+16407,Mauritius,2003,male,5-14 years,1,102552,0.98,Mauritius2003,,"5,609,831,328",5136,Millenials
+16408,Mauritius,2003,female,5-14 years,0,100012,0.0,Mauritius2003,,"5,609,831,328",5136,Millenials
+16409,Mauritius,2003,female,75+ years,0,18660,0.0,Mauritius2003,,"5,609,831,328",5136,Silent
+16410,Mauritius,2004,male,25-34 years,22,96551,22.79,Mauritius2004,,"6,385,695,187",5789,Generation X
+16411,Mauritius,2004,male,35-54 years,34,175824,19.34,Mauritius2004,,"6,385,695,187",5789,Boomers
+16412,Mauritius,2004,male,75+ years,2,11376,17.58,Mauritius2004,,"6,385,695,187",5789,Silent
+16413,Mauritius,2004,male,15-24 years,11,98158,11.21,Mauritius2004,,"6,385,695,187",5789,Millenials
+16414,Mauritius,2004,male,55-74 years,6,60315,9.95,Mauritius2004,,"6,385,695,187",5789,Silent
+16415,Mauritius,2004,female,25-34 years,6,97926,6.13,Mauritius2004,,"6,385,695,187",5789,Generation X
+16416,Mauritius,2004,female,15-24 years,5,96083,5.2,Mauritius2004,,"6,385,695,187",5789,Millenials
+16417,Mauritius,2004,female,35-54 years,8,175289,4.56,Mauritius2004,,"6,385,695,187",5789,Boomers
+16418,Mauritius,2004,female,55-74 years,3,70970,4.23,Mauritius2004,,"6,385,695,187",5789,Silent
+16419,Mauritius,2004,female,5-14 years,0,99417,0.0,Mauritius2004,,"6,385,695,187",5789,Millenials
+16420,Mauritius,2004,female,75+ years,0,19076,0.0,Mauritius2004,,"6,385,695,187",5789,Silent
+16421,Mauritius,2004,male,5-14 years,0,102106,0.0,Mauritius2004,,"6,385,695,187",5789,Millenials
+16422,Mauritius,2005,male,35-54 years,39,177945,21.92,Mauritius2005,0.722,"6,283,803,256",5641,Boomers
+16423,Mauritius,2005,male,25-34 years,18,98556,18.26,Mauritius2005,0.722,"6,283,803,256",5641,Generation X
+16424,Mauritius,2005,male,55-74 years,11,63489,17.33,Mauritius2005,0.722,"6,283,803,256",5641,Silent
+16425,Mauritius,2005,male,15-24 years,9,96661,9.31,Mauritius2005,0.722,"6,283,803,256",5641,Millenials
+16426,Mauritius,2005,male,75+ years,1,11584,8.63,Mauritius2005,0.722,"6,283,803,256",5641,Silent
+16427,Mauritius,2005,female,55-74 years,5,74380,6.72,Mauritius2005,0.722,"6,283,803,256",5641,Silent
+16428,Mauritius,2005,female,15-24 years,5,94435,5.29,Mauritius2005,0.722,"6,283,803,256",5641,Millenials
+16429,Mauritius,2005,female,75+ years,1,19557,5.11,Mauritius2005,0.722,"6,283,803,256",5641,Silent
+16430,Mauritius,2005,female,25-34 years,5,99884,5.01,Mauritius2005,0.722,"6,283,803,256",5641,Generation X
+16431,Mauritius,2005,female,35-54 years,7,177511,3.94,Mauritius2005,0.722,"6,283,803,256",5641,Boomers
+16432,Mauritius,2005,male,5-14 years,1,101372,0.99,Mauritius2005,0.722,"6,283,803,256",5641,Millenials
+16433,Mauritius,2005,female,5-14 years,0,98568,0.0,Mauritius2005,0.722,"6,283,803,256",5641,Millenials
+16434,Mauritius,2006,male,75+ years,6,11398,52.64,Mauritius2006,,"7,028,803,366",6246,Silent
+16435,Mauritius,2006,male,35-54 years,37,178169,20.77,Mauritius2006,,"7,028,803,366",6246,Boomers
+16436,Mauritius,2006,male,25-34 years,19,100827,18.84,Mauritius2006,,"7,028,803,366",6246,Generation X
+16437,Mauritius,2006,male,15-24 years,17,96530,17.61,Mauritius2006,,"7,028,803,366",6246,Millenials
+16438,Mauritius,2006,female,75+ years,3,19672,15.25,Mauritius2006,,"7,028,803,366",6246,Silent
+16439,Mauritius,2006,male,55-74 years,10,67670,14.78,Mauritius2006,,"7,028,803,366",6246,Silent
+16440,Mauritius,2006,female,15-24 years,9,94140,9.56,Mauritius2006,,"7,028,803,366",6246,Millenials
+16441,Mauritius,2006,female,25-34 years,5,101903,4.91,Mauritius2006,,"7,028,803,366",6246,Generation X
+16442,Mauritius,2006,female,35-54 years,8,178302,4.49,Mauritius2006,,"7,028,803,366",6246,Boomers
+16443,Mauritius,2006,female,55-74 years,3,78655,3.81,Mauritius2006,,"7,028,803,366",6246,Silent
+16444,Mauritius,2006,female,5-14 years,1,97629,1.02,Mauritius2006,,"7,028,803,366",6246,Millenials
+16445,Mauritius,2006,male,5-14 years,0,100406,0.0,Mauritius2006,,"7,028,803,366",6246,Millenials
+16446,Mauritius,2007,male,75+ years,4,11486,34.83,Mauritius2007,,"8,150,138,757",7179,Silent
+16447,Mauritius,2007,male,25-34 years,30,102202,29.35,Mauritius2007,,"8,150,138,757",7179,Generation X
+16448,Mauritius,2007,male,35-54 years,38,178997,21.23,Mauritius2007,,"8,150,138,757",7179,Boomers
+16449,Mauritius,2007,male,15-24 years,16,97048,16.49,Mauritius2007,,"8,150,138,757",7179,Millenials
+16450,Mauritius,2007,male,55-74 years,9,71372,12.61,Mauritius2007,,"8,150,138,757",7179,Silent
+16451,Mauritius,2007,female,15-24 years,11,94225,11.67,Mauritius2007,,"8,150,138,757",7179,Millenials
+16452,Mauritius,2007,female,25-34 years,7,103004,6.8,Mauritius2007,,"8,150,138,757",7179,Generation X
+16453,Mauritius,2007,female,35-54 years,9,179726,5.01,Mauritius2007,,"8,150,138,757",7179,Boomers
+16454,Mauritius,2007,female,55-74 years,2,82534,2.42,Mauritius2007,,"8,150,138,757",7179,Silent
+16455,Mauritius,2007,female,5-14 years,1,96189,1.04,Mauritius2007,,"8,150,138,757",7179,Generation Z
+16456,Mauritius,2007,female,75+ years,0,19848,0.0,Mauritius2007,,"8,150,138,757",7179,Silent
+16457,Mauritius,2007,male,5-14 years,0,98602,0.0,Mauritius2007,,"8,150,138,757",7179,Generation Z
+16458,Mauritius,2008,male,55-74 years,17,75302,22.58,Mauritius2008,,"9,990,370,016",8716,Silent
+16459,Mauritius,2008,male,25-34 years,21,103266,20.34,Mauritius2008,,"9,990,370,016",8716,Generation X
+16460,Mauritius,2008,male,35-54 years,23,178971,12.85,Mauritius2008,,"9,990,370,016",8716,Boomers
+16461,Mauritius,2008,male,15-24 years,11,98207,11.2,Mauritius2008,,"9,990,370,016",8716,Millenials
+16462,Mauritius,2008,female,55-74 years,3,86641,3.46,Mauritius2008,,"9,990,370,016",8716,Silent
+16463,Mauritius,2008,female,25-34 years,3,104061,2.88,Mauritius2008,,"9,990,370,016",8716,Generation X
+16464,Mauritius,2008,female,15-24 years,2,95566,2.09,Mauritius2008,,"9,990,370,016",8716,Millenials
+16465,Mauritius,2008,female,35-54 years,3,180104,1.67,Mauritius2008,,"9,990,370,016",8716,Boomers
+16466,Mauritius,2008,female,5-14 years,1,94783,1.06,Mauritius2008,,"9,990,370,016",8716,Generation Z
+16467,Mauritius,2008,female,75+ years,0,20317,0.0,Mauritius2008,,"9,990,370,016",8716,Silent
+16468,Mauritius,2008,male,5-14 years,0,97260,0.0,Mauritius2008,,"9,990,370,016",8716,Generation Z
+16469,Mauritius,2008,male,75+ years,0,11780,0.0,Mauritius2008,,"9,990,370,016",8716,Silent
+16470,Mauritius,2009,male,35-54 years,46,179965,25.56,Mauritius2009,,"9,128,843,109",7873,Boomers
+16471,Mauritius,2009,male,25-34 years,20,99119,20.18,Mauritius2009,,"9,128,843,109",7873,Generation X
+16472,Mauritius,2009,male,15-24 years,16,99793,16.03,Mauritius2009,,"9,128,843,109",7873,Millenials
+16473,Mauritius,2009,male,55-74 years,8,82341,9.72,Mauritius2009,,"9,128,843,109",7873,Silent
+16474,Mauritius,2009,male,75+ years,1,13141,7.61,Mauritius2009,,"9,128,843,109",7873,Silent
+16475,Mauritius,2009,female,15-24 years,7,97984,7.14,Mauritius2009,,"9,128,843,109",7873,Millenials
+16476,Mauritius,2009,female,25-34 years,5,98003,5.1,Mauritius2009,,"9,128,843,109",7873,Generation X
+16477,Mauritius,2009,female,75+ years,1,21454,4.66,Mauritius2009,,"9,128,843,109",7873,Silent
+16478,Mauritius,2009,female,55-74 years,4,93824,4.26,Mauritius2009,,"9,128,843,109",7873,Silent
+16479,Mauritius,2009,female,5-14 years,3,96125,3.12,Mauritius2009,,"9,128,843,109",7873,Generation Z
+16480,Mauritius,2009,female,35-54 years,3,178594,1.68,Mauritius2009,,"9,128,843,109",7873,Boomers
+16481,Mauritius,2009,male,5-14 years,1,99208,1.01,Mauritius2009,,"9,128,843,109",7873,Generation Z
+16482,Mauritius,2010,male,75+ years,4,12508,31.98,Mauritius2010,0.7559999999999999,"10,003,670,690",8587,Silent
+16483,Mauritius,2010,male,25-34 years,18,102081,17.63,Mauritius2010,0.7559999999999999,"10,003,670,690",8587,Generation X
+16484,Mauritius,2010,male,35-54 years,28,181881,15.39,Mauritius2010,0.7559999999999999,"10,003,670,690",8587,Generation X
+16485,Mauritius,2010,male,15-24 years,15,100282,14.96,Mauritius2010,0.7559999999999999,"10,003,670,690",8587,Millenials
+16486,Mauritius,2010,male,55-74 years,11,81700,13.46,Mauritius2010,0.7559999999999999,"10,003,670,690",8587,Silent
+16487,Mauritius,2010,female,25-34 years,9,102078,8.82,Mauritius2010,0.7559999999999999,"10,003,670,690",8587,Generation X
+16488,Mauritius,2010,female,35-54 years,8,184083,4.35,Mauritius2010,0.7559999999999999,"10,003,670,690",8587,Generation X
+16489,Mauritius,2010,female,55-74 years,3,93848,3.2,Mauritius2010,0.7559999999999999,"10,003,670,690",8587,Silent
+16490,Mauritius,2010,female,15-24 years,2,98088,2.04,Mauritius2010,0.7559999999999999,"10,003,670,690",8587,Millenials
+16491,Mauritius,2010,female,5-14 years,0,92051,0.0,Mauritius2010,0.7559999999999999,"10,003,670,690",8587,Generation Z
+16492,Mauritius,2010,female,75+ years,0,21469,0.0,Mauritius2010,0.7559999999999999,"10,003,670,690",8587,Silent
+16493,Mauritius,2010,male,5-14 years,0,94862,0.0,Mauritius2010,0.7559999999999999,"10,003,670,690",8587,Generation Z
+16494,Mauritius,2011,male,25-34 years,28,101278,27.65,Mauritius2011,0.762,"11,518,393,367",9817,Millenials
+16495,Mauritius,2011,male,75+ years,3,12837,23.37,Mauritius2011,0.762,"11,518,393,367",9817,Silent
+16496,Mauritius,2011,male,35-54 years,40,182167,21.96,Mauritius2011,0.762,"11,518,393,367",9817,Generation X
+16497,Mauritius,2011,male,15-24 years,13,101183,12.85,Mauritius2011,0.762,"11,518,393,367",9817,Millenials
+16498,Mauritius,2011,male,55-74 years,11,85760,12.83,Mauritius2011,0.762,"11,518,393,367",9817,Boomers
+16499,Mauritius,2011,female,15-24 years,10,99022,10.1,Mauritius2011,0.762,"11,518,393,367",9817,Millenials
+16500,Mauritius,2011,female,25-34 years,5,100904,4.96,Mauritius2011,0.762,"11,518,393,367",9817,Millenials
+16501,Mauritius,2011,female,55-74 years,3,98036,3.06,Mauritius2011,0.762,"11,518,393,367",9817,Boomers
+16502,Mauritius,2011,female,35-54 years,4,185299,2.16,Mauritius2011,0.762,"11,518,393,367",9817,Generation X
+16503,Mauritius,2011,female,5-14 years,1,90807,1.1,Mauritius2011,0.762,"11,518,393,367",9817,Generation Z
+16504,Mauritius,2011,female,75+ years,0,22119,0.0,Mauritius2011,0.762,"11,518,393,367",9817,Silent
+16505,Mauritius,2011,male,5-14 years,0,93940,0.0,Mauritius2011,0.762,"11,518,393,367",9817,Generation Z
+16506,Mauritius,2012,male,25-34 years,26,99664,26.09,Mauritius2012,0.772,"11,668,685,524",9884,Millenials
+16507,Mauritius,2012,male,35-54 years,37,183077,20.21,Mauritius2012,0.772,"11,668,685,524",9884,Generation X
+16508,Mauritius,2012,male,55-74 years,14,90063,15.54,Mauritius2012,0.772,"11,668,685,524",9884,Boomers
+16509,Mauritius,2012,male,75+ years,2,13212,15.14,Mauritius2012,0.772,"11,668,685,524",9884,Silent
+16510,Mauritius,2012,female,15-24 years,10,99697,10.03,Mauritius2012,0.772,"11,668,685,524",9884,Millenials
+16511,Mauritius,2012,male,15-24 years,9,101864,8.84,Mauritius2012,0.772,"11,668,685,524",9884,Millenials
+16512,Mauritius,2012,female,25-34 years,6,99373,6.04,Mauritius2012,0.772,"11,668,685,524",9884,Millenials
+16513,Mauritius,2012,female,75+ years,1,22801,4.39,Mauritius2012,0.772,"11,668,685,524",9884,Silent
+16514,Mauritius,2012,female,35-54 years,5,186881,2.68,Mauritius2012,0.772,"11,668,685,524",9884,Generation X
+16515,Mauritius,2012,female,5-14 years,2,89061,2.25,Mauritius2012,0.772,"11,668,685,524",9884,Generation Z
+16516,Mauritius,2012,female,55-74 years,2,102269,1.96,Mauritius2012,0.772,"11,668,685,524",9884,Boomers
+16517,Mauritius,2012,male,5-14 years,1,92585,1.08,Mauritius2012,0.772,"11,668,685,524",9884,Generation Z
+16518,Mauritius,2013,male,25-34 years,19,91452,20.78,Mauritius2013,0.775,"12,129,642,296",10572,Millenials
+16519,Mauritius,2013,male,35-54 years,33,178200,18.52,Mauritius2013,0.775,"12,129,642,296",10572,Generation X
+16520,Mauritius,2013,male,15-24 years,17,96237,17.66,Mauritius2013,0.775,"12,129,642,296",10572,Millenials
+16521,Mauritius,2013,male,75+ years,2,14627,13.67,Mauritius2013,0.775,"12,129,642,296",10572,Silent
+16522,Mauritius,2013,male,55-74 years,12,95695,12.54,Mauritius2013,0.775,"12,129,642,296",10572,Boomers
+16523,Mauritius,2013,female,15-24 years,8,94321,8.48,Mauritius2013,0.775,"12,129,642,296",10572,Millenials
+16524,Mauritius,2013,female,5-14 years,2,87604,2.28,Mauritius2013,0.775,"12,129,642,296",10572,Generation Z
+16525,Mauritius,2013,female,35-54 years,3,176180,1.7,Mauritius2013,0.775,"12,129,642,296",10572,Generation X
+16526,Mauritius,2013,female,25-34 years,1,89909,1.11,Mauritius2013,0.775,"12,129,642,296",10572,Millenials
+16527,Mauritius,2013,female,55-74 years,1,107634,0.93,Mauritius2013,0.775,"12,129,642,296",10572,Boomers
+16528,Mauritius,2013,female,75+ years,0,24625,0.0,Mauritius2013,0.775,"12,129,642,296",10572,Silent
+16529,Mauritius,2013,male,5-14 years,0,90906,0.0,Mauritius2013,0.775,"12,129,642,296",10572,Generation Z
+16530,Mauritius,2014,male,25-34 years,24,90004,26.67,Mauritius2014,0.777,"12,803,445,934",11120,Millenials
+16531,Mauritius,2014,male,15-24 years,24,96346,24.91,Mauritius2014,0.777,"12,803,445,934",11120,Millenials
+16532,Mauritius,2014,male,35-54 years,41,179164,22.88,Mauritius2014,0.777,"12,803,445,934",11120,Generation X
+16533,Mauritius,2014,female,75+ years,2,25080,7.97,Mauritius2014,0.777,"12,803,445,934",11120,Silent
+16534,Mauritius,2014,female,25-34 years,7,88430,7.92,Mauritius2014,0.777,"12,803,445,934",11120,Millenials
+16535,Mauritius,2014,male,75+ years,1,14983,6.67,Mauritius2014,0.777,"12,803,445,934",11120,Silent
+16536,Mauritius,2014,male,55-74 years,6,99760,6.01,Mauritius2014,0.777,"12,803,445,934",11120,Boomers
+16537,Mauritius,2014,female,35-54 years,7,176494,3.97,Mauritius2014,0.777,"12,803,445,934",11120,Generation X
+16538,Mauritius,2014,female,5-14 years,3,85980,3.49,Mauritius2014,0.777,"12,803,445,934",11120,Generation Z
+16539,Mauritius,2014,female,15-24 years,3,94217,3.18,Mauritius2014,0.777,"12,803,445,934",11120,Millenials
+16540,Mauritius,2014,female,55-74 years,2,112152,1.78,Mauritius2014,0.777,"12,803,445,934",11120,Boomers
+16541,Mauritius,2014,male,5-14 years,0,88814,0.0,Mauritius2014,0.777,"12,803,445,934",11120,Generation Z
+16542,Mauritius,2015,male,35-54 years,37,180202,20.53,Mauritius2015,,"11,692,287,066",10125,Generation X
+16543,Mauritius,2015,male,25-34 years,16,88362,18.11,Mauritius2015,,"11,692,287,066",10125,Millenials
+16544,Mauritius,2015,male,15-24 years,14,96489,14.51,Mauritius2015,,"11,692,287,066",10125,Millenials
+16545,Mauritius,2015,male,75+ years,2,15510,12.89,Mauritius2015,,"11,692,287,066",10125,Silent
+16546,Mauritius,2015,female,25-34 years,10,86613,11.55,Mauritius2015,,"11,692,287,066",10125,Millenials
+16547,Mauritius,2015,male,55-74 years,9,103727,8.68,Mauritius2015,,"11,692,287,066",10125,Boomers
+16548,Mauritius,2015,female,15-24 years,7,94082,7.44,Mauritius2015,,"11,692,287,066",10125,Millenials
+16549,Mauritius,2015,female,55-74 years,4,116373,3.44,Mauritius2015,,"11,692,287,066",10125,Boomers
+16550,Mauritius,2015,female,35-54 years,5,177447,2.82,Mauritius2015,,"11,692,287,066",10125,Generation X
+16551,Mauritius,2015,female,5-14 years,0,83838,0.0,Mauritius2015,,"11,692,287,066",10125,Generation Z
+16552,Mauritius,2015,female,75+ years,0,25820,0.0,Mauritius2015,,"11,692,287,066",10125,Silent
+16553,Mauritius,2015,male,5-14 years,0,86385,0.0,Mauritius2015,,"11,692,287,066",10125,Generation Z
+16554,Mauritius,2016,male,25-34 years,17,87701,19.38,Mauritius2016,,"12,232,463,656",10570,Millenials
+16555,Mauritius,2016,male,75+ years,3,15754,19.04,Mauritius2016,,"12,232,463,656",10570,Silent
+16556,Mauritius,2016,male,15-24 years,18,96372,18.68,Mauritius2016,,"12,232,463,656",10570,Millenials
+16557,Mauritius,2016,male,35-54 years,33,180530,18.28,Mauritius2016,,"12,232,463,656",10570,Generation X
+16558,Mauritius,2016,male,55-74 years,12,107902,11.12,Mauritius2016,,"12,232,463,656",10570,Boomers
+16559,Mauritius,2016,female,15-24 years,4,94001,4.26,Mauritius2016,,"12,232,463,656",10570,Millenials
+16560,Mauritius,2016,female,25-34 years,3,85747,3.5,Mauritius2016,,"12,232,463,656",10570,Millenials
+16561,Mauritius,2016,female,35-54 years,6,177524,3.38,Mauritius2016,,"12,232,463,656",10570,Generation X
+16562,Mauritius,2016,female,55-74 years,2,120603,1.66,Mauritius2016,,"12,232,463,656",10570,Boomers
+16563,Mauritius,2016,female,75+ years,0,26298,0.0,Mauritius2016,,"12,232,463,656",10570,Silent

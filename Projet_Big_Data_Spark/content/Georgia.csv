@@ -1,0 +1,265 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+9446,Georgia,1990,male,75+ years,14,62200,22.51,Georgia1990,,"7,753,501,868",1555,G.I. Generation
+9447,Georgia,1990,male,55-74 years,36,377250,9.54,Georgia1990,,"7,753,501,868",1555,G.I. Generation
+9448,Georgia,1990,male,35-54 years,44,616350,7.14,Georgia1990,,"7,753,501,868",1555,Silent
+9449,Georgia,1990,female,75+ years,8,136200,5.87,Georgia1990,,"7,753,501,868",1555,G.I. Generation
+9450,Georgia,1990,male,25-34 years,23,422400,5.45,Georgia1990,,"7,753,501,868",1555,Boomers
+9451,Georgia,1990,male,15-24 years,23,424000,5.42,Georgia1990,,"7,753,501,868",1555,Generation X
+9452,Georgia,1990,female,55-74 years,18,525250,3.43,Georgia1990,,"7,753,501,868",1555,G.I. Generation
+9453,Georgia,1990,female,35-54 years,22,682450,3.22,Georgia1990,,"7,753,501,868",1555,Silent
+9454,Georgia,1990,female,15-24 years,4,415850,0.96,Georgia1990,,"7,753,501,868",1555,Generation X
+9455,Georgia,1990,female,25-34 years,4,451450,0.89,Georgia1990,,"7,753,501,868",1555,Boomers
+9456,Georgia,1990,female,5-14 years,0,428500,0.0,Georgia1990,,"7,753,501,868",1555,Generation X
+9457,Georgia,1990,male,5-14 years,0,444500,0.0,Georgia1990,,"7,753,501,868",1555,Generation X
+9458,Georgia,1991,male,75+ years,9,62950,14.3,Georgia1991,,"6,357,615,894",1267,G.I. Generation
+9459,Georgia,1991,male,55-74 years,44,382950,11.49,Georgia1991,,"6,357,615,894",1267,Silent
+9460,Georgia,1991,male,35-54 years,38,626000,6.07,Georgia1991,,"6,357,615,894",1267,Boomers
+9461,Georgia,1991,female,75+ years,8,138300,5.78,Georgia1991,,"6,357,615,894",1267,G.I. Generation
+9462,Georgia,1991,male,25-34 years,20,418850,4.77,Georgia1991,,"6,357,615,894",1267,Boomers
+9463,Georgia,1991,female,55-74 years,19,530000,3.58,Georgia1991,,"6,357,615,894",1267,Silent
+9464,Georgia,1991,male,15-24 years,12,425700,2.82,Georgia1991,,"6,357,615,894",1267,Generation X
+9465,Georgia,1991,female,35-54 years,15,695100,2.16,Georgia1991,,"6,357,615,894",1267,Boomers
+9466,Georgia,1991,female,15-24 years,4,418300,0.96,Georgia1991,,"6,357,615,894",1267,Generation X
+9467,Georgia,1991,female,25-34 years,4,447700,0.89,Georgia1991,,"6,357,615,894",1267,Boomers
+9468,Georgia,1991,female,5-14 years,1,428250,0.23,Georgia1991,,"6,357,615,894",1267,Millenials
+9469,Georgia,1991,male,5-14 years,0,444450,0.0,Georgia1991,,"6,357,615,894",1267,Millenials
+9470,Georgia,1992,male,75+ years,10,63000,15.87,Georgia1992,,"3,690,328,964",740,G.I. Generation
+9471,Georgia,1992,male,55-74 years,51,383700,13.29,Georgia1992,,"3,690,328,964",740,Silent
+9472,Georgia,1992,male,35-54 years,46,628000,7.32,Georgia1992,,"3,690,328,964",740,Boomers
+9473,Georgia,1992,male,25-34 years,26,410250,6.34,Georgia1992,,"3,690,328,964",740,Boomers
+9474,Georgia,1992,female,75+ years,6,138750,4.32,Georgia1992,,"3,690,328,964",740,G.I. Generation
+9475,Georgia,1992,male,15-24 years,18,422250,4.26,Georgia1992,,"3,690,328,964",740,Generation X
+9476,Georgia,1992,female,55-74 years,17,528300,3.22,Georgia1992,,"3,690,328,964",740,Silent
+9477,Georgia,1992,female,15-24 years,9,415550,2.17,Georgia1992,,"3,690,328,964",740,Generation X
+9478,Georgia,1992,female,35-54 years,13,699000,1.86,Georgia1992,,"3,690,328,964",740,Boomers
+9479,Georgia,1992,female,25-34 years,8,438250,1.83,Georgia1992,,"3,690,328,964",740,Boomers
+9480,Georgia,1992,female,5-14 years,0,422700,0.0,Georgia1992,,"3,690,328,964",740,Millenials
+9481,Georgia,1992,male,5-14 years,0,438950,0.0,Georgia1992,,"3,690,328,964",740,Millenials
+9482,Georgia,1994,male,55-74 years,38,370200,10.26,Georgia1994,,"2,513,870,587",556,Silent
+9483,Georgia,1994,female,75+ years,7,127950,5.47,Georgia1994,,"2,513,870,587",556,G.I. Generation
+9484,Georgia,1994,male,75+ years,3,57750,5.19,Georgia1994,,"2,513,870,587",556,G.I. Generation
+9485,Georgia,1994,male,15-24 years,15,380700,3.94,Georgia1994,,"2,513,870,587",556,Generation X
+9486,Georgia,1994,male,35-54 years,21,561650,3.74,Georgia1994,,"2,513,870,587",556,Boomers
+9487,Georgia,1994,male,25-34 years,13,360400,3.61,Georgia1994,,"2,513,870,587",556,Boomers
+9488,Georgia,1994,female,55-74 years,13,498750,2.61,Georgia1994,,"2,513,870,587",556,Silent
+9489,Georgia,1994,female,35-54 years,9,630750,1.43,Georgia1994,,"2,513,870,587",556,Boomers
+9490,Georgia,1994,female,15-24 years,2,376100,0.53,Georgia1994,,"2,513,870,587",556,Generation X
+9491,Georgia,1994,female,25-34 years,2,384600,0.52,Georgia1994,,"2,513,870,587",556,Boomers
+9492,Georgia,1994,female,5-14 years,0,377700,0.0,Georgia1994,,"2,513,870,587",556,Millenials
+9493,Georgia,1994,male,5-14 years,0,392350,0.0,Georgia1994,,"2,513,870,587",556,Millenials
+9494,Georgia,1995,male,55-74 years,35,346850,10.09,Georgia1995,,"2,693,731,866",611,Silent
+9495,Georgia,1995,male,75+ years,4,56650,7.06,Georgia1995,,"2,693,731,866",611,G.I. Generation
+9496,Georgia,1995,male,35-54 years,34,570450,5.96,Georgia1995,,"2,693,731,866",611,Boomers
+9497,Georgia,1995,male,25-34 years,18,346300,5.2,Georgia1995,,"2,693,731,866",611,Generation X
+9498,Georgia,1995,male,15-24 years,14,370700,3.78,Georgia1995,,"2,693,731,866",611,Generation X
+9499,Georgia,1995,female,55-74 years,14,470750,2.97,Georgia1995,,"2,693,731,866",611,Silent
+9500,Georgia,1995,female,75+ years,3,126000,2.38,Georgia1995,,"2,693,731,866",611,G.I. Generation
+9501,Georgia,1995,female,35-54 years,9,640250,1.41,Georgia1995,,"2,693,731,866",611,Boomers
+9502,Georgia,1995,female,15-24 years,4,366950,1.09,Georgia1995,,"2,693,731,866",611,Generation X
+9503,Georgia,1995,female,25-34 years,2,369450,0.54,Georgia1995,,"2,693,731,866",611,Generation X
+9504,Georgia,1995,male,5-14 years,1,380400,0.26,Georgia1995,,"2,693,731,866",611,Millenials
+9505,Georgia,1995,female,5-14 years,0,366100,0.0,Georgia1995,,"2,693,731,866",611,Millenials
+9506,Georgia,1996,male,75+ years,9,55600,16.19,Georgia1996,,"3,094,915,506",718,G.I. Generation
+9507,Georgia,1996,male,55-74 years,40,341550,11.71,Georgia1996,,"3,094,915,506",718,Silent
+9508,Georgia,1996,female,75+ years,11,124250,8.85,Georgia1996,,"3,094,915,506",718,G.I. Generation
+9509,Georgia,1996,male,35-54 years,45,562200,8.0,Georgia1996,,"3,094,915,506",718,Boomers
+9510,Georgia,1996,male,25-34 years,20,333150,6.0,Georgia1996,,"3,094,915,506",718,Generation X
+9511,Georgia,1996,female,55-74 years,14,461300,3.03,Georgia1996,,"3,094,915,506",718,Silent
+9512,Georgia,1996,male,15-24 years,9,361400,2.49,Georgia1996,,"3,094,915,506",718,Generation X
+9513,Georgia,1996,female,25-34 years,5,355300,1.41,Georgia1996,,"3,094,915,506",718,Generation X
+9514,Georgia,1996,female,15-24 years,4,358400,1.12,Georgia1996,,"3,094,915,506",718,Generation X
+9515,Georgia,1996,female,35-54 years,4,632650,0.63,Georgia1996,,"3,094,915,506",718,Boomers
+9516,Georgia,1996,male,5-14 years,1,369200,0.27,Georgia1996,,"3,094,915,506",718,Millenials
+9517,Georgia,1996,female,5-14 years,0,355350,0.0,Georgia1996,,"3,094,915,506",718,Millenials
+9518,Georgia,1997,male,75+ years,8,55000,14.55,Georgia1997,,"3,510,540,809",828,G.I. Generation
+9519,Georgia,1997,male,55-74 years,49,338550,14.47,Georgia1997,,"3,510,540,809",828,Silent
+9520,Georgia,1997,male,25-34 years,22,322550,6.82,Georgia1997,,"3,510,540,809",828,Generation X
+9521,Georgia,1997,male,35-54 years,38,557750,6.81,Georgia1997,,"3,510,540,809",828,Boomers
+9522,Georgia,1997,male,15-24 years,22,354700,6.2,Georgia1997,,"3,510,540,809",828,Generation X
+9523,Georgia,1997,female,75+ years,7,123300,5.68,Georgia1997,,"3,510,540,809",828,G.I. Generation
+9524,Georgia,1997,female,55-74 years,12,455100,2.64,Georgia1997,,"3,510,540,809",828,Silent
+9525,Georgia,1997,female,35-54 years,13,629400,2.07,Georgia1997,,"3,510,540,809",828,Boomers
+9526,Georgia,1997,female,15-24 years,2,352400,0.57,Georgia1997,,"3,510,540,809",828,Generation X
+9527,Georgia,1997,male,5-14 years,2,360800,0.55,Georgia1997,,"3,510,540,809",828,Millenials
+9528,Georgia,1997,female,25-34 years,1,343900,0.29,Georgia1997,,"3,510,540,809",828,Generation X
+9529,Georgia,1997,female,5-14 years,0,347150,0.0,Georgia1997,,"3,510,540,809",828,Millenials
+9530,Georgia,1998,male,55-74 years,39,338600,11.52,Georgia1998,,"3,613,500,117",858,Silent
+9531,Georgia,1998,male,75+ years,6,54900,10.93,Georgia1998,,"3,613,500,117",858,G.I. Generation
+9532,Georgia,1998,male,35-54 years,37,558300,6.63,Georgia1998,,"3,613,500,117",858,Boomers
+9533,Georgia,1998,male,15-24 years,21,351300,5.98,Georgia1998,,"3,613,500,117",858,Generation X
+9534,Georgia,1998,male,25-34 years,15,315050,4.76,Georgia1998,,"3,613,500,117",858,Generation X
+9535,Georgia,1998,female,75+ years,5,123400,4.05,Georgia1998,,"3,613,500,117",858,G.I. Generation
+9536,Georgia,1998,female,25-34 years,6,335700,1.79,Georgia1998,,"3,613,500,117",858,Generation X
+9537,Georgia,1998,female,55-74 years,8,452900,1.77,Georgia1998,,"3,613,500,117",858,Silent
+9538,Georgia,1998,female,35-54 years,10,631600,1.58,Georgia1998,,"3,613,500,117",858,Boomers
+9539,Georgia,1998,female,15-24 years,1,349600,0.29,Georgia1998,,"3,613,500,117",858,Generation X
+9540,Georgia,1998,female,5-14 years,0,342150,0.0,Georgia1998,,"3,613,500,117",858,Millenials
+9541,Georgia,1998,male,5-14 years,0,355750,0.0,Georgia1998,,"3,613,500,117",858,Millenials
+9542,Georgia,1999,male,75+ years,10,54950,18.2,Georgia1999,,"2,800,024,314",669,G.I. Generation
+9543,Georgia,1999,male,55-74 years,52,339400,15.32,Georgia1999,,"2,800,024,314",669,Silent
+9544,Georgia,1999,male,25-34 years,37,308400,12.0,Georgia1999,,"2,800,024,314",669,Generation X
+9545,Georgia,1999,male,35-54 years,38,560050,6.79,Georgia1999,,"2,800,024,314",669,Boomers
+9546,Georgia,1999,female,75+ years,7,123800,5.65,Georgia1999,,"2,800,024,314",669,G.I. Generation
+9547,Georgia,1999,female,55-74 years,16,451750,3.54,Georgia1999,,"2,800,024,314",669,Silent
+9548,Georgia,1999,male,15-24 years,10,348700,2.87,Georgia1999,,"2,800,024,314",669,Generation X
+9549,Georgia,1999,female,15-24 years,6,347650,1.73,Georgia1999,,"2,800,024,314",669,Generation X
+9550,Georgia,1999,female,35-54 years,10,635050,1.57,Georgia1999,,"2,800,024,314",669,Boomers
+9551,Georgia,1999,female,25-34 years,3,328400,0.91,Georgia1999,,"2,800,024,314",669,Generation X
+9552,Georgia,1999,female,5-14 years,0,338050,0.0,Georgia1999,,"2,800,024,314",669,Millenials
+9553,Georgia,1999,male,5-14 years,0,351550,0.0,Georgia1999,,"2,800,024,314",669,Millenials
+9554,Georgia,2000,male,75+ years,7,54950,12.74,Georgia2000,0.672,"3,057,453,483",734,G.I. Generation
+9555,Georgia,2000,male,55-74 years,39,340050,11.47,Georgia2000,0.672,"3,057,453,483",734,Silent
+9556,Georgia,2000,male,35-54 years,33,561550,5.88,Georgia2000,0.672,"3,057,453,483",734,Boomers
+9557,Georgia,2000,male,25-34 years,15,301800,4.97,Georgia2000,0.672,"3,057,453,483",734,Generation X
+9558,Georgia,2000,female,75+ years,6,124150,4.83,Georgia2000,0.672,"3,057,453,483",734,G.I. Generation
+9559,Georgia,2000,female,55-74 years,13,450650,2.88,Georgia2000,0.672,"3,057,453,483",734,Silent
+9560,Georgia,2000,male,15-24 years,8,346050,2.31,Georgia2000,0.672,"3,057,453,483",734,Generation X
+9561,Georgia,2000,female,35-54 years,8,638350,1.25,Georgia2000,0.672,"3,057,453,483",734,Boomers
+9562,Georgia,2000,female,25-34 years,1,321150,0.31,Georgia2000,0.672,"3,057,453,483",734,Generation X
+9563,Georgia,2000,female,15-24 years,0,345650,0.0,Georgia2000,0.672,"3,057,453,483",734,Generation X
+9564,Georgia,2000,female,5-14 years,0,333900,0.0,Georgia2000,0.672,"3,057,453,483",734,Millenials
+9565,Georgia,2000,male,5-14 years,0,347350,0.0,Georgia2000,0.672,"3,057,453,483",734,Millenials
+9566,Georgia,2001,male,55-74 years,27,339150,7.96,Georgia2001,,"3,219,487,747",777,Silent
+9567,Georgia,2001,male,75+ years,4,55300,7.23,Georgia2001,,"3,219,487,747",777,Silent
+9568,Georgia,2001,female,75+ years,7,124400,5.63,Georgia2001,,"3,219,487,747",777,Silent
+9569,Georgia,2001,male,35-54 years,23,560300,4.1,Georgia2001,,"3,219,487,747",777,Boomers
+9570,Georgia,2001,male,25-34 years,11,297450,3.7,Georgia2001,,"3,219,487,747",777,Generation X
+9571,Georgia,2001,female,55-74 years,12,448550,2.68,Georgia2001,,"3,219,487,747",777,Silent
+9572,Georgia,2001,male,15-24 years,8,343550,2.33,Georgia2001,,"3,219,487,747",777,Millenials
+9573,Georgia,2001,female,35-54 years,6,637700,0.94,Georgia2001,,"3,219,487,747",777,Boomers
+9574,Georgia,2001,female,25-34 years,1,316400,0.32,Georgia2001,,"3,219,487,747",777,Generation X
+9575,Georgia,2001,female,5-14 years,1,330600,0.3,Georgia2001,,"3,219,487,747",777,Millenials
+9576,Georgia,2001,female,15-24 years,0,343450,0.0,Georgia2001,,"3,219,487,747",777,Millenials
+9577,Georgia,2001,male,5-14 years,0,344100,0.0,Georgia2001,,"3,219,487,747",777,Millenials
+9578,Georgia,2004,male,75+ years,17,68300,24.89,Georgia2004,,"5,125,363,001",1253,Silent
+9579,Georgia,2004,male,35-54 years,56,554550,10.1,Georgia2004,,"5,125,363,001",1253,Boomers
+9580,Georgia,2004,male,25-34 years,29,296000,9.8,Georgia2004,,"5,125,363,001",1253,Generation X
+9581,Georgia,2004,male,55-74 years,28,329400,8.5,Georgia2004,,"5,125,363,001",1253,Silent
+9582,Georgia,2004,male,15-24 years,13,349250,3.72,Georgia2004,,"5,125,363,001",1253,Millenials
+9583,Georgia,2004,female,75+ years,3,139900,2.14,Georgia2004,,"5,125,363,001",1253,Silent
+9584,Georgia,2004,female,55-74 years,7,436650,1.6,Georgia2004,,"5,125,363,001",1253,Silent
+9585,Georgia,2004,female,25-34 years,4,314250,1.27,Georgia2004,,"5,125,363,001",1253,Generation X
+9586,Georgia,2004,male,5-14 years,4,316700,1.26,Georgia2004,,"5,125,363,001",1253,Millenials
+9587,Georgia,2004,female,15-24 years,4,346000,1.16,Georgia2004,,"5,125,363,001",1253,Millenials
+9588,Georgia,2004,female,35-54 years,7,638600,1.1,Georgia2004,,"5,125,363,001",1253,Boomers
+9589,Georgia,2004,female,5-14 years,3,300250,1.0,Georgia2004,,"5,125,363,001",1253,Millenials
+9590,Georgia,2005,male,75+ years,5,73700,6.78,Georgia2005,0.711,"6,410,852,596",1552,Silent
+9591,Georgia,2005,male,35-54 years,29,565100,5.13,Georgia2005,0.711,"6,410,852,596",1552,Boomers
+9592,Georgia,2005,male,55-74 years,15,331700,4.52,Georgia2005,0.711,"6,410,852,596",1552,Silent
+9593,Georgia,2005,male,25-34 years,13,305450,4.26,Georgia2005,0.711,"6,410,852,596",1552,Generation X
+9594,Georgia,2005,female,25-34 years,7,319300,2.19,Georgia2005,0.711,"6,410,852,596",1552,Generation X
+9595,Georgia,2005,male,15-24 years,5,358200,1.4,Georgia2005,0.711,"6,410,852,596",1552,Millenials
+9596,Georgia,2005,female,75+ years,2,147450,1.36,Georgia2005,0.711,"6,410,852,596",1552,Silent
+9597,Georgia,2005,female,55-74 years,4,439250,0.91,Georgia2005,0.711,"6,410,852,596",1552,Silent
+9598,Georgia,2005,female,15-24 years,3,352750,0.85,Georgia2005,0.711,"6,410,852,596",1552,Millenials
+9599,Georgia,2005,male,5-14 years,2,305450,0.65,Georgia2005,0.711,"6,410,852,596",1552,Millenials
+9600,Georgia,2005,female,35-54 years,2,646500,0.31,Georgia2005,0.711,"6,410,852,596",1552,Boomers
+9601,Georgia,2005,female,5-14 years,0,287150,0.0,Georgia2005,0.711,"6,410,852,596",1552,Millenials
+9602,Georgia,2006,male,75+ years,4,79200,5.05,Georgia2006,,"7,745,406,201",1859,Silent
+9603,Georgia,2006,male,55-74 years,16,335050,4.78,Georgia2006,,"7,745,406,201",1859,Silent
+9604,Georgia,2006,male,25-34 years,13,313300,4.15,Georgia2006,,"7,745,406,201",1859,Generation X
+9605,Georgia,2006,male,35-54 years,18,574450,3.13,Georgia2006,,"7,745,406,201",1859,Boomers
+9606,Georgia,2006,male,15-24 years,7,366350,1.91,Georgia2006,,"7,745,406,201",1859,Millenials
+9607,Georgia,2006,female,75+ years,2,155050,1.29,Georgia2006,,"7,745,406,201",1859,Silent
+9608,Georgia,2006,female,55-74 years,5,443850,1.13,Georgia2006,,"7,745,406,201",1859,Silent
+9609,Georgia,2006,female,25-34 years,3,323850,0.93,Georgia2006,,"7,745,406,201",1859,Generation X
+9610,Georgia,2006,female,5-14 years,1,271600,0.37,Georgia2006,,"7,745,406,201",1859,Millenials
+9611,Georgia,2006,male,5-14 years,1,291400,0.34,Georgia2006,,"7,745,406,201",1859,Millenials
+9612,Georgia,2006,female,15-24 years,1,359100,0.28,Georgia2006,,"7,745,406,201",1859,Millenials
+9613,Georgia,2006,female,35-54 years,1,653300,0.15,Georgia2006,,"7,745,406,201",1859,Boomers
+9614,Georgia,2007,male,75+ years,10,83450,11.98,Georgia2007,,"10,172,869,680",2448,Silent
+9615,Georgia,2007,male,55-74 years,24,337200,7.12,Georgia2007,,"10,172,869,680",2448,Silent
+9616,Georgia,2007,male,35-54 years,29,573900,5.05,Georgia2007,,"10,172,869,680",2448,Boomers
+9617,Georgia,2007,male,25-34 years,14,315700,4.43,Georgia2007,,"10,172,869,680",2448,Generation X
+9618,Georgia,2007,female,75+ years,5,161000,3.11,Georgia2007,,"10,172,869,680",2448,Silent
+9619,Georgia,2007,male,15-24 years,7,367900,1.9,Georgia2007,,"10,172,869,680",2448,Millenials
+9620,Georgia,2007,female,55-74 years,6,447350,1.34,Georgia2007,,"10,172,869,680",2448,Silent
+9621,Georgia,2007,female,35-54 years,7,651500,1.07,Georgia2007,,"10,172,869,680",2448,Boomers
+9622,Georgia,2007,female,25-34 years,1,323950,0.31,Georgia2007,,"10,172,869,680",2448,Generation X
+9623,Georgia,2007,female,15-24 years,1,359400,0.28,Georgia2007,,"10,172,869,680",2448,Millenials
+9624,Georgia,2007,female,5-14 years,0,255950,0.0,Georgia2007,,"10,172,869,680",2448,Generation Z
+9625,Georgia,2007,male,5-14 years,0,277600,0.0,Georgia2007,,"10,172,869,680",2448,Generation Z
+9626,Georgia,2009,male,75+ years,18,90600,19.87,Georgia2009,,"10,766,809,099",2589,Silent
+9627,Georgia,2009,male,55-74 years,36,343050,10.49,Georgia2009,,"10,766,809,099",2589,Silent
+9628,Georgia,2009,male,35-54 years,48,579150,8.29,Georgia2009,,"10,766,809,099",2589,Boomers
+9629,Georgia,2009,male,25-34 years,24,324500,7.4,Georgia2009,,"10,766,809,099",2589,Generation X
+9630,Georgia,2009,female,75+ years,10,172650,5.79,Georgia2009,,"10,766,809,099",2589,Silent
+9631,Georgia,2009,male,15-24 years,20,360500,5.55,Georgia2009,,"10,766,809,099",2589,Millenials
+9632,Georgia,2009,female,55-74 years,15,456000,3.29,Georgia2009,,"10,766,809,099",2589,Silent
+9633,Georgia,2009,female,15-24 years,4,350000,1.14,Georgia2009,,"10,766,809,099",2589,Millenials
+9634,Georgia,2009,male,5-14 years,3,262650,1.14,Georgia2009,,"10,766,809,099",2589,Generation Z
+9635,Georgia,2009,female,35-54 years,7,652950,1.07,Georgia2009,,"10,766,809,099",2589,Boomers
+9636,Georgia,2009,female,25-34 years,2,328450,0.61,Georgia2009,,"10,766,809,099",2589,Generation X
+9637,Georgia,2009,female,5-14 years,1,238250,0.42,Georgia2009,,"10,766,809,099",2589,Generation Z
+9638,Georgia,2010,male,55-74 years,32,350500,9.13,Georgia2010,0.735,"11,638,536,834",2775,Silent
+9639,Georgia,2010,male,75+ years,7,96900,7.22,Georgia2010,0.735,"11,638,536,834",2775,Silent
+9640,Georgia,2010,male,35-54 years,29,590800,4.91,Georgia2010,0.735,"11,638,536,834",2775,Generation X
+9641,Georgia,2010,male,25-34 years,16,337200,4.74,Georgia2010,0.735,"11,638,536,834",2775,Generation X
+9642,Georgia,2010,male,15-24 years,11,351600,3.13,Georgia2010,0.735,"11,638,536,834",2775,Millenials
+9643,Georgia,2010,female,75+ years,5,180900,2.76,Georgia2010,0.735,"11,638,536,834",2775,Silent
+9644,Georgia,2010,female,55-74 years,6,465100,1.29,Georgia2010,0.735,"11,638,536,834",2775,Silent
+9645,Georgia,2010,female,35-54 years,5,660000,0.76,Georgia2010,0.735,"11,638,536,834",2775,Generation X
+9646,Georgia,2010,male,5-14 years,1,254800,0.39,Georgia2010,0.735,"11,638,536,834",2775,Generation Z
+9647,Georgia,2010,female,15-24 years,0,338800,0.0,Georgia2010,0.735,"11,638,536,834",2775,Millenials
+9648,Georgia,2010,female,25-34 years,0,338000,0.0,Georgia2010,0.735,"11,638,536,834",2775,Generation X
+9649,Georgia,2010,female,5-14 years,0,229200,0.0,Georgia2010,0.735,"11,638,536,834",2775,Generation Z
+9650,Georgia,2011,male,75+ years,16,99100,16.15,Georgia2011,0.74,"14,434,619,982",3435,Silent
+9651,Georgia,2011,male,55-74 years,23,352600,6.52,Georgia2011,0.74,"14,434,619,982",3435,Boomers
+9652,Georgia,2011,male,35-54 years,25,593700,4.21,Georgia2011,0.74,"14,434,619,982",3435,Generation X
+9653,Georgia,2011,male,15-24 years,12,348400,3.44,Georgia2011,0.74,"14,434,619,982",3435,Millenials
+9654,Georgia,2011,male,25-34 years,8,341000,2.35,Georgia2011,0.74,"14,434,619,982",3435,Millenials
+9655,Georgia,2011,female,35-54 years,6,661400,0.91,Georgia2011,0.74,"14,434,619,982",3435,Generation X
+9656,Georgia,2011,female,55-74 years,4,467400,0.86,Georgia2011,0.74,"14,434,619,982",3435,Boomers
+9657,Georgia,2011,female,25-34 years,2,340800,0.59,Georgia2011,0.74,"14,434,619,982",3435,Millenials
+9658,Georgia,2011,female,75+ years,1,184100,0.54,Georgia2011,0.74,"14,434,619,982",3435,Silent
+9659,Georgia,2011,female,5-14 years,1,226900,0.44,Georgia2011,0.74,"14,434,619,982",3435,Generation Z
+9660,Georgia,2011,female,15-24 years,1,334600,0.3,Georgia2011,0.74,"14,434,619,982",3435,Millenials
+9661,Georgia,2011,male,5-14 years,0,252600,0.0,Georgia2011,0.74,"14,434,619,982",3435,Generation Z
+9662,Georgia,2012,male,75+ years,12,104500,11.48,Georgia2012,0.747,"15,846,474,596",3772,Silent
+9663,Georgia,2012,male,55-74 years,23,355000,6.48,Georgia2012,0.747,"15,846,474,596",3772,Boomers
+9664,Georgia,2012,male,25-34 years,19,345900,5.49,Georgia2012,0.747,"15,846,474,596",3772,Millenials
+9665,Georgia,2012,male,35-54 years,26,596400,4.36,Georgia2012,0.747,"15,846,474,596",3772,Generation X
+9666,Georgia,2012,male,15-24 years,11,337800,3.26,Georgia2012,0.747,"15,846,474,596",3772,Millenials
+9667,Georgia,2012,female,75+ years,2,191900,1.04,Georgia2012,0.747,"15,846,474,596",3772,Silent
+9668,Georgia,2012,female,15-24 years,3,324000,0.93,Georgia2012,0.747,"15,846,474,596",3772,Millenials
+9669,Georgia,2012,female,55-74 years,3,469400,0.64,Georgia2012,0.747,"15,846,474,596",3772,Boomers
+9670,Georgia,2012,female,35-54 years,3,659300,0.46,Georgia2012,0.747,"15,846,474,596",3772,Generation X
+9671,Georgia,2012,female,5-14 years,1,223200,0.45,Georgia2012,0.747,"15,846,474,596",3772,Generation Z
+9672,Georgia,2012,female,25-34 years,1,344400,0.29,Georgia2012,0.747,"15,846,474,596",3772,Millenials
+9673,Georgia,2012,male,5-14 years,0,249100,0.0,Georgia2012,0.747,"15,846,474,596",3772,Generation Z
+9674,Georgia,2013,male,75+ years,25,109700,22.79,Georgia2013,0.75,"16,140,047,012",3850,Silent
+9675,Georgia,2013,male,55-74 years,33,358600,9.2,Georgia2013,0.75,"16,140,047,012",3850,Boomers
+9676,Georgia,2013,male,35-54 years,41,594900,6.89,Georgia2013,0.75,"16,140,047,012",3850,Generation X
+9677,Georgia,2013,male,25-34 years,20,348000,5.75,Georgia2013,0.75,"16,140,047,012",3850,Millenials
+9678,Georgia,2013,male,15-24 years,13,325300,4.0,Georgia2013,0.75,"16,140,047,012",3850,Millenials
+9679,Georgia,2013,female,75+ years,4,201000,1.99,Georgia2013,0.75,"16,140,047,012",3850,Silent
+9680,Georgia,2013,female,55-74 years,8,471700,1.7,Georgia2013,0.75,"16,140,047,012",3850,Boomers
+9681,Georgia,2013,female,35-54 years,7,655700,1.07,Georgia2013,0.75,"16,140,047,012",3850,Generation X
+9682,Georgia,2013,male,5-14 years,2,249800,0.8,Georgia2013,0.75,"16,140,047,012",3850,Generation Z
+9683,Georgia,2013,female,15-24 years,2,310500,0.64,Georgia2013,0.75,"16,140,047,012",3850,Millenials
+9684,Georgia,2013,female,5-14 years,1,221800,0.45,Georgia2013,0.75,"16,140,047,012",3850,Generation Z
+9685,Georgia,2013,female,25-34 years,1,345600,0.29,Georgia2013,0.75,"16,140,047,012",3850,Millenials
+9686,Georgia,2014,male,75+ years,22,92600,23.76,Georgia2014,0.754,"16,509,305,828",4757,Silent
+9687,Georgia,2014,male,55-74 years,58,298900,19.4,Georgia2014,0.754,"16,509,305,828",4757,Boomers
+9688,Georgia,2014,male,35-54 years,53,491300,10.79,Georgia2014,0.754,"16,509,305,828",4757,Generation X
+9689,Georgia,2014,female,55-74 years,18,392200,4.59,Georgia2014,0.754,"16,509,305,828",4757,Boomers
+9690,Georgia,2014,male,15-24 years,12,264500,4.54,Georgia2014,0.754,"16,509,305,828",4757,Millenials
+9691,Georgia,2014,male,25-34 years,13,288500,4.51,Georgia2014,0.754,"16,509,305,828",4757,Millenials
+9692,Georgia,2014,female,75+ years,5,169900,2.94,Georgia2014,0.754,"16,509,305,828",4757,Silent
+9693,Georgia,2014,female,15-24 years,5,251400,1.99,Georgia2014,0.754,"16,509,305,828",4757,Millenials
+9694,Georgia,2014,female,25-34 years,3,286500,1.05,Georgia2014,0.754,"16,509,305,828",4757,Millenials
+9695,Georgia,2014,female,35-54 years,5,542700,0.92,Georgia2014,0.754,"16,509,305,828",4757,Generation X
+9696,Georgia,2014,female,5-14 years,0,183700,0.0,Georgia2014,0.754,"16,509,305,828",4757,Generation Z
+9697,Georgia,2014,male,5-14 years,0,208400,0.0,Georgia2014,0.754,"16,509,305,828",4757,Generation Z
+9698,Georgia,2015,male,75+ years,27,87600,30.82,Georgia2015,,"13,993,546,732",4046,Silent
+9699,Georgia,2015,female,75+ years,20,166300,12.03,Georgia2015,,"13,993,546,732",4046,Silent
+9700,Georgia,2015,male,55-74 years,34,320200,10.62,Georgia2015,,"13,993,546,732",4046,Boomers
+9701,Georgia,2015,male,35-54 years,46,480200,9.58,Georgia2015,,"13,993,546,732",4046,Generation X
+9702,Georgia,2015,male,25-34 years,19,271700,6.99,Georgia2015,,"13,993,546,732",4046,Millenials
+9703,Georgia,2015,male,15-24 years,17,247800,6.86,Georgia2015,,"13,993,546,732",4046,Millenials
+9704,Georgia,2015,female,55-74 years,13,420700,3.09,Georgia2015,,"13,993,546,732",4046,Boomers
+9705,Georgia,2015,female,25-34 years,5,272100,1.84,Georgia2015,,"13,993,546,732",4046,Millenials
+9706,Georgia,2015,female,35-54 years,8,517700,1.55,Georgia2015,,"13,993,546,732",4046,Generation X
+9707,Georgia,2015,female,15-24 years,2,230200,0.87,Georgia2015,,"13,993,546,732",4046,Millenials
+9708,Georgia,2015,male,5-14 years,1,234300,0.43,Georgia2015,,"13,993,546,732",4046,Generation Z
+9709,Georgia,2015,female,5-14 years,0,209600,0.0,Georgia2015,,"13,993,546,732",4046,Generation Z

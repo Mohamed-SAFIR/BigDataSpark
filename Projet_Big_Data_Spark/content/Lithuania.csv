@@ -1,0 +1,263 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+15044,Lithuania,1995,male,35-54 years,632,436306,144.85,Lithuania1995,0.701,"7,870,782,261",2324,Boomers
+15045,Lithuania,1995,male,75+ years,67,47214,141.91,Lithuania1995,0.701,"7,870,782,261",2324,G.I. Generation
+15046,Lithuania,1995,male,55-74 years,325,274196,118.53,Lithuania1995,0.701,"7,870,782,261",2324,Silent
+15047,Lithuania,1995,male,25-34 years,226,284758,79.37,Lithuania1995,0.701,"7,870,782,261",2324,Generation X
+15048,Lithuania,1995,male,15-24 years,134,263792,50.8,Lithuania1995,0.701,"7,870,782,261",2324,Generation X
+15049,Lithuania,1995,female,75+ years,37,109609,33.76,Lithuania1995,0.701,"7,870,782,261",2324,G.I. Generation
+15050,Lithuania,1995,female,55-74 years,101,408926,24.7,Lithuania1995,0.701,"7,870,782,261",2324,Silent
+15051,Lithuania,1995,female,35-54 years,113,481445,23.47,Lithuania1995,0.701,"7,870,782,261",2324,Boomers
+15052,Lithuania,1995,female,25-34 years,33,276055,11.95,Lithuania1995,0.701,"7,870,782,261",2324,Generation X
+15053,Lithuania,1995,female,15-24 years,20,256623,7.79,Lithuania1995,0.701,"7,870,782,261",2324,Generation X
+15054,Lithuania,1995,male,5-14 years,4,279260,1.43,Lithuania1995,0.701,"7,870,782,261",2324,Millenials
+15055,Lithuania,1995,female,5-14 years,2,268965,0.74,Lithuania1995,0.701,"7,870,782,261",2324,Millenials
+15056,Lithuania,1996,male,35-54 years,664,438770,151.33,Lithuania1996,,"8,385,109,020",2484,Boomers
+15057,Lithuania,1996,male,55-74 years,336,275843,121.81,Lithuania1996,,"8,385,109,020",2484,Silent
+15058,Lithuania,1996,male,75+ years,40,47319,84.53,Lithuania1996,,"8,385,109,020",2484,G.I. Generation
+15059,Lithuania,1996,male,25-34 years,196,278848,70.29,Lithuania1996,,"8,385,109,020",2484,Generation X
+15060,Lithuania,1996,male,15-24 years,147,257675,57.05,Lithuania1996,,"8,385,109,020",2484,Generation X
+15061,Lithuania,1996,female,75+ years,39,110913,35.16,Lithuania1996,,"8,385,109,020",2484,G.I. Generation
+15062,Lithuania,1996,female,55-74 years,118,410808,28.72,Lithuania1996,,"8,385,109,020",2484,Silent
+15063,Lithuania,1996,female,35-54 years,129,484132,26.65,Lithuania1996,,"8,385,109,020",2484,Boomers
+15064,Lithuania,1996,female,25-34 years,27,271013,9.96,Lithuania1996,,"8,385,109,020",2484,Generation X
+15065,Lithuania,1996,female,15-24 years,20,251718,7.95,Lithuania1996,,"8,385,109,020",2484,Generation X
+15066,Lithuania,1996,male,5-14 years,5,279323,1.79,Lithuania1996,,"8,385,109,020",2484,Millenials
+15067,Lithuania,1996,female,5-14 years,1,268801,0.37,Lithuania1996,,"8,385,109,020",2484,Millenials
+15068,Lithuania,1997,male,35-54 years,637,440546,144.59,Lithuania1997,,"10,120,274,493",3008,Boomers
+15069,Lithuania,1997,male,55-74 years,294,277983,105.76,Lithuania1997,,"10,120,274,493",3008,Silent
+15070,Lithuania,1997,male,25-34 years,231,272292,84.84,Lithuania1997,,"10,120,274,493",3008,Generation X
+15071,Lithuania,1997,male,75+ years,39,47892,81.43,Lithuania1997,,"10,120,274,493",3008,G.I. Generation
+15072,Lithuania,1997,male,15-24 years,144,252818,56.96,Lithuania1997,,"10,120,274,493",3008,Generation X
+15073,Lithuania,1997,female,75+ years,29,113485,25.55,Lithuania1997,,"10,120,274,493",3008,G.I. Generation
+15074,Lithuania,1997,female,55-74 years,94,412839,22.77,Lithuania1997,,"10,120,274,493",3008,Silent
+15075,Lithuania,1997,female,35-54 years,109,485204,22.46,Lithuania1997,,"10,120,274,493",3008,Boomers
+15076,Lithuania,1997,female,25-34 years,31,266372,11.64,Lithuania1997,,"10,120,274,493",3008,Generation X
+15077,Lithuania,1997,female,15-24 years,17,247246,6.88,Lithuania1997,,"10,120,274,493",3008,Generation X
+15078,Lithuania,1997,female,5-14 years,4,268373,1.49,Lithuania1997,,"10,120,274,493",3008,Millenials
+15079,Lithuania,1997,male,5-14 years,3,279223,1.07,Lithuania1997,,"10,120,274,493",3008,Millenials
+15080,Lithuania,1998,male,35-54 years,557,442825,125.78,Lithuania1998,,"11,240,360,898",3354,Boomers
+15081,Lithuania,1998,male,55-74 years,345,278617,123.83,Lithuania1998,,"11,240,360,898",3354,Silent
+15082,Lithuania,1998,male,75+ years,47,49012,95.89,Lithuania1998,,"11,240,360,898",3354,G.I. Generation
+15083,Lithuania,1998,male,25-34 years,222,265304,83.68,Lithuania1998,,"11,240,360,898",3354,Generation X
+15084,Lithuania,1998,male,15-24 years,112,250687,44.68,Lithuania1998,,"11,240,360,898",3354,Generation X
+15085,Lithuania,1998,female,75+ years,40,117165,34.14,Lithuania1998,,"11,240,360,898",3354,G.I. Generation
+15086,Lithuania,1998,female,35-54 years,107,486222,22.01,Lithuania1998,,"11,240,360,898",3354,Boomers
+15087,Lithuania,1998,female,55-74 years,80,412652,19.39,Lithuania1998,,"11,240,360,898",3354,Silent
+15088,Lithuania,1998,female,15-24 years,22,244923,8.98,Lithuania1998,,"11,240,360,898",3354,Generation X
+15089,Lithuania,1998,female,25-34 years,18,261722,6.88,Lithuania1998,,"11,240,360,898",3354,Generation X
+15090,Lithuania,1998,male,5-14 years,2,276408,0.72,Lithuania1998,,"11,240,360,898",3354,Millenials
+15091,Lithuania,1998,female,5-14 years,1,265436,0.38,Lithuania1998,,"11,240,360,898",3354,Millenials
+15092,Lithuania,1999,male,35-54 years,592,446764,132.51,Lithuania1999,,"10,972,878,636",3292,Boomers
+15093,Lithuania,1999,male,55-74 years,284,277228,102.44,Lithuania1999,,"10,972,878,636",3292,Silent
+15094,Lithuania,1999,male,75+ years,48,50173,95.67,Lithuania1999,,"10,972,878,636",3292,G.I. Generation
+15095,Lithuania,1999,male,25-34 years,224,257244,87.08,Lithuania1999,,"10,972,878,636",3292,Generation X
+15096,Lithuania,1999,male,15-24 years,129,251394,51.31,Lithuania1999,,"10,972,878,636",3292,Generation X
+15097,Lithuania,1999,female,75+ years,37,121573,30.43,Lithuania1999,,"10,972,878,636",3292,G.I. Generation
+15098,Lithuania,1999,female,55-74 years,84,409039,20.54,Lithuania1999,,"10,972,878,636",3292,Silent
+15099,Lithuania,1999,female,35-54 years,97,489403,19.82,Lithuania1999,,"10,972,878,636",3292,Boomers
+15100,Lithuania,1999,female,15-24 years,24,244706,9.81,Lithuania1999,,"10,972,878,636",3292,Generation X
+15101,Lithuania,1999,female,25-34 years,22,256587,8.57,Lithuania1999,,"10,972,878,636",3292,Generation X
+15102,Lithuania,1999,male,5-14 years,8,270111,2.96,Lithuania1999,,"10,972,878,636",3292,Millenials
+15103,Lithuania,1999,female,5-14 years,1,259230,0.39,Lithuania1999,,"10,972,878,636",3292,Millenials
+15104,Lithuania,2000,male,35-54 years,595,451103,131.9,Lithuania2000,0.754,"11,539,211,480",3481,Boomers
+15105,Lithuania,2000,male,55-74 years,324,276055,117.37,Lithuania2000,0.754,"11,539,211,480",3481,Silent
+15106,Lithuania,2000,male,25-34 years,221,249865,88.45,Lithuania2000,0.754,"11,539,211,480",3481,Generation X
+15107,Lithuania,2000,male,75+ years,40,50557,79.12,Lithuania2000,0.754,"11,539,211,480",3481,G.I. Generation
+15108,Lithuania,2000,male,15-24 years,131,252489,51.88,Lithuania2000,0.754,"11,539,211,480",3481,Generation X
+15109,Lithuania,2000,female,75+ years,36,124608,28.89,Lithuania2000,0.754,"11,539,211,480",3481,G.I. Generation
+15110,Lithuania,2000,female,55-74 years,101,405061,24.93,Lithuania2000,0.754,"11,539,211,480",3481,Silent
+15111,Lithuania,2000,female,35-54 years,121,493992,24.49,Lithuania2000,0.754,"11,539,211,480",3481,Boomers
+15112,Lithuania,2000,female,25-34 years,31,252324,12.29,Lithuania2000,0.754,"11,539,211,480",3481,Generation X
+15113,Lithuania,2000,female,15-24 years,25,245035,10.2,Lithuania2000,0.754,"11,539,211,480",3481,Generation X
+15114,Lithuania,2000,male,5-14 years,6,262637,2.28,Lithuania2000,0.754,"11,539,211,480",3481,Millenials
+15115,Lithuania,2000,female,5-14 years,0,251399,0.0,Lithuania2000,0.754,"11,539,211,480",3481,Millenials
+15116,Lithuania,2001,male,35-54 years,559,453841,123.17,Lithuania2001,,"12,252,498,921",3719,Boomers
+15117,Lithuania,2001,male,55-74 years,322,276422,116.49,Lithuania2001,,"12,252,498,921",3719,Silent
+15118,Lithuania,2001,male,75+ years,57,51713,110.22,Lithuania2001,,"12,252,498,921",3719,Silent
+15119,Lithuania,2001,male,25-34 years,190,243174,78.13,Lithuania2001,,"12,252,498,921",3719,Generation X
+15120,Lithuania,2001,male,15-24 years,119,253439,46.95,Lithuania2001,,"12,252,498,921",3719,Millenials
+15121,Lithuania,2001,female,75+ years,40,128791,31.06,Lithuania2001,,"12,252,498,921",3719,Silent
+15122,Lithuania,2001,female,35-54 years,113,496684,22.75,Lithuania2001,,"12,252,498,921",3719,Boomers
+15123,Lithuania,2001,female,55-74 years,87,402028,21.64,Lithuania2001,,"12,252,498,921",3719,Silent
+15124,Lithuania,2001,female,25-34 years,19,247712,7.67,Lithuania2001,,"12,252,498,921",3719,Generation X
+15125,Lithuania,2001,female,15-24 years,18,245848,7.32,Lithuania2001,,"12,252,498,921",3719,Millenials
+15126,Lithuania,2001,male,5-14 years,8,252622,3.17,Lithuania2001,,"12,252,498,921",3719,Millenials
+15127,Lithuania,2001,female,5-14 years,1,241864,0.41,Lithuania2001,,"12,252,498,921",3719,Millenials
+15128,Lithuania,2002,male,35-54 years,613,456468,134.29,Lithuania2002,,"14,278,357,284",4360,Boomers
+15129,Lithuania,2002,male,55-74 years,285,275961,103.28,Lithuania2002,,"14,278,357,284",4360,Silent
+15130,Lithuania,2002,male,75+ years,47,54325,86.52,Lithuania2002,,"14,278,357,284",4360,Silent
+15131,Lithuania,2002,male,25-34 years,204,237814,85.78,Lithuania2002,,"14,278,357,284",4360,Generation X
+15132,Lithuania,2002,male,15-24 years,156,255044,61.17,Lithuania2002,,"14,278,357,284",4360,Millenials
+15133,Lithuania,2002,female,75+ years,39,135785,28.72,Lithuania2002,,"14,278,357,284",4360,Silent
+15134,Lithuania,2002,female,55-74 years,85,399066,21.3,Lithuania2002,,"14,278,357,284",4360,Silent
+15135,Lithuania,2002,female,35-54 years,74,498421,14.85,Lithuania2002,,"14,278,357,284",4360,Boomers
+15136,Lithuania,2002,female,25-34 years,28,242244,11.56,Lithuania2002,,"14,278,357,284",4360,Generation X
+15137,Lithuania,2002,female,15-24 years,15,247514,6.06,Lithuania2002,,"14,278,357,284",4360,Millenials
+15138,Lithuania,2002,male,5-14 years,4,240849,1.66,Lithuania2002,,"14,278,357,284",4360,Millenials
+15139,Lithuania,2002,female,5-14 years,1,230997,0.43,Lithuania2002,,"14,278,357,284",4360,Millenials
+15140,Lithuania,2003,male,35-54 years,529,458658,115.34,Lithuania2003,,"18,802,576,988",5778,Boomers
+15141,Lithuania,2003,male,55-74 years,288,274066,105.08,Lithuania2003,,"18,802,576,988",5778,Silent
+15142,Lithuania,2003,male,75+ years,53,57169,92.71,Lithuania2003,,"18,802,576,988",5778,Silent
+15143,Lithuania,2003,male,25-34 years,205,233362,87.85,Lithuania2003,,"18,802,576,988",5778,Generation X
+15144,Lithuania,2003,male,15-24 years,122,255707,47.71,Lithuania2003,,"18,802,576,988",5778,Millenials
+15145,Lithuania,2003,female,75+ years,36,143383,25.11,Lithuania2003,,"18,802,576,988",5778,Silent
+15146,Lithuania,2003,female,35-54 years,111,499080,22.24,Lithuania2003,,"18,802,576,988",5778,Boomers
+15147,Lithuania,2003,female,55-74 years,72,396850,18.14,Lithuania2003,,"18,802,576,988",5778,Silent
+15148,Lithuania,2003,female,25-34 years,24,237053,10.12,Lithuania2003,,"18,802,576,988",5778,Generation X
+15149,Lithuania,2003,female,15-24 years,11,247710,4.44,Lithuania2003,,"18,802,576,988",5778,Millenials
+15150,Lithuania,2003,female,5-14 years,2,220424,0.91,Lithuania2003,,"18,802,576,988",5778,Millenials
+15151,Lithuania,2003,male,5-14 years,2,230665,0.87,Lithuania2003,,"18,802,576,988",5778,Millenials
+15152,Lithuania,2004,male,35-54 years,491,457735,107.27,Lithuania2004,,"22,649,930,576",7028,Boomers
+15153,Lithuania,2004,male,55-74 years,271,272871,99.31,Lithuania2004,,"22,649,930,576",7028,Silent
+15154,Lithuania,2004,male,25-34 years,193,227897,84.69,Lithuania2004,,"22,649,930,576",7028,Generation X
+15155,Lithuania,2004,male,75+ years,48,60017,79.98,Lithuania2004,,"22,649,930,576",7028,Silent
+15156,Lithuania,2004,male,15-24 years,115,254022,45.27,Lithuania2004,,"22,649,930,576",7028,Millenials
+15157,Lithuania,2004,female,75+ years,41,150000,27.33,Lithuania2004,,"22,649,930,576",7028,Silent
+15158,Lithuania,2004,female,35-54 years,98,496461,19.74,Lithuania2004,,"22,649,930,576",7028,Boomers
+15159,Lithuania,2004,female,55-74 years,73,395331,18.47,Lithuania2004,,"22,649,930,576",7028,Silent
+15160,Lithuania,2004,female,25-34 years,24,231241,10.38,Lithuania2004,,"22,649,930,576",7028,Generation X
+15161,Lithuania,2004,female,15-24 years,19,245226,7.75,Lithuania2004,,"22,649,930,576",7028,Millenials
+15162,Lithuania,2004,male,5-14 years,6,221380,2.71,Lithuania2004,,"22,649,930,576",7028,Millenials
+15163,Lithuania,2004,female,5-14 years,1,210788,0.47,Lithuania2004,,"22,649,930,576",7028,Millenials
+15164,Lithuania,2005,male,55-74 years,289,271641,106.39,Lithuania2005,0.8059999999999999,"26,125,575,942",8229,Silent
+15165,Lithuania,2005,male,35-54 years,469,453800,103.35,Lithuania2005,0.8059999999999999,"26,125,575,942",8229,Boomers
+15166,Lithuania,2005,male,75+ years,52,62849,82.74,Lithuania2005,0.8059999999999999,"26,125,575,942",8229,Silent
+15167,Lithuania,2005,male,25-34 years,172,221170,77.77,Lithuania2005,0.8059999999999999,"26,125,575,942",8229,Generation X
+15168,Lithuania,2005,male,15-24 years,100,249053,40.15,Lithuania2005,0.8059999999999999,"26,125,575,942",8229,Millenials
+15169,Lithuania,2005,female,75+ years,34,154994,21.94,Lithuania2005,0.8059999999999999,"26,125,575,942",8229,Silent
+15170,Lithuania,2005,female,55-74 years,86,393282,21.87,Lithuania2005,0.8059999999999999,"26,125,575,942",8229,Silent
+15171,Lithuania,2005,female,35-54 years,84,492082,17.07,Lithuania2005,0.8059999999999999,"26,125,575,942",8229,Boomers
+15172,Lithuania,2005,female,25-34 years,19,223982,8.48,Lithuania2005,0.8059999999999999,"26,125,575,942",8229,Generation X
+15173,Lithuania,2005,female,15-24 years,11,240386,4.58,Lithuania2005,0.8059999999999999,"26,125,575,942",8229,Millenials
+15174,Lithuania,2005,male,5-14 years,2,211022,0.95,Lithuania2005,0.8059999999999999,"26,125,575,942",8229,Millenials
+15175,Lithuania,2005,female,5-14 years,1,200467,0.5,Lithuania2005,0.8059999999999999,"26,125,575,942",8229,Millenials
+15176,Lithuania,2006,male,55-74 years,238,269578,88.29,Lithuania2006,,"30,216,060,233",9667,Silent
+15177,Lithuania,2006,male,35-54 years,366,450132,81.31,Lithuania2006,,"30,216,060,233",9667,Boomers
+15178,Lithuania,2006,male,75+ years,51,65428,77.95,Lithuania2006,,"30,216,060,233",9667,Silent
+15179,Lithuania,2006,male,25-34 years,96,214726,44.71,Lithuania2006,,"30,216,060,233",9667,Generation X
+15180,Lithuania,2006,male,15-24 years,97,244528,39.67,Lithuania2006,,"30,216,060,233",9667,Millenials
+15181,Lithuania,2006,female,75+ years,37,159540,23.19,Lithuania2006,,"30,216,060,233",9667,Silent
+15182,Lithuania,2006,female,55-74 years,59,390589,15.11,Lithuania2006,,"30,216,060,233",9667,Silent
+15183,Lithuania,2006,female,35-54 years,70,488597,14.33,Lithuania2006,,"30,216,060,233",9667,Boomers
+15184,Lithuania,2006,female,25-34 years,19,217069,8.75,Lithuania2006,,"30,216,060,233",9667,Generation X
+15185,Lithuania,2006,female,15-24 years,10,236885,4.22,Lithuania2006,,"30,216,060,233",9667,Millenials
+15186,Lithuania,2006,male,5-14 years,5,199438,2.51,Lithuania2006,,"30,216,060,233",9667,Millenials
+15187,Lithuania,2006,female,5-14 years,1,189257,0.53,Lithuania2006,,"30,216,060,233",9667,Millenials
+15188,Lithuania,2007,male,55-74 years,220,267333,82.29,Lithuania2007,,"39,738,180,077",12869,Silent
+15189,Lithuania,2007,male,75+ years,51,67551,75.5,Lithuania2007,,"39,738,180,077",12869,Silent
+15190,Lithuania,2007,male,35-54 years,326,447405,72.86,Lithuania2007,,"39,738,180,077",12869,Boomers
+15191,Lithuania,2007,male,25-34 years,146,210164,69.47,Lithuania2007,,"39,738,180,077",12869,Generation X
+15192,Lithuania,2007,male,15-24 years,101,243589,41.46,Lithuania2007,,"39,738,180,077",12869,Millenials
+15193,Lithuania,2007,female,75+ years,40,164150,24.37,Lithuania2007,,"39,738,180,077",12869,Silent
+15194,Lithuania,2007,female,35-54 years,60,485943,12.35,Lithuania2007,,"39,738,180,077",12869,Boomers
+15195,Lithuania,2007,female,55-74 years,46,387684,11.87,Lithuania2007,,"39,738,180,077",12869,Silent
+15196,Lithuania,2007,female,25-34 years,17,212154,8.01,Lithuania2007,,"39,738,180,077",12869,Generation X
+15197,Lithuania,2007,female,15-24 years,10,236177,4.23,Lithuania2007,,"39,738,180,077",12869,Millenials
+15198,Lithuania,2007,female,5-14 years,4,177982,2.25,Lithuania2007,,"39,738,180,077",12869,Generation Z
+15199,Lithuania,2007,male,5-14 years,4,187735,2.13,Lithuania2007,,"39,738,180,077",12869,Generation Z
+15200,Lithuania,2008,male,35-54 years,401,444829,90.15,Lithuania2008,,"47,850,551,149",15669,Boomers
+15201,Lithuania,2008,male,75+ years,56,69533,80.54,Lithuania2008,,"47,850,551,149",15669,Silent
+15202,Lithuania,2008,male,25-34 years,155,207780,74.6,Lithuania2008,,"47,850,551,149",15669,Generation X
+15203,Lithuania,2008,male,55-74 years,190,264954,71.71,Lithuania2008,,"47,850,551,149",15669,Silent
+15204,Lithuania,2008,male,15-24 years,114,242106,47.09,Lithuania2008,,"47,850,551,149",15669,Millenials
+15205,Lithuania,2008,female,75+ years,36,168662,21.34,Lithuania2008,,"47,850,551,149",15669,Silent
+15206,Lithuania,2008,female,55-74 years,60,384300,15.61,Lithuania2008,,"47,850,551,149",15669,Silent
+15207,Lithuania,2008,female,35-54 years,65,483453,13.44,Lithuania2008,,"47,850,551,149",15669,Boomers
+15208,Lithuania,2008,female,15-24 years,17,234198,7.26,Lithuania2008,,"47,850,551,149",15669,Millenials
+15209,Lithuania,2008,female,25-34 years,15,208792,7.18,Lithuania2008,,"47,850,551,149",15669,Generation X
+15210,Lithuania,2008,male,5-14 years,2,177345,1.13,Lithuania2008,,"47,850,551,149",15669,Generation Z
+15211,Lithuania,2008,female,5-14 years,0,167804,0.0,Lithuania2008,,"47,850,551,149",15669,Generation Z
+15212,Lithuania,2009,male,35-54 years,428,440281,97.21,Lithuania2009,,"37,440,673,478",12412,Boomers
+15213,Lithuania,2009,male,55-74 years,239,263507,90.7,Lithuania2009,,"37,440,673,478",12412,Silent
+15214,Lithuania,2009,male,75+ years,57,71090,80.18,Lithuania2009,,"37,440,673,478",12412,Silent
+15215,Lithuania,2009,male,25-34 years,116,205749,56.38,Lithuania2009,,"37,440,673,478",12412,Generation X
+15216,Lithuania,2009,male,15-24 years,109,237032,45.99,Lithuania2009,,"37,440,673,478",12412,Millenials
+15217,Lithuania,2009,female,75+ years,40,172277,23.22,Lithuania2009,,"37,440,673,478",12412,Silent
+15218,Lithuania,2009,female,35-54 years,65,480247,13.53,Lithuania2009,,"37,440,673,478",12412,Boomers
+15219,Lithuania,2009,female,55-74 years,48,381948,12.57,Lithuania2009,,"37,440,673,478",12412,Silent
+15220,Lithuania,2009,female,25-34 years,15,205781,7.29,Lithuania2009,,"37,440,673,478",12412,Generation X
+15221,Lithuania,2009,female,15-24 years,16,229147,6.98,Lithuania2009,,"37,440,673,478",12412,Millenials
+15222,Lithuania,2009,male,5-14 years,3,169250,1.77,Lithuania2009,,"37,440,673,478",12412,Generation Z
+15223,Lithuania,2009,female,5-14 years,2,160188,1.25,Lithuania2009,,"37,440,673,478",12412,Generation Z
+15224,Lithuania,2010,male,55-74 years,219,262907,83.3,Lithuania2010,0.8270000000000001,"37,120,517,694",12584,Silent
+15225,Lithuania,2010,male,35-54 years,357,430396,82.95,Lithuania2010,0.8270000000000001,"37,120,517,694",12584,Generation X
+15226,Lithuania,2010,male,75+ years,49,72479,67.61,Lithuania2010,0.8270000000000001,"37,120,517,694",12584,Silent
+15227,Lithuania,2010,male,25-34 years,110,198028,55.55,Lithuania2010,0.8270000000000001,"37,120,517,694",12584,Generation X
+15228,Lithuania,2010,male,15-24 years,93,227810,40.82,Lithuania2010,0.8270000000000001,"37,120,517,694",12584,Millenials
+15229,Lithuania,2010,female,75+ years,41,175611,23.35,Lithuania2010,0.8270000000000001,"37,120,517,694",12584,Silent
+15230,Lithuania,2010,female,35-54 years,72,471491,15.27,Lithuania2010,0.8270000000000001,"37,120,517,694",12584,Generation X
+15231,Lithuania,2010,female,55-74 years,50,380465,13.14,Lithuania2010,0.8270000000000001,"37,120,517,694",12584,Silent
+15232,Lithuania,2010,female,15-24 years,14,218961,6.39,Lithuania2010,0.8270000000000001,"37,120,517,694",12584,Millenials
+15233,Lithuania,2010,female,25-34 years,11,196906,5.59,Lithuania2010,0.8270000000000001,"37,120,517,694",12584,Generation X
+15234,Lithuania,2010,female,5-14 years,1,153084,0.65,Lithuania2010,0.8270000000000001,"37,120,517,694",12584,Generation Z
+15235,Lithuania,2010,male,5-14 years,1,161599,0.62,Lithuania2010,0.8270000000000001,"37,120,517,694",12584,Generation Z
+15236,Lithuania,2011,male,35-54 years,349,420391,83.02,Lithuania2011,0.831,"43,476,873,413",15097,Generation X
+15237,Lithuania,2011,male,55-74 years,213,262391,81.18,Lithuania2011,0.831,"43,476,873,413",15097,Boomers
+15238,Lithuania,2011,male,75+ years,56,74328,75.34,Lithuania2011,0.831,"43,476,873,413",15097,Silent
+15239,Lithuania,2011,male,25-34 years,124,189937,65.28,Lithuania2011,0.831,"43,476,873,413",15097,Millenials
+15240,Lithuania,2011,male,15-24 years,74,217769,33.98,Lithuania2011,0.831,"43,476,873,413",15097,Millenials
+15241,Lithuania,2011,female,75+ years,38,179526,21.17,Lithuania2011,0.831,"43,476,873,413",15097,Silent
+15242,Lithuania,2011,female,55-74 years,68,378929,17.95,Lithuania2011,0.831,"43,476,873,413",15097,Boomers
+15243,Lithuania,2011,female,35-54 years,67,460566,14.55,Lithuania2011,0.831,"43,476,873,413",15097,Generation X
+15244,Lithuania,2011,female,25-34 years,17,187312,9.08,Lithuania2011,0.831,"43,476,873,413",15097,Millenials
+15245,Lithuania,2011,female,15-24 years,10,207726,4.81,Lithuania2011,0.831,"43,476,873,413",15097,Millenials
+15246,Lithuania,2011,female,5-14 years,1,146411,0.68,Lithuania2011,0.831,"43,476,873,413",15097,Generation Z
+15247,Lithuania,2011,male,5-14 years,1,154519,0.65,Lithuania2011,0.831,"43,476,873,413",15097,Generation Z
+15248,Lithuania,2012,male,35-54 years,321,413107,77.7,Lithuania2012,0.833,"42,848,195,256",15099,Generation X
+15249,Lithuania,2012,male,55-74 years,195,263194,74.09,Lithuania2012,0.833,"42,848,195,256",15099,Boomers
+15250,Lithuania,2012,male,75+ years,53,76080,69.66,Lithuania2012,0.833,"42,848,195,256",15099,Silent
+15251,Lithuania,2012,male,25-34 years,117,187811,62.3,Lithuania2012,0.833,"42,848,195,256",15099,Millenials
+15252,Lithuania,2012,male,15-24 years,64,209964,30.48,Lithuania2012,0.833,"42,848,195,256",15099,Millenials
+15253,Lithuania,2012,female,75+ years,37,183510,20.16,Lithuania2012,0.833,"42,848,195,256",15099,Silent
+15254,Lithuania,2012,female,35-54 years,74,451819,16.38,Lithuania2012,0.833,"42,848,195,256",15099,Generation X
+15255,Lithuania,2012,female,55-74 years,45,378541,11.89,Lithuania2012,0.833,"42,848,195,256",15099,Boomers
+15256,Lithuania,2012,female,25-34 years,10,183799,5.44,Lithuania2012,0.833,"42,848,195,256",15099,Millenials
+15257,Lithuania,2012,female,15-24 years,8,199629,4.01,Lithuania2012,0.833,"42,848,195,256",15099,Millenials
+15258,Lithuania,2012,male,5-14 years,3,149055,2.01,Lithuania2012,0.833,"42,848,195,256",15099,Generation Z
+15259,Lithuania,2012,female,5-14 years,0,141261,0.0,Lithuania2012,0.833,"42,848,195,256",15099,Generation Z
+15260,Lithuania,2013,male,35-54 years,382,405191,94.28,Lithuania2013,0.8370000000000001,"46,417,340,375",16538,Generation X
+15261,Lithuania,2013,male,55-74 years,223,265835,83.89,Lithuania2013,0.8370000000000001,"46,417,340,375",16538,Boomers
+15262,Lithuania,2013,male,75+ years,63,77510,81.28,Lithuania2013,0.8370000000000001,"46,417,340,375",16538,Silent
+15263,Lithuania,2013,male,25-34 years,121,188010,64.36,Lithuania2013,0.8370000000000001,"46,417,340,375",16538,Millenials
+15264,Lithuania,2013,male,15-24 years,96,203647,47.14,Lithuania2013,0.8370000000000001,"46,417,340,375",16538,Millenials
+15265,Lithuania,2013,female,75+ years,40,186711,21.42,Lithuania2013,0.8370000000000001,"46,417,340,375",16538,Silent
+15266,Lithuania,2013,female,35-54 years,75,442140,16.96,Lithuania2013,0.8370000000000001,"46,417,340,375",16538,Generation X
+15267,Lithuania,2013,female,25-34 years,22,182444,12.06,Lithuania2013,0.8370000000000001,"46,417,340,375",16538,Millenials
+15268,Lithuania,2013,female,55-74 years,41,380096,10.79,Lithuania2013,0.8370000000000001,"46,417,340,375",16538,Boomers
+15269,Lithuania,2013,female,15-24 years,17,192772,8.82,Lithuania2013,0.8370000000000001,"46,417,340,375",16538,Millenials
+15270,Lithuania,2013,female,5-14 years,3,137471,2.18,Lithuania2013,0.8370000000000001,"46,417,340,375",16538,Generation Z
+15271,Lithuania,2013,male,5-14 years,2,144800,1.38,Lithuania2013,0.8370000000000001,"46,417,340,375",16538,Generation Z
+15272,Lithuania,2014,male,75+ years,72,78763,91.41,Lithuania2014,0.8390000000000001,"48,516,371,721",17442,Silent
+15273,Lithuania,2014,male,35-54 years,309,396758,77.88,Lithuania2014,0.8390000000000001,"48,516,371,721",17442,Generation X
+15274,Lithuania,2014,male,55-74 years,204,269618,75.66,Lithuania2014,0.8390000000000001,"48,516,371,721",17442,Boomers
+15275,Lithuania,2014,male,25-34 years,94,189300,49.66,Lithuania2014,0.8390000000000001,"48,516,371,721",17442,Millenials
+15276,Lithuania,2014,male,15-24 years,88,197504,44.56,Lithuania2014,0.8390000000000001,"48,516,371,721",17442,Millenials
+15277,Lithuania,2014,female,75+ years,45,189437,23.75,Lithuania2014,0.8390000000000001,"48,516,371,721",17442,Silent
+15278,Lithuania,2014,female,55-74 years,47,383128,12.27,Lithuania2014,0.8390000000000001,"48,516,371,721",17442,Boomers
+15279,Lithuania,2014,female,35-54 years,43,431495,9.97,Lithuania2014,0.8390000000000001,"48,516,371,721",17442,Generation X
+15280,Lithuania,2014,female,15-24 years,12,186406,6.44,Lithuania2014,0.8390000000000001,"48,516,371,721",17442,Millenials
+15281,Lithuania,2014,female,25-34 years,11,182183,6.04,Lithuania2014,0.8390000000000001,"48,516,371,721",17442,Millenials
+15282,Lithuania,2014,female,5-14 years,3,135051,2.22,Lithuania2014,0.8390000000000001,"48,516,371,721",17442,Generation Z
+15283,Lithuania,2014,male,5-14 years,2,141934,1.41,Lithuania2014,0.8390000000000001,"48,516,371,721",17442,Generation Z
+15284,Lithuania,2015,male,75+ years,67,79672,84.09,Lithuania2015,,"41,508,609,233",15073,Silent
+15285,Lithuania,2015,male,55-74 years,216,273776,78.9,Lithuania2015,,"41,508,609,233",15073,Boomers
+15286,Lithuania,2015,male,35-54 years,275,387255,71.01,Lithuania2015,,"41,508,609,233",15073,Generation X
+15287,Lithuania,2015,male,25-34 years,101,190800,52.94,Lithuania2015,,"41,508,609,233",15073,Millenials
+15288,Lithuania,2015,male,15-24 years,66,188903,34.94,Lithuania2015,,"41,508,609,233",15073,Millenials
+15289,Lithuania,2015,female,75+ years,38,191358,19.86,Lithuania2015,,"41,508,609,233",15073,Silent
+15290,Lithuania,2015,female,55-74 years,55,386892,14.22,Lithuania2015,,"41,508,609,233",15073,Boomers
+15291,Lithuania,2015,female,35-54 years,46,419841,10.96,Lithuania2015,,"41,508,609,233",15073,Generation X
+15292,Lithuania,2015,female,25-34 years,17,182926,9.29,Lithuania2015,,"41,508,609,233",15073,Millenials
+15293,Lithuania,2015,female,15-24 years,10,178882,5.59,Lithuania2015,,"41,508,609,233",15073,Millenials
+15294,Lithuania,2015,female,5-14 years,3,133506,2.25,Lithuania2015,,"41,508,609,233",15073,Generation Z
+15295,Lithuania,2015,male,5-14 years,2,140115,1.43,Lithuania2015,,"41,508,609,233",15073,Generation Z
+15296,Lithuania,2016,male,75+ years,78,80426,96.98,Lithuania2016,,"42,773,029,835",15742,Silent
+15297,Lithuania,2016,male,55-74 years,212,277763,76.32,Lithuania2016,,"42,773,029,835",15742,Boomers
+15298,Lithuania,2016,male,35-54 years,266,376689,70.62,Lithuania2016,,"42,773,029,835",15742,Generation X
+15299,Lithuania,2016,male,25-34 years,96,191346,50.17,Lithuania2016,,"42,773,029,835",15742,Millenials
+15300,Lithuania,2016,male,15-24 years,41,177888,23.05,Lithuania2016,,"42,773,029,835",15742,Millenials
+15301,Lithuania,2016,female,75+ years,29,193001,15.03,Lithuania2016,,"42,773,029,835",15742,Silent
+15302,Lithuania,2016,female,55-74 years,45,390385,11.53,Lithuania2016,,"42,773,029,835",15742,Boomers
+15303,Lithuania,2016,female,35-54 years,41,406249,10.09,Lithuania2016,,"42,773,029,835",15742,Generation X
+15304,Lithuania,2016,female,25-34 years,8,182632,4.38,Lithuania2016,,"42,773,029,835",15742,Millenials
+15305,Lithuania,2016,female,15-24 years,6,168917,3.55,Lithuania2016,,"42,773,029,835",15742,Millenials

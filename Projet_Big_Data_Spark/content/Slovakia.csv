@@ -1,0 +1,265 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+22772,Slovakia,1992,male,75+ years,45,80914,55.61,Slovakia1992,,"15,431,288,006",3143,G.I. Generation
+22773,Slovakia,1992,male,35-54 years,299,681903,43.85,Slovakia1992,,"15,431,288,006",3143,Boomers
+22774,Slovakia,1992,male,55-74 years,153,376475,40.64,Slovakia1992,,"15,431,288,006",3143,Silent
+22775,Slovakia,1992,male,25-34 years,101,397370,25.42,Slovakia1992,,"15,431,288,006",3143,Boomers
+22776,Slovakia,1992,male,15-24 years,54,409337,13.19,Slovakia1992,,"15,431,288,006",3143,Generation X
+22777,Slovakia,1992,female,55-74 years,53,482354,10.99,Slovakia1992,,"15,431,288,006",3143,Silent
+22778,Slovakia,1992,female,75+ years,15,140211,10.7,Slovakia1992,,"15,431,288,006",3143,G.I. Generation
+22779,Slovakia,1992,female,35-54 years,49,704576,6.95,Slovakia1992,,"15,431,288,006",3143,Boomers
+22780,Slovakia,1992,female,25-34 years,16,385070,4.16,Slovakia1992,,"15,431,288,006",3143,Boomers
+22781,Slovakia,1992,female,15-24 years,7,392659,1.78,Slovakia1992,,"15,431,288,006",3143,Generation X
+22782,Slovakia,1992,female,5-14 years,2,419798,0.48,Slovakia1992,,"15,431,288,006",3143,Millenials
+22783,Slovakia,1992,male,5-14 years,2,438561,0.46,Slovakia1992,,"15,431,288,006",3143,Millenials
+22784,Slovakia,1993,male,75+ years,38,76871,49.43,Slovakia1993,,"16,452,201,101",3334,G.I. Generation
+22785,Slovakia,1993,male,35-54 years,304,697893,43.56,Slovakia1993,,"16,452,201,101",3334,Boomers
+22786,Slovakia,1993,male,55-74 years,133,379898,35.01,Slovakia1993,,"16,452,201,101",3334,Silent
+22787,Slovakia,1993,male,25-34 years,93,389917,23.85,Slovakia1993,,"16,452,201,101",3334,Boomers
+22788,Slovakia,1993,male,15-24 years,52,420445,12.37,Slovakia1993,,"16,452,201,101",3334,Generation X
+22789,Slovakia,1993,female,75+ years,15,135118,11.1,Slovakia1993,,"16,452,201,101",3334,G.I. Generation
+22790,Slovakia,1993,female,55-74 years,36,491822,7.32,Slovakia1993,,"16,452,201,101",3334,Silent
+22791,Slovakia,1993,female,35-54 years,38,719170,5.28,Slovakia1993,,"16,452,201,101",3334,Boomers
+22792,Slovakia,1993,female,25-34 years,16,378035,4.23,Slovakia1993,,"16,452,201,101",3334,Boomers
+22793,Slovakia,1993,female,15-24 years,11,403487,2.73,Slovakia1993,,"16,452,201,101",3334,Generation X
+22794,Slovakia,1993,male,5-14 years,2,430319,0.46,Slovakia1993,,"16,452,201,101",3334,Millenials
+22795,Slovakia,1993,female,5-14 years,0,412285,0.0,Slovakia1993,,"16,452,201,101",3334,Millenials
+22796,Slovakia,1994,male,75+ years,32,65983,48.5,Slovakia1994,,"20,079,363,626",4036,G.I. Generation
+22797,Slovakia,1994,male,35-54 years,263,698995,37.63,Slovakia1994,,"20,079,363,626",4036,Boomers
+22798,Slovakia,1994,male,55-74 years,133,367426,36.2,Slovakia1994,,"20,079,363,626",4036,Silent
+22799,Slovakia,1994,male,25-34 years,85,387422,21.94,Slovakia1994,,"20,079,363,626",4036,Boomers
+22800,Slovakia,1994,male,15-24 years,66,450907,14.64,Slovakia1994,,"20,079,363,626",4036,Generation X
+22801,Slovakia,1994,female,75+ years,9,122342,7.36,Slovakia1994,,"20,079,363,626",4036,G.I. Generation
+22802,Slovakia,1994,female,35-54 years,50,718166,6.96,Slovakia1994,,"20,079,363,626",4036,Boomers
+22803,Slovakia,1994,female,55-74 years,28,483484,5.79,Slovakia1994,,"20,079,363,626",4036,Silent
+22804,Slovakia,1994,female,15-24 years,12,434306,2.76,Slovakia1994,,"20,079,363,626",4036,Generation X
+22805,Slovakia,1994,female,25-34 years,8,377351,2.12,Slovakia1994,,"20,079,363,626",4036,Boomers
+22806,Slovakia,1994,male,5-14 years,4,443362,0.9,Slovakia1994,,"20,079,363,626",4036,Millenials
+22807,Slovakia,1994,female,5-14 years,1,425114,0.24,Slovakia1994,,"20,079,363,626",4036,Millenials
+22808,Slovakia,1995,male,75+ years,37,67938,54.46,Slovakia1995,0.75,"25,733,043,137",5141,G.I. Generation
+22809,Slovakia,1995,male,55-74 years,144,367372,39.2,Slovakia1995,0.75,"25,733,043,137",5141,Silent
+22810,Slovakia,1995,male,35-54 years,271,712185,38.05,Slovakia1995,0.75,"25,733,043,137",5141,Boomers
+22811,Slovakia,1995,male,25-34 years,94,385556,24.38,Slovakia1995,0.75,"25,733,043,137",5141,Generation X
+22812,Slovakia,1995,male,15-24 years,58,460307,12.6,Slovakia1995,0.75,"25,733,043,137",5141,Generation X
+22813,Slovakia,1995,female,55-74 years,39,485289,8.04,Slovakia1995,0.75,"25,733,043,137",5141,Silent
+22814,Slovakia,1995,female,35-54 years,47,729026,6.45,Slovakia1995,0.75,"25,733,043,137",5141,Boomers
+22815,Slovakia,1995,female,75+ years,8,126028,6.35,Slovakia1995,0.75,"25,733,043,137",5141,G.I. Generation
+22816,Slovakia,1995,female,25-34 years,18,375575,4.79,Slovakia1995,0.75,"25,733,043,137",5141,Generation X
+22817,Slovakia,1995,female,15-24 years,9,443602,2.03,Slovakia1995,0.75,"25,733,043,137",5141,Generation X
+22818,Slovakia,1995,female,5-14 years,5,416980,1.2,Slovakia1995,0.75,"25,733,043,137",5141,Millenials
+22819,Slovakia,1995,male,5-14 years,5,435374,1.15,Slovakia1995,0.75,"25,733,043,137",5141,Millenials
+22820,Slovakia,1996,male,75+ years,29,70501,41.13,Slovakia1996,,"27,821,913,815",5529,G.I. Generation
+22821,Slovakia,1996,male,55-74 years,136,366561,37.1,Slovakia1996,,"27,821,913,815",5529,Silent
+22822,Slovakia,1996,male,35-54 years,242,723992,33.43,Slovakia1996,,"27,821,913,815",5529,Boomers
+22823,Slovakia,1996,male,25-34 years,89,384759,23.13,Slovakia1996,,"27,821,913,815",5529,Generation X
+22824,Slovakia,1996,male,15-24 years,62,466866,13.28,Slovakia1996,,"27,821,913,815",5529,Generation X
+22825,Slovakia,1996,female,75+ years,10,131422,7.61,Slovakia1996,,"27,821,913,815",5529,G.I. Generation
+22826,Slovakia,1996,female,35-54 years,50,739024,6.77,Slovakia1996,,"27,821,913,815",5529,Boomers
+22827,Slovakia,1996,female,55-74 years,30,485389,6.18,Slovakia1996,,"27,821,913,815",5529,Silent
+22828,Slovakia,1996,female,25-34 years,9,374451,2.4,Slovakia1996,,"27,821,913,815",5529,Generation X
+22829,Slovakia,1996,male,5-14 years,8,428880,1.87,Slovakia1996,,"27,821,913,815",5529,Millenials
+22830,Slovakia,1996,female,15-24 years,5,450138,1.11,Slovakia1996,,"27,821,913,815",5529,Generation X
+22831,Slovakia,1996,female,5-14 years,2,410453,0.49,Slovakia1996,,"27,821,913,815",5529,Millenials
+22832,Slovakia,1997,male,75+ years,32,74296,43.07,Slovakia1997,,"27,660,149,541",5468,G.I. Generation
+22833,Slovakia,1997,male,35-54 years,259,735016,35.24,Slovakia1997,,"27,660,149,541",5468,Boomers
+22834,Slovakia,1997,male,55-74 years,116,365411,31.75,Slovakia1997,,"27,660,149,541",5468,Silent
+22835,Slovakia,1997,male,25-34 years,70,386309,18.12,Slovakia1997,,"27,660,149,541",5468,Generation X
+22836,Slovakia,1997,male,15-24 years,46,471096,9.76,Slovakia1997,,"27,660,149,541",5468,Generation X
+22837,Slovakia,1997,female,75+ years,13,138765,9.37,Slovakia1997,,"27,660,149,541",5468,G.I. Generation
+22838,Slovakia,1997,female,55-74 years,32,484165,6.61,Slovakia1997,,"27,660,149,541",5468,Silent
+22839,Slovakia,1997,female,35-54 years,44,748326,5.88,Slovakia1997,,"27,660,149,541",5468,Boomers
+22840,Slovakia,1997,female,15-24 years,10,454003,2.2,Slovakia1997,,"27,660,149,541",5468,Generation X
+22841,Slovakia,1997,female,25-34 years,7,375884,1.86,Slovakia1997,,"27,660,149,541",5468,Generation X
+22842,Slovakia,1997,male,5-14 years,1,421702,0.24,Slovakia1997,,"27,660,149,541",5468,Millenials
+22843,Slovakia,1997,female,5-14 years,0,403416,0.0,Slovakia1997,,"27,660,149,541",5468,Millenials
+22844,Slovakia,1998,male,35-54 years,295,746000,39.54,Slovakia1998,,"29,828,899,206",5871,Boomers
+22845,Slovakia,1998,male,75+ years,28,77400,36.18,Slovakia1998,,"29,828,899,206",5871,G.I. Generation
+22846,Slovakia,1998,male,55-74 years,110,364300,30.19,Slovakia1998,,"29,828,899,206",5871,Silent
+22847,Slovakia,1998,male,25-34 years,82,390300,21.01,Slovakia1998,,"29,828,899,206",5871,Generation X
+22848,Slovakia,1998,male,15-24 years,68,473000,14.38,Slovakia1998,,"29,828,899,206",5871,Generation X
+22849,Slovakia,1998,female,55-74 years,30,482800,6.21,Slovakia1998,,"29,828,899,206",5871,Silent
+22850,Slovakia,1998,female,75+ years,9,145500,6.19,Slovakia1998,,"29,828,899,206",5871,G.I. Generation
+22851,Slovakia,1998,female,35-54 years,38,757700,5.02,Slovakia1998,,"29,828,899,206",5871,Boomers
+22852,Slovakia,1998,female,15-24 years,6,455200,1.32,Slovakia1998,,"29,828,899,206",5871,Generation X
+22853,Slovakia,1998,female,25-34 years,5,380100,1.32,Slovakia1998,,"29,828,899,206",5871,Generation X
+22854,Slovakia,1998,male,5-14 years,2,413300,0.48,Slovakia1998,,"29,828,899,206",5871,Millenials
+22855,Slovakia,1998,female,5-14 years,0,395500,0.0,Slovakia1998,,"29,828,899,206",5871,Millenials
+22856,Slovakia,1999,male,75+ years,34,80000,42.5,Slovakia1999,,"30,415,095,887",5966,G.I. Generation
+22857,Slovakia,1999,male,55-74 years,143,364300,39.25,Slovakia1999,,"30,415,095,887",5966,Silent
+22858,Slovakia,1999,male,35-54 years,283,756700,37.4,Slovakia1999,,"30,415,095,887",5966,Boomers
+22859,Slovakia,1999,male,25-34 years,67,395600,16.94,Slovakia1999,,"30,415,095,887",5966,Generation X
+22860,Slovakia,1999,male,15-24 years,58,471800,12.29,Slovakia1999,,"30,415,095,887",5966,Generation X
+22861,Slovakia,1999,female,55-74 years,30,483100,6.21,Slovakia1999,,"30,415,095,887",5966,Silent
+22862,Slovakia,1999,female,75+ years,9,151500,5.94,Slovakia1999,,"30,415,095,887",5966,G.I. Generation
+22863,Slovakia,1999,female,35-54 years,44,766900,5.74,Slovakia1999,,"30,415,095,887",5966,Boomers
+22864,Slovakia,1999,female,25-34 years,10,385400,2.59,Slovakia1999,,"30,415,095,887",5966,Generation X
+22865,Slovakia,1999,female,15-24 years,9,453700,1.98,Slovakia1999,,"30,415,095,887",5966,Generation X
+22866,Slovakia,1999,male,5-14 years,5,403400,1.24,Slovakia1999,,"30,415,095,887",5966,Millenials
+22867,Slovakia,1999,female,5-14 years,0,385800,0.0,Slovakia1999,,"30,415,095,887",5966,Millenials
+22868,Slovakia,2000,male,75+ years,35,82153,42.6,Slovakia2000,0.763,"29,114,875,622",5696,G.I. Generation
+22869,Slovakia,2000,male,55-74 years,133,365309,36.41,Slovakia2000,0.763,"29,114,875,622",5696,Silent
+22870,Slovakia,2000,male,35-54 years,274,767138,35.72,Slovakia2000,0.763,"29,114,875,622",5696,Boomers
+22871,Slovakia,2000,male,25-34 years,83,403167,20.59,Slovakia2000,0.763,"29,114,875,622",5696,Generation X
+22872,Slovakia,2000,male,15-24 years,66,469079,14.07,Slovakia2000,0.763,"29,114,875,622",5696,Generation X
+22873,Slovakia,2000,female,75+ years,15,156671,9.57,Slovakia2000,0.763,"29,114,875,622",5696,G.I. Generation
+22874,Slovakia,2000,female,35-54 years,64,775726,8.25,Slovakia2000,0.763,"29,114,875,622",5696,Boomers
+22875,Slovakia,2000,female,55-74 years,39,484667,8.05,Slovakia2000,0.763,"29,114,875,622",5696,Silent
+22876,Slovakia,2000,female,15-24 years,9,450931,2.0,Slovakia2000,0.763,"29,114,875,622",5696,Generation X
+22877,Slovakia,2000,female,25-34 years,7,392452,1.78,Slovakia2000,0.763,"29,114,875,622",5696,Generation X
+22878,Slovakia,2000,male,5-14 years,3,390756,0.77,Slovakia2000,0.763,"29,114,875,622",5696,Millenials
+22879,Slovakia,2000,female,5-14 years,1,373764,0.27,Slovakia2000,0.763,"29,114,875,622",5696,Millenials
+22880,Slovakia,2001,male,75+ years,35,81427,42.98,Slovakia2001,,"30,703,017,450",6020,Silent
+22881,Slovakia,2001,male,35-54 years,275,767503,35.83,Slovakia2001,,"30,703,017,450",6020,Boomers
+22882,Slovakia,2001,male,55-74 years,113,364806,30.98,Slovakia2001,,"30,703,017,450",6020,Silent
+22883,Slovakia,2001,male,25-34 years,93,406975,22.85,Slovakia2001,,"30,703,017,450",6020,Generation X
+22884,Slovakia,2001,male,15-24 years,61,467712,13.04,Slovakia2001,,"30,703,017,450",6020,Millenials
+22885,Slovakia,2001,female,75+ years,14,158161,8.85,Slovakia2001,,"30,703,017,450",6020,Silent
+22886,Slovakia,2001,female,35-54 years,55,779840,7.05,Slovakia2001,,"30,703,017,450",6020,Boomers
+22887,Slovakia,2001,female,55-74 years,25,483308,5.17,Slovakia2001,,"30,703,017,450",6020,Silent
+22888,Slovakia,2001,female,25-34 years,11,396286,2.78,Slovakia2001,,"30,703,017,450",6020,Generation X
+22889,Slovakia,2001,female,15-24 years,7,448751,1.56,Slovakia2001,,"30,703,017,450",6020,Millenials
+22890,Slovakia,2001,male,5-14 years,3,380949,0.79,Slovakia2001,,"30,703,017,450",6020,Millenials
+22891,Slovakia,2001,female,5-14 years,0,364538,0.0,Slovakia2001,,"30,703,017,450",6020,Millenials
+22892,Slovakia,2002,male,75+ years,51,83551,61.04,Slovakia2002,,"35,083,608,131",6869,Silent
+22893,Slovakia,2002,male,35-54 years,289,770285,37.52,Slovakia2002,,"35,083,608,131",6869,Boomers
+22894,Slovakia,2002,male,55-74 years,126,370208,34.03,Slovakia2002,,"35,083,608,131",6869,Silent
+22895,Slovakia,2002,male,25-34 years,97,418377,23.18,Slovakia2002,,"35,083,608,131",6869,Generation X
+22896,Slovakia,2002,male,15-24 years,52,461791,11.26,Slovakia2002,,"35,083,608,131",6869,Millenials
+22897,Slovakia,2002,female,75+ years,15,163273,9.19,Slovakia2002,,"35,083,608,131",6869,Silent
+22898,Slovakia,2002,female,55-74 years,27,488427,5.53,Slovakia2002,,"35,083,608,131",6869,Silent
+22899,Slovakia,2002,female,35-54 years,39,782131,4.99,Slovakia2002,,"35,083,608,131",6869,Boomers
+22900,Slovakia,2002,female,25-34 years,10,405949,2.46,Slovakia2002,,"35,083,608,131",6869,Generation X
+22901,Slovakia,2002,female,15-24 years,9,443566,2.03,Slovakia2002,,"35,083,608,131",6869,Millenials
+22902,Slovakia,2002,male,5-14 years,2,368205,0.54,Slovakia2002,,"35,083,608,131",6869,Millenials
+22903,Slovakia,2002,female,5-14 years,0,351821,0.0,Slovakia2002,,"35,083,608,131",6869,Millenials
+22904,Slovakia,2003,male,35-54 years,344,769641,44.7,Slovakia2003,,"46,731,767,494",9138,Boomers
+22905,Slovakia,2003,male,55-74 years,136,378888,35.89,Slovakia2003,,"46,731,767,494",9138,Silent
+22906,Slovakia,2003,male,75+ years,30,84858,35.35,Slovakia2003,,"46,731,767,494",9138,Silent
+22907,Slovakia,2003,male,25-34 years,83,430820,19.27,Slovakia2003,,"46,731,767,494",9138,Generation X
+22908,Slovakia,2003,male,15-24 years,52,455090,11.43,Slovakia2003,,"46,731,767,494",9138,Millenials
+22909,Slovakia,2003,female,55-74 years,34,496205,6.85,Slovakia2003,,"46,731,767,494",9138,Silent
+22910,Slovakia,2003,female,35-54 years,48,780961,6.15,Slovakia2003,,"46,731,767,494",9138,Boomers
+22911,Slovakia,2003,female,75+ years,9,167510,5.37,Slovakia2003,,"46,731,767,494",9138,Silent
+22912,Slovakia,2003,female,25-34 years,10,417400,2.4,Slovakia2003,,"46,731,767,494",9138,Generation X
+22913,Slovakia,2003,female,15-24 years,4,437405,0.91,Slovakia2003,,"46,731,767,494",9138,Millenials
+22914,Slovakia,2003,male,5-14 years,3,355796,0.84,Slovakia2003,,"46,731,767,494",9138,Millenials
+22915,Slovakia,2003,female,5-14 years,0,339408,0.0,Slovakia2003,,"46,731,767,494",9138,Millenials
+22916,Slovakia,2004,male,35-54 years,283,769488,36.78,Slovakia2004,,"57,240,535,138",11177,Boomers
+22917,Slovakia,2004,male,55-74 years,119,388244,30.65,Slovakia2004,,"57,240,535,138",11177,Silent
+22918,Slovakia,2004,male,75+ years,26,86839,29.94,Slovakia2004,,"57,240,535,138",11177,Silent
+22919,Slovakia,2004,male,25-34 years,81,442957,18.29,Slovakia2004,,"57,240,535,138",11177,Generation X
+22920,Slovakia,2004,male,15-24 years,54,447491,12.07,Slovakia2004,,"57,240,535,138",11177,Millenials
+22921,Slovakia,2004,female,55-74 years,35,504749,6.93,Slovakia2004,,"57,240,535,138",11177,Silent
+22922,Slovakia,2004,female,35-54 years,52,779763,6.67,Slovakia2004,,"57,240,535,138",11177,Boomers
+22923,Slovakia,2004,female,75+ years,10,172563,5.79,Slovakia2004,,"57,240,535,138",11177,Silent
+22924,Slovakia,2004,female,25-34 years,8,428962,1.86,Slovakia2004,,"57,240,535,138",11177,Generation X
+22925,Slovakia,2004,female,15-24 years,7,429591,1.63,Slovakia2004,,"57,240,535,138",11177,Millenials
+22926,Slovakia,2004,male,5-14 years,1,343265,0.29,Slovakia2004,,"57,240,535,138",11177,Millenials
+22927,Slovakia,2004,female,5-14 years,0,327298,0.0,Slovakia2004,,"57,240,535,138",11177,Millenials
+22928,Slovakia,2005,male,75+ years,40,88406,45.25,Slovakia2005,0.7929999999999999,"62,697,540,107",12229,Silent
+22929,Slovakia,2005,male,35-54 years,269,769273,34.97,Slovakia2005,0.7929999999999999,"62,697,540,107",12229,Boomers
+22930,Slovakia,2005,male,55-74 years,130,399356,32.55,Slovakia2005,0.7929999999999999,"62,697,540,107",12229,Silent
+22931,Slovakia,2005,male,25-34 years,88,453397,19.41,Slovakia2005,0.7929999999999999,"62,697,540,107",12229,Generation X
+22932,Slovakia,2005,male,15-24 years,57,440028,12.95,Slovakia2005,0.7929999999999999,"62,697,540,107",12229,Millenials
+22933,Slovakia,2005,female,75+ years,11,176887,6.22,Slovakia2005,0.7929999999999999,"62,697,540,107",12229,Silent
+22934,Slovakia,2005,female,35-54 years,46,777822,5.91,Slovakia2005,0.7929999999999999,"62,697,540,107",12229,Boomers
+22935,Slovakia,2005,female,55-74 years,21,514790,4.08,Slovakia2005,0.7929999999999999,"62,697,540,107",12229,Silent
+22936,Slovakia,2005,female,25-34 years,9,438545,2.05,Slovakia2005,0.7929999999999999,"62,697,540,107",12229,Generation X
+22937,Slovakia,2005,female,15-24 years,7,421958,1.66,Slovakia2005,0.7929999999999999,"62,697,540,107",12229,Millenials
+22938,Slovakia,2005,female,5-14 years,1,315712,0.32,Slovakia2005,0.7929999999999999,"62,697,540,107",12229,Millenials
+22939,Slovakia,2005,male,5-14 years,0,330772,0.0,Slovakia2005,0.7929999999999999,"62,697,540,107",12229,Millenials
+22940,Slovakia,2006,female,15-24 years,0,415422,0.0,Slovakia2006,,"70,596,729,394",13763,Millenials
+22941,Slovakia,2006,female,25-34 years,0,445779,0.0,Slovakia2006,,"70,596,729,394",13763,Generation X
+22942,Slovakia,2006,female,35-54 years,0,774418,0.0,Slovakia2006,,"70,596,729,394",13763,Boomers
+22943,Slovakia,2006,female,5-14 years,0,303109,0.0,Slovakia2006,,"70,596,729,394",13763,Millenials
+22944,Slovakia,2006,female,55-74 years,0,527216,0.0,Slovakia2006,,"70,596,729,394",13763,Silent
+22945,Slovakia,2006,female,75+ years,0,180915,0.0,Slovakia2006,,"70,596,729,394",13763,Silent
+22946,Slovakia,2006,male,15-24 years,0,433254,0.0,Slovakia2006,,"70,596,729,394",13763,Millenials
+22947,Slovakia,2006,male,25-34 years,0,461745,0.0,Slovakia2006,,"70,596,729,394",13763,Generation X
+22948,Slovakia,2006,male,35-54 years,0,767538,0.0,Slovakia2006,,"70,596,729,394",13763,Boomers
+22949,Slovakia,2006,male,5-14 years,0,317730,0.0,Slovakia2006,,"70,596,729,394",13763,Millenials
+22950,Slovakia,2006,male,55-74 years,0,412451,0.0,Slovakia2006,,"70,596,729,394",13763,Silent
+22951,Slovakia,2006,male,75+ years,0,89792,0.0,Slovakia2006,,"70,596,729,394",13763,Silent
+22952,Slovakia,2007,female,15-24 years,0,408500,0.0,Slovakia2007,,"86,304,245,825",16815,Millenials
+22953,Slovakia,2007,female,25-34 years,0,450832,0.0,Slovakia2007,,"86,304,245,825",16815,Generation X
+22954,Slovakia,2007,female,35-54 years,0,771963,0.0,Slovakia2007,,"86,304,245,825",16815,Boomers
+22955,Slovakia,2007,female,5-14 years,0,290709,0.0,Slovakia2007,,"86,304,245,825",16815,Generation Z
+22956,Slovakia,2007,female,55-74 years,0,540800,0.0,Slovakia2007,,"86,304,245,825",16815,Silent
+22957,Slovakia,2007,female,75+ years,0,184796,0.0,Slovakia2007,,"86,304,245,825",16815,Silent
+22958,Slovakia,2007,male,15-24 years,0,425847,0.0,Slovakia2007,,"86,304,245,825",16815,Millenials
+22959,Slovakia,2007,male,25-34 years,0,468542,0.0,Slovakia2007,,"86,304,245,825",16815,Generation X
+22960,Slovakia,2007,male,35-54 years,0,767209,0.0,Slovakia2007,,"86,304,245,825",16815,Boomers
+22961,Slovakia,2007,male,5-14 years,0,305241,0.0,Slovakia2007,,"86,304,245,825",16815,Generation Z
+22962,Slovakia,2007,male,55-74 years,0,426981,0.0,Slovakia2007,,"86,304,245,825",16815,Silent
+22963,Slovakia,2007,male,75+ years,0,91240,0.0,Slovakia2007,,"86,304,245,825",16815,Silent
+22964,Slovakia,2008,male,55-74 years,132,441896,29.87,Slovakia2008,,"100,324,627,215",19530,Silent
+22965,Slovakia,2008,male,75+ years,27,92415,29.22,Slovakia2008,,"100,324,627,215",19530,Silent
+22966,Slovakia,2008,male,35-54 years,220,769462,28.59,Slovakia2008,,"100,324,627,215",19530,Boomers
+22967,Slovakia,2008,male,25-34 years,87,472801,18.4,Slovakia2008,,"100,324,627,215",19530,Generation X
+22968,Slovakia,2008,male,15-24 years,42,417863,10.05,Slovakia2008,,"100,324,627,215",19530,Millenials
+22969,Slovakia,2008,female,75+ years,12,188110,6.38,Slovakia2008,,"100,324,627,215",19530,Silent
+22970,Slovakia,2008,female,35-54 years,36,771992,4.66,Slovakia2008,,"100,324,627,215",19530,Boomers
+22971,Slovakia,2008,female,55-74 years,24,554948,4.32,Slovakia2008,,"100,324,627,215",19530,Silent
+22972,Slovakia,2008,female,15-24 years,5,400609,1.25,Slovakia2008,,"100,324,627,215",19530,Millenials
+22973,Slovakia,2008,female,25-34 years,5,453122,1.1,Slovakia2008,,"100,324,627,215",19530,Generation X
+22974,Slovakia,2008,female,5-14 years,1,279860,0.36,Slovakia2008,,"100,324,627,215",19530,Generation Z
+22975,Slovakia,2008,male,5-14 years,0,293989,0.0,Slovakia2008,,"100,324,627,215",19530,Generation Z
+22976,Slovakia,2009,male,75+ years,35,93229,37.54,Slovakia2009,,"88,945,625,174",17299,Silent
+22977,Slovakia,2009,male,55-74 years,161,457071,35.22,Slovakia2009,,"88,945,625,174",17299,Silent
+22978,Slovakia,2009,male,35-54 years,242,774112,31.26,Slovakia2009,,"88,945,625,174",17299,Boomers
+22979,Slovakia,2009,male,25-34 years,65,473483,13.73,Slovakia2009,,"88,945,625,174",17299,Generation X
+22980,Slovakia,2009,male,15-24 years,40,408014,9.8,Slovakia2009,,"88,945,625,174",17299,Millenials
+22981,Slovakia,2009,female,55-74 years,22,569666,3.86,Slovakia2009,,"88,945,625,174",17299,Silent
+22982,Slovakia,2009,female,35-54 years,21,774237,2.71,Slovakia2009,,"88,945,625,174",17299,Boomers
+22983,Slovakia,2009,female,75+ years,5,190507,2.62,Slovakia2009,,"88,945,625,174",17299,Silent
+22984,Slovakia,2009,female,25-34 years,6,453130,1.32,Slovakia2009,,"88,945,625,174",17299,Generation X
+22985,Slovakia,2009,female,15-24 years,4,391007,1.02,Slovakia2009,,"88,945,625,174",17299,Millenials
+22986,Slovakia,2009,female,5-14 years,0,271665,0.0,Slovakia2009,,"88,945,625,174",17299,Generation Z
+22987,Slovakia,2009,male,5-14 years,0,285623,0.0,Slovakia2009,,"88,945,625,174",17299,Generation Z
+22988,Slovakia,2010,male,75+ years,33,94140,35.05,Slovakia2010,0.8270000000000001,"89,501,012,916",17387,Silent
+22989,Slovakia,2010,male,35-54 years,239,779236,30.67,Slovakia2010,0.8270000000000001,"89,501,012,916",17387,Generation X
+22990,Slovakia,2010,male,55-74 years,145,472869,30.66,Slovakia2010,0.8270000000000001,"89,501,012,916",17387,Silent
+22991,Slovakia,2010,male,25-34 years,76,472324,16.09,Slovakia2010,0.8270000000000001,"89,501,012,916",17387,Generation X
+22992,Slovakia,2010,male,15-24 years,42,395147,10.63,Slovakia2010,0.8270000000000001,"89,501,012,916",17387,Millenials
+22993,Slovakia,2010,female,75+ years,11,192666,5.71,Slovakia2010,0.8270000000000001,"89,501,012,916",17387,Silent
+22994,Slovakia,2010,female,35-54 years,39,776865,5.02,Slovakia2010,0.8270000000000001,"89,501,012,916",17387,Generation X
+22995,Slovakia,2010,female,55-74 years,26,585761,4.44,Slovakia2010,0.8270000000000001,"89,501,012,916",17387,Silent
+22996,Slovakia,2010,female,15-24 years,7,378865,1.85,Slovakia2010,0.8270000000000001,"89,501,012,916",17387,Millenials
+22997,Slovakia,2010,female,25-34 years,8,451905,1.77,Slovakia2010,0.8270000000000001,"89,501,012,916",17387,Generation X
+22998,Slovakia,2010,male,5-14 years,4,280990,1.42,Slovakia2010,0.8270000000000001,"89,501,012,916",17387,Generation Z
+22999,Slovakia,2010,female,5-14 years,1,266794,0.37,Slovakia2010,0.8270000000000001,"89,501,012,916",17387,Generation Z
+23000,Slovakia,2012,male,75+ years,33,96276,34.28,Slovakia2012,0.836,"93,413,992,956",18256,Silent
+23001,Slovakia,2012,male,55-74 years,144,507498,28.37,Slovakia2012,0.836,"93,413,992,956",18256,Boomers
+23002,Slovakia,2012,male,35-54 years,205,782988,26.18,Slovakia2012,0.836,"93,413,992,956",18256,Generation X
+23003,Slovakia,2012,male,25-34 years,74,454459,16.28,Slovakia2012,0.836,"93,413,992,956",18256,Millenials
+23004,Slovakia,2012,male,15-24 years,41,365970,11.2,Slovakia2012,0.836,"93,413,992,956",18256,Millenials
+23005,Slovakia,2012,female,55-74 years,31,617279,5.02,Slovakia2012,0.836,"93,413,992,956",18256,Boomers
+23006,Slovakia,2012,female,35-54 years,30,771132,3.89,Slovakia2012,0.836,"93,413,992,956",18256,Generation X
+23007,Slovakia,2012,female,75+ years,3,197258,1.52,Slovakia2012,0.836,"93,413,992,956",18256,Silent
+23008,Slovakia,2012,female,25-34 years,5,432608,1.16,Slovakia2012,0.836,"93,413,992,956",18256,Millenials
+23009,Slovakia,2012,female,15-24 years,3,350538,0.86,Slovakia2012,0.836,"93,413,992,956",18256,Millenials
+23010,Slovakia,2012,male,5-14 years,2,277738,0.72,Slovakia2012,0.836,"93,413,992,956",18256,Generation Z
+23011,Slovakia,2012,female,5-14 years,0,263178,0.0,Slovakia2012,0.836,"93,413,992,956",18256,Generation Z
+23012,Slovakia,2013,male,75+ years,39,97542,39.98,Slovakia2013,0.84,"98,478,349,315",19226,Silent
+23013,Slovakia,2013,male,55-74 years,170,522244,32.55,Slovakia2013,0.84,"98,478,349,315",19226,Boomers
+23014,Slovakia,2013,male,35-54 years,206,789882,26.08,Slovakia2013,0.84,"98,478,349,315",19226,Generation X
+23015,Slovakia,2013,male,25-34 years,78,447049,17.45,Slovakia2013,0.84,"98,478,349,315",19226,Millenials
+23016,Slovakia,2013,male,15-24 years,39,354722,10.99,Slovakia2013,0.84,"98,478,349,315",19226,Millenials
+23017,Slovakia,2013,female,55-74 years,27,631225,4.28,Slovakia2013,0.84,"98,478,349,315",19226,Boomers
+23018,Slovakia,2013,female,35-54 years,32,775058,4.13,Slovakia2013,0.84,"98,478,349,315",19226,Generation X
+23019,Slovakia,2013,female,75+ years,7,199984,3.5,Slovakia2013,0.84,"98,478,349,315",19226,Silent
+23020,Slovakia,2013,female,15-24 years,10,339096,2.95,Slovakia2013,0.84,"98,478,349,315",19226,Millenials
+23021,Slovakia,2013,female,25-34 years,7,426184,1.64,Slovakia2013,0.84,"98,478,349,315",19226,Millenials
+23022,Slovakia,2013,male,5-14 years,1,276853,0.36,Slovakia2013,0.84,"98,478,349,315",19226,Generation Z
+23023,Slovakia,2013,female,5-14 years,0,262370,0.0,Slovakia2013,0.84,"98,478,349,315",19226,Generation Z
+23024,Slovakia,2014,male,75+ years,41,99184,41.34,Slovakia2014,0.8440000000000001,"100,948,236,941",19679,Silent
+23025,Slovakia,2014,male,55-74 years,163,535001,30.47,Slovakia2014,0.8440000000000001,"100,948,236,941",19679,Boomers
+23026,Slovakia,2014,male,35-54 years,177,797994,22.18,Slovakia2014,0.8440000000000001,"100,948,236,941",19679,Generation X
+23027,Slovakia,2014,male,25-34 years,60,439688,13.65,Slovakia2014,0.8440000000000001,"100,948,236,941",19679,Millenials
+23028,Slovakia,2014,male,15-24 years,30,342989,8.75,Slovakia2014,0.8440000000000001,"100,948,236,941",19679,Millenials
+23029,Slovakia,2014,female,55-74 years,34,642640,5.29,Slovakia2014,0.8440000000000001,"100,948,236,941",19679,Boomers
+23030,Slovakia,2014,female,75+ years,7,203433,3.44,Slovakia2014,0.8440000000000001,"100,948,236,941",19679,Silent
+23031,Slovakia,2014,female,25-34 years,13,419408,3.1,Slovakia2014,0.8440000000000001,"100,948,236,941",19679,Millenials
+23032,Slovakia,2014,female,35-54 years,24,780755,3.07,Slovakia2014,0.8440000000000001,"100,948,236,941",19679,Generation X
+23033,Slovakia,2014,female,15-24 years,5,327505,1.53,Slovakia2014,0.8440000000000001,"100,948,236,941",19679,Millenials
+23034,Slovakia,2014,female,5-14 years,0,263111,0.0,Slovakia2014,0.8440000000000001,"100,948,236,941",19679,Generation Z
+23035,Slovakia,2014,male,5-14 years,0,277978,0.0,Slovakia2014,0.8440000000000001,"100,948,236,941",19679,Generation Z

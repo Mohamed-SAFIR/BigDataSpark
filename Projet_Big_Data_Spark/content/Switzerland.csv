@@ -1,0 +1,253 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+24726,Switzerland,1995,male,75+ years,146,165500,88.22,Switzerland1995,0.846,"342,617,007,104",51774,G.I. Generation
+24727,Switzerland,1995,male,55-74 years,262,593600,44.14,Switzerland1995,0.846,"342,617,007,104",51774,Silent
+24728,Switzerland,1995,male,35-54 years,358,1026800,34.87,Switzerland1995,0.846,"342,617,007,104",51774,Boomers
+24729,Switzerland,1995,male,25-34 years,146,585400,24.94,Switzerland1995,0.846,"342,617,007,104",51774,Generation X
+24730,Switzerland,1995,male,15-24 years,104,429600,24.21,Switzerland1995,0.846,"342,617,007,104",51774,Generation X
+24731,Switzerland,1995,female,55-74 years,143,686200,20.84,Switzerland1995,0.846,"342,617,007,104",51774,Silent
+24732,Switzerland,1995,female,75+ years,55,305100,18.03,Switzerland1995,0.846,"342,617,007,104",51774,G.I. Generation
+24733,Switzerland,1995,female,35-54 years,130,1003000,12.96,Switzerland1995,0.846,"342,617,007,104",51774,Boomers
+24734,Switzerland,1995,female,25-34 years,45,584300,7.7,Switzerland1995,0.846,"342,617,007,104",51774,Generation X
+24735,Switzerland,1995,female,15-24 years,28,419100,6.68,Switzerland1995,0.846,"342,617,007,104",51774,Generation X
+24736,Switzerland,1995,male,5-14 years,2,420500,0.48,Switzerland1995,0.846,"342,617,007,104",51774,Millenials
+24737,Switzerland,1995,female,5-14 years,0,398400,0.0,Switzerland1995,0.846,"342,617,007,104",51774,Millenials
+24738,Switzerland,1996,male,75+ years,136,169600,80.19,Switzerland1996,,"330,091,688,350",49621,G.I. Generation
+24739,Switzerland,1996,male,55-74 years,255,599400,42.54,Switzerland1996,,"330,091,688,350",49621,Silent
+24740,Switzerland,1996,male,35-54 years,357,1040900,34.3,Switzerland1996,,"330,091,688,350",49621,Boomers
+24741,Switzerland,1996,male,25-34 years,153,577800,26.48,Switzerland1996,,"330,091,688,350",49621,Generation X
+24742,Switzerland,1996,male,15-24 years,105,424200,24.75,Switzerland1996,,"330,091,688,350",49621,Generation X
+24743,Switzerland,1996,female,75+ years,73,310600,23.5,Switzerland1996,,"330,091,688,350",49621,G.I. Generation
+24744,Switzerland,1996,female,55-74 years,126,689700,18.27,Switzerland1996,,"330,091,688,350",49621,Silent
+24745,Switzerland,1996,female,35-54 years,150,1017500,14.74,Switzerland1996,,"330,091,688,350",49621,Boomers
+24746,Switzerland,1996,female,25-34 years,50,580400,8.61,Switzerland1996,,"330,091,688,350",49621,Generation X
+24747,Switzerland,1996,female,15-24 years,23,413000,5.57,Switzerland1996,,"330,091,688,350",49621,Generation X
+24748,Switzerland,1996,male,5-14 years,4,426000,0.94,Switzerland1996,,"330,091,688,350",49621,Millenials
+24749,Switzerland,1996,female,5-14 years,0,403100,0.0,Switzerland1996,,"330,091,688,350",49621,Millenials
+24750,Switzerland,1997,male,75+ years,134,173300,77.32,Switzerland1997,,"286,519,135,327",42923,G.I. Generation
+24751,Switzerland,1997,male,55-74 years,229,608200,37.65,Switzerland1997,,"286,519,135,327",42923,Silent
+24752,Switzerland,1997,male,35-54 years,354,1051900,33.65,Switzerland1997,,"286,519,135,327",42923,Boomers
+24753,Switzerland,1997,female,75+ years,92,315500,29.16,Switzerland1997,,"286,519,135,327",42923,G.I. Generation
+24754,Switzerland,1997,male,25-34 years,147,565900,25.98,Switzerland1997,,"286,519,135,327",42923,Generation X
+24755,Switzerland,1997,male,15-24 years,97,420100,23.09,Switzerland1997,,"286,519,135,327",42923,Generation X
+24756,Switzerland,1997,female,55-74 years,102,695300,14.67,Switzerland1997,,"286,519,135,327",42923,Silent
+24757,Switzerland,1997,female,35-54 years,117,1029600,11.36,Switzerland1997,,"286,519,135,327",42923,Boomers
+24758,Switzerland,1997,female,25-34 years,43,571900,7.52,Switzerland1997,,"286,519,135,327",42923,Generation X
+24759,Switzerland,1997,female,15-24 years,23,407400,5.65,Switzerland1997,,"286,519,135,327",42923,Generation X
+24760,Switzerland,1997,male,5-14 years,2,429700,0.47,Switzerland1997,,"286,519,135,327",42923,Millenials
+24761,Switzerland,1997,female,5-14 years,1,406400,0.25,Switzerland1997,,"286,519,135,327",42923,Millenials
+24762,Switzerland,1998,male,75+ years,153,177045,86.42,Switzerland1998,,"295,045,152,021",43872,G.I. Generation
+24763,Switzerland,1998,male,55-74 years,271,620438,43.68,Switzerland1998,,"295,045,152,021",43872,Silent
+24764,Switzerland,1998,male,35-54 years,331,1067271,31.01,Switzerland1998,,"295,045,152,021",43872,Boomers
+24765,Switzerland,1998,male,25-34 years,159,558838,28.45,Switzerland1998,,"295,045,152,021",43872,Generation X
+24766,Switzerland,1998,female,75+ years,72,320373,22.47,Switzerland1998,,"295,045,152,021",43872,G.I. Generation
+24767,Switzerland,1998,male,15-24 years,92,421825,21.81,Switzerland1998,,"295,045,152,021",43872,Generation X
+24768,Switzerland,1998,female,55-74 years,106,703901,15.06,Switzerland1998,,"295,045,152,021",43872,Silent
+24769,Switzerland,1998,female,35-54 years,129,1043297,12.36,Switzerland1998,,"295,045,152,021",43872,Boomers
+24770,Switzerland,1998,female,15-24 years,23,407368,5.65,Switzerland1998,,"295,045,152,021",43872,Generation X
+24771,Switzerland,1998,female,25-34 years,30,563300,5.33,Switzerland1998,,"295,045,152,021",43872,Generation X
+24772,Switzerland,1998,male,5-14 years,3,432669,0.69,Switzerland1998,,"295,045,152,021",43872,Millenials
+24773,Switzerland,1998,female,5-14 years,2,408842,0.49,Switzerland1998,,"295,045,152,021",43872,Millenials
+24774,Switzerland,1999,male,75+ years,139,180723,76.91,Switzerland1999,,"289,912,492,345",42859,G.I. Generation
+24775,Switzerland,1999,male,55-74 years,235,634368,37.04,Switzerland1999,,"289,912,492,345",42859,Silent
+24776,Switzerland,1999,male,35-54 years,335,1080683,31.0,Switzerland1999,,"289,912,492,345",42859,Boomers
+24777,Switzerland,1999,male,25-34 years,133,544276,24.44,Switzerland1999,,"289,912,492,345",42859,Generation X
+24778,Switzerland,1999,female,75+ years,74,325491,22.73,Switzerland1999,,"289,912,492,345",42859,G.I. Generation
+24779,Switzerland,1999,male,15-24 years,85,423265,20.08,Switzerland1999,,"289,912,492,345",42859,Generation X
+24780,Switzerland,1999,female,55-74 years,108,713680,15.13,Switzerland1999,,"289,912,492,345",42859,Silent
+24781,Switzerland,1999,female,35-54 years,125,1057759,11.82,Switzerland1999,,"289,912,492,345",42859,Boomers
+24782,Switzerland,1999,female,25-34 years,37,550183,6.73,Switzerland1999,,"289,912,492,345",42859,Generation X
+24783,Switzerland,1999,female,15-24 years,21,407508,5.15,Switzerland1999,,"289,912,492,345",42859,Generation X
+24784,Switzerland,1999,female,5-14 years,2,411038,0.49,Switzerland1999,,"289,912,492,345",42859,Millenials
+24785,Switzerland,1999,male,5-14 years,2,435354,0.46,Switzerland1999,,"289,912,492,345",42859,Millenials
+24786,Switzerland,2000,male,75+ years,152,184589,82.35,Switzerland2000,0.888,"272,055,499,941",39952,G.I. Generation
+24787,Switzerland,2000,male,55-74 years,239,649009,36.83,Switzerland2000,0.888,"272,055,499,941",39952,Silent
+24788,Switzerland,2000,male,35-54 years,360,1094229,32.9,Switzerland2000,0.888,"272,055,499,941",39952,Boomers
+24789,Switzerland,2000,male,25-34 years,147,530378,27.72,Switzerland2000,0.888,"272,055,499,941",39952,Generation X
+24790,Switzerland,2000,female,75+ years,79,330903,23.87,Switzerland2000,0.888,"272,055,499,941",39952,G.I. Generation
+24791,Switzerland,2000,male,15-24 years,79,426957,18.5,Switzerland2000,0.888,"272,055,499,941",39952,Generation X
+24792,Switzerland,2000,female,55-74 years,128,723750,17.69,Switzerland2000,0.888,"272,055,499,941",39952,Silent
+24793,Switzerland,2000,female,35-54 years,124,1072711,11.56,Switzerland2000,0.888,"272,055,499,941",39952,Boomers
+24794,Switzerland,2000,female,25-34 years,47,537823,8.74,Switzerland2000,0.888,"272,055,499,941",39952,Generation X
+24795,Switzerland,2000,female,15-24 years,20,410136,4.88,Switzerland2000,0.888,"272,055,499,941",39952,Generation X
+24796,Switzerland,2000,male,5-14 years,4,436831,0.92,Switzerland2000,0.888,"272,055,499,941",39952,Millenials
+24797,Switzerland,2000,female,5-14 years,1,412273,0.24,Switzerland2000,0.888,"272,055,499,941",39952,Millenials
+24798,Switzerland,2001,male,75+ years,160,188628,84.82,Switzerland2001,,"278,631,271,391",40582,Silent
+24799,Switzerland,2001,male,55-74 years,263,664460,39.58,Switzerland2001,,"278,631,271,391",40582,Silent
+24800,Switzerland,2001,male,35-54 years,325,1108319,29.32,Switzerland2001,,"278,631,271,391",40582,Boomers
+24801,Switzerland,2001,female,75+ years,86,336369,25.57,Switzerland2001,,"278,631,271,391",40582,Silent
+24802,Switzerland,2001,male,15-24 years,95,432247,21.98,Switzerland2001,,"278,631,271,391",40582,Millenials
+24803,Switzerland,2001,male,25-34 years,101,519553,19.44,Switzerland2001,,"278,631,271,391",40582,Generation X
+24804,Switzerland,2001,female,55-74 years,125,734955,17.01,Switzerland2001,,"278,631,271,391",40582,Silent
+24805,Switzerland,2001,female,35-54 years,123,1087663,11.31,Switzerland2001,,"278,631,271,391",40582,Boomers
+24806,Switzerland,2001,female,25-34 years,35,527458,6.64,Switzerland2001,,"278,631,271,391",40582,Generation X
+24807,Switzerland,2001,female,15-24 years,21,414858,5.06,Switzerland2001,,"278,631,271,391",40582,Millenials
+24808,Switzerland,2001,female,5-14 years,3,413077,0.73,Switzerland2001,,"278,631,271,391",40582,Millenials
+24809,Switzerland,2001,male,5-14 years,1,438255,0.23,Switzerland2001,,"278,631,271,391",40582,Millenials
+24810,Switzerland,2002,male,75+ years,163,197218,82.65,Switzerland2002,,"301,416,810,214",43419,Silent
+24811,Switzerland,2002,male,55-74 years,268,686103,39.06,Switzerland2002,,"301,416,810,214",43419,Silent
+24812,Switzerland,2002,female,75+ years,108,348120,31.02,Switzerland2002,,"301,416,810,214",43419,Silent
+24813,Switzerland,2002,male,35-54 years,332,1123342,29.55,Switzerland2002,,"301,416,810,214",43419,Boomers
+24814,Switzerland,2002,male,25-34 years,140,508396,27.54,Switzerland2002,,"301,416,810,214",43419,Generation X
+24815,Switzerland,2002,female,55-74 years,147,751668,19.56,Switzerland2002,,"301,416,810,214",43419,Silent
+24816,Switzerland,2002,male,15-24 years,77,432755,17.79,Switzerland2002,,"301,416,810,214",43419,Millenials
+24817,Switzerland,2002,female,35-54 years,151,1109627,13.61,Switzerland2002,,"301,416,810,214",43419,Boomers
+24818,Switzerland,2002,female,15-24 years,28,420181,6.66,Switzerland2002,,"301,416,810,214",43419,Millenials
+24819,Switzerland,2002,female,25-34 years,31,514628,6.02,Switzerland2002,,"301,416,810,214",43419,Generation X
+24820,Switzerland,2002,female,5-14 years,1,413946,0.24,Switzerland2002,,"301,416,810,214",43419,Millenials
+24821,Switzerland,2002,male,5-14 years,0,436026,0.0,Switzerland2002,,"301,416,810,214",43419,Millenials
+24822,Switzerland,2003,male,75+ years,148,198955,74.39,Switzerland2003,,"352,914,820,747",50639,Silent
+24823,Switzerland,2003,male,55-74 years,231,694078,33.28,Switzerland2003,,"352,914,820,747",50639,Silent
+24824,Switzerland,2003,female,75+ years,115,349975,32.86,Switzerland2003,,"352,914,820,747",50639,Silent
+24825,Switzerland,2003,male,35-54 years,303,1129591,26.82,Switzerland2003,,"352,914,820,747",50639,Boomers
+24826,Switzerland,2003,male,15-24 years,79,435746,18.13,Switzerland2003,,"352,914,820,747",50639,Millenials
+24827,Switzerland,2003,female,55-74 years,137,757920,18.08,Switzerland2003,,"352,914,820,747",50639,Silent
+24828,Switzerland,2003,male,25-34 years,85,504671,16.84,Switzerland2003,,"352,914,820,747",50639,Generation X
+24829,Switzerland,2003,female,35-54 years,116,1116103,10.39,Switzerland2003,,"352,914,820,747",50639,Boomers
+24830,Switzerland,2003,female,25-34 years,28,511185,5.48,Switzerland2003,,"352,914,820,747",50639,Generation X
+24831,Switzerland,2003,female,15-24 years,21,423129,4.96,Switzerland2003,,"352,914,820,747",50639,Millenials
+24832,Switzerland,2003,female,5-14 years,4,412868,0.97,Switzerland2003,,"352,914,820,747",50639,Millenials
+24833,Switzerland,2003,male,5-14 years,2,435072,0.46,Switzerland2003,,"352,914,820,747",50639,Millenials
+24834,Switzerland,2004,male,75+ years,160,203675,78.56,Switzerland2004,,"394,163,688,621",56123,Silent
+24835,Switzerland,2004,male,55-74 years,236,709636,33.26,Switzerland2004,,"394,163,688,621",56123,Silent
+24836,Switzerland,2004,female,75+ years,107,355144,30.13,Switzerland2004,,"394,163,688,621",56123,Silent
+24837,Switzerland,2004,male,35-54 years,310,1140983,27.17,Switzerland2004,,"394,163,688,621",56123,Boomers
+24838,Switzerland,2004,female,55-74 years,146,769882,18.96,Switzerland2004,,"394,163,688,621",56123,Silent
+24839,Switzerland,2004,male,25-34 years,86,498009,17.27,Switzerland2004,,"394,163,688,621",56123,Generation X
+24840,Switzerland,2004,male,15-24 years,64,441485,14.5,Switzerland2004,,"394,163,688,621",56123,Millenials
+24841,Switzerland,2004,female,35-54 years,119,1128429,10.55,Switzerland2004,,"394,163,688,621",56123,Boomers
+24842,Switzerland,2004,female,25-34 years,34,504589,6.74,Switzerland2004,,"394,163,688,621",56123,Generation X
+24843,Switzerland,2004,female,15-24 years,21,428412,4.9,Switzerland2004,,"394,163,688,621",56123,Millenials
+24844,Switzerland,2004,male,5-14 years,1,432800,0.23,Switzerland2004,,"394,163,688,621",56123,Millenials
+24845,Switzerland,2004,female,5-14 years,0,410122,0.0,Switzerland2004,,"394,163,688,621",56123,Millenials
+24846,Switzerland,2005,male,75+ years,177,209040,84.67,Switzerland2005,0.904,"408,689,353,999",57790,Silent
+24847,Switzerland,2005,male,55-74 years,253,724348,34.93,Switzerland2005,0.904,"408,689,353,999",57790,Silent
+24848,Switzerland,2005,male,35-54 years,308,1150857,26.76,Switzerland2005,0.904,"408,689,353,999",57790,Boomers
+24849,Switzerland,2005,female,75+ years,95,361212,26.3,Switzerland2005,0.904,"408,689,353,999",57790,Silent
+24850,Switzerland,2005,male,25-34 years,90,493144,18.25,Switzerland2005,0.904,"408,689,353,999",57790,Generation X
+24851,Switzerland,2005,male,15-24 years,69,446784,15.44,Switzerland2005,0.904,"408,689,353,999",57790,Millenials
+24852,Switzerland,2005,female,55-74 years,119,780995,15.24,Switzerland2005,0.904,"408,689,353,999",57790,Silent
+24853,Switzerland,2005,female,35-54 years,123,1139207,10.8,Switzerland2005,0.904,"408,689,353,999",57790,Boomers
+24854,Switzerland,2005,female,25-34 years,40,499595,8.01,Switzerland2005,0.904,"408,689,353,999",57790,Generation X
+24855,Switzerland,2005,female,15-24 years,23,432571,5.32,Switzerland2005,0.904,"408,689,353,999",57790,Millenials
+24856,Switzerland,2005,male,5-14 years,2,428639,0.47,Switzerland2005,0.904,"408,689,353,999",57790,Millenials
+24857,Switzerland,2005,female,5-14 years,0,405599,0.0,Switzerland2005,0.904,"408,689,353,999",57790,Millenials
+24858,Switzerland,2006,male,75+ years,163,214630,75.94,Switzerland2006,,"430,921,192,375",60536,Silent
+24859,Switzerland,2006,male,55-74 years,262,737861,35.51,Switzerland2006,,"430,921,192,375",60536,Silent
+24860,Switzerland,2006,female,75+ years,108,367433,29.39,Switzerland2006,,"430,921,192,375",60536,Silent
+24861,Switzerland,2006,male,35-54 years,277,1160789,23.86,Switzerland2006,,"430,921,192,375",60536,Boomers
+24862,Switzerland,2006,male,25-34 years,95,490111,19.38,Switzerland2006,,"430,921,192,375",60536,Generation X
+24863,Switzerland,2006,female,55-74 years,149,791524,18.82,Switzerland2006,,"430,921,192,375",60536,Silent
+24864,Switzerland,2006,male,15-24 years,64,451849,14.16,Switzerland2006,,"430,921,192,375",60536,Millenials
+24865,Switzerland,2006,female,35-54 years,129,1149200,11.23,Switzerland2006,,"430,921,192,375",60536,Boomers
+24866,Switzerland,2006,female,25-34 years,34,496129,6.85,Switzerland2006,,"430,921,192,375",60536,Generation X
+24867,Switzerland,2006,female,15-24 years,23,436450,5.27,Switzerland2006,,"430,921,192,375",60536,Millenials
+24868,Switzerland,2006,female,5-14 years,3,399721,0.75,Switzerland2006,,"430,921,192,375",60536,Millenials
+24869,Switzerland,2006,male,5-14 years,2,422780,0.47,Switzerland2006,,"430,921,192,375",60536,Millenials
+24870,Switzerland,2007,male,75+ years,191,220706,86.54,Switzerland2007,,"479,913,034,322",66807,Silent
+24871,Switzerland,2007,male,55-74 years,275,751082,36.61,Switzerland2007,,"479,913,034,322",66807,Silent
+24872,Switzerland,2007,female,75+ years,122,373618,32.65,Switzerland2007,,"479,913,034,322",66807,Silent
+24873,Switzerland,2007,male,35-54 years,297,1173821,25.3,Switzerland2007,,"479,913,034,322",66807,Boomers
+24874,Switzerland,2007,female,55-74 years,138,802392,17.2,Switzerland2007,,"479,913,034,322",66807,Silent
+24875,Switzerland,2007,male,25-34 years,80,493019,16.23,Switzerland2007,,"479,913,034,322",66807,Generation X
+24876,Switzerland,2007,male,15-24 years,74,457991,16.16,Switzerland2007,,"479,913,034,322",66807,Millenials
+24877,Switzerland,2007,female,35-54 years,111,1159958,9.57,Switzerland2007,,"479,913,034,322",66807,Boomers
+24878,Switzerland,2007,female,15-24 years,36,441640,8.15,Switzerland2007,,"479,913,034,322",66807,Millenials
+24879,Switzerland,2007,female,25-34 years,32,497366,6.43,Switzerland2007,,"479,913,034,322",66807,Generation X
+24880,Switzerland,2007,male,5-14 years,3,417683,0.72,Switzerland2007,,"479,913,034,322",66807,Generation Z
+24881,Switzerland,2007,female,5-14 years,1,394319,0.25,Switzerland2007,,"479,913,034,322",66807,Generation Z
+24882,Switzerland,2008,male,75+ years,175,226861,77.14,Switzerland2008,,"554,363,487,120",76202,Silent
+24883,Switzerland,2008,male,55-74 years,251,765611,32.78,Switzerland2008,,"554,363,487,120",76202,Silent
+24884,Switzerland,2008,female,75+ years,117,379587,30.82,Switzerland2008,,"554,363,487,120",76202,Silent
+24885,Switzerland,2008,male,35-54 years,291,1190221,24.45,Switzerland2008,,"554,363,487,120",76202,Boomers
+24886,Switzerland,2008,female,55-74 years,160,814507,19.64,Switzerland2008,,"554,363,487,120",76202,Silent
+24887,Switzerland,2008,male,25-34 years,79,502793,15.71,Switzerland2008,,"554,363,487,120",76202,Generation X
+24888,Switzerland,2008,male,15-24 years,64,465273,13.76,Switzerland2008,,"554,363,487,120",76202,Millenials
+24889,Switzerland,2008,female,35-54 years,112,1172352,9.55,Switzerland2008,,"554,363,487,120",76202,Boomers
+24890,Switzerland,2008,female,25-34 years,35,504566,6.94,Switzerland2008,,"554,363,487,120",76202,Generation X
+24891,Switzerland,2008,female,15-24 years,29,447843,6.48,Switzerland2008,,"554,363,487,120",76202,Millenials
+24892,Switzerland,2008,male,5-14 years,1,414488,0.24,Switzerland2008,,"554,363,487,120",76202,Generation Z
+24893,Switzerland,2008,female,5-14 years,0,390773,0.0,Switzerland2008,,"554,363,487,120",76202,Generation Z
+24894,Switzerland,2009,male,75+ years,124,233232,53.17,Switzerland2009,,"541,506,500,414",73529,Silent
+24895,Switzerland,2009,male,55-74 years,242,780927,30.99,Switzerland2009,,"541,506,500,414",73529,Silent
+24896,Switzerland,2009,male,35-54 years,311,1204496,25.82,Switzerland2009,,"541,506,500,414",73529,Boomers
+24897,Switzerland,2009,male,15-24 years,75,470230,15.95,Switzerland2009,,"541,506,500,414",73529,Millenials
+24898,Switzerland,2009,male,25-34 years,72,512293,14.05,Switzerland2009,,"541,506,500,414",73529,Generation X
+24899,Switzerland,2009,female,75+ years,41,385288,10.64,Switzerland2009,,"541,506,500,414",73529,Silent
+24900,Switzerland,2009,female,55-74 years,85,827353,10.27,Switzerland2009,,"541,506,500,414",73529,Silent
+24901,Switzerland,2009,female,35-54 years,106,1184336,8.95,Switzerland2009,,"541,506,500,414",73529,Boomers
+24902,Switzerland,2009,female,25-34 years,25,512791,4.88,Switzerland2009,,"541,506,500,414",73529,Generation X
+24903,Switzerland,2009,female,15-24 years,20,452598,4.42,Switzerland2009,,"541,506,500,414",73529,Millenials
+24904,Switzerland,2009,male,5-14 years,3,412300,0.73,Switzerland2009,,"541,506,500,414",73529,Generation Z
+24905,Switzerland,2009,female,5-14 years,1,388714,0.26,Switzerland2009,,"541,506,500,414",73529,Generation Z
+24906,Switzerland,2010,male,75+ years,114,239990,47.5,Switzerland2010,0.924,"583,782,977,866",78474,Silent
+24907,Switzerland,2010,male,55-74 years,220,796644,27.62,Switzerland2010,0.924,"583,782,977,866",78474,Silent
+24908,Switzerland,2010,male,35-54 years,267,1213413,22.0,Switzerland2010,0.924,"583,782,977,866",78474,Generation X
+24909,Switzerland,2010,male,25-34 years,74,519177,14.25,Switzerland2010,0.924,"583,782,977,866",78474,Generation X
+24910,Switzerland,2010,female,55-74 years,96,840601,11.42,Switzerland2010,0.924,"583,782,977,866",78474,Silent
+24911,Switzerland,2010,male,15-24 years,47,472649,9.94,Switzerland2010,0.924,"583,782,977,866",78474,Millenials
+24912,Switzerland,2010,female,75+ years,36,391055,9.21,Switzerland2010,0.924,"583,782,977,866",78474,Silent
+24913,Switzerland,2010,female,35-54 years,103,1193316,8.63,Switzerland2010,0.924,"583,782,977,866",78474,Generation X
+24914,Switzerland,2010,female,25-34 years,32,519835,6.16,Switzerland2010,0.924,"583,782,977,866",78474,Generation X
+24915,Switzerland,2010,female,15-24 years,15,455057,3.3,Switzerland2010,0.924,"583,782,977,866",78474,Millenials
+24916,Switzerland,2010,male,5-14 years,2,410594,0.49,Switzerland2010,0.924,"583,782,977,866",78474,Generation Z
+24917,Switzerland,2010,female,5-14 years,0,386816,0.0,Switzerland2010,0.924,"583,782,977,866",78474,Generation Z
+24918,Switzerland,2011,male,75+ years,125,243790,51.27,Switzerland2011,0.925,"699,579,638,638",93053,Silent
+24919,Switzerland,2011,male,55-74 years,221,810438,27.27,Switzerland2011,0.925,"699,579,638,638",93053,Boomers
+24920,Switzerland,2011,male,35-54 years,261,1217823,21.43,Switzerland2011,0.925,"699,579,638,638",93053,Generation X
+24921,Switzerland,2011,male,25-34 years,81,537091,15.08,Switzerland2011,0.925,"699,579,638,638",93053,Millenials
+24922,Switzerland,2011,male,15-24 years,67,478339,14.01,Switzerland2011,0.925,"699,579,638,638",93053,Millenials
+24923,Switzerland,2011,female,75+ years,44,391559,11.24,Switzerland2011,0.925,"699,579,638,638",93053,Silent
+24924,Switzerland,2011,female,55-74 years,94,853485,11.01,Switzerland2011,0.925,"699,579,638,638",93053,Boomers
+24925,Switzerland,2011,female,35-54 years,98,1199133,8.17,Switzerland2011,0.925,"699,579,638,638",93053,Generation X
+24926,Switzerland,2011,female,25-34 years,25,528301,4.73,Switzerland2011,0.925,"699,579,638,638",93053,Millenials
+24927,Switzerland,2011,female,15-24 years,15,459710,3.26,Switzerland2011,0.925,"699,579,638,638",93053,Millenials
+24928,Switzerland,2011,male,5-14 years,2,409701,0.49,Switzerland2011,0.925,"699,579,638,638",93053,Generation Z
+24929,Switzerland,2011,female,5-14 years,1,388670,0.26,Switzerland2011,0.925,"699,579,638,638",93053,Generation Z
+24930,Switzerland,2012,male,75+ years,129,250132,51.57,Switzerland2012,0.927,"668,043,614,123",87951,Silent
+24931,Switzerland,2012,male,55-74 years,238,829160,28.7,Switzerland2012,0.927,"668,043,614,123",87951,Boomers
+24932,Switzerland,2012,male,35-54 years,251,1224836,20.49,Switzerland2012,0.927,"668,043,614,123",87951,Generation X
+24933,Switzerland,2012,male,15-24 years,65,479646,13.55,Switzerland2012,0.927,"668,043,614,123",87951,Millenials
+24934,Switzerland,2012,male,25-34 years,66,546564,12.08,Switzerland2012,0.927,"668,043,614,123",87951,Millenials
+24935,Switzerland,2012,female,55-74 years,102,869527,11.73,Switzerland2012,0.927,"668,043,614,123",87951,Boomers
+24936,Switzerland,2012,female,75+ years,41,396763,10.33,Switzerland2012,0.927,"668,043,614,123",87951,Silent
+24937,Switzerland,2012,female,35-54 years,104,1205654,8.63,Switzerland2012,0.927,"668,043,614,123",87951,Generation X
+24938,Switzerland,2012,female,25-34 years,29,536457,5.41,Switzerland2012,0.927,"668,043,614,123",87951,Millenials
+24939,Switzerland,2012,female,15-24 years,10,460498,2.17,Switzerland2012,0.927,"668,043,614,123",87951,Millenials
+24940,Switzerland,2012,male,5-14 years,3,408718,0.73,Switzerland2012,0.927,"668,043,614,123",87951,Generation Z
+24941,Switzerland,2012,female,5-14 years,0,387636,0.0,Switzerland2012,0.927,"668,043,614,123",87951,Generation Z
+24942,Switzerland,2013,male,75+ years,146,256661,56.88,Switzerland2013,0.9279999999999999,"688,504,173,431",89634,Silent
+24943,Switzerland,2013,male,55-74 years,253,848732,29.81,Switzerland2013,0.9279999999999999,"688,504,173,431",89634,Boomers
+24944,Switzerland,2013,male,35-54 years,255,1233315,20.68,Switzerland2013,0.9279999999999999,"688,504,173,431",89634,Generation X
+24945,Switzerland,2013,male,25-34 years,78,556884,14.01,Switzerland2013,0.9279999999999999,"688,504,173,431",89634,Millenials
+24946,Switzerland,2013,female,55-74 years,109,886881,12.29,Switzerland2013,0.9279999999999999,"688,504,173,431",89634,Boomers
+24947,Switzerland,2013,male,15-24 years,52,480011,10.83,Switzerland2013,0.9279999999999999,"688,504,173,431",89634,Millenials
+24948,Switzerland,2013,female,75+ years,37,401512,9.22,Switzerland2013,0.9279999999999999,"688,504,173,431",89634,Silent
+24949,Switzerland,2013,female,35-54 years,100,1212632,8.25,Switzerland2013,0.9279999999999999,"688,504,173,431",89634,Generation X
+24950,Switzerland,2013,female,25-34 years,21,545796,3.85,Switzerland2013,0.9279999999999999,"688,504,173,431",89634,Millenials
+24951,Switzerland,2013,female,15-24 years,17,460483,3.69,Switzerland2013,0.9279999999999999,"688,504,173,431",89634,Millenials
+24952,Switzerland,2013,male,5-14 years,2,409829,0.49,Switzerland2013,0.9279999999999999,"688,504,173,431",89634,Generation Z
+24953,Switzerland,2013,female,5-14 years,1,388582,0.26,Switzerland2013,0.9279999999999999,"688,504,173,431",89634,Generation Z
+24954,Switzerland,2014,male,75+ years,144,267638,53.8,Switzerland2014,0.93,"709,182,559,935",90809,Silent
+24955,Switzerland,2014,male,55-74 years,249,871329,28.58,Switzerland2014,0.93,"709,182,559,935",90809,Boomers
+24956,Switzerland,2014,male,35-54 years,245,1244576,19.69,Switzerland2014,0.93,"709,182,559,935",90809,Generation X
+24957,Switzerland,2014,male,25-34 years,68,572530,11.88,Switzerland2014,0.93,"709,182,559,935",90809,Millenials
+24958,Switzerland,2014,female,75+ years,47,408120,11.52,Switzerland2014,0.93,"709,182,559,935",90809,Silent
+24959,Switzerland,2014,male,15-24 years,48,488444,9.83,Switzerland2014,0.93,"709,182,559,935",90809,Millenials
+24960,Switzerland,2014,female,55-74 years,88,904916,9.72,Switzerland2014,0.93,"709,182,559,935",90809,Boomers
+24961,Switzerland,2014,female,35-54 years,95,1223053,7.77,Switzerland2014,0.93,"709,182,559,935",90809,Generation X
+24962,Switzerland,2014,female,25-34 years,30,565099,5.31,Switzerland2014,0.93,"709,182,559,935",90809,Millenials
+24963,Switzerland,2014,female,15-24 years,14,468004,2.99,Switzerland2014,0.93,"709,182,559,935",90809,Millenials
+24964,Switzerland,2014,female,5-14 years,2,387232,0.52,Switzerland2014,0.93,"709,182,559,935",90809,Generation Z
+24965,Switzerland,2014,male,5-14 years,2,408680,0.49,Switzerland2014,0.93,"709,182,559,935",90809,Generation Z
+24966,Switzerland,2015,male,75+ years,143,275569,51.89,Switzerland2015,,"679,289,166,858",86068,Silent
+24967,Switzerland,2015,male,55-74 years,264,891482,29.61,Switzerland2015,,"679,289,166,858",86068,Boomers
+24968,Switzerland,2015,male,35-54 years,242,1248988,19.38,Switzerland2015,,"679,289,166,858",86068,Generation X
+24969,Switzerland,2015,male,25-34 years,80,586880,13.63,Switzerland2015,,"679,289,166,858",86068,Millenials
+24970,Switzerland,2015,male,15-24 years,62,482708,12.84,Switzerland2015,,"679,289,166,858",86068,Millenials
+24971,Switzerland,2015,female,75+ years,41,414205,9.9,Switzerland2015,,"679,289,166,858",86068,Silent
+24972,Switzerland,2015,female,35-54 years,111,1227126,9.05,Switzerland2015,,"679,289,166,858",86068,Generation X
+24973,Switzerland,2015,female,55-74 years,82,922222,8.89,Switzerland2015,,"679,289,166,858",86068,Boomers
+24974,Switzerland,2015,female,15-24 years,20,462559,4.32,Switzerland2015,,"679,289,166,858",86068,Millenials
+24975,Switzerland,2015,female,25-34 years,24,577973,4.15,Switzerland2015,,"679,289,166,858",86068,Millenials
+24976,Switzerland,2015,female,5-14 years,2,390910,0.51,Switzerland2015,,"679,289,166,858",86068,Generation Z
+24977,Switzerland,2015,male,5-14 years,2,411880,0.49,Switzerland2015,,"679,289,166,858",86068,Generation Z

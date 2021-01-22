@@ -1,0 +1,289 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+8066,El Salvador,1990,male,75+ years,13,29955,43.4,El Salvador1990,0.522,"4,817,542,204",1068,G.I. Generation
+8067,El Salvador,1990,male,25-34 years,119,339719,35.03,El Salvador1990,0.522,"4,817,542,204",1068,Boomers
+8068,El Salvador,1990,male,15-24 years,127,504932,25.15,El Salvador1990,0.522,"4,817,542,204",1068,Generation X
+8069,El Salvador,1990,female,15-24 years,112,528567,21.19,El Salvador1990,0.522,"4,817,542,204",1068,Generation X
+8070,El Salvador,1990,male,35-54 years,81,427335,18.95,El Salvador1990,0.522,"4,817,542,204",1068,Silent
+8071,El Salvador,1990,male,55-74 years,34,201577,16.87,El Salvador1990,0.522,"4,817,542,204",1068,G.I. Generation
+8072,El Salvador,1990,female,25-34 years,43,383005,11.23,El Salvador1990,0.522,"4,817,542,204",1068,Boomers
+8073,El Salvador,1990,female,35-54 years,24,477092,5.03,El Salvador1990,0.522,"4,817,542,204",1068,Silent
+8074,El Salvador,1990,female,55-74 years,9,221802,4.06,El Salvador1990,0.522,"4,817,542,204",1068,G.I. Generation
+8075,El Salvador,1990,female,75+ years,1,42375,2.36,El Salvador1990,0.522,"4,817,542,204",1068,G.I. Generation
+8076,El Salvador,1990,female,5-14 years,7,671315,1.04,El Salvador1990,0.522,"4,817,542,204",1068,Generation X
+8077,El Salvador,1990,male,5-14 years,1,682878,0.15,El Salvador1990,0.522,"4,817,542,204",1068,Generation X
+8078,El Salvador,1991,male,75+ years,18,31546,57.06,El Salvador1991,,"5,252,342,400",1148,G.I. Generation
+8079,El Salvador,1991,male,25-34 years,88,347533,25.32,El Salvador1991,,"5,252,342,400",1148,Boomers
+8080,El Salvador,1991,male,15-24 years,98,513452,19.09,El Salvador1991,,"5,252,342,400",1148,Generation X
+8081,El Salvador,1991,male,55-74 years,39,207938,18.76,El Salvador1991,,"5,252,342,400",1148,Silent
+8082,El Salvador,1991,female,15-24 years,97,536557,18.08,El Salvador1991,,"5,252,342,400",1148,Generation X
+8083,El Salvador,1991,male,35-54 years,76,434946,17.47,El Salvador1991,,"5,252,342,400",1148,Boomers
+8084,El Salvador,1991,female,25-34 years,28,392748,7.13,El Salvador1991,,"5,252,342,400",1148,Boomers
+8085,El Salvador,1991,female,35-54 years,17,490048,3.47,El Salvador1991,,"5,252,342,400",1148,Boomers
+8086,El Salvador,1991,female,75+ years,1,44305,2.26,El Salvador1991,,"5,252,342,400",1148,G.I. Generation
+8087,El Salvador,1991,female,55-74 years,3,228668,1.31,El Salvador1991,,"5,252,342,400",1148,Silent
+8088,El Salvador,1991,female,5-14 years,8,668713,1.2,El Salvador1991,,"5,252,342,400",1148,Millenials
+8089,El Salvador,1991,male,5-14 years,1,680531,0.15,El Salvador1991,,"5,252,342,400",1148,Millenials
+8090,El Salvador,1992,male,25-34 years,72,327300,22.0,El Salvador1992,,"5,813,399,300",1266,Boomers
+8091,El Salvador,1992,male,55-74 years,36,198300,18.15,El Salvador1992,,"5,813,399,300",1266,Silent
+8092,El Salvador,1992,male,35-54 years,71,415900,17.07,El Salvador1992,,"5,813,399,300",1266,Boomers
+8093,El Salvador,1992,female,15-24 years,87,582300,14.94,El Salvador1992,,"5,813,399,300",1266,Generation X
+8094,El Salvador,1992,male,15-24 years,83,568700,14.59,El Salvador1992,,"5,813,399,300",1266,Generation X
+8095,El Salvador,1992,male,75+ years,4,28500,14.04,El Salvador1992,,"5,813,399,300",1266,G.I. Generation
+8096,El Salvador,1992,female,25-34 years,34,378700,8.98,El Salvador1992,,"5,813,399,300",1266,Boomers
+8097,El Salvador,1992,female,75+ years,2,42600,4.69,El Salvador1992,,"5,813,399,300",1266,G.I. Generation
+8098,El Salvador,1992,female,35-54 years,16,453500,3.53,El Salvador1992,,"5,813,399,300",1266,Boomers
+8099,El Salvador,1992,female,5-14 years,6,673800,0.89,El Salvador1992,,"5,813,399,300",1266,Millenials
+8100,El Salvador,1992,female,55-74 years,2,227500,0.88,El Salvador1992,,"5,813,399,300",1266,Silent
+8101,El Salvador,1992,male,5-14 years,6,694500,0.86,El Salvador1992,,"5,813,399,300",1266,Millenials
+8102,El Salvador,1993,male,25-34 years,83,339200,24.47,El Salvador1993,,"6,680,269,200",1423,Boomers
+8103,El Salvador,1993,male,75+ years,6,30100,19.93,El Salvador1993,,"6,680,269,200",1423,G.I. Generation
+8104,El Salvador,1993,male,15-24 years,113,594200,19.02,El Salvador1993,,"6,680,269,200",1423,Generation X
+8105,El Salvador,1993,female,15-24 years,81,602300,13.45,El Salvador1993,,"6,680,269,200",1423,Generation X
+8106,El Salvador,1993,male,55-74 years,23,202600,11.35,El Salvador1993,,"6,680,269,200",1423,Silent
+8107,El Salvador,1993,male,35-54 years,43,425700,10.1,El Salvador1993,,"6,680,269,200",1423,Boomers
+8108,El Salvador,1993,female,75+ years,4,45400,8.81,El Salvador1993,,"6,680,269,200",1423,G.I. Generation
+8109,El Salvador,1993,female,25-34 years,29,392000,7.4,El Salvador1993,,"6,680,269,200",1423,Boomers
+8110,El Salvador,1993,female,35-54 years,19,468000,4.06,El Salvador1993,,"6,680,269,200",1423,Boomers
+8111,El Salvador,1993,female,55-74 years,6,233000,2.58,El Salvador1993,,"6,680,269,200",1423,Silent
+8112,El Salvador,1993,female,5-14 years,13,670500,1.94,El Salvador1993,,"6,680,269,200",1423,Millenials
+8113,El Salvador,1993,male,5-14 years,4,691300,0.58,El Salvador1993,,"6,680,269,200",1423,Millenials
+8114,El Salvador,1995,male,25-34 years,124,374095,33.15,El Salvador1995,0.5660000000000001,"8,921,947,100",1845,Generation X
+8115,El Salvador,1995,male,15-24 years,171,534966,31.96,El Salvador1995,0.5660000000000001,"8,921,947,100",1845,Generation X
+8116,El Salvador,1995,male,75+ years,9,36691,24.53,El Salvador1995,0.5660000000000001,"8,921,947,100",1845,G.I. Generation
+8117,El Salvador,1995,female,15-24 years,114,556096,20.5,El Salvador1995,0.5660000000000001,"8,921,947,100",1845,Generation X
+8118,El Salvador,1995,male,35-54 years,90,466571,19.29,El Salvador1995,0.5660000000000001,"8,921,947,100",1845,Boomers
+8119,El Salvador,1995,female,25-34 years,42,427927,9.81,El Salvador1995,0.5660000000000001,"8,921,947,100",1845,Generation X
+8120,El Salvador,1995,male,55-74 years,20,235530,8.49,El Salvador1995,0.5660000000000001,"8,921,947,100",1845,Silent
+8121,El Salvador,1995,female,35-54 years,23,546262,4.21,El Salvador1995,0.5660000000000001,"8,921,947,100",1845,Boomers
+8122,El Salvador,1995,female,5-14 years,16,664854,2.41,El Salvador1995,0.5660000000000001,"8,921,947,100",1845,Millenials
+8123,El Salvador,1995,female,55-74 years,6,260709,2.3,El Salvador1995,0.5660000000000001,"8,921,947,100",1845,Silent
+8124,El Salvador,1995,female,75+ years,1,51334,1.95,El Salvador1995,0.5660000000000001,"8,921,947,100",1845,G.I. Generation
+8125,El Salvador,1995,male,5-14 years,4,681362,0.59,El Salvador1995,0.5660000000000001,"8,921,947,100",1845,Millenials
+8126,El Salvador,1996,male,25-34 years,110,379510,28.98,El Salvador1996,,"9,586,327,800",1959,Generation X
+8127,El Salvador,1996,male,75+ years,10,38834,25.75,El Salvador1996,,"9,586,327,800",1959,G.I. Generation
+8128,El Salvador,1996,male,15-24 years,128,536760,23.85,El Salvador1996,,"9,586,327,800",1959,Generation X
+8129,El Salvador,1996,female,15-24 years,112,559279,20.03,El Salvador1996,,"9,586,327,800",1959,Generation X
+8130,El Salvador,1996,male,35-54 years,82,472893,17.34,El Salvador1996,,"9,586,327,800",1959,Boomers
+8131,El Salvador,1996,male,55-74 years,40,240800,16.61,El Salvador1996,,"9,586,327,800",1959,Silent
+8132,El Salvador,1996,female,25-34 years,22,434209,5.07,El Salvador1996,,"9,586,327,800",1959,Generation X
+8133,El Salvador,1996,female,35-54 years,20,557964,3.58,El Salvador1996,,"9,586,327,800",1959,Boomers
+8134,El Salvador,1996,female,55-74 years,7,267732,2.61,El Salvador1996,,"9,586,327,800",1959,Silent
+8135,El Salvador,1996,female,5-14 years,7,666674,1.05,El Salvador1996,,"9,586,327,800",1959,Millenials
+8136,El Salvador,1996,male,5-14 years,2,683884,0.29,El Salvador1996,,"9,586,327,800",1959,Millenials
+8137,El Salvador,1996,female,75+ years,0,53852,0.0,El Salvador1996,,"9,586,327,800",1959,G.I. Generation
+8138,El Salvador,1997,male,25-34 years,93,384050,24.22,El Salvador1997,,"10,221,705,900",2065,Generation X
+8139,El Salvador,1997,male,15-24 years,128,537324,23.82,El Salvador1997,,"10,221,705,900",2065,Generation X
+8140,El Salvador,1997,male,35-54 years,106,479586,22.1,El Salvador1997,,"10,221,705,900",2065,Boomers
+8141,El Salvador,1997,female,15-24 years,109,561311,19.42,El Salvador1997,,"10,221,705,900",2065,Generation X
+8142,El Salvador,1997,male,55-74 years,47,245832,19.12,El Salvador1997,,"10,221,705,900",2065,Silent
+8143,El Salvador,1997,male,75+ years,4,40876,9.79,El Salvador1997,,"10,221,705,900",2065,G.I. Generation
+8144,El Salvador,1997,female,25-34 years,39,440015,8.86,El Salvador1997,,"10,221,705,900",2065,Generation X
+8145,El Salvador,1997,female,35-54 years,28,570003,4.91,El Salvador1997,,"10,221,705,900",2065,Boomers
+8146,El Salvador,1997,female,75+ years,2,56321,3.55,El Salvador1997,,"10,221,705,900",2065,G.I. Generation
+8147,El Salvador,1997,female,5-14 years,15,670365,2.24,El Salvador1997,,"10,221,705,900",2065,Millenials
+8148,El Salvador,1997,female,55-74 years,5,275078,1.82,El Salvador1997,,"10,221,705,900",2065,Silent
+8149,El Salvador,1997,male,5-14 years,1,688541,0.15,El Salvador1997,,"10,221,705,900",2065,Millenials
+8150,El Salvador,1998,male,25-34 years,94,387565,24.25,El Salvador1998,,"10,936,669,900",2185,Generation X
+8151,El Salvador,1998,male,35-54 years,98,486466,20.15,El Salvador1998,,"10,936,669,900",2185,Boomers
+8152,El Salvador,1998,male,15-24 years,108,537038,20.11,El Salvador1998,,"10,936,669,900",2185,Generation X
+8153,El Salvador,1998,female,15-24 years,92,562249,16.36,El Salvador1998,,"10,936,669,900",2185,Generation X
+8154,El Salvador,1998,male,55-74 years,36,250628,14.36,El Salvador1998,,"10,936,669,900",2185,Silent
+8155,El Salvador,1998,male,75+ years,5,42770,11.69,El Salvador1998,,"10,936,669,900",2185,G.I. Generation
+8156,El Salvador,1998,female,25-34 years,35,445330,7.86,El Salvador1998,,"10,936,669,900",2185,Generation X
+8157,El Salvador,1998,female,35-54 years,22,582217,3.78,El Salvador1998,,"10,936,669,900",2185,Boomers
+8158,El Salvador,1998,female,5-14 years,13,675678,1.92,El Salvador1998,,"10,936,669,900",2185,Millenials
+8159,El Salvador,1998,female,55-74 years,5,282668,1.77,El Salvador1998,,"10,936,669,900",2185,Silent
+8160,El Salvador,1998,male,5-14 years,4,695037,0.58,El Salvador1998,,"10,936,669,900",2185,Millenials
+8161,El Salvador,1998,female,75+ years,0,58692,0.0,El Salvador1998,,"10,936,669,900",2185,G.I. Generation
+8162,El Salvador,1999,male,25-34 years,84,390125,21.53,El Salvador1999,,"11,284,197,000",2229,Generation X
+8163,El Salvador,1999,male,15-24 years,115,536426,21.44,El Salvador1999,,"11,284,197,000",2229,Generation X
+8164,El Salvador,1999,male,35-54 years,101,493326,20.47,El Salvador1999,,"11,284,197,000",2229,Boomers
+8165,El Salvador,1999,male,75+ years,8,44452,18.0,El Salvador1999,,"11,284,197,000",2229,G.I. Generation
+8166,El Salvador,1999,female,15-24 years,94,562372,16.71,El Salvador1999,,"11,284,197,000",2229,Generation X
+8167,El Salvador,1999,male,55-74 years,33,255222,12.93,El Salvador1999,,"11,284,197,000",2229,Silent
+8168,El Salvador,1999,female,25-34 years,28,450238,6.22,El Salvador1999,,"11,284,197,000",2229,Generation X
+8169,El Salvador,1999,female,35-54 years,27,594483,4.54,El Salvador1999,,"11,284,197,000",2229,Boomers
+8170,El Salvador,1999,female,5-14 years,14,682007,2.05,El Salvador1999,,"11,284,197,000",2229,Millenials
+8171,El Salvador,1999,female,55-74 years,5,290451,1.72,El Salvador1999,,"11,284,197,000",2229,Silent
+8172,El Salvador,1999,female,75+ years,1,60903,1.64,El Salvador1999,,"11,284,197,000",2229,G.I. Generation
+8173,El Salvador,1999,male,5-14 years,5,702754,0.71,El Salvador1999,,"11,284,197,000",2229,Millenials
+8174,El Salvador,2000,male,25-34 years,82,391884,20.92,El Salvador2000,0.603,"11,784,927,700",2303,Generation X
+8175,El Salvador,2000,male,15-24 years,110,536079,20.52,El Salvador2000,0.603,"11,784,927,700",2303,Generation X
+8176,El Salvador,2000,male,35-54 years,91,500065,18.2,El Salvador2000,0.603,"11,784,927,700",2303,Boomers
+8177,El Salvador,2000,female,15-24 years,82,562148,14.59,El Salvador2000,0.603,"11,784,927,700",2303,Generation X
+8178,El Salvador,2000,male,55-74 years,31,259670,11.94,El Salvador2000,0.603,"11,784,927,700",2303,Silent
+8179,El Salvador,2000,male,75+ years,3,45935,6.53,El Salvador2000,0.603,"11,784,927,700",2303,G.I. Generation
+8180,El Salvador,2000,female,75+ years,4,62940,6.36,El Salvador2000,0.603,"11,784,927,700",2303,G.I. Generation
+8181,El Salvador,2000,female,25-34 years,25,454793,5.5,El Salvador2000,0.603,"11,784,927,700",2303,Generation X
+8182,El Salvador,2000,female,35-54 years,23,606774,3.79,El Salvador2000,0.603,"11,784,927,700",2303,Boomers
+8183,El Salvador,2000,female,55-74 years,4,298428,1.34,El Salvador2000,0.603,"11,784,927,700",2303,Silent
+8184,El Salvador,2000,female,5-14 years,4,688554,0.58,El Salvador2000,0.603,"11,784,927,700",2303,Millenials
+8185,El Salvador,2000,male,5-14 years,2,710919,0.28,El Salvador2000,0.603,"11,784,927,700",2303,Millenials
+8186,El Salvador,2001,male,15-24 years,130,535877,24.26,El Salvador2001,,"12,282,533,600",2373,Millenials
+8187,El Salvador,2001,male,25-34 years,90,395177,22.77,El Salvador2001,,"12,282,533,600",2373,Generation X
+8188,El Salvador,2001,male,35-54 years,91,506547,17.96,El Salvador2001,,"12,282,533,600",2373,Boomers
+8189,El Salvador,2001,male,75+ years,8,48437,16.52,El Salvador2001,,"12,282,533,600",2373,Silent
+8190,El Salvador,2001,male,55-74 years,42,263234,15.96,El Salvador2001,,"12,282,533,600",2373,Silent
+8191,El Salvador,2001,female,15-24 years,74,563601,13.13,El Salvador2001,,"12,282,533,600",2373,Millenials
+8192,El Salvador,2001,female,25-34 years,27,459669,5.87,El Salvador2001,,"12,282,533,600",2373,Generation X
+8193,El Salvador,2001,female,35-54 years,30,618020,4.85,El Salvador2001,,"12,282,533,600",2373,Boomers
+8194,El Salvador,2001,female,75+ years,3,65804,4.56,El Salvador2001,,"12,282,533,600",2373,Silent
+8195,El Salvador,2001,female,55-74 years,6,304753,1.97,El Salvador2001,,"12,282,533,600",2373,Silent
+8196,El Salvador,2001,female,5-14 years,12,695687,1.72,El Salvador2001,,"12,282,533,600",2373,Millenials
+8197,El Salvador,2001,male,5-14 years,1,718288,0.14,El Salvador2001,,"12,282,533,600",2373,Millenials
+8198,El Salvador,2002,male,75+ years,11,50753,21.67,El Salvador2002,,"12,664,190,300",2421,Silent
+8199,El Salvador,2002,male,25-34 years,71,397854,17.85,El Salvador2002,,"12,664,190,300",2421,Generation X
+8200,El Salvador,2002,male,15-24 years,95,535886,17.73,El Salvador2002,,"12,664,190,300",2421,Millenials
+8201,El Salvador,2002,male,35-54 years,84,513122,16.37,El Salvador2002,,"12,664,190,300",2421,Boomers
+8202,El Salvador,2002,male,55-74 years,39,266616,14.63,El Salvador2002,,"12,664,190,300",2421,Silent
+8203,El Salvador,2002,female,15-24 years,76,565074,13.45,El Salvador2002,,"12,664,190,300",2421,Millenials
+8204,El Salvador,2002,female,25-34 years,18,464461,3.88,El Salvador2002,,"12,664,190,300",2421,Generation X
+8205,El Salvador,2002,female,35-54 years,24,629533,3.81,El Salvador2002,,"12,664,190,300",2421,Boomers
+8206,El Salvador,2002,female,55-74 years,7,311230,2.25,El Salvador2002,,"12,664,190,300",2421,Silent
+8207,El Salvador,2002,female,5-14 years,7,702143,1.0,El Salvador2002,,"12,664,190,300",2421,Millenials
+8208,El Salvador,2002,male,5-14 years,4,725313,0.55,El Salvador2002,,"12,664,190,300",2421,Millenials
+8209,El Salvador,2002,female,75+ years,0,68473,0.0,El Salvador2002,,"12,664,190,300",2421,Silent
+8210,El Salvador,2003,male,25-34 years,117,399587,29.28,El Salvador2003,,"13,243,892,200",2507,Generation X
+8211,El Salvador,2003,male,15-24 years,112,537000,20.86,El Salvador2003,,"13,243,892,200",2507,Millenials
+8212,El Salvador,2003,male,35-54 years,102,519619,19.63,El Salvador2003,,"13,243,892,200",2507,Boomers
+8213,El Salvador,2003,male,55-74 years,46,269903,17.04,El Salvador2003,,"13,243,892,200",2507,Silent
+8214,El Salvador,2003,male,75+ years,8,52961,15.11,El Salvador2003,,"13,243,892,200",2507,Silent
+8215,El Salvador,2003,female,15-24 years,79,567174,13.93,El Salvador2003,,"13,243,892,200",2507,Millenials
+8216,El Salvador,2003,female,25-34 years,19,468892,4.05,El Salvador2003,,"13,243,892,200",2507,Generation X
+8217,El Salvador,2003,female,35-54 years,23,641104,3.59,El Salvador2003,,"13,243,892,200",2507,Boomers
+8218,El Salvador,2003,female,55-74 years,7,317915,2.2,El Salvador2003,,"13,243,892,200",2507,Silent
+8219,El Salvador,2003,female,5-14 years,10,707158,1.41,El Salvador2003,,"13,243,892,200",2507,Millenials
+8220,El Salvador,2003,female,75+ years,1,71062,1.41,El Salvador2003,,"13,243,892,200",2507,Silent
+8221,El Salvador,2003,male,5-14 years,3,731167,0.41,El Salvador2003,,"13,243,892,200",2507,Millenials
+8222,El Salvador,2004,male,25-34 years,86,399986,21.5,El Salvador2004,,"13,724,810,900",2573,Generation X
+8223,El Salvador,2004,male,15-24 years,108,540251,19.99,El Salvador2004,,"13,724,810,900",2573,Millenials
+8224,El Salvador,2004,male,35-54 years,104,525677,19.78,El Salvador2004,,"13,724,810,900",2573,Boomers
+8225,El Salvador,2004,male,55-74 years,42,273214,15.37,El Salvador2004,,"13,724,810,900",2573,Silent
+8226,El Salvador,2004,male,75+ years,7,55160,12.69,El Salvador2004,,"13,724,810,900",2573,Silent
+8227,El Salvador,2004,female,15-24 years,60,570702,10.51,El Salvador2004,,"13,724,810,900",2573,Millenials
+8228,El Salvador,2004,female,25-34 years,22,472515,4.66,El Salvador2004,,"13,724,810,900",2573,Generation X
+8229,El Salvador,2004,female,35-54 years,20,652329,3.07,El Salvador2004,,"13,724,810,900",2573,Boomers
+8230,El Salvador,2004,female,75+ years,1,73698,1.36,El Salvador2004,,"13,724,810,900",2573,Silent
+8231,El Salvador,2004,female,55-74 years,4,324903,1.23,El Salvador2004,,"13,724,810,900",2573,Silent
+8232,El Salvador,2004,female,5-14 years,8,709844,1.13,El Salvador2004,,"13,724,810,900",2573,Millenials
+8233,El Salvador,2004,male,5-14 years,2,734891,0.27,El Salvador2004,,"13,724,810,900",2573,Millenials
+8234,El Salvador,2005,male,25-34 years,86,398935,21.56,El Salvador2005,0.638,"14,698,001,400",2733,Generation X
+8235,El Salvador,2005,male,15-24 years,103,546352,18.85,El Salvador2005,0.638,"14,698,001,400",2733,Millenials
+8236,El Salvador,2005,male,55-74 years,47,276600,16.99,El Salvador2005,0.638,"14,698,001,400",2733,Silent
+8237,El Salvador,2005,male,35-54 years,88,530976,16.57,El Salvador2005,0.638,"14,698,001,400",2733,Boomers
+8238,El Salvador,2005,male,75+ years,9,57396,15.68,El Salvador2005,0.638,"14,698,001,400",2733,Silent
+8239,El Salvador,2005,female,15-24 years,65,576188,11.28,El Salvador2005,0.638,"14,698,001,400",2733,Millenials
+8240,El Salvador,2005,female,75+ years,4,76442,5.23,El Salvador2005,0.638,"14,698,001,400",2733,Silent
+8241,El Salvador,2005,female,25-34 years,22,475096,4.63,El Salvador2005,0.638,"14,698,001,400",2733,Generation X
+8242,El Salvador,2005,female,35-54 years,12,662917,1.81,El Salvador2005,0.638,"14,698,001,400",2733,Boomers
+8243,El Salvador,2005,female,5-14 years,12,709756,1.69,El Salvador2005,0.638,"14,698,001,400",2733,Millenials
+8244,El Salvador,2005,female,55-74 years,3,332256,0.9,El Salvador2005,0.638,"14,698,001,400",2733,Silent
+8245,El Salvador,2005,male,5-14 years,4,735965,0.54,El Salvador2005,0.638,"14,698,001,400",2733,Millenials
+8246,El Salvador,2006,male,25-34 years,80,401266,19.94,El Salvador2006,,"15,999,886,400",2947,Generation X
+8247,El Salvador,2006,male,15-24 years,89,554177,16.06,El Salvador2006,,"15,999,886,400",2947,Millenials
+8248,El Salvador,2006,male,75+ years,9,60827,14.8,El Salvador2006,,"15,999,886,400",2947,Silent
+8249,El Salvador,2006,male,35-54 years,78,537725,14.51,El Salvador2006,,"15,999,886,400",2947,Boomers
+8250,El Salvador,2006,male,55-74 years,32,280005,11.43,El Salvador2006,,"15,999,886,400",2947,Silent
+8251,El Salvador,2006,female,15-24 years,61,583805,10.45,El Salvador2006,,"15,999,886,400",2947,Millenials
+8252,El Salvador,2006,female,25-34 years,24,478826,5.01,El Salvador2006,,"15,999,886,400",2947,Generation X
+8253,El Salvador,2006,female,35-54 years,23,674459,3.41,El Salvador2006,,"15,999,886,400",2947,Boomers
+8254,El Salvador,2006,female,55-74 years,5,339861,1.47,El Salvador2006,,"15,999,886,400",2947,Silent
+8255,El Salvador,2006,female,75+ years,1,80379,1.24,El Salvador2006,,"15,999,886,400",2947,Silent
+8256,El Salvador,2006,male,5-14 years,5,731674,0.68,El Salvador2006,,"15,999,886,400",2947,Millenials
+8257,El Salvador,2006,female,5-14 years,4,706040,0.57,El Salvador2006,,"15,999,886,400",2947,Millenials
+8258,El Salvador,2007,male,25-34 years,114,401997,28.36,El Salvador2007,,"17,011,750,900",3111,Generation X
+8259,El Salvador,2007,male,35-54 years,111,543505,20.42,El Salvador2007,,"17,011,750,900",3111,Boomers
+8260,El Salvador,2007,male,75+ years,13,64151,20.26,El Salvador2007,,"17,011,750,900",3111,Silent
+8261,El Salvador,2007,male,55-74 years,53,283342,18.71,El Salvador2007,,"17,011,750,900",3111,Silent
+8262,El Salvador,2007,male,15-24 years,93,563128,16.51,El Salvador2007,,"17,011,750,900",3111,Millenials
+8263,El Salvador,2007,female,15-24 years,57,592288,9.62,El Salvador2007,,"17,011,750,900",3111,Millenials
+8264,El Salvador,2007,female,25-34 years,22,481271,4.57,El Salvador2007,,"17,011,750,900",3111,Generation X
+8265,El Salvador,2007,female,75+ years,2,84282,2.37,El Salvador2007,,"17,011,750,900",3111,Silent
+8266,El Salvador,2007,female,55-74 years,8,347632,2.3,El Salvador2007,,"17,011,750,900",3111,Silent
+8267,El Salvador,2007,female,35-54 years,14,684881,2.04,El Salvador2007,,"17,011,750,900",3111,Boomers
+8268,El Salvador,2007,female,5-14 years,9,698018,1.29,El Salvador2007,,"17,011,750,900",3111,Generation Z
+8269,El Salvador,2007,male,5-14 years,5,723366,0.69,El Salvador2007,,"17,011,750,900",3111,Generation Z
+8270,El Salvador,2008,male,75+ years,19,67413,28.18,El Salvador2008,,"17,986,886,200",3271,Silent
+8271,El Salvador,2008,male,25-34 years,103,401584,25.65,El Salvador2008,,"17,986,886,200",3271,Generation X
+8272,El Salvador,2008,male,35-54 years,103,548836,18.77,El Salvador2008,,"17,986,886,200",3271,Boomers
+8273,El Salvador,2008,male,15-24 years,106,573262,18.49,El Salvador2008,,"17,986,886,200",3271,Millenials
+8274,El Salvador,2008,male,55-74 years,38,286738,13.25,El Salvador2008,,"17,986,886,200",3271,Silent
+8275,El Salvador,2008,female,15-24 years,53,601543,8.81,El Salvador2008,,"17,986,886,200",3271,Millenials
+8276,El Salvador,2008,female,25-34 years,26,482895,5.38,El Salvador2008,,"17,986,886,200",3271,Generation X
+8277,El Salvador,2008,female,35-54 years,29,694764,4.17,El Salvador2008,,"17,986,886,200",3271,Boomers
+8278,El Salvador,2008,female,75+ years,1,88207,1.13,El Salvador2008,,"17,986,886,200",3271,Silent
+8279,El Salvador,2008,female,5-14 years,5,686491,0.73,El Salvador2008,,"17,986,886,200",3271,Generation Z
+8280,El Salvador,2008,male,5-14 years,5,711888,0.7,El Salvador2008,,"17,986,886,200",3271,Generation Z
+8281,El Salvador,2008,female,55-74 years,2,355666,0.56,El Salvador2008,,"17,986,886,200",3271,Silent
+8282,El Salvador,2009,male,25-34 years,120,400776,29.94,El Salvador2009,,"17,601,616,000",3184,Generation X
+8283,El Salvador,2009,male,35-54 years,113,554321,20.39,El Salvador2009,,"17,601,616,000",3184,Boomers
+8284,El Salvador,2009,male,75+ years,13,70655,18.4,El Salvador2009,,"17,601,616,000",3184,Silent
+8285,El Salvador,2009,male,55-74 years,49,290324,16.88,El Salvador2009,,"17,601,616,000",3184,Silent
+8286,El Salvador,2009,male,15-24 years,95,584388,16.26,El Salvador2009,,"17,601,616,000",3184,Millenials
+8287,El Salvador,2009,female,15-24 years,55,611290,9.0,El Salvador2009,,"17,601,616,000",3184,Millenials
+8288,El Salvador,2009,female,25-34 years,27,484388,5.57,El Salvador2009,,"17,601,616,000",3184,Generation X
+8289,El Salvador,2009,female,35-54 years,16,704865,2.27,El Salvador2009,,"17,601,616,000",3184,Boomers
+8290,El Salvador,2009,female,75+ years,2,92201,2.17,El Salvador2009,,"17,601,616,000",3184,Silent
+8291,El Salvador,2009,female,55-74 years,7,364066,1.92,El Salvador2009,,"17,601,616,000",3184,Silent
+8292,El Salvador,2009,female,5-14 years,6,672905,0.89,El Salvador2009,,"17,601,616,000",3184,Generation Z
+8293,El Salvador,2009,male,5-14 years,3,698731,0.43,El Salvador2009,,"17,601,616,000",3184,Generation Z
+8294,El Salvador,2010,male,25-34 years,93,400088,23.24,El Salvador2010,0.653,"18,447,922,400",3318,Generation X
+8295,El Salvador,2010,male,55-74 years,45,294119,15.3,El Salvador2010,0.653,"18,447,922,400",3318,Silent
+8296,El Salvador,2010,male,75+ years,11,73884,14.89,El Salvador2010,0.653,"18,447,922,400",3318,Silent
+8297,El Salvador,2010,male,15-24 years,81,596366,13.58,El Salvador2010,0.653,"18,447,922,400",3318,Millenials
+8298,El Salvador,2010,male,35-54 years,73,560083,13.03,El Salvador2010,0.653,"18,447,922,400",3318,Generation X
+8299,El Salvador,2010,female,15-24 years,44,621228,7.08,El Salvador2010,0.653,"18,447,922,400",3318,Millenials
+8300,El Salvador,2010,female,25-34 years,19,486153,3.91,El Salvador2010,0.653,"18,447,922,400",3318,Generation X
+8301,El Salvador,2010,female,35-54 years,20,715456,2.8,El Salvador2010,0.653,"18,447,922,400",3318,Generation X
+8302,El Salvador,2010,female,75+ years,2,96291,2.08,El Salvador2010,0.653,"18,447,922,400",3318,Silent
+8303,El Salvador,2010,female,5-14 years,7,658707,1.06,El Salvador2010,0.653,"18,447,922,400",3318,Generation Z
+8304,El Salvador,2010,female,55-74 years,3,372845,0.8,El Salvador2010,0.653,"18,447,922,400",3318,Silent
+8305,El Salvador,2010,male,5-14 years,1,685233,0.15,El Salvador2010,0.653,"18,447,922,400",3318,Generation Z
+8306,El Salvador,2011,male,25-34 years,100,402814,24.83,El Salvador2011,0.6579999999999999,"20,283,783,700",3631,Millenials
+8307,El Salvador,2011,male,75+ years,15,77576,19.34,El Salvador2011,0.6579999999999999,"20,283,783,700",3631,Silent
+8308,El Salvador,2011,male,15-24 years,116,607120,19.11,El Salvador2011,0.6579999999999999,"20,283,783,700",3631,Millenials
+8309,El Salvador,2011,male,35-54 years,85,565884,15.02,El Salvador2011,0.6579999999999999,"20,283,783,700",3631,Generation X
+8310,El Salvador,2011,male,55-74 years,39,297029,13.13,El Salvador2011,0.6579999999999999,"20,283,783,700",3631,Boomers
+8311,El Salvador,2011,female,15-24 years,52,630434,8.25,El Salvador2011,0.6579999999999999,"20,283,783,700",3631,Millenials
+8312,El Salvador,2011,female,25-34 years,26,488848,5.32,El Salvador2011,0.6579999999999999,"20,283,783,700",3631,Millenials
+8313,El Salvador,2011,female,35-54 years,22,725601,3.03,El Salvador2011,0.6579999999999999,"20,283,783,700",3631,Generation X
+8314,El Salvador,2011,female,75+ years,3,100865,2.97,El Salvador2011,0.6579999999999999,"20,283,783,700",3631,Silent
+8315,El Salvador,2011,female,5-14 years,12,642054,1.87,El Salvador2011,0.6579999999999999,"20,283,783,700",3631,Generation Z
+8316,El Salvador,2011,male,5-14 years,12,666916,1.8,El Salvador2011,0.6579999999999999,"20,283,783,700",3631,Generation Z
+8317,El Salvador,2011,female,55-74 years,3,380644,0.79,El Salvador2011,0.6579999999999999,"20,283,783,700",3631,Boomers
+8318,El Salvador,2012,male,25-34 years,109,406026,26.85,El Salvador2012,0.662,"21,386,153,000",3806,Millenials
+8319,El Salvador,2012,male,55-74 years,62,300461,20.63,El Salvador2012,0.662,"21,386,153,000",3806,Boomers
+8320,El Salvador,2012,male,75+ years,16,81225,19.7,El Salvador2012,0.662,"21,386,153,000",3806,Silent
+8321,El Salvador,2012,male,35-54 years,98,572655,17.11,El Salvador2012,0.662,"21,386,153,000",3806,Generation X
+8322,El Salvador,2012,male,15-24 years,100,618195,16.18,El Salvador2012,0.662,"21,386,153,000",3806,Millenials
+8323,El Salvador,2012,female,15-24 years,56,639803,8.75,El Salvador2012,0.662,"21,386,153,000",3806,Millenials
+8324,El Salvador,2012,female,25-34 years,26,492068,5.28,El Salvador2012,0.662,"21,386,153,000",3806,Millenials
+8325,El Salvador,2012,female,35-54 years,19,736698,2.58,El Salvador2012,0.662,"21,386,153,000",3806,Generation X
+8326,El Salvador,2012,female,75+ years,2,105481,1.9,El Salvador2012,0.662,"21,386,153,000",3806,Silent
+8327,El Salvador,2012,male,5-14 years,11,650570,1.69,El Salvador2012,0.662,"21,386,153,000",3806,Generation Z
+8328,El Salvador,2012,female,5-14 years,9,626538,1.44,El Salvador2012,0.662,"21,386,153,000",3806,Generation Z
+8329,El Salvador,2012,female,55-74 years,4,389103,1.03,El Salvador2012,0.662,"21,386,153,000",3806,Boomers
+8330,El Salvador,2013,male,25-34 years,95,409974,23.17,El Salvador2013,0.664,"21,977,401,900",3885,Millenials
+8331,El Salvador,2013,male,35-54 years,129,579811,22.25,El Salvador2013,0.664,"21,977,401,900",3885,Generation X
+8332,El Salvador,2013,male,75+ years,18,84746,21.24,El Salvador2013,0.664,"21,977,401,900",3885,Silent
+8333,El Salvador,2013,male,55-74 years,59,304397,19.38,El Salvador2013,0.664,"21,977,401,900",3885,Boomers
+8334,El Salvador,2013,male,15-24 years,79,628312,12.57,El Salvador2013,0.664,"21,977,401,900",3885,Millenials
+8335,El Salvador,2013,female,15-24 years,43,648028,6.64,El Salvador2013,0.664,"21,977,401,900",3885,Millenials
+8336,El Salvador,2013,female,25-34 years,22,496109,4.43,El Salvador2013,0.664,"21,977,401,900",3885,Millenials
+8337,El Salvador,2013,female,35-54 years,19,748153,2.54,El Salvador2013,0.664,"21,977,401,900",3885,Generation X
+8338,El Salvador,2013,female,55-74 years,7,398116,1.76,El Salvador2013,0.664,"21,977,401,900",3885,Boomers
+8339,El Salvador,2013,female,5-14 years,7,612761,1.14,El Salvador2013,0.664,"21,977,401,900",3885,Generation Z
+8340,El Salvador,2013,male,5-14 years,6,636699,0.94,El Salvador2013,0.664,"21,977,401,900",3885,Generation Z
+8341,El Salvador,2013,female,75+ years,0,110144,0.0,El Salvador2013,0.664,"21,977,401,900",3885,Silent
+8342,El Salvador,2014,male,75+ years,19,87989,21.59,El Salvador2014,0.6659999999999999,"22,585,841,200",3965,Silent
+8343,El Salvador,2014,male,25-34 years,77,415163,18.55,El Salvador2014,0.6659999999999999,"22,585,841,200",3965,Millenials
+8344,El Salvador,2014,male,35-54 years,85,586412,14.49,El Salvador2014,0.6659999999999999,"22,585,841,200",3965,Generation X
+8345,El Salvador,2014,male,55-74 years,44,308802,14.25,El Salvador2014,0.6659999999999999,"22,585,841,200",3965,Boomers
+8346,El Salvador,2014,male,15-24 years,51,635499,8.03,El Salvador2014,0.6659999999999999,"22,585,841,200",3965,Millenials
+8347,El Salvador,2014,female,75+ years,9,114804,7.84,El Salvador2014,0.6659999999999999,"22,585,841,200",3965,Silent
+8348,El Salvador,2014,female,15-24 years,33,653215,5.05,El Salvador2014,0.6659999999999999,"22,585,841,200",3965,Millenials
+8349,El Salvador,2014,female,25-34 years,24,501438,4.79,El Salvador2014,0.6659999999999999,"22,585,841,200",3965,Millenials
+8350,El Salvador,2014,female,35-54 years,27,758979,3.56,El Salvador2014,0.6659999999999999,"22,585,841,200",3965,Generation X
+8351,El Salvador,2014,female,55-74 years,11,407576,2.7,El Salvador2014,0.6659999999999999,"22,585,841,200",3965,Boomers
+8352,El Salvador,2014,female,5-14 years,4,601023,0.67,El Salvador2014,0.6659999999999999,"22,585,841,200",3965,Generation Z
+8353,El Salvador,2014,male,5-14 years,2,625429,0.32,El Salvador2014,0.6659999999999999,"22,585,841,200",3965,Generation Z

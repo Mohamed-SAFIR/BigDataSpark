@@ -1,0 +1,349 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+17448,New Zealand,1985,male,75+ years,18,46900,38.38,New Zealand1985,0.805,"24,950,895,141",8246,G.I. Generation
+17449,New Zealand,1985,male,55-74 years,60,235700,25.46,New Zealand1985,0.805,"24,950,895,141",8246,G.I. Generation
+17450,New Zealand,1985,male,25-34 years,51,255400,19.97,New Zealand1985,0.805,"24,950,895,141",8246,Boomers
+17451,New Zealand,1985,male,15-24 years,60,305400,19.65,New Zealand1985,0.805,"24,950,895,141",8246,Generation X
+17452,New Zealand,1985,male,35-54 years,64,371200,17.24,New Zealand1985,0.805,"24,950,895,141",8246,Silent
+17453,New Zealand,1985,female,55-74 years,26,259300,10.03,New Zealand1985,0.805,"24,950,895,141",8246,G.I. Generation
+17454,New Zealand,1985,female,35-54 years,22,364600,6.03,New Zealand1985,0.805,"24,950,895,141",8246,Silent
+17455,New Zealand,1985,female,15-24 years,15,291600,5.14,New Zealand1985,0.805,"24,950,895,141",8246,Generation X
+17456,New Zealand,1985,female,25-34 years,13,259100,5.02,New Zealand1985,0.805,"24,950,895,141",8246,Boomers
+17457,New Zealand,1985,female,75+ years,4,81500,4.91,New Zealand1985,0.805,"24,950,895,141",8246,G.I. Generation
+17458,New Zealand,1985,female,5-14 years,3,272300,1.1,New Zealand1985,0.805,"24,950,895,141",8246,Generation X
+17459,New Zealand,1985,male,5-14 years,2,282800,0.71,New Zealand1985,0.805,"24,950,895,141",8246,Generation X
+17460,New Zealand,1986,male,75+ years,18,49400,36.44,New Zealand1986,,"30,604,668,357",10114,G.I. Generation
+17461,New Zealand,1986,male,35-54 years,100,376100,26.59,New Zealand1986,,"30,604,668,357",10114,Silent
+17462,New Zealand,1986,male,55-74 years,60,237900,25.22,New Zealand1986,,"30,604,668,357",10114,G.I. Generation
+17463,New Zealand,1986,male,15-24 years,68,296200,22.96,New Zealand1986,,"30,604,668,357",10114,Generation X
+17464,New Zealand,1986,male,25-34 years,53,258000,20.54,New Zealand1986,,"30,604,668,357",10114,Boomers
+17465,New Zealand,1986,female,75+ years,9,84000,10.71,New Zealand1986,,"30,604,668,357",10114,G.I. Generation
+17466,New Zealand,1986,female,55-74 years,27,259200,10.42,New Zealand1986,,"30,604,668,357",10114,G.I. Generation
+17467,New Zealand,1986,female,35-54 years,31,373800,8.29,New Zealand1986,,"30,604,668,357",10114,Silent
+17468,New Zealand,1986,female,15-24 years,23,286900,8.02,New Zealand1986,,"30,604,668,357",10114,Generation X
+17469,New Zealand,1986,female,25-34 years,21,262300,8.01,New Zealand1986,,"30,604,668,357",10114,Boomers
+17470,New Zealand,1986,female,5-14 years,2,265700,0.75,New Zealand1986,,"30,604,668,357",10114,Generation X
+17471,New Zealand,1986,male,5-14 years,2,276600,0.72,New Zealand1986,,"30,604,668,357",10114,Generation X
+17472,New Zealand,1987,male,75+ years,28,51100,54.79,New Zealand1987,,"40,338,594,862",13238,G.I. Generation
+17473,New Zealand,1987,male,15-24 years,93,295500,31.47,New Zealand1987,,"40,338,594,862",13238,Generation X
+17474,New Zealand,1987,male,25-34 years,79,262900,30.05,New Zealand1987,,"40,338,594,862",13238,Boomers
+17475,New Zealand,1987,male,55-74 years,64,238500,26.83,New Zealand1987,,"40,338,594,862",13238,G.I. Generation
+17476,New Zealand,1987,male,35-54 years,92,384800,23.91,New Zealand1987,,"40,338,594,862",13238,Silent
+17477,New Zealand,1987,female,75+ years,9,86700,10.38,New Zealand1987,,"40,338,594,862",13238,G.I. Generation
+17478,New Zealand,1987,female,25-34 years,24,269900,8.89,New Zealand1987,,"40,338,594,862",13238,Boomers
+17479,New Zealand,1987,female,35-54 years,28,381900,7.33,New Zealand1987,,"40,338,594,862",13238,Silent
+17480,New Zealand,1987,female,15-24 years,20,286500,6.98,New Zealand1987,,"40,338,594,862",13238,Generation X
+17481,New Zealand,1987,female,55-74 years,18,260500,6.91,New Zealand1987,,"40,338,594,862",13238,G.I. Generation
+17482,New Zealand,1987,male,5-14 years,7,269800,2.59,New Zealand1987,,"40,338,594,862",13238,Generation X
+17483,New Zealand,1987,female,5-14 years,1,259000,0.39,New Zealand1987,,"40,338,594,862",13238,Generation X
+17484,New Zealand,1988,male,75+ years,20,52400,38.17,New Zealand1988,,"45,493,075,684",14890,G.I. Generation
+17485,New Zealand,1988,male,15-24 years,106,291700,36.34,New Zealand1988,,"45,493,075,684",14890,Generation X
+17486,New Zealand,1988,male,55-74 years,79,238700,33.1,New Zealand1988,,"45,493,075,684",14890,G.I. Generation
+17487,New Zealand,1988,male,25-34 years,72,267600,26.91,New Zealand1988,,"45,493,075,684",14890,Boomers
+17488,New Zealand,1988,male,35-54 years,102,390900,26.09,New Zealand1988,,"45,493,075,684",14890,Silent
+17489,New Zealand,1988,female,75+ years,10,89500,11.17,New Zealand1988,,"45,493,075,684",14890,G.I. Generation
+17490,New Zealand,1988,female,25-34 years,29,274400,10.57,New Zealand1988,,"45,493,075,684",14890,Boomers
+17491,New Zealand,1988,female,55-74 years,25,261500,9.56,New Zealand1988,,"45,493,075,684",14890,G.I. Generation
+17492,New Zealand,1988,female,15-24 years,25,285700,8.75,New Zealand1988,,"45,493,075,684",14890,Generation X
+17493,New Zealand,1988,female,35-54 years,14,387600,3.61,New Zealand1988,,"45,493,075,684",14890,Silent
+17494,New Zealand,1988,male,5-14 years,2,263500,0.76,New Zealand1988,,"45,493,075,684",14890,Generation X
+17495,New Zealand,1988,female,5-14 years,0,251700,0.0,New Zealand1988,,"45,493,075,684",14890,Generation X
+17496,New Zealand,1989,male,15-24 years,111,285400,38.89,New Zealand1989,,"44,170,562,822",14417,Generation X
+17497,New Zealand,1989,male,75+ years,21,54400,38.6,New Zealand1989,,"44,170,562,822",14417,G.I. Generation
+17498,New Zealand,1989,male,25-34 years,79,267800,29.5,New Zealand1989,,"44,170,562,822",14417,Boomers
+17499,New Zealand,1989,male,35-54 years,96,396900,24.19,New Zealand1989,,"44,170,562,822",14417,Silent
+17500,New Zealand,1989,male,55-74 years,57,240700,23.68,New Zealand1989,,"44,170,562,822",14417,G.I. Generation
+17501,New Zealand,1989,female,55-74 years,24,261100,9.19,New Zealand1989,,"44,170,562,822",14417,G.I. Generation
+17502,New Zealand,1989,female,25-34 years,22,276100,7.97,New Zealand1989,,"44,170,562,822",14417,Boomers
+17503,New Zealand,1989,female,15-24 years,20,283000,7.07,New Zealand1989,,"44,170,562,822",14417,Generation X
+17504,New Zealand,1989,female,35-54 years,25,398000,6.28,New Zealand1989,,"44,170,562,822",14417,Silent
+17505,New Zealand,1989,male,5-14 years,8,260100,3.08,New Zealand1989,,"44,170,562,822",14417,Generation X
+17506,New Zealand,1989,female,75+ years,2,92200,2.17,New Zealand1989,,"44,170,562,822",14417,G.I. Generation
+17507,New Zealand,1989,female,5-14 years,0,248100,0.0,New Zealand1989,,"44,170,562,822",14417,Generation X
+17508,New Zealand,1990,male,15-24 years,111,283700,39.13,New Zealand1990,0.82,"45,519,034,244",14734,Generation X
+17509,New Zealand,1990,male,75+ years,21,56000,37.5,New Zealand1990,0.82,"45,519,034,244",14734,G.I. Generation
+17510,New Zealand,1990,male,25-34 years,72,269100,26.76,New Zealand1990,0.82,"45,519,034,244",14734,Boomers
+17511,New Zealand,1990,male,35-54 years,99,407200,24.31,New Zealand1990,0.82,"45,519,034,244",14734,Silent
+17512,New Zealand,1990,male,55-74 years,58,242600,23.91,New Zealand1990,0.82,"45,519,034,244",14734,G.I. Generation
+17513,New Zealand,1990,female,25-34 years,21,280600,7.48,New Zealand1990,0.82,"45,519,034,244",14734,Boomers
+17514,New Zealand,1990,female,35-54 years,29,408600,7.1,New Zealand1990,0.82,"45,519,034,244",14734,Silent
+17515,New Zealand,1990,female,15-24 years,19,278500,6.82,New Zealand1990,0.82,"45,519,034,244",14734,Generation X
+17516,New Zealand,1990,female,55-74 years,17,261400,6.5,New Zealand1990,0.82,"45,519,034,244",14734,G.I. Generation
+17517,New Zealand,1990,female,75+ years,6,95600,6.28,New Zealand1990,0.82,"45,519,034,244",14734,G.I. Generation
+17518,New Zealand,1990,male,5-14 years,2,257900,0.78,New Zealand1990,0.82,"45,519,034,244",14734,Generation X
+17519,New Zealand,1990,female,5-14 years,0,248200,0.0,New Zealand1990,0.82,"45,519,034,244",14734,Generation X
+17520,New Zealand,1991,male,15-24 years,109,285900,38.13,New Zealand1991,,"42,756,020,707",13345,Generation X
+17521,New Zealand,1991,male,25-34 years,95,277700,34.21,New Zealand1991,,"42,756,020,707",13345,Boomers
+17522,New Zealand,1991,male,75+ years,17,58300,29.16,New Zealand1991,,"42,756,020,707",13345,G.I. Generation
+17523,New Zealand,1991,male,35-54 years,110,428300,25.68,New Zealand1991,,"42,756,020,707",13345,Boomers
+17524,New Zealand,1991,male,55-74 years,45,252700,17.81,New Zealand1991,,"42,756,020,707",13345,Silent
+17525,New Zealand,1991,female,35-54 years,40,433300,9.23,New Zealand1991,,"42,756,020,707",13345,Boomers
+17526,New Zealand,1991,female,55-74 years,18,271400,6.63,New Zealand1991,,"42,756,020,707",13345,Silent
+17527,New Zealand,1991,female,25-34 years,19,288800,6.58,New Zealand1991,,"42,756,020,707",13345,Boomers
+17528,New Zealand,1991,female,15-24 years,16,289300,5.53,New Zealand1991,,"42,756,020,707",13345,Generation X
+17529,New Zealand,1991,male,5-14 years,4,265700,1.51,New Zealand1991,,"42,756,020,707",13345,Millenials
+17530,New Zealand,1991,female,75+ years,1,98700,1.01,New Zealand1991,,"42,756,020,707",13345,G.I. Generation
+17531,New Zealand,1991,female,5-14 years,0,253800,0.0,New Zealand1991,,"42,756,020,707",13345,Millenials
+17532,New Zealand,1992,male,15-24 years,112,284800,39.33,New Zealand1992,,"41,636,005,955",12868,Generation X
+17533,New Zealand,1992,male,25-34 years,98,278400,35.2,New Zealand1992,,"41,636,005,955",12868,Boomers
+17534,New Zealand,1992,male,55-74 years,67,254700,26.31,New Zealand1992,,"41,636,005,955",12868,Silent
+17535,New Zealand,1992,male,75+ years,15,60000,25.0,New Zealand1992,,"41,636,005,955",12868,G.I. Generation
+17536,New Zealand,1992,male,35-54 years,101,440400,22.93,New Zealand1992,,"41,636,005,955",12868,Boomers
+17537,New Zealand,1992,female,55-74 years,22,272600,8.07,New Zealand1992,,"41,636,005,955",12868,Silent
+17538,New Zealand,1992,female,35-54 years,35,445300,7.86,New Zealand1992,,"41,636,005,955",12868,Boomers
+17539,New Zealand,1992,female,15-24 years,17,286500,5.93,New Zealand1992,,"41,636,005,955",12868,Generation X
+17540,New Zealand,1992,female,75+ years,6,101700,5.9,New Zealand1992,,"41,636,005,955",12868,G.I. Generation
+17541,New Zealand,1992,female,25-34 years,15,290000,5.17,New Zealand1992,,"41,636,005,955",12868,Boomers
+17542,New Zealand,1992,male,5-14 years,4,267200,1.5,New Zealand1992,,"41,636,005,955",12868,Millenials
+17543,New Zealand,1992,female,5-14 years,1,254000,0.39,New Zealand1992,,"41,636,005,955",12868,Millenials
+17544,New Zealand,1993,male,15-24 years,110,282600,38.92,New Zealand1993,,"46,712,018,141",14271,Generation X
+17545,New Zealand,1993,male,25-34 years,78,279500,27.91,New Zealand1993,,"46,712,018,141",14271,Boomers
+17546,New Zealand,1993,male,75+ years,15,61000,24.59,New Zealand1993,,"46,712,018,141",14271,G.I. Generation
+17547,New Zealand,1993,male,35-54 years,95,452700,20.99,New Zealand1993,,"46,712,018,141",14271,Boomers
+17548,New Zealand,1993,male,55-74 years,49,257600,19.02,New Zealand1993,,"46,712,018,141",14271,Silent
+17549,New Zealand,1993,female,25-34 years,27,291800,9.25,New Zealand1993,,"46,712,018,141",14271,Boomers
+17550,New Zealand,1993,female,55-74 years,18,274500,6.56,New Zealand1993,,"46,712,018,141",14271,Silent
+17551,New Zealand,1993,female,35-54 years,28,458200,6.11,New Zealand1993,,"46,712,018,141",14271,Boomers
+17552,New Zealand,1993,female,15-24 years,16,282900,5.66,New Zealand1993,,"46,712,018,141",14271,Generation X
+17553,New Zealand,1993,female,75+ years,4,104200,3.84,New Zealand1993,,"46,712,018,141",14271,G.I. Generation
+17554,New Zealand,1993,male,5-14 years,2,271200,0.74,New Zealand1993,,"46,712,018,141",14271,Millenials
+17555,New Zealand,1993,female,5-14 years,1,257000,0.39,New Zealand1993,,"46,712,018,141",14271,Millenials
+17556,New Zealand,1994,male,15-24 years,111,280300,39.6,New Zealand1994,,"55,154,160,816",16615,Generation X
+17557,New Zealand,1994,male,75+ years,22,62200,35.37,New Zealand1994,,"55,154,160,816",16615,G.I. Generation
+17558,New Zealand,1994,male,25-34 years,93,281200,33.07,New Zealand1994,,"55,154,160,816",16615,Boomers
+17559,New Zealand,1994,male,55-74 years,76,261200,29.1,New Zealand1994,,"55,154,160,816",16615,Silent
+17560,New Zealand,1994,male,35-54 years,102,466900,21.85,New Zealand1994,,"55,154,160,816",16615,Boomers
+17561,New Zealand,1994,female,15-24 years,26,279500,9.3,New Zealand1994,,"55,154,160,816",16615,Generation X
+17562,New Zealand,1994,female,75+ years,9,106200,8.47,New Zealand1994,,"55,154,160,816",16615,G.I. Generation
+17563,New Zealand,1994,female,25-34 years,23,294100,7.82,New Zealand1994,,"55,154,160,816",16615,Boomers
+17564,New Zealand,1994,female,55-74 years,16,277300,5.77,New Zealand1994,,"55,154,160,816",16615,Silent
+17565,New Zealand,1994,female,35-54 years,27,472900,5.71,New Zealand1994,,"55,154,160,816",16615,Boomers
+17566,New Zealand,1994,male,5-14 years,5,276200,1.81,New Zealand1994,,"55,154,160,816",16615,Millenials
+17567,New Zealand,1994,female,5-14 years,2,261500,0.76,New Zealand1994,,"55,154,160,816",16615,Millenials
+17568,New Zealand,1995,male,15-24 years,123,278900,44.1,New Zealand1995,0.855,"63,918,039,320",18945,Generation X
+17569,New Zealand,1995,male,25-34 years,96,283000,33.92,New Zealand1995,0.855,"63,918,039,320",18945,Generation X
+17570,New Zealand,1995,male,75+ years,19,64300,29.55,New Zealand1995,0.855,"63,918,039,320",18945,G.I. Generation
+17571,New Zealand,1995,male,35-54 years,123,481700,25.53,New Zealand1995,0.855,"63,918,039,320",18945,Boomers
+17572,New Zealand,1995,male,55-74 years,64,264900,24.16,New Zealand1995,0.855,"63,918,039,320",18945,Silent
+17573,New Zealand,1995,female,15-24 years,34,276400,12.3,New Zealand1995,0.855,"63,918,039,320",18945,Generation X
+17574,New Zealand,1995,female,75+ years,9,109500,8.22,New Zealand1995,0.855,"63,918,039,320",18945,G.I. Generation
+17575,New Zealand,1995,female,35-54 years,36,488300,7.37,New Zealand1995,0.855,"63,918,039,320",18945,Boomers
+17576,New Zealand,1995,female,25-34 years,20,296900,6.74,New Zealand1995,0.855,"63,918,039,320",18945,Generation X
+17577,New Zealand,1995,female,55-74 years,15,279800,5.36,New Zealand1995,0.855,"63,918,039,320",18945,Silent
+17578,New Zealand,1995,male,5-14 years,4,282500,1.42,New Zealand1995,0.855,"63,918,039,320",18945,Millenials
+17579,New Zealand,1995,female,5-14 years,2,267600,0.75,New Zealand1995,0.855,"63,918,039,320",18945,Millenials
+17580,New Zealand,1996,male,25-34 years,121,285400,42.4,New Zealand1996,,"70,140,835,299",20434,Generation X
+17581,New Zealand,1996,male,15-24 years,105,277900,37.78,New Zealand1996,,"70,140,835,299",20434,Generation X
+17582,New Zealand,1996,male,75+ years,19,66500,28.57,New Zealand1996,,"70,140,835,299",20434,G.I. Generation
+17583,New Zealand,1996,male,55-74 years,68,269300,25.25,New Zealand1996,,"70,140,835,299",20434,Silent
+17584,New Zealand,1996,male,35-54 years,112,496800,22.54,New Zealand1996,,"70,140,835,299",20434,Boomers
+17585,New Zealand,1996,female,15-24 years,38,273100,13.91,New Zealand1996,,"70,140,835,299",20434,Generation X
+17586,New Zealand,1996,female,25-34 years,21,300200,7.0,New Zealand1996,,"70,140,835,299",20434,Generation X
+17587,New Zealand,1996,female,35-54 years,31,504300,6.15,New Zealand1996,,"70,140,835,299",20434,Boomers
+17588,New Zealand,1996,female,55-74 years,13,283300,4.59,New Zealand1996,,"70,140,835,299",20434,Silent
+17589,New Zealand,1996,female,75+ years,5,112700,4.44,New Zealand1996,,"70,140,835,299",20434,G.I. Generation
+17590,New Zealand,1996,female,5-14 years,4,273800,1.46,New Zealand1996,,"70,140,835,299",20434,Millenials
+17591,New Zealand,1996,male,5-14 years,3,289200,1.04,New Zealand1996,,"70,140,835,299",20434,Millenials
+17592,New Zealand,1997,male,25-34 years,124,283300,43.77,New Zealand1997,,"66,074,513,018",19041,Generation X
+17593,New Zealand,1997,male,15-24 years,113,275100,41.08,New Zealand1997,,"66,074,513,018",19041,Generation X
+17594,New Zealand,1997,male,75+ years,19,68800,27.62,New Zealand1997,,"66,074,513,018",19041,G.I. Generation
+17595,New Zealand,1997,male,35-54 years,120,508800,23.58,New Zealand1997,,"66,074,513,018",19041,Boomers
+17596,New Zealand,1997,male,55-74 years,60,272800,21.99,New Zealand1997,,"66,074,513,018",19041,Silent
+17597,New Zealand,1997,female,15-24 years,29,267800,10.83,New Zealand1997,,"66,074,513,018",19041,Generation X
+17598,New Zealand,1997,female,25-34 years,30,299300,10.02,New Zealand1997,,"66,074,513,018",19041,Generation X
+17599,New Zealand,1997,female,35-54 years,42,518000,8.11,New Zealand1997,,"66,074,513,018",19041,Boomers
+17600,New Zealand,1997,female,75+ years,5,115700,4.32,New Zealand1997,,"66,074,513,018",19041,G.I. Generation
+17601,New Zealand,1997,female,55-74 years,12,286000,4.2,New Zealand1997,,"66,074,513,018",19041,Silent
+17602,New Zealand,1997,male,5-14 years,5,295200,1.69,New Zealand1997,,"66,074,513,018",19041,Millenials
+17603,New Zealand,1997,female,5-14 years,3,279400,1.07,New Zealand1997,,"66,074,513,018",19041,Millenials
+17604,New Zealand,1998,male,25-34 years,109,278300,39.17,New Zealand1998,,"56,227,696,195",16052,Generation X
+17605,New Zealand,1998,male,15-24 years,104,272800,38.12,New Zealand1998,,"56,227,696,195",16052,Generation X
+17606,New Zealand,1998,male,75+ years,20,71400,28.01,New Zealand1998,,"56,227,696,195",16052,G.I. Generation
+17607,New Zealand,1998,male,55-74 years,70,276300,25.33,New Zealand1998,,"56,227,696,195",16052,Silent
+17608,New Zealand,1998,male,35-54 years,130,521600,24.92,New Zealand1998,,"56,227,696,195",16052,Boomers
+17609,New Zealand,1998,female,15-24 years,35,263700,13.27,New Zealand1998,,"56,227,696,195",16052,Generation X
+17610,New Zealand,1998,female,25-34 years,25,295400,8.46,New Zealand1998,,"56,227,696,195",16052,Generation X
+17611,New Zealand,1998,female,35-54 years,45,532900,8.44,New Zealand1998,,"56,227,696,195",16052,Boomers
+17612,New Zealand,1998,female,55-74 years,17,288900,5.88,New Zealand1998,,"56,227,696,195",16052,Silent
+17613,New Zealand,1998,female,75+ years,6,118800,5.05,New Zealand1998,,"56,227,696,195",16052,G.I. Generation
+17614,New Zealand,1998,male,5-14 years,9,299400,3.01,New Zealand1998,,"56,227,696,195",16052,Millenials
+17615,New Zealand,1998,female,5-14 years,4,283300,1.41,New Zealand1998,,"56,227,696,195",16052,Millenials
+17616,New Zealand,1999,male,25-34 years,106,275910,38.42,New Zealand1999,,"58,762,260,626",16556,Generation X
+17617,New Zealand,1999,male,15-24 years,83,267510,31.03,New Zealand1999,,"58,762,260,626",16556,Generation X
+17618,New Zealand,1999,male,75+ years,18,74230,24.25,New Zealand1999,,"58,762,260,626",16556,G.I. Generation
+17619,New Zealand,1999,male,35-54 years,125,533840,23.42,New Zealand1999,,"58,762,260,626",16556,Boomers
+17620,New Zealand,1999,male,55-74 years,50,282950,17.67,New Zealand1999,,"58,762,260,626",16556,Silent
+17621,New Zealand,1999,female,15-24 years,37,262170,14.11,New Zealand1999,,"58,762,260,626",16556,Generation X
+17622,New Zealand,1999,female,35-54 years,50,548710,9.11,New Zealand1999,,"58,762,260,626",16556,Boomers
+17623,New Zealand,1999,female,25-34 years,20,294350,6.79,New Zealand1999,,"58,762,260,626",16556,Generation X
+17624,New Zealand,1999,female,55-74 years,15,295670,5.07,New Zealand1999,,"58,762,260,626",16556,Silent
+17625,New Zealand,1999,female,75+ years,6,122450,4.9,New Zealand1999,,"58,762,260,626",16556,G.I. Generation
+17626,New Zealand,1999,female,5-14 years,3,288000,1.04,New Zealand1999,,"58,762,260,626",16556,Millenials
+17627,New Zealand,1999,male,5-14 years,3,303510,0.99,New Zealand1999,,"58,762,260,626",16556,Millenials
+17628,New Zealand,2000,male,25-34 years,105,270430,38.83,New Zealand2000,0.8740000000000001,"52,622,842,840",14725,Generation X
+17629,New Zealand,2000,male,15-24 years,81,266610,30.38,New Zealand2000,0.8740000000000001,"52,622,842,840",14725,Generation X
+17630,New Zealand,2000,male,35-54 years,113,540160,20.92,New Zealand2000,0.8740000000000001,"52,622,842,840",14725,Boomers
+17631,New Zealand,2000,male,75+ years,16,77050,20.77,New Zealand2000,0.8740000000000001,"52,622,842,840",14725,G.I. Generation
+17632,New Zealand,2000,male,55-74 years,57,287820,19.8,New Zealand2000,0.8740000000000001,"52,622,842,840",14725,Silent
+17633,New Zealand,2000,female,25-34 years,21,290740,7.22,New Zealand2000,0.8740000000000001,"52,622,842,840",14725,Generation X
+17634,New Zealand,2000,female,15-24 years,15,261330,5.74,New Zealand2000,0.8740000000000001,"52,622,842,840",14725,Generation X
+17635,New Zealand,2000,female,35-54 years,30,558340,5.37,New Zealand2000,0.8740000000000001,"52,622,842,840",14725,Boomers
+17636,New Zealand,2000,female,55-74 years,12,300560,3.99,New Zealand2000,0.8740000000000001,"52,622,842,840",14725,Silent
+17637,New Zealand,2000,female,75+ years,4,125530,3.19,New Zealand2000,0.8740000000000001,"52,622,842,840",14725,G.I. Generation
+17638,New Zealand,2000,male,5-14 years,3,305390,0.98,New Zealand2000,0.8740000000000001,"52,622,842,840",14725,Millenials
+17639,New Zealand,2000,female,5-14 years,1,289730,0.35,New Zealand2000,0.8740000000000001,"52,622,842,840",14725,Millenials
+17640,New Zealand,2001,male,25-34 years,92,264130,34.83,New Zealand2001,,"53,872,425,917",14968,Generation X
+17641,New Zealand,2001,male,15-24 years,87,269420,32.29,New Zealand2001,,"53,872,425,917",14968,Millenials
+17642,New Zealand,2001,male,75+ years,25,80070,31.22,New Zealand2001,,"53,872,425,917",14968,Silent
+17643,New Zealand,2001,male,35-54 years,130,544420,23.88,New Zealand2001,,"53,872,425,917",14968,Boomers
+17644,New Zealand,2001,male,55-74 years,54,294430,18.34,New Zealand2001,,"53,872,425,917",14968,Silent
+17645,New Zealand,2001,female,25-34 years,29,284680,10.19,New Zealand2001,,"53,872,425,917",14968,Generation X
+17646,New Zealand,2001,female,15-24 years,23,263730,8.72,New Zealand2001,,"53,872,425,917",14968,Millenials
+17647,New Zealand,2001,female,75+ years,9,128740,6.99,New Zealand2001,,"53,872,425,917",14968,Silent
+17648,New Zealand,2001,female,35-54 years,39,565790,6.89,New Zealand2001,,"53,872,425,917",14968,Boomers
+17649,New Zealand,2001,female,55-74 years,17,307490,5.53,New Zealand2001,,"53,872,425,917",14968,Silent
+17650,New Zealand,2001,female,5-14 years,2,289760,0.69,New Zealand2001,,"53,872,425,917",14968,Millenials
+17651,New Zealand,2001,male,5-14 years,1,306430,0.33,New Zealand2001,,"53,872,425,917",14968,Millenials
+17652,New Zealand,2002,male,25-34 years,82,263160,31.16,New Zealand2002,,"66,627,729,311",18208,Generation X
+17653,New Zealand,2002,male,35-54 years,131,550840,23.78,New Zealand2002,,"66,627,729,311",18208,Boomers
+17654,New Zealand,2002,male,15-24 years,66,280450,23.53,New Zealand2002,,"66,627,729,311",18208,Millenials
+17655,New Zealand,2002,male,55-74 years,59,304480,19.38,New Zealand2002,,"66,627,729,311",18208,Silent
+17656,New Zealand,2002,male,75+ years,16,83290,19.21,New Zealand2002,,"66,627,729,311",18208,Silent
+17657,New Zealand,2002,female,15-24 years,30,271530,11.05,New Zealand2002,,"66,627,729,311",18208,Millenials
+17658,New Zealand,2002,female,25-34 years,26,282330,9.21,New Zealand2002,,"66,627,729,311",18208,Generation X
+17659,New Zealand,2002,female,35-54 years,39,573790,6.8,New Zealand2002,,"66,627,729,311",18208,Boomers
+17660,New Zealand,2002,female,55-74 years,13,317610,4.09,New Zealand2002,,"66,627,729,311",18208,Silent
+17661,New Zealand,2002,female,75+ years,5,131060,3.82,New Zealand2002,,"66,627,729,311",18208,Silent
+17662,New Zealand,2002,female,5-14 years,0,292230,0.0,New Zealand2002,,"66,627,729,311",18208,Millenials
+17663,New Zealand,2002,male,5-14 years,0,308420,0.0,New Zealand2002,,"66,627,729,311",18208,Millenials
+17664,New Zealand,2003,male,75+ years,27,86840,31.09,New Zealand2003,,"88,250,885,550",23663,Silent
+17665,New Zealand,2003,male,25-34 years,80,264090,30.29,New Zealand2003,,"88,250,885,550",23663,Generation X
+17666,New Zealand,2003,male,35-54 years,143,558950,25.58,New Zealand2003,,"88,250,885,550",23663,Boomers
+17667,New Zealand,2003,male,15-24 years,66,292920,22.53,New Zealand2003,,"88,250,885,550",23663,Millenials
+17668,New Zealand,2003,male,55-74 years,58,314200,18.46,New Zealand2003,,"88,250,885,550",23663,Silent
+17669,New Zealand,2003,female,15-24 years,31,281350,11.02,New Zealand2003,,"88,250,885,550",23663,Millenials
+17670,New Zealand,2003,female,35-54 years,56,583610,9.6,New Zealand2003,,"88,250,885,550",23663,Boomers
+17671,New Zealand,2003,female,75+ years,11,133600,8.23,New Zealand2003,,"88,250,885,550",23663,Silent
+17672,New Zealand,2003,female,25-34 years,22,281770,7.81,New Zealand2003,,"88,250,885,550",23663,Generation X
+17673,New Zealand,2003,female,55-74 years,20,327420,6.11,New Zealand2003,,"88,250,885,550",23663,Silent
+17674,New Zealand,2003,male,5-14 years,4,310850,1.29,New Zealand2003,,"88,250,885,550",23663,Millenials
+17675,New Zealand,2003,female,5-14 years,1,293820,0.34,New Zealand2003,,"88,250,885,550",23663,Millenials
+17676,New Zealand,2004,male,75+ years,28,89210,31.39,New Zealand2004,,"103,904,537,815",27325,Silent
+17677,New Zealand,2004,male,25-34 years,76,265490,28.63,New Zealand2004,,"103,904,537,815",27325,Generation X
+17678,New Zealand,2004,male,15-24 years,83,296450,28.0,New Zealand2004,,"103,904,537,815",27325,Millenials
+17679,New Zealand,2004,male,35-54 years,133,569570,23.35,New Zealand2004,,"103,904,537,815",27325,Boomers
+17680,New Zealand,2004,male,55-74 years,58,325010,17.85,New Zealand2004,,"103,904,537,815",27325,Silent
+17681,New Zealand,2004,female,15-24 years,30,289050,10.38,New Zealand2004,,"103,904,537,815",27325,Millenials
+17682,New Zealand,2004,female,25-34 years,19,285690,6.65,New Zealand2004,,"103,904,537,815",27325,Generation X
+17683,New Zealand,2004,female,35-54 years,38,599380,6.34,New Zealand2004,,"103,904,537,815",27325,Boomers
+17684,New Zealand,2004,female,55-74 years,20,338890,5.9,New Zealand2004,,"103,904,537,815",27325,Silent
+17685,New Zealand,2004,female,75+ years,4,135340,2.96,New Zealand2004,,"103,904,537,815",27325,Silent
+17686,New Zealand,2004,male,5-14 years,4,312260,1.28,New Zealand2004,,"103,904,537,815",27325,Millenials
+17687,New Zealand,2004,female,5-14 years,2,296170,0.68,New Zealand2004,,"103,904,537,815",27325,Millenials
+17688,New Zealand,2005,male,25-34 years,86,264490,32.52,New Zealand2005,0.895,"114,718,721,397",29803,Generation X
+17689,New Zealand,2005,male,15-24 years,84,300360,27.97,New Zealand2005,0.895,"114,718,721,397",29803,Millenials
+17690,New Zealand,2005,male,35-54 years,138,576380,23.94,New Zealand2005,0.895,"114,718,721,397",29803,Boomers
+17691,New Zealand,2005,male,75+ years,16,92350,17.33,New Zealand2005,0.895,"114,718,721,397",29803,Silent
+17692,New Zealand,2005,male,55-74 years,58,335140,17.31,New Zealand2005,0.895,"114,718,721,397",29803,Silent
+17693,New Zealand,2005,female,25-34 years,26,284850,9.13,New Zealand2005,0.895,"114,718,721,397",29803,Generation X
+17694,New Zealand,2005,female,15-24 years,24,294110,8.16,New Zealand2005,0.895,"114,718,721,397",29803,Millenials
+17695,New Zealand,2005,female,35-54 years,49,608650,8.05,New Zealand2005,0.895,"114,718,721,397",29803,Boomers
+17696,New Zealand,2005,female,75+ years,9,137460,6.55,New Zealand2005,0.895,"114,718,721,397",29803,Silent
+17697,New Zealand,2005,female,55-74 years,22,349600,6.29,New Zealand2005,0.895,"114,718,721,397",29803,Silent
+17698,New Zealand,2005,female,5-14 years,2,294940,0.68,New Zealand2005,0.895,"114,718,721,397",29803,Millenials
+17699,New Zealand,2005,male,5-14 years,0,310950,0.0,New Zealand2005,0.895,"114,718,721,397",29803,Millenials
+17700,New Zealand,2006,male,15-24 years,95,305250,31.12,New Zealand2006,,"111,608,845,081",28628,Millenials
+17701,New Zealand,2006,male,25-34 years,72,263090,27.37,New Zealand2006,,"111,608,845,081",28628,Generation X
+17702,New Zealand,2006,male,35-54 years,136,584130,23.28,New Zealand2006,,"111,608,845,081",28628,Boomers
+17703,New Zealand,2006,male,55-74 years,69,344980,20.0,New Zealand2006,,"111,608,845,081",28628,Silent
+17704,New Zealand,2006,male,75+ years,14,95930,14.59,New Zealand2006,,"111,608,845,081",28628,Silent
+17705,New Zealand,2006,female,25-34 years,28,283300,9.88,New Zealand2006,,"111,608,845,081",28628,Generation X
+17706,New Zealand,2006,female,35-54 years,52,619730,8.39,New Zealand2006,,"111,608,845,081",28628,Boomers
+17707,New Zealand,2006,female,15-24 years,24,299490,8.01,New Zealand2006,,"111,608,845,081",28628,Millenials
+17708,New Zealand,2006,female,55-74 years,23,360390,6.38,New Zealand2006,,"111,608,845,081",28628,Silent
+17709,New Zealand,2006,female,75+ years,8,139990,5.71,New Zealand2006,,"111,608,845,081",28628,Silent
+17710,New Zealand,2006,female,5-14 years,4,293570,1.36,New Zealand2006,,"111,608,845,081",28628,Millenials
+17711,New Zealand,2006,male,5-14 years,2,308750,0.65,New Zealand2006,,"111,608,845,081",28628,Millenials
+17712,New Zealand,2007,male,25-34 years,80,262570,30.47,New Zealand2007,,"137,316,087,308",34892,Generation X
+17713,New Zealand,2007,male,35-54 years,150,588830,25.47,New Zealand2007,,"137,316,087,308",34892,Boomers
+17714,New Zealand,2007,male,75+ years,23,99040,23.22,New Zealand2007,,"137,316,087,308",34892,Silent
+17715,New Zealand,2007,male,15-24 years,70,309990,22.58,New Zealand2007,,"137,316,087,308",34892,Millenials
+17716,New Zealand,2007,male,55-74 years,52,354950,14.65,New Zealand2007,,"137,316,087,308",34892,Silent
+17717,New Zealand,2007,female,35-54 years,55,627060,8.77,New Zealand2007,,"137,316,087,308",34892,Boomers
+17718,New Zealand,2007,female,15-24 years,23,302660,7.6,New Zealand2007,,"137,316,087,308",34892,Millenials
+17719,New Zealand,2007,female,25-34 years,14,281170,4.98,New Zealand2007,,"137,316,087,308",34892,Generation X
+17720,New Zealand,2007,female,75+ years,7,142060,4.93,New Zealand2007,,"137,316,087,308",34892,Silent
+17721,New Zealand,2007,female,55-74 years,18,371080,4.85,New Zealand2007,,"137,316,087,308",34892,Silent
+17722,New Zealand,2007,female,5-14 years,1,290770,0.34,New Zealand2007,,"137,316,087,308",34892,Generation Z
+17723,New Zealand,2007,male,5-14 years,1,305270,0.33,New Zealand2007,,"137,316,087,308",34892,Generation Z
+17724,New Zealand,2008,male,25-34 years,70,263560,26.56,New Zealand2008,,"133,279,679,483",33585,Generation X
+17725,New Zealand,2008,male,15-24 years,83,314500,26.39,New Zealand2008,,"133,279,679,483",33585,Millenials
+17726,New Zealand,2008,male,35-54 years,139,590880,23.52,New Zealand2008,,"133,279,679,483",33585,Boomers
+17727,New Zealand,2008,male,55-74 years,69,365500,18.88,New Zealand2008,,"133,279,679,483",33585,Silent
+17728,New Zealand,2008,male,75+ years,18,101730,17.69,New Zealand2008,,"133,279,679,483",33585,Silent
+17729,New Zealand,2008,female,15-24 years,38,304640,12.47,New Zealand2008,,"133,279,679,483",33585,Millenials
+17730,New Zealand,2008,female,35-54 years,52,631720,8.23,New Zealand2008,,"133,279,679,483",33585,Boomers
+17731,New Zealand,2008,female,25-34 years,18,280380,6.42,New Zealand2008,,"133,279,679,483",33585,Generation X
+17732,New Zealand,2008,female,55-74 years,22,381910,5.76,New Zealand2008,,"133,279,679,483",33585,Silent
+17733,New Zealand,2008,female,75+ years,6,144290,4.16,New Zealand2008,,"133,279,679,483",33585,Silent
+17734,New Zealand,2008,female,5-14 years,3,287370,1.04,New Zealand2008,,"133,279,679,483",33585,Generation Z
+17735,New Zealand,2008,male,5-14 years,2,301970,0.66,New Zealand2008,,"133,279,679,483",33585,Generation Z
+17736,New Zealand,2009,male,15-24 years,94,320230,29.35,New Zealand2009,,"121,338,622,025",30259,Millenials
+17737,New Zealand,2009,male,35-54 years,144,591800,24.33,New Zealand2009,,"121,338,622,025",30259,Boomers
+17738,New Zealand,2009,male,25-34 years,64,267390,23.94,New Zealand2009,,"121,338,622,025",30259,Generation X
+17739,New Zealand,2009,male,75+ years,25,104540,23.91,New Zealand2009,,"121,338,622,025",30259,Silent
+17740,New Zealand,2009,male,55-74 years,61,376390,16.21,New Zealand2009,,"121,338,622,025",30259,Silent
+17741,New Zealand,2009,female,25-34 years,20,281930,7.09,New Zealand2009,,"121,338,622,025",30259,Generation X
+17742,New Zealand,2009,female,15-24 years,21,307230,6.84,New Zealand2009,,"121,338,622,025",30259,Millenials
+17743,New Zealand,2009,female,35-54 years,42,634540,6.62,New Zealand2009,,"121,338,622,025",30259,Boomers
+17744,New Zealand,2009,female,55-74 years,23,393990,5.84,New Zealand2009,,"121,338,622,025",30259,Silent
+17745,New Zealand,2009,female,75+ years,8,146230,5.47,New Zealand2009,,"121,338,622,025",30259,Silent
+17746,New Zealand,2009,male,5-14 years,6,300000,2.0,New Zealand2009,,"121,338,622,025",30259,Generation Z
+17747,New Zealand,2009,female,5-14 years,4,285710,1.4,New Zealand2009,,"121,338,622,025",30259,Generation Z
+17748,New Zealand,2010,male,35-54 years,155,591000,26.23,New Zealand2010,0.905,"146,583,831,538",36145,Generation X
+17749,New Zealand,2010,male,25-34 years,65,272460,23.86,New Zealand2010,0.905,"146,583,831,538",36145,Generation X
+17750,New Zealand,2010,male,15-24 years,77,326870,23.56,New Zealand2010,0.905,"146,583,831,538",36145,Millenials
+17751,New Zealand,2010,male,75+ years,20,107610,18.59,New Zealand2010,0.905,"146,583,831,538",36145,Silent
+17752,New Zealand,2010,male,55-74 years,67,387900,17.27,New Zealand2010,0.905,"146,583,831,538",36145,Silent
+17753,New Zealand,2010,female,15-24 years,35,310690,11.27,New Zealand2010,0.905,"146,583,831,538",36145,Millenials
+17754,New Zealand,2010,female,25-34 years,30,285250,10.52,New Zealand2010,0.905,"146,583,831,538",36145,Generation X
+17755,New Zealand,2010,female,35-54 years,51,635970,8.02,New Zealand2010,0.905,"146,583,831,538",36145,Generation X
+17756,New Zealand,2010,female,75+ years,9,148370,6.07,New Zealand2010,0.905,"146,583,831,538",36145,Silent
+17757,New Zealand,2010,female,55-74 years,21,406770,5.16,New Zealand2010,0.905,"146,583,831,538",36145,Silent
+17758,New Zealand,2010,female,5-14 years,3,284090,1.06,New Zealand2010,0.905,"146,583,831,538",36145,Generation Z
+17759,New Zealand,2010,male,5-14 years,3,298490,1.01,New Zealand2010,0.905,"146,583,831,538",36145,Generation Z
+17760,New Zealand,2011,male,15-24 years,96,330920,29.01,New Zealand2011,0.907,"168,461,998,741",41184,Millenials
+17761,New Zealand,2011,male,25-34 years,70,277600,25.22,New Zealand2011,0.907,"168,461,998,741",41184,Millenials
+17762,New Zealand,2011,male,35-54 years,129,586950,21.98,New Zealand2011,0.907,"168,461,998,741",41184,Generation X
+17763,New Zealand,2011,male,75+ years,19,110720,17.16,New Zealand2011,0.907,"168,461,998,741",41184,Silent
+17764,New Zealand,2011,male,55-74 years,60,399890,15.0,New Zealand2011,0.907,"168,461,998,741",41184,Boomers
+17765,New Zealand,2011,female,15-24 years,33,311490,10.59,New Zealand2011,0.907,"168,461,998,741",41184,Millenials
+17766,New Zealand,2011,female,25-34 years,19,288510,6.59,New Zealand2011,0.907,"168,461,998,741",41184,Millenials
+17767,New Zealand,2011,female,35-54 years,34,633580,5.37,New Zealand2011,0.907,"168,461,998,741",41184,Generation X
+17768,New Zealand,2011,female,75+ years,8,150850,5.3,New Zealand2011,0.907,"168,461,998,741",41184,Silent
+17769,New Zealand,2011,female,55-74 years,19,419820,4.53,New Zealand2011,0.907,"168,461,998,741",41184,Boomers
+17770,New Zealand,2011,female,5-14 years,3,283270,1.06,New Zealand2011,0.907,"168,461,998,741",41184,Generation Z
+17771,New Zealand,2011,male,5-14 years,3,296860,1.01,New Zealand2011,0.907,"168,461,998,741",41184,Generation Z
+17772,New Zealand,2012,male,15-24 years,107,331070,32.32,New Zealand2012,0.909,"176,192,886,551",42756,Millenials
+17773,New Zealand,2012,male,35-54 years,151,581830,25.95,New Zealand2012,0.909,"176,192,886,551",42756,Generation X
+17774,New Zealand,2012,male,25-34 years,60,283640,21.15,New Zealand2012,0.909,"176,192,886,551",42756,Millenials
+17775,New Zealand,2012,male,75+ years,24,114250,21.01,New Zealand2012,0.909,"176,192,886,551",42756,Silent
+17776,New Zealand,2012,male,55-74 years,55,411660,13.36,New Zealand2012,0.909,"176,192,886,551",42756,Boomers
+17777,New Zealand,2012,female,15-24 years,41,310390,13.21,New Zealand2012,0.909,"176,192,886,551",42756,Millenials
+17778,New Zealand,2012,female,75+ years,12,153580,7.81,New Zealand2012,0.909,"176,192,886,551",42756,Silent
+17779,New Zealand,2012,female,35-54 years,48,629670,7.62,New Zealand2012,0.909,"176,192,886,551",42756,Generation X
+17780,New Zealand,2012,female,25-34 years,22,291540,7.55,New Zealand2012,0.909,"176,192,886,551",42756,Millenials
+17781,New Zealand,2012,female,55-74 years,17,432800,3.93,New Zealand2012,0.909,"176,192,886,551",42756,Boomers
+17782,New Zealand,2012,male,5-14 years,7,297240,2.35,New Zealand2012,0.909,"176,192,886,551",42756,Generation Z
+17783,New Zealand,2012,female,5-14 years,5,283200,1.77,New Zealand2012,0.909,"176,192,886,551",42756,Generation Z
+17784,New Zealand,2013,male,35-54 years,140,583390,24.0,New Zealand2013,0.9109999999999999,"190,785,204,764",46198,Generation X
+17785,New Zealand,2013,male,15-24 years,75,319330,23.49,New Zealand2013,0.9109999999999999,"190,785,204,764",46198,Millenials
+17786,New Zealand,2013,male,75+ years,26,113910,22.83,New Zealand2013,0.9109999999999999,"190,785,204,764",46198,Silent
+17787,New Zealand,2013,male,25-34 years,51,264840,19.26,New Zealand2013,0.9109999999999999,"190,785,204,764",46198,Millenials
+17788,New Zealand,2013,male,55-74 years,74,424590,17.43,New Zealand2013,0.9109999999999999,"190,785,204,764",46198,Boomers
+17789,New Zealand,2013,female,15-24 years,37,308050,12.01,New Zealand2013,0.9109999999999999,"190,785,204,764",46198,Millenials
+17790,New Zealand,2013,female,35-54 years,63,635060,9.92,New Zealand2013,0.9109999999999999,"190,785,204,764",46198,Generation X
+17791,New Zealand,2013,female,25-34 years,21,283720,7.4,New Zealand2013,0.9109999999999999,"190,785,204,764",46198,Millenials
+17792,New Zealand,2013,female,55-74 years,19,447810,4.24,New Zealand2013,0.9109999999999999,"190,785,204,764",46198,Boomers
+17793,New Zealand,2013,female,75+ years,5,152240,3.28,New Zealand2013,0.9109999999999999,"190,785,204,764",46198,Silent
+17794,New Zealand,2013,female,5-14 years,2,291080,0.69,New Zealand2013,0.9109999999999999,"190,785,204,764",46198,Generation Z
+17795,New Zealand,2013,male,5-14 years,0,305750,0.0,New Zealand2013,0.9109999999999999,"190,785,204,764",46198,Generation Z

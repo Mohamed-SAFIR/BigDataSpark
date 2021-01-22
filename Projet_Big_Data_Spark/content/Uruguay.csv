@@ -1,0 +1,337 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+27220,Uruguay,1985,male,75+ years,37,46900,78.89,Uruguay1985,0.667,"4,732,017,873",1729,G.I. Generation
+27221,Uruguay,1985,male,55-74 years,85,235800,36.05,Uruguay1985,0.667,"4,732,017,873",1729,G.I. Generation
+27222,Uruguay,1985,male,35-54 years,67,336400,19.92,Uruguay1985,0.667,"4,732,017,873",1729,Silent
+27223,Uruguay,1985,male,25-34 years,30,204000,14.71,Uruguay1985,0.667,"4,732,017,873",1729,Boomers
+27224,Uruguay,1985,female,55-74 years,21,270100,7.77,Uruguay1985,0.667,"4,732,017,873",1729,G.I. Generation
+27225,Uruguay,1985,male,15-24 years,16,247000,6.48,Uruguay1985,0.667,"4,732,017,873",1729,Generation X
+27226,Uruguay,1985,female,75+ years,4,72800,5.49,Uruguay1985,0.667,"4,732,017,873",1729,G.I. Generation
+27227,Uruguay,1985,female,35-54 years,16,347300,4.61,Uruguay1985,0.667,"4,732,017,873",1729,Silent
+27228,Uruguay,1985,female,15-24 years,5,240000,2.08,Uruguay1985,0.667,"4,732,017,873",1729,Generation X
+27229,Uruguay,1985,female,25-34 years,3,203000,1.48,Uruguay1985,0.667,"4,732,017,873",1729,Boomers
+27230,Uruguay,1985,female,5-14 years,2,263100,0.76,Uruguay1985,0.667,"4,732,017,873",1729,Generation X
+27231,Uruguay,1985,male,5-14 years,1,271000,0.37,Uruguay1985,0.667,"4,732,017,873",1729,Generation X
+27232,Uruguay,1986,male,75+ years,38,47400,80.17,Uruguay1986,,"5,880,112,788",2132,G.I. Generation
+27233,Uruguay,1986,male,55-74 years,81,237800,34.06,Uruguay1986,,"5,880,112,788",2132,G.I. Generation
+27234,Uruguay,1986,male,35-54 years,45,338500,13.29,Uruguay1986,,"5,880,112,788",2132,Silent
+27235,Uruguay,1986,male,25-34 years,21,205500,10.22,Uruguay1986,,"5,880,112,788",2132,Boomers
+27236,Uruguay,1986,female,55-74 years,24,272100,8.82,Uruguay1986,,"5,880,112,788",2132,G.I. Generation
+27237,Uruguay,1986,male,15-24 years,18,248800,7.23,Uruguay1986,,"5,880,112,788",2132,Generation X
+27238,Uruguay,1986,female,75+ years,5,73600,6.79,Uruguay1986,,"5,880,112,788",2132,G.I. Generation
+27239,Uruguay,1986,female,15-24 years,12,241800,4.96,Uruguay1986,,"5,880,112,788",2132,Generation X
+27240,Uruguay,1986,female,25-34 years,8,204500,3.91,Uruguay1986,,"5,880,112,788",2132,Boomers
+27241,Uruguay,1986,female,35-54 years,8,349600,2.29,Uruguay1986,,"5,880,112,788",2132,Silent
+27242,Uruguay,1986,male,5-14 years,2,273000,0.73,Uruguay1986,,"5,880,112,788",2132,Generation X
+27243,Uruguay,1986,female,5-14 years,0,265000,0.0,Uruguay1986,,"5,880,112,788",2132,Generation X
+27244,Uruguay,1987,male,75+ years,36,47700,75.47,Uruguay1987,,"7,367,494,080",2651,G.I. Generation
+27245,Uruguay,1987,male,55-74 years,63,239600,26.29,Uruguay1987,,"7,367,494,080",2651,G.I. Generation
+27246,Uruguay,1987,male,35-54 years,59,341200,17.29,Uruguay1987,,"7,367,494,080",2651,Silent
+27247,Uruguay,1987,female,75+ years,7,74100,9.45,Uruguay1987,,"7,367,494,080",2651,G.I. Generation
+27248,Uruguay,1987,female,55-74 years,25,274100,9.12,Uruguay1987,,"7,367,494,080",2651,G.I. Generation
+27249,Uruguay,1987,male,25-34 years,15,207100,7.24,Uruguay1987,,"7,367,494,080",2651,Boomers
+27250,Uruguay,1987,male,15-24 years,18,250800,7.18,Uruguay1987,,"7,367,494,080",2651,Generation X
+27251,Uruguay,1987,female,35-54 years,19,352300,5.39,Uruguay1987,,"7,367,494,080",2651,Silent
+27252,Uruguay,1987,female,25-34 years,7,206100,3.4,Uruguay1987,,"7,367,494,080",2651,Boomers
+27253,Uruguay,1987,female,15-24 years,7,243700,2.87,Uruguay1987,,"7,367,494,080",2651,Generation X
+27254,Uruguay,1987,female,5-14 years,1,267000,0.37,Uruguay1987,,"7,367,494,080",2651,Generation X
+27255,Uruguay,1987,male,5-14 years,1,275200,0.36,Uruguay1987,,"7,367,494,080",2651,Generation X
+27256,Uruguay,1988,male,75+ years,33,48100,68.61,Uruguay1988,,"8,213,515,459",2934,G.I. Generation
+27257,Uruguay,1988,male,55-74 years,60,241400,24.86,Uruguay1988,,"8,213,515,459",2934,G.I. Generation
+27258,Uruguay,1988,male,35-54 years,56,343700,16.29,Uruguay1988,,"8,213,515,459",2934,Silent
+27259,Uruguay,1988,male,25-34 years,33,208700,15.81,Uruguay1988,,"8,213,515,459",2934,Boomers
+27260,Uruguay,1988,male,15-24 years,28,252600,11.08,Uruguay1988,,"8,213,515,459",2934,Generation X
+27261,Uruguay,1988,female,75+ years,7,74600,9.38,Uruguay1988,,"8,213,515,459",2934,G.I. Generation
+27262,Uruguay,1988,female,55-74 years,17,276200,6.15,Uruguay1988,,"8,213,515,459",2934,G.I. Generation
+27263,Uruguay,1988,female,35-54 years,17,354900,4.79,Uruguay1988,,"8,213,515,459",2934,Silent
+27264,Uruguay,1988,female,25-34 years,9,207700,4.33,Uruguay1988,,"8,213,515,459",2934,Boomers
+27265,Uruguay,1988,female,15-24 years,6,245500,2.44,Uruguay1988,,"8,213,515,459",2934,Generation X
+27266,Uruguay,1988,male,5-14 years,2,277200,0.72,Uruguay1988,,"8,213,515,459",2934,Generation X
+27267,Uruguay,1988,female,5-14 years,0,269000,0.0,Uruguay1988,,"8,213,515,459",2934,Generation X
+27268,Uruguay,1989,male,75+ years,37,48500,76.29,Uruguay1989,,"8,438,951,476",2992,G.I. Generation
+27269,Uruguay,1989,male,55-74 years,94,243200,38.65,Uruguay1989,,"8,438,951,476",2992,G.I. Generation
+27270,Uruguay,1989,male,35-54 years,78,346200,22.53,Uruguay1989,,"8,438,951,476",2992,Silent
+27271,Uruguay,1989,male,25-34 years,33,210200,15.7,Uruguay1989,,"8,438,951,476",2992,Boomers
+27272,Uruguay,1989,male,15-24 years,32,254500,12.57,Uruguay1989,,"8,438,951,476",2992,Generation X
+27273,Uruguay,1989,female,55-74 years,21,278400,7.54,Uruguay1989,,"8,438,951,476",2992,G.I. Generation
+27274,Uruguay,1989,female,75+ years,5,75200,6.65,Uruguay1989,,"8,438,951,476",2992,G.I. Generation
+27275,Uruguay,1989,female,25-34 years,13,209200,6.21,Uruguay1989,,"8,438,951,476",2992,Boomers
+27276,Uruguay,1989,female,15-24 years,12,247300,4.85,Uruguay1989,,"8,438,951,476",2992,Generation X
+27277,Uruguay,1989,female,35-54 years,17,357700,4.75,Uruguay1989,,"8,438,951,476",2992,Silent
+27278,Uruguay,1989,male,5-14 years,2,279300,0.72,Uruguay1989,,"8,438,951,476",2992,Generation X
+27279,Uruguay,1989,female,5-14 years,0,271000,0.0,Uruguay1989,,"8,438,951,476",2992,Generation X
+27280,Uruguay,1990,male,75+ years,37,52000,71.15,Uruguay1990,0.6920000000000001,"9,298,839,655",3281,G.I. Generation
+27281,Uruguay,1990,male,55-74 years,74,246000,30.08,Uruguay1990,0.6920000000000001,"9,298,839,655",3281,G.I. Generation
+27282,Uruguay,1990,male,35-54 years,75,339000,22.12,Uruguay1990,0.6920000000000001,"9,298,839,655",3281,Silent
+27283,Uruguay,1990,male,15-24 years,33,247000,13.36,Uruguay1990,0.6920000000000001,"9,298,839,655",3281,Generation X
+27284,Uruguay,1990,male,25-34 years,27,216000,12.5,Uruguay1990,0.6920000000000001,"9,298,839,655",3281,Boomers
+27285,Uruguay,1990,female,75+ years,9,90000,10.0,Uruguay1990,0.6920000000000001,"9,298,839,655",3281,G.I. Generation
+27286,Uruguay,1990,female,55-74 years,25,283000,8.83,Uruguay1990,0.6920000000000001,"9,298,839,655",3281,G.I. Generation
+27287,Uruguay,1990,female,35-54 years,14,358000,3.91,Uruguay1990,0.6920000000000001,"9,298,839,655",3281,Silent
+27288,Uruguay,1990,female,25-34 years,8,224000,3.57,Uruguay1990,0.6920000000000001,"9,298,839,655",3281,Boomers
+27289,Uruguay,1990,female,15-24 years,7,240000,2.92,Uruguay1990,0.6920000000000001,"9,298,839,655",3281,Generation X
+27290,Uruguay,1990,female,5-14 years,3,264000,1.14,Uruguay1990,0.6920000000000001,"9,298,839,655",3281,Generation X
+27291,Uruguay,1990,male,5-14 years,3,275000,1.09,Uruguay1990,0.6920000000000001,"9,298,839,655",3281,Generation X
+27292,Uruguay,1993,male,75+ years,43,56310,76.36,Uruguay1993,,"15,002,106,518",5180,G.I. Generation
+27293,Uruguay,1993,male,55-74 years,91,245147,37.12,Uruguay1993,,"15,002,106,518",5180,Silent
+27294,Uruguay,1993,male,35-54 years,88,346669,25.38,Uruguay1993,,"15,002,106,518",5180,Boomers
+27295,Uruguay,1993,male,25-34 years,48,217544,22.06,Uruguay1993,,"15,002,106,518",5180,Boomers
+27296,Uruguay,1993,male,15-24 years,45,262318,17.15,Uruguay1993,,"15,002,106,518",5180,Generation X
+27297,Uruguay,1993,female,75+ years,15,97402,15.4,Uruguay1993,,"15,002,106,518",5180,G.I. Generation
+27298,Uruguay,1993,female,55-74 years,29,294908,9.83,Uruguay1993,,"15,002,106,518",5180,Silent
+27299,Uruguay,1993,female,35-54 years,32,369910,8.65,Uruguay1993,,"15,002,106,518",5180,Boomers
+27300,Uruguay,1993,female,25-34 years,11,225577,4.88,Uruguay1993,,"15,002,106,518",5180,Boomers
+27301,Uruguay,1993,female,15-24 years,10,254841,3.92,Uruguay1993,,"15,002,106,518",5180,Generation X
+27302,Uruguay,1993,male,5-14 years,4,267997,1.49,Uruguay1993,,"15,002,106,518",5180,Millenials
+27303,Uruguay,1993,female,5-14 years,2,257605,0.78,Uruguay1993,,"15,002,106,518",5180,Millenials
+27304,Uruguay,1994,male,75+ years,42,56651,74.14,Uruguay1994,,"17,474,647,792",5984,G.I. Generation
+27305,Uruguay,1994,male,55-74 years,102,245863,41.49,Uruguay1994,,"17,474,647,792",5984,Silent
+27306,Uruguay,1994,male,25-34 years,59,218727,26.97,Uruguay1994,,"17,474,647,792",5984,Boomers
+27307,Uruguay,1994,male,35-54 years,89,351348,25.33,Uruguay1994,,"17,474,647,792",5984,Boomers
+27308,Uruguay,1994,male,15-24 years,33,267079,12.36,Uruguay1994,,"17,474,647,792",5984,Generation X
+27309,Uruguay,1994,female,75+ years,10,99307,10.07,Uruguay1994,,"17,474,647,792",5984,G.I. Generation
+27310,Uruguay,1994,female,55-74 years,28,297374,9.42,Uruguay1994,,"17,474,647,792",5984,Silent
+27311,Uruguay,1994,female,35-54 years,23,374631,6.14,Uruguay1994,,"17,474,647,792",5984,Boomers
+27312,Uruguay,1994,female,15-24 years,10,258791,3.86,Uruguay1994,,"17,474,647,792",5984,Generation X
+27313,Uruguay,1994,female,25-34 years,7,225646,3.1,Uruguay1994,,"17,474,647,792",5984,Boomers
+27314,Uruguay,1994,male,5-14 years,3,267769,1.12,Uruguay1994,,"17,474,647,792",5984,Millenials
+27315,Uruguay,1994,female,5-14 years,0,257110,0.0,Uruguay1994,,"17,474,647,792",5984,Millenials
+27316,Uruguay,1995,male,75+ years,52,56835,91.49,Uruguay1995,0.711,"19,297,663,097",6555,G.I. Generation
+27317,Uruguay,1995,male,55-74 years,94,246698,38.1,Uruguay1995,0.711,"19,297,663,097",6555,Silent
+27318,Uruguay,1995,male,25-34 years,52,220523,23.58,Uruguay1995,0.711,"19,297,663,097",6555,Generation X
+27319,Uruguay,1995,male,35-54 years,83,356049,23.31,Uruguay1995,0.711,"19,297,663,097",6555,Boomers
+27320,Uruguay,1995,male,15-24 years,43,270288,15.91,Uruguay1995,0.711,"19,297,663,097",6555,Generation X
+27321,Uruguay,1995,female,75+ years,16,101397,15.78,Uruguay1995,0.711,"19,297,663,097",6555,G.I. Generation
+27322,Uruguay,1995,female,55-74 years,25,299569,8.35,Uruguay1995,0.711,"19,297,663,097",6555,Silent
+27323,Uruguay,1995,female,35-54 years,27,379373,7.12,Uruguay1995,0.711,"19,297,663,097",6555,Boomers
+27324,Uruguay,1995,female,15-24 years,18,261360,6.89,Uruguay1995,0.711,"19,297,663,097",6555,Generation X
+27325,Uruguay,1995,female,25-34 years,15,226150,6.63,Uruguay1995,0.711,"19,297,663,097",6555,Generation X
+27326,Uruguay,1995,female,5-14 years,2,257331,0.78,Uruguay1995,0.711,"19,297,663,097",6555,Millenials
+27327,Uruguay,1995,male,5-14 years,0,268243,0.0,Uruguay1995,0.711,"19,297,663,097",6555,Millenials
+27328,Uruguay,1996,male,75+ years,29,58734,49.38,Uruguay1996,,"20,515,543,039",6914,G.I. Generation
+27329,Uruguay,1996,male,55-74 years,98,246654,39.73,Uruguay1996,,"20,515,543,039",6914,Silent
+27330,Uruguay,1996,male,35-54 years,80,360457,22.19,Uruguay1996,,"20,515,543,039",6914,Boomers
+27331,Uruguay,1996,male,25-34 years,48,222786,21.55,Uruguay1996,,"20,515,543,039",6914,Generation X
+27332,Uruguay,1996,male,15-24 years,48,271740,17.66,Uruguay1996,,"20,515,543,039",6914,Generation X
+27333,Uruguay,1996,female,75+ years,12,104408,11.49,Uruguay1996,,"20,515,543,039",6914,G.I. Generation
+27334,Uruguay,1996,female,55-74 years,25,300610,8.32,Uruguay1996,,"20,515,543,039",6914,Silent
+27335,Uruguay,1996,female,35-54 years,27,384280,7.03,Uruguay1996,,"20,515,543,039",6914,Boomers
+27336,Uruguay,1996,female,25-34 years,12,227151,5.28,Uruguay1996,,"20,515,543,039",6914,Generation X
+27337,Uruguay,1996,female,15-24 years,9,262588,3.43,Uruguay1996,,"20,515,543,039",6914,Generation X
+27338,Uruguay,1996,male,5-14 years,4,269451,1.48,Uruguay1996,,"20,515,543,039",6914,Millenials
+27339,Uruguay,1996,female,5-14 years,1,258419,0.39,Uruguay1996,,"20,515,543,039",6914,Millenials
+27340,Uruguay,1997,male,75+ years,49,60421,81.1,Uruguay1997,,"23,969,823,010",8012,G.I. Generation
+27341,Uruguay,1997,male,55-74 years,115,246859,46.59,Uruguay1997,,"23,969,823,010",8012,Silent
+27342,Uruguay,1997,male,25-34 years,59,225600,26.15,Uruguay1997,,"23,969,823,010",8012,Generation X
+27343,Uruguay,1997,male,35-54 years,93,365113,25.47,Uruguay1997,,"23,969,823,010",8012,Boomers
+27344,Uruguay,1997,male,15-24 years,49,271839,18.03,Uruguay1997,,"23,969,823,010",8012,Generation X
+27345,Uruguay,1997,female,55-74 years,31,301689,10.28,Uruguay1997,,"23,969,823,010",8012,Silent
+27346,Uruguay,1997,female,75+ years,10,107408,9.31,Uruguay1997,,"23,969,823,010",8012,G.I. Generation
+27347,Uruguay,1997,female,25-34 years,14,228513,6.13,Uruguay1997,,"23,969,823,010",8012,Generation X
+27348,Uruguay,1997,female,35-54 years,23,389448,5.91,Uruguay1997,,"23,969,823,010",8012,Boomers
+27349,Uruguay,1997,female,15-24 years,11,262647,4.19,Uruguay1997,,"23,969,823,010",8012,Generation X
+27350,Uruguay,1997,female,5-14 years,1,260472,0.38,Uruguay1997,,"23,969,823,010",8012,Millenials
+27351,Uruguay,1997,male,5-14 years,1,271653,0.37,Uruguay1997,,"23,969,823,010",8012,Millenials
+27352,Uruguay,1998,male,75+ years,56,61835,90.56,Uruguay1998,,"25,385,928,198",8420,G.I. Generation
+27353,Uruguay,1998,male,55-74 years,123,247165,49.76,Uruguay1998,,"25,385,928,198",8420,Silent
+27354,Uruguay,1998,male,35-54 years,114,369621,30.84,Uruguay1998,,"25,385,928,198",8420,Boomers
+27355,Uruguay,1998,male,25-34 years,70,228816,30.59,Uruguay1998,,"25,385,928,198",8420,Generation X
+27356,Uruguay,1998,male,15-24 years,48,270811,17.72,Uruguay1998,,"25,385,928,198",8420,Generation X
+27357,Uruguay,1998,female,75+ years,15,110371,13.59,Uruguay1998,,"25,385,928,198",8420,G.I. Generation
+27358,Uruguay,1998,female,35-54 years,37,394443,9.38,Uruguay1998,,"25,385,928,198",8420,Boomers
+27359,Uruguay,1998,female,55-74 years,24,302651,7.93,Uruguay1998,,"25,385,928,198",8420,Silent
+27360,Uruguay,1998,female,25-34 years,15,230204,6.52,Uruguay1998,,"25,385,928,198",8420,Generation X
+27361,Uruguay,1998,female,15-24 years,15,261707,5.73,Uruguay1998,,"25,385,928,198",8420,Generation X
+27362,Uruguay,1998,male,5-14 years,4,274290,1.46,Uruguay1998,,"25,385,928,198",8420,Millenials
+27363,Uruguay,1998,female,5-14 years,0,262973,0.0,Uruguay1998,,"25,385,928,198",8420,Millenials
+27364,Uruguay,1999,male,75+ years,66,62922,104.89,Uruguay1999,,"23,983,945,191",7903,G.I. Generation
+27365,Uruguay,1999,male,55-74 years,103,247410,41.63,Uruguay1999,,"23,983,945,191",7903,Silent
+27366,Uruguay,1999,male,35-54 years,99,373571,26.5,Uruguay1999,,"23,983,945,191",7903,Boomers
+27367,Uruguay,1999,male,25-34 years,48,232282,20.66,Uruguay1999,,"23,983,945,191",7903,Generation X
+27368,Uruguay,1999,male,15-24 years,49,269133,18.21,Uruguay1999,,"23,983,945,191",7903,Generation X
+27369,Uruguay,1999,female,55-74 years,26,303373,8.57,Uruguay1999,,"23,983,945,191",7903,Silent
+27370,Uruguay,1999,female,35-54 years,29,398731,7.27,Uruguay1999,,"23,983,945,191",7903,Boomers
+27371,Uruguay,1999,female,75+ years,8,113267,7.06,Uruguay1999,,"23,983,945,191",7903,G.I. Generation
+27372,Uruguay,1999,female,25-34 years,9,232218,3.88,Uruguay1999,,"23,983,945,191",7903,Generation X
+27373,Uruguay,1999,female,15-24 years,9,260141,3.46,Uruguay1999,,"23,983,945,191",7903,Generation X
+27374,Uruguay,1999,female,5-14 years,3,265191,1.13,Uruguay1999,,"23,983,945,191",7903,Millenials
+27375,Uruguay,1999,male,5-14 years,1,276594,0.36,Uruguay1999,,"23,983,945,191",7903,Millenials
+27376,Uruguay,2000,male,75+ years,61,63651,95.84,Uruguay2000,0.742,"22,823,255,802",7483,G.I. Generation
+27377,Uruguay,2000,male,55-74 years,141,247499,56.97,Uruguay2000,0.742,"22,823,255,802",7483,Silent
+27378,Uruguay,2000,male,35-54 years,135,376711,35.84,Uruguay2000,0.742,"22,823,255,802",7483,Boomers
+27379,Uruguay,2000,male,25-34 years,60,235863,25.44,Uruguay2000,0.742,"22,823,255,802",7483,Generation X
+27380,Uruguay,2000,male,15-24 years,62,267146,23.21,Uruguay2000,0.742,"22,823,255,802",7483,Generation X
+27381,Uruguay,2000,female,75+ years,11,116083,9.48,Uruguay2000,0.742,"22,823,255,802",7483,G.I. Generation
+27382,Uruguay,2000,female,35-54 years,33,401998,8.21,Uruguay2000,0.742,"22,823,255,802",7483,Boomers
+27383,Uruguay,2000,female,55-74 years,22,303770,7.24,Uruguay2000,0.742,"22,823,255,802",7483,Silent
+27384,Uruguay,2000,female,25-34 years,13,234530,5.54,Uruguay2000,0.742,"22,823,255,802",7483,Generation X
+27385,Uruguay,2000,female,15-24 years,13,258235,5.03,Uruguay2000,0.742,"22,823,255,802",7483,Generation X
+27386,Uruguay,2000,female,5-14 years,2,266635,0.75,Uruguay2000,0.742,"22,823,255,802",7483,Millenials
+27387,Uruguay,2000,male,5-14 years,2,278048,0.72,Uruguay2000,0.742,"22,823,255,802",7483,Millenials
+27388,Uruguay,2001,male,75+ years,51,65952,77.33,Uruguay2001,,"20,898,788,417",6827,Silent
+27389,Uruguay,2001,male,55-74 years,119,247337,48.11,Uruguay2001,,"20,898,788,417",6827,Silent
+27390,Uruguay,2001,male,35-54 years,122,379834,32.12,Uruguay2001,,"20,898,788,417",6827,Boomers
+27391,Uruguay,2001,male,15-24 years,51,263212,19.38,Uruguay2001,,"20,898,788,417",6827,Millenials
+27392,Uruguay,2001,male,25-34 years,44,238488,18.45,Uruguay2001,,"20,898,788,417",6827,Generation X
+27393,Uruguay,2001,female,35-54 years,42,404912,10.37,Uruguay2001,,"20,898,788,417",6827,Boomers
+27394,Uruguay,2001,female,55-74 years,29,303804,9.55,Uruguay2001,,"20,898,788,417",6827,Silent
+27395,Uruguay,2001,female,75+ years,10,119725,8.35,Uruguay2001,,"20,898,788,417",6827,Silent
+27396,Uruguay,2001,female,25-34 years,14,236799,5.91,Uruguay2001,,"20,898,788,417",6827,Generation X
+27397,Uruguay,2001,female,15-24 years,13,254779,5.1,Uruguay2001,,"20,898,788,417",6827,Millenials
+27398,Uruguay,2001,male,5-14 years,3,278758,1.08,Uruguay2001,,"20,898,788,417",6827,Millenials
+27399,Uruguay,2001,female,5-14 years,1,267424,0.37,Uruguay2001,,"20,898,788,417",6827,Millenials
+27400,Uruguay,2002,male,75+ years,78,67798,115.05,Uruguay2002,,"13,606,494,599",4439,Silent
+27401,Uruguay,2002,male,55-74 years,143,246961,57.9,Uruguay2002,,"13,606,494,599",4439,Silent
+27402,Uruguay,2002,male,35-54 years,152,381763,39.82,Uruguay2002,,"13,606,494,599",4439,Boomers
+27403,Uruguay,2002,male,25-34 years,82,240893,34.04,Uruguay2002,,"13,606,494,599",4439,Generation X
+27404,Uruguay,2002,male,15-24 years,77,259090,29.72,Uruguay2002,,"13,606,494,599",4439,Millenials
+27405,Uruguay,2002,female,55-74 years,50,303582,16.47,Uruguay2002,,"13,606,494,599",4439,Silent
+27406,Uruguay,2002,female,75+ years,18,123044,14.63,Uruguay2002,,"13,606,494,599",4439,Silent
+27407,Uruguay,2002,female,35-54 years,39,406545,9.59,Uruguay2002,,"13,606,494,599",4439,Boomers
+27408,Uruguay,2002,female,15-24 years,17,251019,6.77,Uruguay2002,,"13,606,494,599",4439,Millenials
+27409,Uruguay,2002,female,25-34 years,14,239064,5.86,Uruguay2002,,"13,606,494,599",4439,Generation X
+27410,Uruguay,2002,female,5-14 years,3,267162,1.12,Uruguay2002,,"13,606,494,599",4439,Millenials
+27411,Uruguay,2002,male,5-14 years,2,278336,0.72,Uruguay2002,,"13,606,494,599",4439,Millenials
+27412,Uruguay,2003,male,75+ years,62,69240,89.54,Uruguay2003,,"12,045,631,093",3929,Silent
+27413,Uruguay,2003,male,55-74 years,131,246693,53.1,Uruguay2003,,"12,045,631,093",3929,Silent
+27414,Uruguay,2003,male,35-54 years,107,383052,27.93,Uruguay2003,,"12,045,631,093",3929,Boomers
+27415,Uruguay,2003,male,25-34 years,63,242784,25.95,Uruguay2003,,"12,045,631,093",3929,Generation X
+27416,Uruguay,2003,male,15-24 years,48,255495,18.79,Uruguay2003,,"12,045,631,093",3929,Millenials
+27417,Uruguay,2003,female,35-54 years,48,407508,11.78,Uruguay2003,,"12,045,631,093",3929,Boomers
+27418,Uruguay,2003,female,55-74 years,34,303367,11.21,Uruguay2003,,"12,045,631,093",3929,Silent
+27419,Uruguay,2003,female,75+ years,10,126141,7.93,Uruguay2003,,"12,045,631,093",3929,Silent
+27420,Uruguay,2003,female,25-34 years,18,240934,7.47,Uruguay2003,,"12,045,631,093",3929,Generation X
+27421,Uruguay,2003,female,15-24 years,11,247644,4.44,Uruguay2003,,"12,045,631,093",3929,Millenials
+27422,Uruguay,2003,female,5-14 years,2,265973,0.75,Uruguay2003,,"12,045,631,093",3929,Millenials
+27423,Uruguay,2003,male,5-14 years,1,276941,0.36,Uruguay2003,,"12,045,631,093",3929,Millenials
+27424,Uruguay,2004,male,75+ years,67,70353,95.23,Uruguay2004,,"13,686,329,890",4463,Silent
+27425,Uruguay,2004,male,55-74 years,101,246918,40.9,Uruguay2004,,"13,686,329,890",4463,Silent
+27426,Uruguay,2004,male,35-54 years,119,384545,30.95,Uruguay2004,,"13,686,329,890",4463,Boomers
+27427,Uruguay,2004,male,25-34 years,65,243681,26.67,Uruguay2004,,"13,686,329,890",4463,Generation X
+27428,Uruguay,2004,male,15-24 years,56,253189,22.12,Uruguay2004,,"13,686,329,890",4463,Millenials
+27429,Uruguay,2004,female,75+ years,14,129090,10.85,Uruguay2004,,"13,686,329,890",4463,Silent
+27430,Uruguay,2004,female,55-74 years,31,303509,10.21,Uruguay2004,,"13,686,329,890",4463,Silent
+27431,Uruguay,2004,female,35-54 years,34,408704,8.32,Uruguay2004,,"13,686,329,890",4463,Boomers
+27432,Uruguay,2004,female,15-24 years,17,245401,6.93,Uruguay2004,,"13,686,329,890",4463,Millenials
+27433,Uruguay,2004,female,25-34 years,9,241875,3.72,Uruguay2004,,"13,686,329,890",4463,Generation X
+27434,Uruguay,2004,male,5-14 years,4,275002,1.45,Uruguay2004,,"13,686,329,890",4463,Millenials
+27435,Uruguay,2004,female,5-14 years,3,264222,1.14,Uruguay2004,,"13,686,329,890",4463,Millenials
+27436,Uruguay,2005,male,75+ years,55,71161,77.29,Uruguay2005,0.7559999999999999,"17,362,857,684",5655,Silent
+27437,Uruguay,2005,male,55-74 years,112,247909,45.18,Uruguay2005,0.7559999999999999,"17,362,857,684",5655,Silent
+27438,Uruguay,2005,male,25-34 years,66,243372,27.12,Uruguay2005,0.7559999999999999,"17,362,857,684",5655,Generation X
+27439,Uruguay,2005,male,35-54 years,93,386768,24.05,Uruguay2005,0.7559999999999999,"17,362,857,684",5655,Boomers
+27440,Uruguay,2005,male,15-24 years,56,252521,22.18,Uruguay2005,0.7559999999999999,"17,362,857,684",5655,Millenials
+27441,Uruguay,2005,female,75+ years,18,131946,13.64,Uruguay2005,0.7559999999999999,"17,362,857,684",5655,Silent
+27442,Uruguay,2005,female,35-54 years,37,410654,9.01,Uruguay2005,0.7559999999999999,"17,362,857,684",5655,Boomers
+27443,Uruguay,2005,female,55-74 years,26,304225,8.55,Uruguay2005,0.7559999999999999,"17,362,857,684",5655,Silent
+27444,Uruguay,2005,female,15-24 years,17,244651,6.95,Uruguay2005,0.7559999999999999,"17,362,857,684",5655,Millenials
+27445,Uruguay,2005,female,25-34 years,15,241655,6.21,Uruguay2005,0.7559999999999999,"17,362,857,684",5655,Generation X
+27446,Uruguay,2005,female,5-14 years,2,262330,0.76,Uruguay2005,0.7559999999999999,"17,362,857,684",5655,Millenials
+27447,Uruguay,2005,male,5-14 years,1,272986,0.37,Uruguay2005,0.7559999999999999,"17,362,857,684",5655,Millenials
+27448,Uruguay,2006,male,75+ years,59,73133,80.67,Uruguay2006,,"19,579,457,966",6362,Silent
+27449,Uruguay,2006,male,55-74 years,118,248049,47.57,Uruguay2006,,"19,579,457,966",6362,Silent
+27450,Uruguay,2006,male,25-34 years,64,243474,26.29,Uruguay2006,,"19,579,457,966",6362,Generation X
+27451,Uruguay,2006,male,35-54 years,93,389435,23.88,Uruguay2006,,"19,579,457,966",6362,Boomers
+27452,Uruguay,2006,male,15-24 years,56,252909,22.14,Uruguay2006,,"19,579,457,966",6362,Millenials
+27453,Uruguay,2006,female,55-74 years,47,303521,15.48,Uruguay2006,,"19,579,457,966",6362,Silent
+27454,Uruguay,2006,female,35-54 years,56,413094,13.56,Uruguay2006,,"19,579,457,966",6362,Boomers
+27455,Uruguay,2006,female,75+ years,13,136305,9.54,Uruguay2006,,"19,579,457,966",6362,Silent
+27456,Uruguay,2006,female,25-34 years,14,241639,5.79,Uruguay2006,,"19,579,457,966",6362,Generation X
+27457,Uruguay,2006,female,15-24 years,6,245043,2.45,Uruguay2006,,"19,579,457,966",6362,Millenials
+27458,Uruguay,2006,male,5-14 years,2,270656,0.74,Uruguay2006,,"19,579,457,966",6362,Millenials
+27459,Uruguay,2006,female,5-14 years,0,260187,0.0,Uruguay2006,,"19,579,457,966",6362,Millenials
+27460,Uruguay,2007,male,75+ years,64,74790,85.57,Uruguay2007,,"23,410,572,634",7581,Silent
+27461,Uruguay,2007,male,55-74 years,114,248953,45.79,Uruguay2007,,"23,410,572,634",7581,Silent
+27462,Uruguay,2007,male,35-54 years,128,393092,32.56,Uruguay2007,,"23,410,572,634",7581,Boomers
+27463,Uruguay,2007,male,25-34 years,66,242488,27.22,Uruguay2007,,"23,410,572,634",7581,Generation X
+27464,Uruguay,2007,male,15-24 years,63,254712,24.73,Uruguay2007,,"23,410,572,634",7581,Millenials
+27465,Uruguay,2007,female,55-74 years,40,303537,13.18,Uruguay2007,,"23,410,572,634",7581,Silent
+27466,Uruguay,2007,female,35-54 years,48,416393,11.53,Uruguay2007,,"23,410,572,634",7581,Boomers
+27467,Uruguay,2007,female,75+ years,14,140384,9.97,Uruguay2007,,"23,410,572,634",7581,Silent
+27468,Uruguay,2007,female,15-24 years,19,246721,7.7,Uruguay2007,,"23,410,572,634",7581,Millenials
+27469,Uruguay,2007,female,25-34 years,14,240694,5.82,Uruguay2007,,"23,410,572,634",7581,Generation X
+27470,Uruguay,2007,male,5-14 years,6,268262,2.24,Uruguay2007,,"23,410,572,634",7581,Generation Z
+27471,Uruguay,2007,female,5-14 years,0,257931,0.0,Uruguay2007,,"23,410,572,634",7581,Generation Z
+27472,Uruguay,2008,male,75+ years,53,76044,69.7,Uruguay2008,,"30,366,213,119",9793,Silent
+27473,Uruguay,2008,male,55-74 years,103,250691,41.09,Uruguay2008,,"30,366,213,119",9793,Silent
+27474,Uruguay,2008,male,35-54 years,131,397413,32.96,Uruguay2008,,"30,366,213,119",9793,Boomers
+27475,Uruguay,2008,male,25-34 years,64,240730,26.59,Uruguay2008,,"30,366,213,119",9793,Generation X
+27476,Uruguay,2008,male,15-24 years,57,257457,22.14,Uruguay2008,,"30,366,213,119",9793,Millenials
+27477,Uruguay,2008,female,55-74 years,34,304348,11.17,Uruguay2008,,"30,366,213,119",9793,Silent
+27478,Uruguay,2008,female,75+ years,16,144107,11.1,Uruguay2008,,"30,366,213,119",9793,Silent
+27479,Uruguay,2008,female,35-54 years,39,420239,9.28,Uruguay2008,,"30,366,213,119",9793,Boomers
+27480,Uruguay,2008,female,15-24 years,11,249224,4.41,Uruguay2008,,"30,366,213,119",9793,Millenials
+27481,Uruguay,2008,female,25-34 years,10,239056,4.18,Uruguay2008,,"30,366,213,119",9793,Generation X
+27482,Uruguay,2008,male,5-14 years,3,265857,1.13,Uruguay2008,,"30,366,213,119",9793,Generation Z
+27483,Uruguay,2008,female,5-14 years,2,255625,0.78,Uruguay2008,,"30,366,213,119",9793,Generation Z
+27484,Uruguay,2009,male,75+ years,59,76759,76.86,Uruguay2009,,"31,660,911,277",10166,Silent
+27485,Uruguay,2009,male,55-74 years,99,253331,39.08,Uruguay2009,,"31,660,911,277",10166,Silent
+27486,Uruguay,2009,male,25-34 years,79,238754,33.09,Uruguay2009,,"31,660,911,277",10166,Generation X
+27487,Uruguay,2009,male,35-54 years,107,401900,26.62,Uruguay2009,,"31,660,911,277",10166,Boomers
+27488,Uruguay,2009,male,15-24 years,64,260287,24.59,Uruguay2009,,"31,660,911,277",10166,Millenials
+27489,Uruguay,2009,female,75+ years,14,147420,9.5,Uruguay2009,,"31,660,911,277",10166,Silent
+27490,Uruguay,2009,female,55-74 years,28,306049,9.15,Uruguay2009,,"31,660,911,277",10166,Silent
+27491,Uruguay,2009,female,35-54 years,35,424092,8.25,Uruguay2009,,"31,660,911,277",10166,Boomers
+27492,Uruguay,2009,female,15-24 years,13,251731,5.16,Uruguay2009,,"31,660,911,277",10166,Millenials
+27493,Uruguay,2009,female,25-34 years,12,237146,5.06,Uruguay2009,,"31,660,911,277",10166,Generation X
+27494,Uruguay,2009,female,5-14 years,1,253321,0.39,Uruguay2009,,"31,660,911,277",10166,Generation Z
+27495,Uruguay,2009,male,5-14 years,0,263516,0.0,Uruguay2009,,"31,660,911,277",10166,Generation Z
+27496,Uruguay,2010,male,75+ years,67,76869,87.16,Uruguay2010,0.78,"40,284,481,652",12882,Silent
+27497,Uruguay,2010,male,55-74 years,106,256883,41.26,Uruguay2010,0.78,"40,284,481,652",12882,Silent
+27498,Uruguay,2010,male,25-34 years,77,236974,32.49,Uruguay2010,0.78,"40,284,481,652",12882,Generation X
+27499,Uruguay,2010,male,15-24 years,69,262585,26.28,Uruguay2010,0.78,"40,284,481,652",12882,Millenials
+27500,Uruguay,2010,male,35-54 years,101,406214,24.86,Uruguay2010,0.78,"40,284,481,652",12882,Generation X
+27501,Uruguay,2010,female,55-74 years,42,308647,13.61,Uruguay2010,0.78,"40,284,481,652",12882,Silent
+27502,Uruguay,2010,female,75+ years,14,150385,9.31,Uruguay2010,0.78,"40,284,481,652",12882,Silent
+27503,Uruguay,2010,female,35-54 years,38,427551,8.89,Uruguay2010,0.78,"40,284,481,652",12882,Generation X
+27504,Uruguay,2010,female,25-34 years,18,235276,7.65,Uruguay2010,0.78,"40,284,481,652",12882,Generation X
+27505,Uruguay,2010,female,15-24 years,11,253651,4.34,Uruguay2010,0.78,"40,284,481,652",12882,Millenials
+27506,Uruguay,2010,female,5-14 years,3,251005,1.2,Uruguay2010,0.78,"40,284,481,652",12882,Generation Z
+27507,Uruguay,2010,male,5-14 years,1,261266,0.38,Uruguay2010,0.78,"40,284,481,652",12882,Generation Z
+27508,Uruguay,2012,male,75+ years,65,78821,82.47,Uruguay2012,0.7879999999999999,"51,264,390,116",16264,Silent
+27509,Uruguay,2012,male,55-74 years,112,263508,42.5,Uruguay2012,0.7879999999999999,"51,264,390,116",16264,Boomers
+27510,Uruguay,2012,male,35-54 years,144,413990,34.78,Uruguay2012,0.7879999999999999,"51,264,390,116",16264,Generation X
+27511,Uruguay,2012,male,25-34 years,72,234961,30.64,Uruguay2012,0.7879999999999999,"51,264,390,116",16264,Millenials
+27512,Uruguay,2012,male,15-24 years,81,264743,30.6,Uruguay2012,0.7879999999999999,"51,264,390,116",16264,Millenials
+27513,Uruguay,2012,female,55-74 years,36,314226,11.46,Uruguay2012,0.7879999999999999,"51,264,390,116",16264,Boomers
+27514,Uruguay,2012,female,35-54 years,44,433744,10.14,Uruguay2012,0.7879999999999999,"51,264,390,116",16264,Generation X
+27515,Uruguay,2012,female,75+ years,14,155392,9.01,Uruguay2012,0.7879999999999999,"51,264,390,116",16264,Silent
+27516,Uruguay,2012,female,25-34 years,16,232940,6.87,Uruguay2012,0.7879999999999999,"51,264,390,116",16264,Millenials
+27517,Uruguay,2012,female,15-24 years,12,255688,4.69,Uruguay2012,0.7879999999999999,"51,264,390,116",16264,Millenials
+27518,Uruguay,2012,male,5-14 years,2,257123,0.78,Uruguay2012,0.7879999999999999,"51,264,390,116",16264,Generation Z
+27519,Uruguay,2012,female,5-14 years,1,246803,0.41,Uruguay2012,0.7879999999999999,"51,264,390,116",16264,Generation Z
+27520,Uruguay,2013,male,75+ years,63,79099,79.65,Uruguay2013,0.79,"57,531,233,351",18179,Silent
+27521,Uruguay,2013,male,55-74 years,89,267909,33.22,Uruguay2013,0.79,"57,531,233,351",18179,Boomers
+27522,Uruguay,2013,male,25-34 years,77,234385,32.85,Uruguay2013,0.79,"57,531,233,351",18179,Millenials
+27523,Uruguay,2013,male,35-54 years,118,417858,28.24,Uruguay2013,0.79,"57,531,233,351",18179,Generation X
+27524,Uruguay,2013,male,15-24 years,73,265054,27.54,Uruguay2013,0.79,"57,531,233,351",18179,Millenials
+27525,Uruguay,2013,female,75+ years,23,157260,14.63,Uruguay2013,0.79,"57,531,233,351",18179,Silent
+27526,Uruguay,2013,female,35-54 years,38,436578,8.7,Uruguay2013,0.79,"57,531,233,351",18179,Generation X
+27527,Uruguay,2013,female,55-74 years,25,318219,7.86,Uruguay2013,0.79,"57,531,233,351",18179,Boomers
+27528,Uruguay,2013,female,25-34 years,17,231983,7.33,Uruguay2013,0.79,"57,531,233,351",18179,Millenials
+27529,Uruguay,2013,female,15-24 years,15,255905,5.86,Uruguay2013,0.79,"57,531,233,351",18179,Millenials
+27530,Uruguay,2013,female,5-14 years,5,244964,2.04,Uruguay2013,0.79,"57,531,233,351",18179,Generation Z
+27531,Uruguay,2013,male,5-14 years,3,255456,1.17,Uruguay2013,0.79,"57,531,233,351",18179,Generation Z
+27532,Uruguay,2014,male,75+ years,55,79118,69.52,Uruguay2014,0.7929999999999999,"57,236,013,086",18012,Silent
+27533,Uruguay,2014,male,35-54 years,150,421245,35.61,Uruguay2014,0.7929999999999999,"57,236,013,086",18012,Generation X
+27534,Uruguay,2014,male,55-74 years,95,272749,34.83,Uruguay2014,0.7929999999999999,"57,236,013,086",18012,Boomers
+27535,Uruguay,2014,male,25-34 years,81,234529,34.54,Uruguay2014,0.7929999999999999,"57,236,013,086",18012,Millenials
+27536,Uruguay,2014,male,15-24 years,78,264979,29.44,Uruguay2014,0.7929999999999999,"57,236,013,086",18012,Millenials
+27537,Uruguay,2014,female,55-74 years,37,322676,11.47,Uruguay2014,0.7929999999999999,"57,236,013,086",18012,Boomers
+27538,Uruguay,2014,female,35-54 years,45,438879,10.25,Uruguay2014,0.7929999999999999,"57,236,013,086",18012,Generation X
+27539,Uruguay,2014,female,25-34 years,20,231636,8.63,Uruguay2014,0.7929999999999999,"57,236,013,086",18012,Millenials
+27540,Uruguay,2014,female,15-24 years,18,255685,7.04,Uruguay2014,0.7929999999999999,"57,236,013,086",18012,Millenials
+27541,Uruguay,2014,female,75+ years,11,158956,6.92,Uruguay2014,0.7929999999999999,"57,236,013,086",18012,Silent
+27542,Uruguay,2014,male,5-14 years,1,253946,0.39,Uruguay2014,0.7929999999999999,"57,236,013,086",18012,Generation Z
+27543,Uruguay,2014,female,5-14 years,0,243247,0.0,Uruguay2014,0.7929999999999999,"57,236,013,086",18012,Generation Z
+27544,Uruguay,2015,male,75+ years,58,78996,73.42,Uruguay2015,,"53,274,304,222",16696,Silent
+27545,Uruguay,2015,male,55-74 years,133,277870,47.86,Uruguay2015,,"53,274,304,222",16696,Boomers
+27546,Uruguay,2015,male,25-34 years,96,235597,40.75,Uruguay2015,,"53,274,304,222",16696,Millenials
+27547,Uruguay,2015,male,35-54 years,135,423963,31.84,Uruguay2015,,"53,274,304,222",16696,Generation X
+27548,Uruguay,2015,male,15-24 years,74,264562,27.97,Uruguay2015,,"53,274,304,222",16696,Millenials
+27549,Uruguay,2015,female,75+ years,17,160620,10.58,Uruguay2015,,"53,274,304,222",16696,Silent
+27550,Uruguay,2015,female,55-74 years,34,327405,10.38,Uruguay2015,,"53,274,304,222",16696,Boomers
+27551,Uruguay,2015,female,25-34 years,23,232133,9.91,Uruguay2015,,"53,274,304,222",16696,Millenials
+27552,Uruguay,2015,female,35-54 years,38,440475,8.63,Uruguay2015,,"53,274,304,222",16696,Generation X
+27553,Uruguay,2015,female,15-24 years,17,255067,6.66,Uruguay2015,,"53,274,304,222",16696,Millenials
+27554,Uruguay,2015,male,5-14 years,3,252509,1.19,Uruguay2015,,"53,274,304,222",16696,Generation Z
+27555,Uruguay,2015,female,5-14 years,2,241598,0.83,Uruguay2015,,"53,274,304,222",16696,Generation Z

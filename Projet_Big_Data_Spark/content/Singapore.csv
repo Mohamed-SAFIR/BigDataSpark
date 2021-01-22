@@ -1,0 +1,373 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+22400,Singapore,1985,male,75+ years,23,15900,144.65,Singapore1985,,"19,138,296,376",8142,G.I. Generation
+22401,Singapore,1985,female,75+ years,19,24500,77.55,Singapore1985,,"19,138,296,376",8142,G.I. Generation
+22402,Singapore,1985,male,55-74 years,39,122400,31.86,Singapore1985,,"19,138,296,376",8142,G.I. Generation
+22403,Singapore,1985,female,55-74 years,25,125100,19.98,Singapore1985,,"19,138,296,376",8142,G.I. Generation
+22404,Singapore,1985,male,25-34 years,52,280500,18.54,Singapore1985,,"19,138,296,376",8142,Boomers
+22405,Singapore,1985,male,35-54 years,49,292500,16.75,Singapore1985,,"19,138,296,376",8142,Silent
+22406,Singapore,1985,female,25-34 years,35,266700,13.12,Singapore1985,,"19,138,296,376",8142,Boomers
+22407,Singapore,1985,male,15-24 years,27,268000,10.07,Singapore1985,,"19,138,296,376",8142,Generation X
+22408,Singapore,1985,female,15-24 years,25,253400,9.87,Singapore1985,,"19,138,296,376",8142,Generation X
+22409,Singapore,1985,female,35-54 years,27,285200,9.47,Singapore1985,,"19,138,296,376",8142,Silent
+22410,Singapore,1985,female,5-14 years,3,200400,1.5,Singapore1985,,"19,138,296,376",8142,Generation X
+22411,Singapore,1985,male,5-14 years,0,215900,0.0,Singapore1985,,"19,138,296,376",8142,Generation X
+22412,Singapore,1986,female,75+ years,30,26000,115.38,Singapore1986,,"18,569,292,305",7805,G.I. Generation
+22413,Singapore,1986,male,75+ years,14,17200,81.4,Singapore1986,,"18,569,292,305",7805,G.I. Generation
+22414,Singapore,1986,male,55-74 years,44,125800,34.98,Singapore1986,,"18,569,292,305",7805,G.I. Generation
+22415,Singapore,1986,male,35-54 years,54,304500,17.73,Singapore1986,,"18,569,292,305",7805,Silent
+22416,Singapore,1986,male,25-34 years,46,288100,15.97,Singapore1986,,"18,569,292,305",7805,Boomers
+22417,Singapore,1986,female,55-74 years,20,128500,15.56,Singapore1986,,"18,569,292,305",7805,G.I. Generation
+22418,Singapore,1986,female,25-34 years,35,273000,12.82,Singapore1986,,"18,569,292,305",7805,Boomers
+22419,Singapore,1986,male,15-24 years,31,260000,11.92,Singapore1986,,"18,569,292,305",7805,Generation X
+22420,Singapore,1986,female,35-54 years,34,297800,11.42,Singapore1986,,"18,569,292,305",7805,Silent
+22421,Singapore,1986,female,15-24 years,16,246400,6.49,Singapore1986,,"18,569,292,305",7805,Generation X
+22422,Singapore,1986,male,5-14 years,2,213700,0.94,Singapore1986,,"18,569,292,305",7805,Generation X
+22423,Singapore,1986,female,5-14 years,0,198300,0.0,Singapore1986,,"18,569,292,305",7805,Generation X
+22424,Singapore,1987,male,75+ years,17,18300,92.9,Singapore1987,,"20,897,630,201",8679,G.I. Generation
+22425,Singapore,1987,female,75+ years,16,27700,57.76,Singapore1987,,"20,897,630,201",8679,G.I. Generation
+22426,Singapore,1987,male,55-74 years,42,128900,32.58,Singapore1987,,"20,897,630,201",8679,G.I. Generation
+22427,Singapore,1987,female,55-74 years,29,132300,21.92,Singapore1987,,"20,897,630,201",8679,G.I. Generation
+22428,Singapore,1987,male,25-34 years,48,293500,16.35,Singapore1987,,"20,897,630,201",8679,Boomers
+22429,Singapore,1987,male,35-54 years,43,318100,13.52,Singapore1987,,"20,897,630,201",8679,Silent
+22430,Singapore,1987,female,25-34 years,36,277400,12.98,Singapore1987,,"20,897,630,201",8679,Boomers
+22431,Singapore,1987,female,35-54 years,33,311000,10.61,Singapore1987,,"20,897,630,201",8679,Silent
+22432,Singapore,1987,male,15-24 years,21,253600,8.28,Singapore1987,,"20,897,630,201",8679,Generation X
+22433,Singapore,1987,female,15-24 years,16,240100,6.66,Singapore1987,,"20,897,630,201",8679,Generation X
+22434,Singapore,1987,female,5-14 years,0,195600,0.0,Singapore1987,,"20,897,630,201",8679,Generation X
+22435,Singapore,1987,male,5-14 years,0,211300,0.0,Singapore1987,,"20,897,630,201",8679,Generation X
+22436,Singapore,1988,male,75+ years,30,21600,138.89,Singapore1988,,"25,337,226,971",10586,G.I. Generation
+22437,Singapore,1988,female,75+ years,27,31800,84.91,Singapore1988,,"25,337,226,971",10586,G.I. Generation
+22438,Singapore,1988,male,55-74 years,43,131400,32.72,Singapore1988,,"25,337,226,971",10586,G.I. Generation
+22439,Singapore,1988,male,35-54 years,63,319100,19.74,Singapore1988,,"25,337,226,971",10586,Silent
+22440,Singapore,1988,male,25-34 years,52,288000,18.06,Singapore1988,,"25,337,226,971",10586,Boomers
+22441,Singapore,1988,female,55-74 years,23,136200,16.89,Singapore1988,,"25,337,226,971",10586,G.I. Generation
+22442,Singapore,1988,male,15-24 years,31,241600,12.83,Singapore1988,,"25,337,226,971",10586,Generation X
+22443,Singapore,1988,female,25-34 years,33,277100,11.91,Singapore1988,,"25,337,226,971",10586,Boomers
+22444,Singapore,1988,female,15-24 years,25,229800,10.88,Singapore1988,,"25,337,226,971",10586,Generation X
+22445,Singapore,1988,female,35-54 years,34,314300,10.82,Singapore1988,,"25,337,226,971",10586,Silent
+22446,Singapore,1988,female,5-14 years,4,193900,2.06,Singapore1988,,"25,337,226,971",10586,Generation X
+22447,Singapore,1988,male,5-14 years,1,208600,0.48,Singapore1988,,"25,337,226,971",10586,Generation X
+22448,Singapore,1989,male,75+ years,25,22800,109.65,Singapore1989,,"30,423,573,842",12514,G.I. Generation
+22449,Singapore,1989,female,75+ years,33,33500,98.51,Singapore1989,,"30,423,573,842",12514,G.I. Generation
+22450,Singapore,1989,male,55-74 years,41,135300,30.3,Singapore1989,,"30,423,573,842",12514,G.I. Generation
+22451,Singapore,1989,female,55-74 years,33,141000,23.4,Singapore1989,,"30,423,573,842",12514,G.I. Generation
+22452,Singapore,1989,male,35-54 years,65,336500,19.32,Singapore1989,,"30,423,573,842",12514,Silent
+22453,Singapore,1989,male,25-34 years,50,290700,17.2,Singapore1989,,"30,423,573,842",12514,Boomers
+22454,Singapore,1989,female,15-24 years,35,224700,15.58,Singapore1989,,"30,423,573,842",12514,Generation X
+22455,Singapore,1989,female,25-34 years,38,280700,13.54,Singapore1989,,"30,423,573,842",12514,Boomers
+22456,Singapore,1989,male,15-24 years,32,236800,13.51,Singapore1989,,"30,423,573,842",12514,Generation X
+22457,Singapore,1989,female,35-54 years,40,329800,12.13,Singapore1989,,"30,423,573,842",12514,Silent
+22458,Singapore,1989,male,5-14 years,2,207000,0.97,Singapore1989,,"30,423,573,842",12514,Generation X
+22459,Singapore,1989,female,5-14 years,0,192300,0.0,Singapore1989,,"30,423,573,842",12514,Generation X
+22460,Singapore,1990,male,75+ years,19,24100,78.84,Singapore1990,0.718,"36,152,027,893",14393,G.I. Generation
+22461,Singapore,1990,female,75+ years,23,35400,64.97,Singapore1990,0.718,"36,152,027,893",14393,G.I. Generation
+22462,Singapore,1990,male,55-74 years,39,140900,27.68,Singapore1990,0.718,"36,152,027,893",14393,G.I. Generation
+22463,Singapore,1990,female,55-74 years,27,147100,18.35,Singapore1990,0.718,"36,152,027,893",14393,G.I. Generation
+22464,Singapore,1990,male,35-54 years,63,359200,17.54,Singapore1990,0.718,"36,152,027,893",14393,Silent
+22465,Singapore,1990,male,25-34 years,47,299900,15.67,Singapore1990,0.718,"36,152,027,893",14393,Boomers
+22466,Singapore,1990,female,25-34 years,43,289400,14.86,Singapore1990,0.718,"36,152,027,893",14393,Boomers
+22467,Singapore,1990,male,15-24 years,31,236800,13.09,Singapore1990,0.718,"36,152,027,893",14393,Generation X
+22468,Singapore,1990,female,35-54 years,42,349400,12.02,Singapore1990,0.718,"36,152,027,893",14393,Silent
+22469,Singapore,1990,female,15-24 years,17,225500,7.54,Singapore1990,0.718,"36,152,027,893",14393,Generation X
+22470,Singapore,1990,male,5-14 years,2,209400,0.96,Singapore1990,0.718,"36,152,027,893",14393,Generation X
+22471,Singapore,1990,female,5-14 years,1,194700,0.51,Singapore1990,0.718,"36,152,027,893",14393,Generation X
+22472,Singapore,1991,male,75+ years,16,25000,64.0,Singapore1991,,"45,474,442,836",17768,G.I. Generation
+22473,Singapore,1991,female,75+ years,21,36700,57.22,Singapore1991,,"45,474,442,836",17768,G.I. Generation
+22474,Singapore,1991,male,55-74 years,38,144300,26.33,Singapore1991,,"45,474,442,836",17768,Silent
+22475,Singapore,1991,female,55-74 years,25,150800,16.58,Singapore1991,,"45,474,442,836",17768,Silent
+22476,Singapore,1991,male,25-34 years,44,301200,14.61,Singapore1991,,"45,474,442,836",17768,Boomers
+22477,Singapore,1991,male,35-54 years,54,379500,14.23,Singapore1991,,"45,474,442,836",17768,Boomers
+22478,Singapore,1991,male,15-24 years,25,231300,10.81,Singapore1991,,"45,474,442,836",17768,Generation X
+22479,Singapore,1991,female,25-34 years,28,292600,9.57,Singapore1991,,"45,474,442,836",17768,Boomers
+22480,Singapore,1991,female,15-24 years,16,221500,7.22,Singapore1991,,"45,474,442,836",17768,Generation X
+22481,Singapore,1991,female,35-54 years,25,369500,6.77,Singapore1991,,"45,474,442,836",17768,Boomers
+22482,Singapore,1991,female,5-14 years,4,195900,2.04,Singapore1991,,"45,474,442,836",17768,Millenials
+22483,Singapore,1991,male,5-14 years,0,211000,0.0,Singapore1991,,"45,474,442,836",17768,Millenials
+22484,Singapore,1992,male,75+ years,15,26000,57.69,Singapore1992,,"52,156,414,979",20029,G.I. Generation
+22485,Singapore,1992,female,75+ years,20,38200,52.36,Singapore1992,,"52,156,414,979",20029,G.I. Generation
+22486,Singapore,1992,male,55-74 years,26,147100,17.68,Singapore1992,,"52,156,414,979",20029,Silent
+22487,Singapore,1992,female,55-74 years,27,153300,17.61,Singapore1992,,"52,156,414,979",20029,Silent
+22488,Singapore,1992,male,25-34 years,43,299300,14.37,Singapore1992,,"52,156,414,979",20029,Boomers
+22489,Singapore,1992,male,35-54 years,53,400800,13.22,Singapore1992,,"52,156,414,979",20029,Boomers
+22490,Singapore,1992,female,25-34 years,28,293200,9.55,Singapore1992,,"52,156,414,979",20029,Boomers
+22491,Singapore,1992,male,15-24 years,21,228100,9.21,Singapore1992,,"52,156,414,979",20029,Generation X
+22492,Singapore,1992,female,35-54 years,32,391200,8.18,Singapore1992,,"52,156,414,979",20029,Boomers
+22493,Singapore,1992,female,15-24 years,9,220000,4.09,Singapore1992,,"52,156,414,979",20029,Generation X
+22494,Singapore,1992,male,5-14 years,2,211000,0.95,Singapore1992,,"52,156,414,979",20029,Millenials
+22495,Singapore,1992,female,5-14 years,1,195800,0.51,Singapore1992,,"52,156,414,979",20029,Millenials
+22496,Singapore,1993,male,75+ years,26,26800,97.01,Singapore1993,,"60,644,572,348",22835,G.I. Generation
+22497,Singapore,1993,female,75+ years,20,39500,50.63,Singapore1993,,"60,644,572,348",22835,G.I. Generation
+22498,Singapore,1993,male,55-74 years,31,151200,20.5,Singapore1993,,"60,644,572,348",22835,Silent
+22499,Singapore,1993,male,35-54 years,56,420500,13.32,Singapore1993,,"60,644,572,348",22835,Boomers
+22500,Singapore,1993,female,55-74 years,21,157900,13.3,Singapore1993,,"60,644,572,348",22835,Silent
+22501,Singapore,1993,male,25-34 years,36,296600,12.14,Singapore1993,,"60,644,572,348",22835,Boomers
+22502,Singapore,1993,male,15-24 years,19,224300,8.47,Singapore1993,,"60,644,572,348",22835,Generation X
+22503,Singapore,1993,female,35-54 years,28,411300,6.81,Singapore1993,,"60,644,572,348",22835,Boomers
+22504,Singapore,1993,female,25-34 years,19,292900,6.49,Singapore1993,,"60,644,572,348",22835,Boomers
+22505,Singapore,1993,female,15-24 years,13,217700,5.97,Singapore1993,,"60,644,572,348",22835,Generation X
+22506,Singapore,1993,female,5-14 years,1,200800,0.5,Singapore1993,,"60,644,572,348",22835,Millenials
+22507,Singapore,1993,male,5-14 years,0,216300,0.0,Singapore1993,,"60,644,572,348",22835,Millenials
+22508,Singapore,1994,male,75+ years,24,27500,87.27,Singapore1994,,"73,777,792,327",27202,G.I. Generation
+22509,Singapore,1994,female,75+ years,23,40500,56.79,Singapore1994,,"73,777,792,327",27202,G.I. Generation
+22510,Singapore,1994,male,55-74 years,37,157700,23.46,Singapore1994,,"73,777,792,327",27202,Silent
+22511,Singapore,1994,female,55-74 years,26,165300,15.73,Singapore1994,,"73,777,792,327",27202,Silent
+22512,Singapore,1994,male,35-54 years,69,439100,15.71,Singapore1994,,"73,777,792,327",27202,Boomers
+22513,Singapore,1994,male,25-34 years,35,291200,12.02,Singapore1994,,"73,777,792,327",27202,Boomers
+22514,Singapore,1994,male,15-24 years,24,222900,10.77,Singapore1994,,"73,777,792,327",27202,Generation X
+22515,Singapore,1994,female,35-54 years,39,429400,9.08,Singapore1994,,"73,777,792,327",27202,Boomers
+22516,Singapore,1994,female,15-24 years,19,216300,8.78,Singapore1994,,"73,777,792,327",27202,Generation X
+22517,Singapore,1994,female,25-34 years,17,291500,5.83,Singapore1994,,"73,777,792,327",27202,Boomers
+22518,Singapore,1994,female,5-14 years,2,207500,0.96,Singapore1994,,"73,777,792,327",27202,Millenials
+22519,Singapore,1994,male,5-14 years,1,223300,0.45,Singapore1994,,"73,777,792,327",27202,Millenials
+22520,Singapore,1995,male,75+ years,32,28200,113.48,Singapore1995,0.773,"87,890,009,877",31783,G.I. Generation
+22521,Singapore,1995,female,75+ years,24,41800,57.42,Singapore1995,0.773,"87,890,009,877",31783,G.I. Generation
+22522,Singapore,1995,male,55-74 years,46,164600,27.95,Singapore1995,0.773,"87,890,009,877",31783,Silent
+22523,Singapore,1995,male,35-54 years,92,457000,20.13,Singapore1995,0.773,"87,890,009,877",31783,Boomers
+22524,Singapore,1995,female,55-74 years,28,172900,16.19,Singapore1995,0.773,"87,890,009,877",31783,Silent
+22525,Singapore,1995,female,35-54 years,50,447500,11.17,Singapore1995,0.773,"87,890,009,877",31783,Boomers
+22526,Singapore,1995,male,25-34 years,31,286200,10.83,Singapore1995,0.773,"87,890,009,877",31783,Generation X
+22527,Singapore,1995,male,15-24 years,23,221900,10.37,Singapore1995,0.773,"87,890,009,877",31783,Generation X
+22528,Singapore,1995,female,15-24 years,16,215400,7.43,Singapore1995,0.773,"87,890,009,877",31783,Generation X
+22529,Singapore,1995,female,25-34 years,20,289600,6.91,Singapore1995,0.773,"87,890,009,877",31783,Generation X
+22530,Singapore,1995,male,5-14 years,2,228000,0.88,Singapore1995,0.773,"87,890,009,877",31783,Millenials
+22531,Singapore,1995,female,5-14 years,0,212200,0.0,Singapore1995,0.773,"87,890,009,877",31783,Millenials
+22532,Singapore,1996,male,75+ years,26,28800,90.28,Singapore1996,,"96,403,758,865",34148,G.I. Generation
+22533,Singapore,1996,female,75+ years,21,42600,49.3,Singapore1996,,"96,403,758,865",34148,G.I. Generation
+22534,Singapore,1996,male,55-74 years,21,171300,12.26,Singapore1996,,"96,403,758,865",34148,Silent
+22535,Singapore,1996,male,25-34 years,34,283600,11.99,Singapore1996,,"96,403,758,865",34148,Generation X
+22536,Singapore,1996,male,35-54 years,50,475400,10.52,Singapore1996,,"96,403,758,865",34148,Boomers
+22537,Singapore,1996,female,55-74 years,19,180800,10.51,Singapore1996,,"96,403,758,865",34148,Silent
+22538,Singapore,1996,male,15-24 years,20,220500,9.07,Singapore1996,,"96,403,758,865",34148,Generation X
+22539,Singapore,1996,female,25-34 years,17,289000,5.88,Singapore1996,,"96,403,758,865",34148,Generation X
+22540,Singapore,1996,female,35-54 years,21,465900,4.51,Singapore1996,,"96,403,758,865",34148,Boomers
+22541,Singapore,1996,female,15-24 years,6,213600,2.81,Singapore1996,,"96,403,758,865",34148,Generation X
+22542,Singapore,1996,female,5-14 years,3,217600,1.38,Singapore1996,,"96,403,758,865",34148,Millenials
+22543,Singapore,1996,male,5-14 years,1,234000,0.43,Singapore1996,,"96,403,758,865",34148,Millenials
+22544,Singapore,1997,male,75+ years,24,29500,81.36,Singapore1997,,"100,163,995,151",34779,G.I. Generation
+22545,Singapore,1997,female,75+ years,15,43700,34.32,Singapore1997,,"100,163,995,151",34779,G.I. Generation
+22546,Singapore,1997,male,55-74 years,36,176100,20.44,Singapore1997,,"100,163,995,151",34779,Silent
+22547,Singapore,1997,male,25-34 years,44,282000,15.6,Singapore1997,,"100,163,995,151",34779,Generation X
+22548,Singapore,1997,male,35-54 years,74,495200,14.94,Singapore1997,,"100,163,995,151",34779,Boomers
+22549,Singapore,1997,female,25-34 years,29,289500,10.02,Singapore1997,,"100,163,995,151",34779,Generation X
+22550,Singapore,1997,female,55-74 years,18,186200,9.67,Singapore1997,,"100,163,995,151",34779,Silent
+22551,Singapore,1997,female,35-54 years,34,485900,7.0,Singapore1997,,"100,163,995,151",34779,Boomers
+22552,Singapore,1997,male,15-24 years,15,218600,6.86,Singapore1997,,"100,163,995,151",34779,Generation X
+22553,Singapore,1997,female,15-24 years,10,211600,4.73,Singapore1997,,"100,163,995,151",34779,Generation X
+22554,Singapore,1997,male,5-14 years,3,238600,1.26,Singapore1997,,"100,163,995,151",34779,Millenials
+22555,Singapore,1997,female,5-14 years,1,223100,0.45,Singapore1997,,"100,163,995,151",34779,Millenials
+22556,Singapore,1998,male,75+ years,20,30200,66.23,Singapore1998,,"85,707,636,233",29150,G.I. Generation
+22557,Singapore,1998,female,75+ years,20,45000,44.44,Singapore1998,,"85,707,636,233",29150,G.I. Generation
+22558,Singapore,1998,male,55-74 years,45,180700,24.9,Singapore1998,,"85,707,636,233",29150,Silent
+22559,Singapore,1998,female,55-74 years,35,191000,18.32,Singapore1998,,"85,707,636,233",29150,Silent
+22560,Singapore,1998,male,25-34 years,41,281300,14.58,Singapore1998,,"85,707,636,233",29150,Generation X
+22561,Singapore,1998,male,35-54 years,69,515800,13.38,Singapore1998,,"85,707,636,233",29150,Boomers
+22562,Singapore,1998,male,15-24 years,22,216100,10.18,Singapore1998,,"85,707,636,233",29150,Generation X
+22563,Singapore,1998,female,25-34 years,24,291400,8.24,Singapore1998,,"85,707,636,233",29150,Generation X
+22564,Singapore,1998,female,15-24 years,15,209400,7.16,Singapore1998,,"85,707,636,233",29150,Generation X
+22565,Singapore,1998,female,35-54 years,34,507300,6.7,Singapore1998,,"85,707,636,233",29150,Boomers
+22566,Singapore,1998,male,5-14 years,3,243800,1.23,Singapore1998,,"85,707,636,233",29150,Millenials
+22567,Singapore,1998,female,5-14 years,0,228200,0.0,Singapore1998,,"85,707,636,233",29150,Millenials
+22568,Singapore,1999,male,75+ years,21,31400,66.88,Singapore1999,,"86,283,126,844",28789,G.I. Generation
+22569,Singapore,1999,male,55-74 years,43,186300,23.08,Singapore1999,,"86,283,126,844",28789,Silent
+22570,Singapore,1999,female,75+ years,8,46100,17.35,Singapore1999,,"86,283,126,844",28789,G.I. Generation
+22571,Singapore,1999,male,35-54 years,75,535500,14.01,Singapore1999,,"86,283,126,844",28789,Boomers
+22572,Singapore,1999,male,25-34 years,31,277300,11.18,Singapore1999,,"86,283,126,844",28789,Generation X
+22573,Singapore,1999,female,55-74 years,16,197700,8.09,Singapore1999,,"86,283,126,844",28789,Silent
+22574,Singapore,1999,female,35-54 years,39,527100,7.4,Singapore1999,,"86,283,126,844",28789,Boomers
+22575,Singapore,1999,male,15-24 years,15,214200,7.0,Singapore1999,,"86,283,126,844",28789,Generation X
+22576,Singapore,1999,female,25-34 years,16,289800,5.52,Singapore1999,,"86,283,126,844",28789,Generation X
+22577,Singapore,1999,female,15-24 years,8,207400,3.86,Singapore1999,,"86,283,126,844",28789,Generation X
+22578,Singapore,1999,female,5-14 years,3,234400,1.28,Singapore1999,,"86,283,126,844",28789,Millenials
+22579,Singapore,1999,male,5-14 years,2,249900,0.8,Singapore1999,,"86,283,126,844",28789,Millenials
+22580,Singapore,2000,male,75+ years,16,32600,49.08,Singapore2000,0.8190000000000001,"95,833,932,715",31446,G.I. Generation
+22581,Singapore,2000,male,55-74 years,48,189200,25.37,Singapore2000,0.8190000000000001,"95,833,932,715",31446,Silent
+22582,Singapore,2000,female,75+ years,11,47400,23.21,Singapore2000,0.8190000000000001,"95,833,932,715",31446,G.I. Generation
+22583,Singapore,2000,male,35-54 years,87,555800,15.65,Singapore2000,0.8190000000000001,"95,833,932,715",31446,Boomers
+22584,Singapore,2000,male,25-34 years,34,271100,12.54,Singapore2000,0.8190000000000001,"95,833,932,715",31446,Generation X
+22585,Singapore,2000,female,35-54 years,44,548100,8.03,Singapore2000,0.8190000000000001,"95,833,932,715",31446,Boomers
+22586,Singapore,2000,female,55-74 years,16,201600,7.94,Singapore2000,0.8190000000000001,"95,833,932,715",31446,Silent
+22587,Singapore,2000,female,15-24 years,16,208300,7.68,Singapore2000,0.8190000000000001,"95,833,932,715",31446,Generation X
+22588,Singapore,2000,male,15-24 years,14,215200,6.51,Singapore2000,0.8190000000000001,"95,833,932,715",31446,Generation X
+22589,Singapore,2000,female,25-34 years,17,286400,5.94,Singapore2000,0.8190000000000001,"95,833,932,715",31446,Generation X
+22590,Singapore,2000,male,5-14 years,5,253800,1.97,Singapore2000,0.8190000000000001,"95,833,932,715",31446,Millenials
+22591,Singapore,2000,female,5-14 years,1,238100,0.42,Singapore2000,0.8190000000000001,"95,833,932,715",31446,Millenials
+22592,Singapore,2001,male,75+ years,18,34800,51.72,Singapore2001,,"89,286,208,629",28774,Silent
+22593,Singapore,2001,female,75+ years,12,50200,23.9,Singapore2001,,"89,286,208,629",28774,Silent
+22594,Singapore,2001,male,55-74 years,40,194800,20.53,Singapore2001,,"89,286,208,629",28774,Silent
+22595,Singapore,2001,male,25-34 years,43,265800,16.18,Singapore2001,,"89,286,208,629",28774,Generation X
+22596,Singapore,2001,male,35-54 years,65,573200,11.34,Singapore2001,,"89,286,208,629",28774,Boomers
+22597,Singapore,2001,male,15-24 years,21,216300,9.71,Singapore2001,,"89,286,208,629",28774,Millenials
+22598,Singapore,2001,female,55-74 years,20,207900,9.62,Singapore2001,,"89,286,208,629",28774,Silent
+22599,Singapore,2001,female,35-54 years,44,566000,7.77,Singapore2001,,"89,286,208,629",28774,Boomers
+22600,Singapore,2001,female,15-24 years,16,209200,7.65,Singapore2001,,"89,286,208,629",28774,Millenials
+22601,Singapore,2001,female,25-34 years,21,283700,7.4,Singapore2001,,"89,286,208,629",28774,Generation X
+22602,Singapore,2001,male,5-14 years,3,258300,1.16,Singapore2001,,"89,286,208,629",28774,Millenials
+22603,Singapore,2001,female,5-14 years,2,242800,0.82,Singapore2001,,"89,286,208,629",28774,Millenials
+22604,Singapore,2002,male,75+ years,19,37200,51.08,Singapore2002,,"91,941,192,896",29048,Silent
+22605,Singapore,2002,female,75+ years,19,53600,35.45,Singapore2002,,"91,941,192,896",29048,Silent
+22606,Singapore,2002,male,55-74 years,33,206500,15.98,Singapore2002,,"91,941,192,896",29048,Silent
+22607,Singapore,2002,male,35-54 years,87,582400,14.94,Singapore2002,,"91,941,192,896",29048,Boomers
+22608,Singapore,2002,male,25-34 years,38,265900,14.29,Singapore2002,,"91,941,192,896",29048,Generation X
+22609,Singapore,2002,female,15-24 years,20,209600,9.54,Singapore2002,,"91,941,192,896",29048,Millenials
+22610,Singapore,2002,female,35-54 years,52,576200,9.02,Singapore2002,,"91,941,192,896",29048,Boomers
+22611,Singapore,2002,female,55-74 years,18,220400,8.17,Singapore2002,,"91,941,192,896",29048,Silent
+22612,Singapore,2002,female,25-34 years,20,286100,6.99,Singapore2002,,"91,941,192,896",29048,Generation X
+22613,Singapore,2002,male,15-24 years,15,216400,6.93,Singapore2002,,"91,941,192,896",29048,Millenials
+22614,Singapore,2002,female,5-14 years,0,247700,0.0,Singapore2002,,"91,941,192,896",29048,Millenials
+22615,Singapore,2002,male,5-14 years,0,263200,0.0,Singapore2002,,"91,941,192,896",29048,Millenials
+22616,Singapore,2003,male,75+ years,22,39400,55.84,Singapore2003,,"97,001,377,569",30067,Silent
+22617,Singapore,2003,female,75+ years,16,57000,28.07,Singapore2003,,"97,001,377,569",30067,Silent
+22618,Singapore,2003,male,55-74 years,39,218800,17.82,Singapore2003,,"97,001,377,569",30067,Silent
+22619,Singapore,2003,male,25-34 years,38,263800,14.4,Singapore2003,,"97,001,377,569",30067,Generation X
+22620,Singapore,2003,male,35-54 years,76,592400,12.83,Singapore2003,,"97,001,377,569",30067,Boomers
+22621,Singapore,2003,female,55-74 years,26,232800,11.17,Singapore2003,,"97,001,377,569",30067,Silent
+22622,Singapore,2003,male,15-24 years,24,221500,10.84,Singapore2003,,"97,001,377,569",30067,Millenials
+22623,Singapore,2003,female,35-54 years,42,586600,7.16,Singapore2003,,"97,001,377,569",30067,Boomers
+22624,Singapore,2003,female,25-34 years,20,286600,6.98,Singapore2003,,"97,001,377,569",30067,Generation X
+22625,Singapore,2003,female,15-24 years,13,214300,6.07,Singapore2003,,"97,001,377,569",30067,Millenials
+22626,Singapore,2003,female,5-14 years,2,248900,0.8,Singapore2003,,"97,001,377,569",30067,Millenials
+22627,Singapore,2003,male,5-14 years,2,264100,0.76,Singapore2003,,"97,001,377,569",30067,Millenials
+22628,Singapore,2004,male,75+ years,24,42100,57.01,Singapore2004,,"114,188,557,567",34799,Silent
+22629,Singapore,2004,female,75+ years,14,60900,22.99,Singapore2004,,"114,188,557,567",34799,Silent
+22630,Singapore,2004,male,55-74 years,46,231800,19.84,Singapore2004,,"114,188,557,567",34799,Silent
+22631,Singapore,2004,male,35-54 years,87,598400,14.54,Singapore2004,,"114,188,557,567",34799,Boomers
+22632,Singapore,2004,female,55-74 years,32,246500,12.98,Singapore2004,,"114,188,557,567",34799,Silent
+22633,Singapore,2004,male,25-34 years,34,263100,12.92,Singapore2004,,"114,188,557,567",34799,Generation X
+22634,Singapore,2004,female,35-54 years,52,597700,8.7,Singapore2004,,"114,188,557,567",34799,Boomers
+22635,Singapore,2004,female,25-34 years,18,287900,6.25,Singapore2004,,"114,188,557,567",34799,Generation X
+22636,Singapore,2004,male,15-24 years,13,228400,5.69,Singapore2004,,"114,188,557,567",34799,Millenials
+22637,Singapore,2004,female,15-24 years,10,220500,4.54,Singapore2004,,"114,188,557,567",34799,Millenials
+22638,Singapore,2004,female,5-14 years,4,243800,1.64,Singapore2004,,"114,188,557,567",34799,Millenials
+22639,Singapore,2004,male,5-14 years,1,260300,0.38,Singapore2004,,"114,188,557,567",34799,Millenials
+22640,Singapore,2005,male,75+ years,32,44200,72.4,Singapore2005,0.841,"127,417,688,056",38122,Silent
+22641,Singapore,2005,male,55-74 years,56,245000,22.86,Singapore2005,0.841,"127,417,688,056",38122,Silent
+22642,Singapore,2005,female,75+ years,11,64200,17.13,Singapore2005,0.841,"127,417,688,056",38122,Silent
+22643,Singapore,2005,male,35-54 years,99,605700,16.34,Singapore2005,0.841,"127,417,688,056",38122,Boomers
+22644,Singapore,2005,male,25-34 years,37,265600,13.93,Singapore2005,0.841,"127,417,688,056",38122,Generation X
+22645,Singapore,2005,female,55-74 years,27,259500,10.4,Singapore2005,0.841,"127,417,688,056",38122,Silent
+22646,Singapore,2005,female,35-54 years,50,604300,8.27,Singapore2005,0.841,"127,417,688,056",38122,Boomers
+22647,Singapore,2005,male,15-24 years,16,233900,6.84,Singapore2005,0.841,"127,417,688,056",38122,Millenials
+22648,Singapore,2005,female,15-24 years,13,225500,5.76,Singapore2005,0.841,"127,417,688,056",38122,Millenials
+22649,Singapore,2005,female,25-34 years,15,289600,5.18,Singapore2005,0.841,"127,417,688,056",38122,Generation X
+22650,Singapore,2005,female,5-14 years,3,244900,1.22,Singapore2005,0.841,"127,417,688,056",38122,Millenials
+22651,Singapore,2005,male,5-14 years,0,260000,0.0,Singapore2005,0.841,"127,417,688,056",38122,Millenials
+22652,Singapore,2006,male,75+ years,14,46700,29.98,Singapore2006,,"147,797,218,201",43318,Silent
+22653,Singapore,2006,female,75+ years,19,67600,28.11,Singapore2006,,"147,797,218,201",43318,Silent
+22654,Singapore,2006,male,55-74 years,58,258800,22.41,Singapore2006,,"147,797,218,201",43318,Silent
+22655,Singapore,2006,male,35-54 years,118,615500,19.17,Singapore2006,,"147,797,218,201",43318,Boomers
+22656,Singapore,2006,female,55-74 years,39,273400,14.26,Singapore2006,,"147,797,218,201",43318,Silent
+22657,Singapore,2006,male,25-34 years,25,267200,9.36,Singapore2006,,"147,797,218,201",43318,Generation X
+22658,Singapore,2006,female,35-54 years,55,616100,8.93,Singapore2006,,"147,797,218,201",43318,Boomers
+22659,Singapore,2006,female,25-34 years,24,292800,8.2,Singapore2006,,"147,797,218,201",43318,Generation X
+22660,Singapore,2006,male,15-24 years,15,240400,6.24,Singapore2006,,"147,797,218,201",43318,Millenials
+22661,Singapore,2006,female,15-24 years,3,231800,1.29,Singapore2006,,"147,797,218,201",43318,Millenials
+22662,Singapore,2006,female,5-14 years,1,243400,0.41,Singapore2006,,"147,797,218,201",43318,Millenials
+22663,Singapore,2006,male,5-14 years,1,258200,0.39,Singapore2006,,"147,797,218,201",43318,Millenials
+22664,Singapore,2007,male,75+ years,27,45000,60.0,Singapore2007,,"179,981,288,567",53098,Silent
+22665,Singapore,2007,female,75+ years,17,68300,24.89,Singapore2007,,"179,981,288,567",53098,Silent
+22666,Singapore,2007,male,55-74 years,41,267000,15.36,Singapore2007,,"179,981,288,567",53098,Silent
+22667,Singapore,2007,female,55-74 years,40,281800,14.19,Singapore2007,,"179,981,288,567",53098,Silent
+22668,Singapore,2007,male,35-54 years,77,609000,12.64,Singapore2007,,"179,981,288,567",53098,Boomers
+22669,Singapore,2007,male,25-34 years,28,263500,10.63,Singapore2007,,"179,981,288,567",53098,Generation X
+22670,Singapore,2007,male,15-24 years,24,242200,9.91,Singapore2007,,"179,981,288,567",53098,Millenials
+22671,Singapore,2007,female,35-54 years,46,608800,7.56,Singapore2007,,"179,981,288,567",53098,Boomers
+22672,Singapore,2007,female,25-34 years,18,285500,6.3,Singapore2007,,"179,981,288,567",53098,Generation X
+22673,Singapore,2007,female,15-24 years,10,233600,4.28,Singapore2007,,"179,981,288,567",53098,Millenials
+22674,Singapore,2007,female,5-14 years,0,235100,0.0,Singapore2007,,"179,981,288,567",53098,Generation Z
+22675,Singapore,2007,male,5-14 years,0,249800,0.0,Singapore2007,,"179,981,288,567",53098,Generation Z
+22676,Singapore,2008,male,75+ years,28,47500,58.95,Singapore2008,,"192,225,881,688",55735,Silent
+22677,Singapore,2008,female,75+ years,13,71800,18.11,Singapore2008,,"192,225,881,688",55735,Silent
+22678,Singapore,2008,male,55-74 years,49,282300,17.36,Singapore2008,,"192,225,881,688",55735,Silent
+22679,Singapore,2008,male,35-54 years,93,615400,15.11,Singapore2008,,"192,225,881,688",55735,Boomers
+22680,Singapore,2008,male,25-34 years,27,265900,10.15,Singapore2008,,"192,225,881,688",55735,Generation X
+22681,Singapore,2008,female,55-74 years,29,296800,9.77,Singapore2008,,"192,225,881,688",55735,Silent
+22682,Singapore,2008,female,35-54 years,45,616400,7.3,Singapore2008,,"192,225,881,688",55735,Boomers
+22683,Singapore,2008,female,25-34 years,14,287100,4.88,Singapore2008,,"192,225,881,688",55735,Generation X
+22684,Singapore,2008,female,15-24 years,11,240800,4.57,Singapore2008,,"192,225,881,688",55735,Millenials
+22685,Singapore,2008,male,15-24 years,9,247500,3.64,Singapore2008,,"192,225,881,688",55735,Millenials
+22686,Singapore,2008,male,5-14 years,1,245300,0.41,Singapore2008,,"192,225,881,688",55735,Generation Z
+22687,Singapore,2008,female,5-14 years,0,232100,0.0,Singapore2008,,"192,225,881,688",55735,Generation Z
+22688,Singapore,2009,male,75+ years,22,50400,43.65,Singapore2009,,"192,408,387,762",54413,Silent
+22689,Singapore,2009,female,75+ years,18,75900,23.72,Singapore2009,,"192,408,387,762",54413,Silent
+22690,Singapore,2009,male,55-74 years,50,299900,16.67,Singapore2009,,"192,408,387,762",54413,Silent
+22691,Singapore,2009,male,35-54 years,99,623400,15.88,Singapore2009,,"192,408,387,762",54413,Boomers
+22692,Singapore,2009,male,25-34 years,41,274700,14.93,Singapore2009,,"192,408,387,762",54413,Generation X
+22693,Singapore,2009,female,55-74 years,33,313500,10.53,Singapore2009,,"192,408,387,762",54413,Silent
+22694,Singapore,2009,male,15-24 years,21,254400,8.25,Singapore2009,,"192,408,387,762",54413,Millenials
+22695,Singapore,2009,female,35-54 years,40,626800,6.38,Singapore2009,,"192,408,387,762",54413,Boomers
+22696,Singapore,2009,female,15-24 years,11,250100,4.4,Singapore2009,,"192,408,387,762",54413,Millenials
+22697,Singapore,2009,female,25-34 years,9,296900,3.03,Singapore2009,,"192,408,387,762",54413,Generation X
+22698,Singapore,2009,female,5-14 years,3,228900,1.31,Singapore2009,,"192,408,387,762",54413,Generation Z
+22699,Singapore,2009,male,5-14 years,2,241200,0.83,Singapore2009,,"192,408,387,762",54413,Generation Z
+22700,Singapore,2010,male,75+ years,27,53300,50.66,Singapore2010,0.897,"236,421,782,178",66099,Silent
+22701,Singapore,2010,male,55-74 years,48,315800,15.2,Singapore2010,0.897,"236,421,782,178",66099,Silent
+22702,Singapore,2010,male,35-54 years,94,625200,15.04,Singapore2010,0.897,"236,421,782,178",66099,Generation X
+22703,Singapore,2010,female,75+ years,12,80900,14.83,Singapore2010,0.897,"236,421,782,178",66099,Silent
+22704,Singapore,2010,female,55-74 years,28,329000,8.51,Singapore2010,0.897,"236,421,782,178",66099,Silent
+22705,Singapore,2010,male,25-34 years,20,274300,7.29,Singapore2010,0.897,"236,421,782,178",66099,Generation X
+22706,Singapore,2010,female,35-54 years,34,630600,5.39,Singapore2010,0.897,"236,421,782,178",66099,Generation X
+22707,Singapore,2010,female,15-24 years,13,252900,5.14,Singapore2010,0.897,"236,421,782,178",66099,Millenials
+22708,Singapore,2010,female,25-34 years,12,296900,4.04,Singapore2010,0.897,"236,421,782,178",66099,Generation X
+22709,Singapore,2010,male,15-24 years,7,257900,2.71,Singapore2010,0.897,"236,421,782,178",66099,Millenials
+22710,Singapore,2010,male,5-14 years,1,235500,0.42,Singapore2010,0.897,"236,421,782,178",66099,Generation Z
+22711,Singapore,2010,female,5-14 years,0,224500,0.0,Singapore2010,0.897,"236,421,782,178",66099,Generation Z
+22712,Singapore,2011,male,75+ years,18,55900,32.2,Singapore2011,0.903,"275,966,926,379",76638,Silent
+22713,Singapore,2011,male,55-74 years,68,333700,20.38,Singapore2011,0.903,"275,966,926,379",76638,Boomers
+22714,Singapore,2011,female,75+ years,12,84300,14.23,Singapore2011,0.903,"275,966,926,379",76638,Silent
+22715,Singapore,2011,male,35-54 years,81,623200,13.0,Singapore2011,0.903,"275,966,926,379",76638,Generation X
+22716,Singapore,2011,female,55-74 years,42,347600,12.08,Singapore2011,0.903,"275,966,926,379",76638,Boomers
+22717,Singapore,2011,male,25-34 years,18,269000,6.69,Singapore2011,0.903,"275,966,926,379",76638,Millenials
+22718,Singapore,2011,female,35-54 years,35,631700,5.54,Singapore2011,0.903,"275,966,926,379",76638,Generation X
+22719,Singapore,2011,female,15-24 years,14,255000,5.49,Singapore2011,0.903,"275,966,926,379",76638,Millenials
+22720,Singapore,2011,male,15-24 years,12,260800,4.6,Singapore2011,0.903,"275,966,926,379",76638,Millenials
+22721,Singapore,2011,female,25-34 years,8,291100,2.75,Singapore2011,0.903,"275,966,926,379",76638,Millenials
+22722,Singapore,2011,female,5-14 years,0,219200,0.0,Singapore2011,0.903,"275,966,926,379",76638,Generation Z
+22723,Singapore,2011,male,5-14 years,0,229400,0.0,Singapore2011,0.903,"275,966,926,379",76638,Generation Z
+22724,Singapore,2012,male,75+ years,21,58300,36.02,Singapore2012,0.905,"290,673,681,684",80040,Silent
+22725,Singapore,2012,male,55-74 years,91,352500,25.82,Singapore2012,0.905,"290,673,681,684",80040,Boomers
+22726,Singapore,2012,female,75+ years,15,87100,17.22,Singapore2012,0.905,"290,673,681,684",80040,Silent
+22727,Singapore,2012,male,35-54 years,89,621200,14.33,Singapore2012,0.905,"290,673,681,684",80040,Generation X
+22728,Singapore,2012,female,35-54 years,66,632900,10.43,Singapore2012,0.905,"290,673,681,684",80040,Generation X
+22729,Singapore,2012,female,55-74 years,35,366600,9.55,Singapore2012,0.905,"290,673,681,684",80040,Boomers
+22730,Singapore,2012,male,25-34 years,22,263800,8.34,Singapore2012,0.905,"290,673,681,684",80040,Millenials
+22731,Singapore,2012,male,15-24 years,19,264800,7.18,Singapore2012,0.905,"290,673,681,684",80040,Millenials
+22732,Singapore,2012,female,15-24 years,17,258600,6.57,Singapore2012,0.905,"290,673,681,684",80040,Millenials
+22733,Singapore,2012,female,25-34 years,15,286200,5.24,Singapore2012,0.905,"290,673,681,684",80040,Millenials
+22734,Singapore,2012,female,5-14 years,1,214900,0.47,Singapore2012,0.905,"290,673,681,684",80040,Generation Z
+22735,Singapore,2012,male,5-14 years,1,224700,0.45,Singapore2012,0.905,"290,673,681,684",80040,Generation Z
+22736,Singapore,2013,male,75+ years,25,61658,40.55,Singapore2013,0.909,"304,454,327,499",83151,Silent
+22737,Singapore,2013,male,55-74 years,84,370242,22.69,Singapore2013,0.909,"304,454,327,499",83151,Boomers
+22738,Singapore,2013,female,75+ years,14,91216,15.35,Singapore2013,0.909,"304,454,327,499",83151,Silent
+22739,Singapore,2013,male,35-54 years,77,616200,12.5,Singapore2013,0.909,"304,454,327,499",83151,Generation X
+22740,Singapore,2013,male,15-24 years,30,264023,11.36,Singapore2013,0.909,"304,454,327,499",83151,Millenials
+22741,Singapore,2013,male,25-34 years,29,265275,10.93,Singapore2013,0.909,"304,454,327,499",83151,Millenials
+22742,Singapore,2013,female,55-74 years,30,384544,7.8,Singapore2013,0.909,"304,454,327,499",83151,Boomers
+22743,Singapore,2013,female,35-54 years,40,631208,6.34,Singapore2013,0.909,"304,454,327,499",83151,Generation X
+22744,Singapore,2013,female,15-24 years,15,257932,5.82,Singapore2013,0.909,"304,454,327,499",83151,Millenials
+22745,Singapore,2013,female,25-34 years,13,287210,4.53,Singapore2013,0.909,"304,454,327,499",83151,Millenials
+22746,Singapore,2013,female,5-14 years,0,211362,0.0,Singapore2013,0.909,"304,454,327,499",83151,Generation Z
+22747,Singapore,2013,male,5-14 years,0,220586,0.0,Singapore2013,0.909,"304,454,327,499",83151,Generation Z
+22748,Singapore,2014,male,75+ years,29,66198,43.81,Singapore2014,0.912,"311,539,499,645",84442,Silent
+22749,Singapore,2014,male,55-74 years,97,387256,25.05,Singapore2014,0.912,"311,539,499,645",84442,Boomers
+22750,Singapore,2014,male,35-54 years,73,611207,11.94,Singapore2014,0.912,"311,539,499,645",84442,Generation X
+22751,Singapore,2014,male,25-34 years,30,268258,11.18,Singapore2014,0.912,"311,539,499,645",84442,Millenials
+22752,Singapore,2014,female,75+ years,10,97390,10.27,Singapore2014,0.912,"311,539,499,645",84442,Silent
+22753,Singapore,2014,female,55-74 years,34,400651,8.49,Singapore2014,0.912,"311,539,499,645",84442,Boomers
+22754,Singapore,2014,male,15-24 years,20,259416,7.71,Singapore2014,0.912,"311,539,499,645",84442,Millenials
+22755,Singapore,2014,female,35-54 years,46,630881,7.29,Singapore2014,0.912,"311,539,499,645",84442,Generation X
+22756,Singapore,2014,female,25-34 years,9,289688,3.11,Singapore2014,0.912,"311,539,499,645",84442,Millenials
+22757,Singapore,2014,female,15-24 years,5,251839,1.99,Singapore2014,0.912,"311,539,499,645",84442,Millenials
+22758,Singapore,2014,female,5-14 years,1,209039,0.48,Singapore2014,0.912,"311,539,499,645",84442,Generation Z
+22759,Singapore,2014,male,5-14 years,1,217547,0.46,Singapore2014,0.912,"311,539,499,645",84442,Generation Z
+22760,Singapore,2015,male,75+ years,15,71060,21.11,Singapore2015,,"304,097,759,674",81766,Silent
+22761,Singapore,2015,male,55-74 years,73,403996,18.07,Singapore2015,,"304,097,759,674",81766,Boomers
+22762,Singapore,2015,male,35-54 years,79,606327,13.03,Singapore2015,,"304,097,759,674",81766,Generation X
+22763,Singapore,2015,female,75+ years,13,103599,12.55,Singapore2015,,"304,097,759,674",81766,Silent
+22764,Singapore,2015,male,25-34 years,30,270351,11.1,Singapore2015,,"304,097,759,674",81766,Millenials
+22765,Singapore,2015,male,15-24 years,19,257780,7.37,Singapore2015,,"304,097,759,674",81766,Millenials
+22766,Singapore,2015,female,55-74 years,28,416616,6.72,Singapore2015,,"304,097,759,674",81766,Boomers
+22767,Singapore,2015,female,25-34 years,18,291298,6.18,Singapore2015,,"304,097,759,674",81766,Millenials
+22768,Singapore,2015,female,15-24 years,15,249249,6.02,Singapore2015,,"304,097,759,674",81766,Millenials
+22769,Singapore,2015,female,35-54 years,36,629999,5.71,Singapore2015,,"304,097,759,674",81766,Generation X
+22770,Singapore,2015,male,5-14 years,2,213262,0.94,Singapore2015,,"304,097,759,674",81766,Generation Z
+22771,Singapore,2015,female,5-14 years,1,205578,0.49,Singapore2015,,"304,097,759,674",81766,Generation Z

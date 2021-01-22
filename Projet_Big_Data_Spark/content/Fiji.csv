@@ -1,0 +1,133 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+8606,Fiji,2001,male,55-74 years,4,31764,12.59,Fiji2001,,"1,660,102,346",2307,Silent
+8607,Fiji,2001,male,35-54 years,10,90519,11.05,Fiji2001,,"1,660,102,346",2307,Boomers
+8608,Fiji,2001,male,15-24 years,8,85026,9.41,Fiji2001,,"1,660,102,346",2307,Millenials
+8609,Fiji,2001,male,25-34 years,5,60698,8.24,Fiji2001,,"1,660,102,346",2307,Generation X
+8610,Fiji,2001,female,15-24 years,5,80653,6.2,Fiji2001,,"1,660,102,346",2307,Millenials
+8611,Fiji,2001,female,25-34 years,2,58030,3.45,Fiji2001,,"1,660,102,346",2307,Generation X
+8612,Fiji,2001,female,55-74 years,1,34038,2.94,Fiji2001,,"1,660,102,346",2307,Silent
+8613,Fiji,2001,male,5-14 years,1,93629,1.07,Fiji2001,,"1,660,102,346",2307,Millenials
+8614,Fiji,2001,female,35-54 years,0,89055,0.0,Fiji2001,,"1,660,102,346",2307,Boomers
+8615,Fiji,2001,female,5-14 years,0,88212,0.0,Fiji2001,,"1,660,102,346",2307,Millenials
+8616,Fiji,2001,female,75+ years,0,4489,0.0,Fiji2001,,"1,660,102,346",2307,Silent
+8617,Fiji,2001,male,75+ years,0,3346,0.0,Fiji2001,,"1,660,102,346",2307,Silent
+8618,Fiji,2002,male,75+ years,1,3507,28.51,Fiji2002,,"1,842,691,481",2548,Silent
+8619,Fiji,2002,female,75+ years,1,4593,21.77,Fiji2002,,"1,842,691,481",2548,Silent
+8620,Fiji,2002,male,55-74 years,5,33136,15.09,Fiji2002,,"1,842,691,481",2548,Silent
+8621,Fiji,2002,male,15-24 years,9,84154,10.69,Fiji2002,,"1,842,691,481",2548,Millenials
+8622,Fiji,2002,female,25-34 years,5,58817,8.5,Fiji2002,,"1,842,691,481",2548,Generation X
+8623,Fiji,2002,female,15-24 years,6,79795,7.52,Fiji2002,,"1,842,691,481",2548,Millenials
+8624,Fiji,2002,male,25-34 years,4,61525,6.5,Fiji2002,,"1,842,691,481",2548,Generation X
+8625,Fiji,2002,male,35-54 years,5,93636,5.34,Fiji2002,,"1,842,691,481",2548,Boomers
+8626,Fiji,2002,female,35-54 years,3,91724,3.27,Fiji2002,,"1,842,691,481",2548,Boomers
+8627,Fiji,2002,male,5-14 years,2,91230,2.19,Fiji2002,,"1,842,691,481",2548,Millenials
+8628,Fiji,2002,female,5-14 years,1,85867,1.16,Fiji2002,,"1,842,691,481",2548,Millenials
+8629,Fiji,2002,female,55-74 years,0,35203,0.0,Fiji2002,,"1,842,691,481",2548,Silent
+8630,Fiji,2003,male,55-74 years,2,34619,5.78,Fiji2003,,"2,315,935,753",3192,Silent
+8631,Fiji,2003,male,15-24 years,3,82852,3.62,Fiji2003,,"2,315,935,753",3192,Millenials
+8632,Fiji,2003,female,25-34 years,2,59592,3.36,Fiji2003,,"2,315,935,753",3192,Generation X
+8633,Fiji,2003,female,15-24 years,1,78498,1.27,Fiji2003,,"2,315,935,753",3192,Millenials
+8634,Fiji,2003,female,35-54 years,1,94332,1.06,Fiji2003,,"2,315,935,753",3192,Boomers
+8635,Fiji,2003,male,35-54 years,1,96710,1.03,Fiji2003,,"2,315,935,753",3192,Boomers
+8636,Fiji,2003,female,5-14 years,0,83271,0.0,Fiji2003,,"2,315,935,753",3192,Millenials
+8637,Fiji,2003,female,55-74 years,0,36443,0.0,Fiji2003,,"2,315,935,753",3192,Silent
+8638,Fiji,2003,female,75+ years,0,4675,0.0,Fiji2003,,"2,315,935,753",3192,Silent
+8639,Fiji,2003,male,25-34 years,0,62295,0.0,Fiji2003,,"2,315,935,753",3192,Generation X
+8640,Fiji,2003,male,5-14 years,0,88650,0.0,Fiji2003,,"2,315,935,753",3192,Millenials
+8641,Fiji,2003,male,75+ years,0,3654,0.0,Fiji2003,,"2,315,935,753",3192,Silent
+8642,Fiji,2004,male,75+ years,2,3777,52.95,Fiji2004,,"2,727,507,213",3744,Silent
+8643,Fiji,2004,male,55-74 years,5,36303,13.77,Fiji2004,,"2,727,507,213",3744,Silent
+8644,Fiji,2004,male,25-34 years,4,63091,6.34,Fiji2004,,"2,727,507,213",3744,Generation X
+8645,Fiji,2004,female,15-24 years,4,77085,5.19,Fiji2004,,"2,727,507,213",3744,Millenials
+8646,Fiji,2004,male,15-24 years,3,81425,3.68,Fiji2004,,"2,727,507,213",3744,Millenials
+8647,Fiji,2004,female,55-74 years,1,37837,2.64,Fiji2004,,"2,727,507,213",3744,Silent
+8648,Fiji,2004,male,35-54 years,2,99930,2.0,Fiji2004,,"2,727,507,213",3744,Boomers
+8649,Fiji,2004,female,25-34 years,1,60430,1.65,Fiji2004,,"2,727,507,213",3744,Generation X
+8650,Fiji,2004,female,5-14 years,1,80606,1.24,Fiji2004,,"2,727,507,213",3744,Millenials
+8651,Fiji,2004,female,35-54 years,1,97123,1.03,Fiji2004,,"2,727,507,213",3744,Boomers
+8652,Fiji,2004,female,75+ years,0,4752,0.0,Fiji2004,,"2,727,507,213",3744,Silent
+8653,Fiji,2004,male,5-14 years,0,86049,0.0,Fiji2004,,"2,727,507,213",3744,Millenials
+8654,Fiji,2005,male,75+ years,1,3878,25.79,Fiji2005,0.6940000000000001,"3,006,725,015",4104,Silent
+8655,Fiji,2005,male,35-54 years,9,103347,8.71,Fiji2005,0.6940000000000001,"3,006,725,015",4104,Boomers
+8656,Fiji,2005,female,25-34 years,3,61361,4.89,Fiji2005,0.6940000000000001,"3,006,725,015",4104,Generation X
+8657,Fiji,2005,male,25-34 years,3,63965,4.69,Fiji2005,0.6940000000000001,"3,006,725,015",4104,Generation X
+8658,Fiji,2005,female,15-24 years,2,75687,2.64,Fiji2005,0.6940000000000001,"3,006,725,015",4104,Millenials
+8659,Fiji,2005,male,55-74 years,1,38247,2.61,Fiji2005,0.6940000000000001,"3,006,725,015",4104,Silent
+8660,Fiji,2005,male,15-24 years,2,79981,2.5,Fiji2005,0.6940000000000001,"3,006,725,015",4104,Millenials
+8661,Fiji,2005,female,35-54 years,1,100199,1.0,Fiji2005,0.6940000000000001,"3,006,725,015",4104,Boomers
+8662,Fiji,2005,female,5-14 years,0,78078,0.0,Fiji2005,0.6940000000000001,"3,006,725,015",4104,Millenials
+8663,Fiji,2005,female,55-74 years,0,39444,0.0,Fiji2005,0.6940000000000001,"3,006,725,015",4104,Silent
+8664,Fiji,2005,female,75+ years,0,4819,0.0,Fiji2005,0.6940000000000001,"3,006,725,015",4104,Silent
+8665,Fiji,2005,male,5-14 years,0,83601,0.0,Fiji2005,0.6940000000000001,"3,006,725,015",4104,Millenials
+8666,Fiji,2006,female,15-24 years,5,75457,6.63,Fiji2006,,"3,102,741,451",4206,Millenials
+8667,Fiji,2006,male,25-34 years,4,65615,6.1,Fiji2006,,"3,102,741,451",4206,Generation X
+8668,Fiji,2006,male,35-54 years,6,103418,5.8,Fiji2006,,"3,102,741,451",4206,Boomers
+8669,Fiji,2006,male,15-24 years,4,79914,5.01,Fiji2006,,"3,102,741,451",4206,Millenials
+8670,Fiji,2006,female,5-14 years,2,78008,2.56,Fiji2006,,"3,102,741,451",4206,Millenials
+8671,Fiji,2006,female,55-74 years,1,40531,2.47,Fiji2006,,"3,102,741,451",4206,Silent
+8672,Fiji,2006,male,5-14 years,1,83550,1.2,Fiji2006,,"3,102,741,451",4206,Millenials
+8673,Fiji,2006,female,35-54 years,1,100106,1.0,Fiji2006,,"3,102,741,451",4206,Boomers
+8674,Fiji,2006,female,25-34 years,0,62701,0.0,Fiji2006,,"3,102,741,451",4206,Generation X
+8675,Fiji,2006,female,75+ years,0,5052,0.0,Fiji2006,,"3,102,741,451",4206,Silent
+8676,Fiji,2006,male,55-74 years,0,39336,0.0,Fiji2006,,"3,102,741,451",4206,Silent
+8677,Fiji,2006,male,75+ years,0,4071,0.0,Fiji2006,,"3,102,741,451",4206,Silent
+8678,Fiji,2007,male,55-74 years,3,40558,7.4,Fiji2007,,"3,405,050,612",4570,Silent
+8679,Fiji,2007,male,15-24 years,3,80074,3.75,Fiji2007,,"3,405,050,612",4570,Millenials
+8680,Fiji,2007,female,25-34 years,2,64428,3.1,Fiji2007,,"3,405,050,612",4570,Generation X
+8681,Fiji,2007,male,25-34 years,2,67634,2.96,Fiji2007,,"3,405,050,612",4570,Generation X
+8682,Fiji,2007,male,35-54 years,2,103785,1.93,Fiji2007,,"3,405,050,612",4570,Boomers
+8683,Fiji,2007,female,15-24 years,1,75514,1.32,Fiji2007,,"3,405,050,612",4570,Millenials
+8684,Fiji,2007,female,35-54 years,0,100300,0.0,Fiji2007,,"3,405,050,612",4570,Boomers
+8685,Fiji,2007,female,5-14 years,0,77970,0.0,Fiji2007,,"3,405,050,612",4570,Generation Z
+8686,Fiji,2007,female,55-74 years,0,41745,0.0,Fiji2007,,"3,405,050,612",4570,Silent
+8687,Fiji,2007,female,75+ years,0,5299,0.0,Fiji2007,,"3,405,050,612",4570,Silent
+8688,Fiji,2007,male,5-14 years,0,83503,0.0,Fiji2007,,"3,405,050,612",4570,Generation Z
+8689,Fiji,2007,male,75+ years,0,4245,0.0,Fiji2007,,"3,405,050,612",4570,Silent
+8690,Fiji,2008,male,25-34 years,9,69781,12.9,Fiji2008,,"3,523,185,920",4675,Generation X
+8691,Fiji,2008,male,35-54 years,11,104375,10.54,Fiji2008,,"3,523,185,920",4675,Boomers
+8692,Fiji,2008,female,35-54 years,5,100705,4.96,Fiji2008,,"3,523,185,920",4675,Boomers
+8693,Fiji,2008,male,55-74 years,2,41913,4.77,Fiji2008,,"3,523,185,920",4675,Silent
+8694,Fiji,2008,female,15-24 years,3,75830,3.96,Fiji2008,,"3,523,185,920",4675,Millenials
+8695,Fiji,2008,male,15-24 years,3,80437,3.73,Fiji2008,,"3,523,185,920",4675,Millenials
+8696,Fiji,2008,female,25-34 years,2,66331,3.02,Fiji2008,,"3,523,185,920",4675,Generation X
+8697,Fiji,2008,female,55-74 years,1,43110,2.32,Fiji2008,,"3,523,185,920",4675,Silent
+8698,Fiji,2008,female,5-14 years,1,77855,1.28,Fiji2008,,"3,523,185,920",4675,Generation Z
+8699,Fiji,2008,female,75+ years,0,5555,0.0,Fiji2008,,"3,523,185,920",4675,Silent
+8700,Fiji,2008,male,5-14 years,0,83368,0.0,Fiji2008,,"3,523,185,920",4675,Generation Z
+8701,Fiji,2008,male,75+ years,0,4398,0.0,Fiji2008,,"3,523,185,920",4675,Silent
+8702,Fiji,2009,female,75+ years,1,5809,17.21,Fiji2009,,"2,870,624,636",3765,Silent
+8703,Fiji,2009,male,35-54 years,8,105083,7.61,Fiji2009,,"2,870,624,636",3765,Boomers
+8704,Fiji,2009,male,25-34 years,5,71729,6.97,Fiji2009,,"2,870,624,636",3765,Generation X
+8705,Fiji,2009,male,55-74 years,3,43403,6.91,Fiji2009,,"2,870,624,636",3765,Silent
+8706,Fiji,2009,female,25-34 years,3,68110,4.4,Fiji2009,,"2,870,624,636",3765,Generation X
+8707,Fiji,2009,male,15-24 years,3,80908,3.71,Fiji2009,,"2,870,624,636",3765,Millenials
+8708,Fiji,2009,female,15-24 years,2,76305,2.62,Fiji2009,,"2,870,624,636",3765,Millenials
+8709,Fiji,2009,female,55-74 years,1,44642,2.24,Fiji2009,,"2,870,624,636",3765,Silent
+8710,Fiji,2009,female,35-54 years,0,101209,0.0,Fiji2009,,"2,870,624,636",3765,Boomers
+8711,Fiji,2009,female,5-14 years,0,77600,0.0,Fiji2009,,"2,870,624,636",3765,Generation Z
+8712,Fiji,2009,male,5-14 years,0,83083,0.0,Fiji2009,,"2,870,624,636",3765,Generation Z
+8713,Fiji,2009,male,75+ years,0,4522,0.0,Fiji2009,,"2,870,624,636",3765,Silent
+8714,Fiji,2011,male,75+ years,3,4903,61.19,Fiji2011,0.72,"3,774,530,616",4862,Silent
+8715,Fiji,2011,male,25-34 years,10,73871,13.54,Fiji2011,0.72,"3,774,530,616",4862,Millenials
+8716,Fiji,2011,male,35-54 years,10,106561,9.38,Fiji2011,0.72,"3,774,530,616",4862,Generation X
+8717,Fiji,2011,male,55-74 years,3,46624,6.43,Fiji2011,0.72,"3,774,530,616",4862,Boomers
+8718,Fiji,2011,male,15-24 years,4,80648,4.96,Fiji2011,0.72,"3,774,530,616",4862,Millenials
+8719,Fiji,2011,female,55-74 years,2,48171,4.15,Fiji2011,0.72,"3,774,530,616",4862,Boomers
+8720,Fiji,2011,female,15-24 years,3,76080,3.94,Fiji2011,0.72,"3,774,530,616",4862,Millenials
+8721,Fiji,2011,female,35-54 years,2,102547,1.95,Fiji2011,0.72,"3,774,530,616",4862,Generation X
+8722,Fiji,2011,female,25-34 years,1,70077,1.43,Fiji2011,0.72,"3,774,530,616",4862,Millenials
+8723,Fiji,2011,female,5-14 years,0,77394,0.0,Fiji2011,0.72,"3,774,530,616",4862,Generation Z
+8724,Fiji,2011,female,75+ years,0,6455,0.0,Fiji2011,0.72,"3,774,530,616",4862,Silent
+8725,Fiji,2011,male,5-14 years,0,82994,0.0,Fiji2011,0.72,"3,774,530,616",4862,Generation Z
+8726,Fiji,2012,male,75+ years,2,5168,38.7,Fiji2012,0.722,"3,972,012,571",5073,Silent
+8727,Fiji,2012,female,75+ years,1,6862,14.57,Fiji2012,0.722,"3,972,012,571",5073,Silent
+8728,Fiji,2012,male,15-24 years,7,80061,8.74,Fiji2012,0.722,"3,972,012,571",5073,Millenials
+8729,Fiji,2012,male,25-34 years,5,74059,6.75,Fiji2012,0.722,"3,972,012,571",5073,Millenials
+8730,Fiji,2012,male,35-54 years,6,107270,5.59,Fiji2012,0.722,"3,972,012,571",5073,Generation X
+8731,Fiji,2012,female,15-24 years,4,75501,5.3,Fiji2012,0.722,"3,972,012,571",5073,Millenials
+8732,Fiji,2012,male,55-74 years,2,48382,4.13,Fiji2012,0.722,"3,972,012,571",5073,Boomers
+8733,Fiji,2012,female,55-74 years,2,50218,3.98,Fiji2012,0.722,"3,972,012,571",5073,Boomers
+8734,Fiji,2012,female,25-34 years,2,70215,2.85,Fiji2012,0.722,"3,972,012,571",5073,Millenials
+8735,Fiji,2012,female,35-54 years,1,103358,0.97,Fiji2012,0.722,"3,972,012,571",5073,Generation X
+8736,Fiji,2012,female,5-14 years,0,78081,0.0,Fiji2012,0.722,"3,972,012,571",5073,Generation Z
+8737,Fiji,2012,male,5-14 years,0,83764,0.0,Fiji2012,0.722,"3,972,012,571",5073,Generation Z

@@ -1,0 +1,373 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+26476,United Kingdom,1985,male,75+ years,264,1202838,21.95,United Kingdom1985,0.753,"489,285,164,271",9231,G.I. Generation
+26477,United Kingdom,1985,male,55-74 years,915,5170113,17.7,United Kingdom1985,0.753,"489,285,164,271",9231,G.I. Generation
+26478,United Kingdom,1985,male,35-54 years,1208,6899879,17.51,United Kingdom1985,0.753,"489,285,164,271",9231,Silent
+26479,United Kingdom,1985,male,25-34 years,620,3969689,15.62,United Kingdom1985,0.753,"489,285,164,271",9231,Boomers
+26480,United Kingdom,1985,female,55-74 years,678,6002096,11.3,United Kingdom1985,0.753,"489,285,164,271",9231,G.I. Generation
+26481,United Kingdom,1985,female,75+ years,237,2418692,9.8,United Kingdom1985,0.753,"489,285,164,271",9231,G.I. Generation
+26482,United Kingdom,1985,male,15-24 years,411,4731293,8.69,United Kingdom1985,0.753,"489,285,164,271",9231,Generation X
+26483,United Kingdom,1985,female,35-54 years,505,6879295,7.34,United Kingdom1985,0.753,"489,285,164,271",9231,Silent
+26484,United Kingdom,1985,female,25-34 years,176,3899906,4.51,United Kingdom1985,0.753,"489,285,164,271",9231,Boomers
+26485,United Kingdom,1985,female,15-24 years,86,4549121,1.89,United Kingdom1985,0.753,"489,285,164,271",9231,Generation X
+26486,United Kingdom,1985,male,5-14 years,3,3740694,0.08,United Kingdom1985,0.753,"489,285,164,271",9231,Generation X
+26487,United Kingdom,1985,female,5-14 years,2,3542919,0.06,United Kingdom1985,0.753,"489,285,164,271",9231,Generation X
+26488,United Kingdom,1986,male,75+ years,280,1227718,22.81,United Kingdom1986,,"601,452,653,181",11323,G.I. Generation
+26489,United Kingdom,1986,male,55-74 years,892,5159651,17.29,United Kingdom1986,,"601,452,653,181",11323,G.I. Generation
+26490,United Kingdom,1986,male,35-54 years,1152,6950315,16.57,United Kingdom1986,,"601,452,653,181",11323,Silent
+26491,United Kingdom,1986,male,25-34 years,616,4039982,15.25,United Kingdom1986,,"601,452,653,181",11323,Boomers
+26492,United Kingdom,1986,male,15-24 years,449,4715034,9.52,United Kingdom1986,,"601,452,653,181",11323,Generation X
+26493,United Kingdom,1986,female,75+ years,223,2454593,9.09,United Kingdom1986,,"601,452,653,181",11323,G.I. Generation
+26494,United Kingdom,1986,female,55-74 years,541,5964761,9.07,United Kingdom1986,,"601,452,653,181",11323,G.I. Generation
+26495,United Kingdom,1986,female,35-54 years,424,6933075,6.12,United Kingdom1986,,"601,452,653,181",11323,Silent
+26496,United Kingdom,1986,female,25-34 years,161,3980652,4.04,United Kingdom1986,,"601,452,653,181",11323,Boomers
+26497,United Kingdom,1986,female,15-24 years,97,4538658,2.14,United Kingdom1986,,"601,452,653,181",11323,Generation X
+26498,United Kingdom,1986,female,5-14 years,2,3480190,0.06,United Kingdom1986,,"601,452,653,181",11323,Generation X
+26499,United Kingdom,1986,male,5-14 years,2,3674904,0.05,United Kingdom1986,,"601,452,653,181",11323,Generation X
+26500,United Kingdom,1987,male,75+ years,248,1272201,19.49,United Kingdom1987,,"745,162,608,269",13996,G.I. Generation
+26501,United Kingdom,1987,male,55-74 years,857,5141737,16.67,United Kingdom1987,,"745,162,608,269",13996,G.I. Generation
+26502,United Kingdom,1987,male,35-54 years,1072,6997144,15.32,United Kingdom1987,,"745,162,608,269",13996,Silent
+26503,United Kingdom,1987,male,25-34 years,618,4130709,14.96,United Kingdom1987,,"745,162,608,269",13996,Boomers
+26504,United Kingdom,1987,male,15-24 years,461,4665275,9.88,United Kingdom1987,,"745,162,608,269",13996,Generation X
+26505,United Kingdom,1987,female,55-74 years,464,5919684,7.84,United Kingdom1987,,"745,162,608,269",13996,G.I. Generation
+26506,United Kingdom,1987,female,75+ years,174,2508896,6.94,United Kingdom1987,,"745,162,608,269",13996,G.I. Generation
+26507,United Kingdom,1987,female,35-54 years,417,6986157,5.97,United Kingdom1987,,"745,162,608,269",13996,Silent
+26508,United Kingdom,1987,female,25-34 years,168,4073306,4.12,United Kingdom1987,,"745,162,608,269",13996,Boomers
+26509,United Kingdom,1987,female,15-24 years,105,4483586,2.34,United Kingdom1987,,"745,162,608,269",13996,Generation X
+26510,United Kingdom,1987,male,5-14 years,7,3625848,0.19,United Kingdom1987,,"745,162,608,269",13996,Generation X
+26511,United Kingdom,1987,female,5-14 years,3,3435125,0.09,United Kingdom1987,,"745,162,608,269",13996,Generation X
+26512,United Kingdom,1988,male,75+ years,313,1304946,23.99,United Kingdom1988,,"910,122,732,124",17072,G.I. Generation
+26513,United Kingdom,1988,male,35-54 years,1218,7060763,17.25,United Kingdom1988,,"910,122,732,124",17072,Silent
+26514,United Kingdom,1988,male,25-34 years,695,4217963,16.48,United Kingdom1988,,"910,122,732,124",17072,Boomers
+26515,United Kingdom,1988,male,55-74 years,816,5119070,15.94,United Kingdom1988,,"910,122,732,124",17072,G.I. Generation
+26516,United Kingdom,1988,male,15-24 years,565,4573487,12.35,United Kingdom1988,,"910,122,732,124",17072,Generation X
+26517,United Kingdom,1988,female,75+ years,205,2551912,8.03,United Kingdom1988,,"910,122,732,124",17072,G.I. Generation
+26518,United Kingdom,1988,female,55-74 years,445,5863850,7.59,United Kingdom1988,,"910,122,732,124",17072,G.I. Generation
+26519,United Kingdom,1988,female,35-54 years,417,7055435,5.91,United Kingdom1988,,"910,122,732,124",17072,Silent
+26520,United Kingdom,1988,female,25-34 years,171,4162366,4.11,United Kingdom1988,,"910,122,732,124",17072,Boomers
+26521,United Kingdom,1988,female,15-24 years,120,4389539,2.73,United Kingdom1988,,"910,122,732,124",17072,Generation X
+26522,United Kingdom,1988,male,5-14 years,4,3599080,0.11,United Kingdom1988,,"910,122,732,124",17072,Generation X
+26523,United Kingdom,1988,female,5-14 years,2,3412369,0.06,United Kingdom1988,,"910,122,732,124",17072,Generation X
+26524,United Kingdom,1989,male,75+ years,267,1338351,19.95,United Kingdom1989,,"926,884,816,754",17349,G.I. Generation
+26525,United Kingdom,1989,male,35-54 years,1117,7132941,15.66,United Kingdom1989,,"926,884,816,754",17349,Silent
+26526,United Kingdom,1989,male,25-34 years,664,4320494,15.37,United Kingdom1989,,"926,884,816,754",17349,Boomers
+26527,United Kingdom,1989,male,55-74 years,703,5101514,13.78,United Kingdom1989,,"926,884,816,754",17349,G.I. Generation
+26528,United Kingdom,1989,male,15-24 years,482,4444822,10.84,United Kingdom1989,,"926,884,816,754",17349,Generation X
+26529,United Kingdom,1989,female,75+ years,176,2599321,6.77,United Kingdom1989,,"926,884,816,754",17349,G.I. Generation
+26530,United Kingdom,1989,female,55-74 years,352,5807846,6.06,United Kingdom1989,,"926,884,816,754",17349,G.I. Generation
+26531,United Kingdom,1989,female,35-54 years,353,7131057,4.95,United Kingdom1989,,"926,884,816,754",17349,Silent
+26532,United Kingdom,1989,female,25-34 years,157,4262150,3.68,United Kingdom1989,,"926,884,816,754",17349,Boomers
+26533,United Kingdom,1989,female,15-24 years,87,4270368,2.04,United Kingdom1989,,"926,884,816,754",17349,Generation X
+26534,United Kingdom,1989,female,5-14 years,2,3415806,0.06,United Kingdom1989,,"926,884,816,754",17349,Generation X
+26535,United Kingdom,1989,male,5-14 years,1,3600459,0.03,United Kingdom1989,,"926,884,816,754",17349,Generation X
+26536,United Kingdom,1990,male,75+ years,264,1360178,19.41,United Kingdom1990,0.773,"1,093,169,389,205",20411,G.I. Generation
+26537,United Kingdom,1990,male,35-54 years,1246,7192919,17.32,United Kingdom1990,0.773,"1,093,169,389,205",20411,Silent
+26538,United Kingdom,1990,male,25-34 years,763,4427270,17.23,United Kingdom1990,0.773,"1,093,169,389,205",20411,Boomers
+26539,United Kingdom,1990,male,55-74 years,721,5093581,14.16,United Kingdom1990,0.773,"1,093,169,389,205",20411,G.I. Generation
+26540,United Kingdom,1990,male,15-24 years,528,4317816,12.23,United Kingdom1990,0.773,"1,093,169,389,205",20411,Generation X
+26541,United Kingdom,1990,female,55-74 years,340,5762152,5.9,United Kingdom1990,0.773,"1,093,169,389,205",20411,G.I. Generation
+26542,United Kingdom,1990,female,75+ years,154,2625749,5.86,United Kingdom1990,0.773,"1,093,169,389,205",20411,G.I. Generation
+26543,United Kingdom,1990,female,35-54 years,360,7196514,5.0,United Kingdom1990,0.773,"1,093,169,389,205",20411,Silent
+26544,United Kingdom,1990,female,25-34 years,180,4366845,4.12,United Kingdom1990,0.773,"1,093,169,389,205",20411,Boomers
+26545,United Kingdom,1990,female,15-24 years,85,4138638,2.05,United Kingdom1990,0.773,"1,093,169,389,205",20411,Generation X
+26546,United Kingdom,1990,male,5-14 years,2,3630327,0.06,United Kingdom1990,0.773,"1,093,169,389,205",20411,Generation X
+26547,United Kingdom,1990,female,5-14 years,0,3445865,0.0,United Kingdom1990,0.773,"1,093,169,389,205",20411,Generation X
+26548,United Kingdom,1991,male,35-54 years,1342,7271111,18.46,United Kingdom1991,,"1,142,797,178,131",21201,Boomers
+26549,United Kingdom,1991,male,25-34 years,801,4577587,17.5,United Kingdom1991,,"1,142,797,178,131",21201,Boomers
+26550,United Kingdom,1991,male,75+ years,238,1367055,17.41,United Kingdom1991,,"1,142,797,178,131",21201,G.I. Generation
+26551,United Kingdom,1991,male,55-74 years,628,5106574,12.3,United Kingdom1991,,"1,142,797,178,131",21201,Silent
+26552,United Kingdom,1991,male,15-24 years,481,4218626,11.4,United Kingdom1991,,"1,142,797,178,131",21201,Generation X
+26553,United Kingdom,1991,female,75+ years,151,2671099,5.65,United Kingdom1991,,"1,142,797,178,131",21201,G.I. Generation
+26554,United Kingdom,1991,female,55-74 years,311,5765907,5.39,United Kingdom1991,,"1,142,797,178,131",21201,Silent
+26555,United Kingdom,1991,female,35-54 years,336,7264229,4.63,United Kingdom1991,,"1,142,797,178,131",21201,Boomers
+26556,United Kingdom,1991,female,25-34 years,161,4465693,3.61,United Kingdom1991,,"1,142,797,178,131",21201,Boomers
+26557,United Kingdom,1991,female,15-24 years,93,4021225,2.31,United Kingdom1991,,"1,142,797,178,131",21201,Generation X
+26558,United Kingdom,1991,male,5-14 years,4,3687655,0.11,United Kingdom1991,,"1,142,797,178,131",21201,Millenials
+26559,United Kingdom,1991,female,5-14 years,1,3486666,0.03,United Kingdom1991,,"1,142,797,178,131",21201,Millenials
+26560,United Kingdom,1992,male,35-54 years,1361,7357267,18.5,United Kingdom1992,,"1,179,659,529,660",21815,Boomers
+26561,United Kingdom,1992,male,25-34 years,785,4655305,16.86,United Kingdom1992,,"1,179,659,529,660",21815,Boomers
+26562,United Kingdom,1992,male,75+ years,216,1371639,15.75,United Kingdom1992,,"1,179,659,529,660",21815,G.I. Generation
+26563,United Kingdom,1992,male,55-74 years,693,5128063,13.51,United Kingdom1992,,"1,179,659,529,660",21815,Silent
+26564,United Kingdom,1992,male,15-24 years,500,4077682,12.26,United Kingdom1992,,"1,179,659,529,660",21815,Generation X
+26565,United Kingdom,1992,female,75+ years,143,2670510,5.35,United Kingdom1992,,"1,179,659,529,660",21815,G.I. Generation
+26566,United Kingdom,1992,female,55-74 years,299,5765146,5.19,United Kingdom1992,,"1,179,659,529,660",21815,Silent
+26567,United Kingdom,1992,female,35-54 years,347,7352110,4.72,United Kingdom1992,,"1,179,659,529,660",21815,Boomers
+26568,United Kingdom,1992,female,25-34 years,191,4529424,4.22,United Kingdom1992,,"1,179,659,529,660",21815,Boomers
+26569,United Kingdom,1992,female,15-24 years,91,3882211,2.34,United Kingdom1992,,"1,179,659,529,660",21815,Generation X
+26570,United Kingdom,1992,male,5-14 years,2,3742157,0.05,United Kingdom1992,,"1,179,659,529,660",21815,Millenials
+26571,United Kingdom,1992,female,5-14 years,0,3544844,0.0,United Kingdom1992,,"1,179,659,529,660",21815,Millenials
+26572,United Kingdom,1993,male,35-54 years,1274,7453705,17.09,United Kingdom1993,,"1,061,388,722,256",19553,Boomers
+26573,United Kingdom,1993,male,25-34 years,773,4707275,16.42,United Kingdom1993,,"1,061,388,722,256",19553,Boomers
+26574,United Kingdom,1993,male,75+ years,221,1361095,16.24,United Kingdom1993,,"1,061,388,722,256",19553,G.I. Generation
+26575,United Kingdom,1993,male,15-24 years,501,3957719,12.66,United Kingdom1993,,"1,061,388,722,256",19553,Generation X
+26576,United Kingdom,1993,male,55-74 years,652,5170730,12.61,United Kingdom1993,,"1,061,388,722,256",19553,Silent
+26577,United Kingdom,1993,female,75+ years,166,2647900,6.27,United Kingdom1993,,"1,061,388,722,256",19553,G.I. Generation
+26578,United Kingdom,1993,female,55-74 years,263,5792600,4.54,United Kingdom1993,,"1,061,388,722,256",19553,Silent
+26579,United Kingdom,1993,female,35-54 years,335,7448149,4.5,United Kingdom1993,,"1,061,388,722,256",19553,Boomers
+26580,United Kingdom,1993,female,25-34 years,181,4569482,3.96,United Kingdom1993,,"1,061,388,722,256",19553,Boomers
+26581,United Kingdom,1993,female,15-24 years,82,3760574,2.18,United Kingdom1993,,"1,061,388,722,256",19553,Generation X
+26582,United Kingdom,1993,male,5-14 years,12,3806053,0.32,United Kingdom1993,,"1,061,388,722,256",19553,Millenials
+26583,United Kingdom,1993,female,5-14 years,2,3608700,0.06,United Kingdom1993,,"1,061,388,722,256",19553,Millenials
+26584,United Kingdom,1994,male,25-34 years,881,4751200,18.54,United Kingdom1994,,"1,140,489,745,944",20927,Boomers
+26585,United Kingdom,1994,male,35-54 years,1242,7561779,16.42,United Kingdom1994,,"1,140,489,745,944",20927,Boomers
+26586,United Kingdom,1994,male,75+ years,218,1349491,16.15,United Kingdom1994,,"1,140,489,745,944",20927,G.I. Generation
+26587,United Kingdom,1994,male,15-24 years,445,3868779,11.5,United Kingdom1994,,"1,140,489,745,944",20927,Generation X
+26588,United Kingdom,1994,male,55-74 years,595,5209306,11.42,United Kingdom1994,,"1,140,489,745,944",20927,Silent
+26589,United Kingdom,1994,female,75+ years,148,2619957,5.65,United Kingdom1994,,"1,140,489,745,944",20927,G.I. Generation
+26590,United Kingdom,1994,female,55-74 years,256,5816530,4.4,United Kingdom1994,,"1,140,489,745,944",20927,Silent
+26591,United Kingdom,1994,female,35-54 years,324,7557704,4.29,United Kingdom1994,,"1,140,489,745,944",20927,Boomers
+26592,United Kingdom,1994,female,25-34 years,176,4606941,3.82,United Kingdom1994,,"1,140,489,745,944",20927,Boomers
+26593,United Kingdom,1994,female,15-24 years,82,3674808,2.23,United Kingdom1994,,"1,140,489,745,944",20927,Generation X
+26594,United Kingdom,1994,male,5-14 years,9,3837961,0.23,United Kingdom1994,,"1,140,489,745,944",20927,Millenials
+26595,United Kingdom,1994,female,5-14 years,4,3642837,0.11,United Kingdom1994,,"1,140,489,745,944",20927,Millenials
+26596,United Kingdom,1995,male,25-34 years,858,4776564,17.96,United Kingdom1995,0.8370000000000001,"1,335,218,557,677",24389,Generation X
+26597,United Kingdom,1995,male,35-54 years,1247,7691950,16.21,United Kingdom1995,0.8370000000000001,"1,335,218,557,677",24389,Boomers
+26598,United Kingdom,1995,male,75+ years,222,1412937,15.71,United Kingdom1995,0.8370000000000001,"1,335,218,557,677",24389,G.I. Generation
+26599,United Kingdom,1995,male,55-74 years,602,5179979,11.62,United Kingdom1995,0.8370000000000001,"1,335,218,557,677",24389,Silent
+26600,United Kingdom,1995,male,15-24 years,419,3811646,10.99,United Kingdom1995,0.8370000000000001,"1,335,218,557,677",24389,Generation X
+26601,United Kingdom,1995,female,75+ years,152,2692330,5.65,United Kingdom1995,0.8370000000000001,"1,335,218,557,677",24389,G.I. Generation
+26602,United Kingdom,1995,female,35-54 years,344,7672199,4.48,United Kingdom1995,0.8370000000000001,"1,335,218,557,677",24389,Boomers
+26603,United Kingdom,1995,female,55-74 years,237,5746814,4.12,United Kingdom1995,0.8370000000000001,"1,335,218,557,677",24389,Silent
+26604,United Kingdom,1995,female,25-34 years,143,4614434,3.1,United Kingdom1995,0.8370000000000001,"1,335,218,557,677",24389,Generation X
+26605,United Kingdom,1995,female,15-24 years,81,3624373,2.23,United Kingdom1995,0.8370000000000001,"1,335,218,557,677",24389,Generation X
+26606,United Kingdom,1995,male,5-14 years,6,3859464,0.16,United Kingdom1995,0.8370000000000001,"1,335,218,557,677",24389,Millenials
+26607,United Kingdom,1995,female,5-14 years,4,3664274,0.11,United Kingdom1995,0.8370000000000001,"1,335,218,557,677",24389,Millenials
+26608,United Kingdom,1996,male,25-34 years,858,4786490,17.93,United Kingdom1996,,"1,408,781,591,264",25609,Generation X
+26609,United Kingdom,1996,male,35-54 years,1189,7859858,15.13,United Kingdom1996,,"1,408,781,591,264",25609,Boomers
+26610,United Kingdom,1996,male,75+ years,218,1460275,14.93,United Kingdom1996,,"1,408,781,591,264",25609,G.I. Generation
+26611,United Kingdom,1996,male,55-74 years,552,5146338,10.73,United Kingdom1996,,"1,408,781,591,264",25609,Silent
+26612,United Kingdom,1996,male,15-24 years,362,3746067,9.66,United Kingdom1996,,"1,408,781,591,264",25609,Generation X
+26613,United Kingdom,1996,female,75+ years,134,2740309,4.89,United Kingdom1996,,"1,408,781,591,264",25609,G.I. Generation
+26614,United Kingdom,1996,female,35-54 years,350,7826169,4.47,United Kingdom1996,,"1,408,781,591,264",25609,Boomers
+26615,United Kingdom,1996,female,25-34 years,190,4613261,4.12,United Kingdom1996,,"1,408,781,591,264",25609,Generation X
+26616,United Kingdom,1996,female,55-74 years,218,5677006,3.84,United Kingdom1996,,"1,408,781,591,264",25609,Silent
+26617,United Kingdom,1996,female,15-24 years,88,3564927,2.47,United Kingdom1996,,"1,408,781,591,264",25609,Generation X
+26618,United Kingdom,1996,male,5-14 years,6,3894281,0.15,United Kingdom1996,,"1,408,781,591,264",25609,Millenials
+26619,United Kingdom,1996,female,5-14 years,0,3697226,0.0,United Kingdom1996,,"1,408,781,591,264",25609,Millenials
+26620,United Kingdom,1997,male,25-34 years,832,4758740,17.48,United Kingdom1997,,"1,552,483,628,029",28091,Generation X
+26621,United Kingdom,1997,male,75+ years,252,1500323,16.8,United Kingdom1997,,"1,552,483,628,029",28091,G.I. Generation
+26622,United Kingdom,1997,male,35-54 years,1180,8015651,14.72,United Kingdom1997,,"1,552,483,628,029",28091,Boomers
+26623,United Kingdom,1997,male,15-24 years,411,3696059,11.12,United Kingdom1997,,"1,552,483,628,029",28091,Generation X
+26624,United Kingdom,1997,male,55-74 years,519,5148166,10.08,United Kingdom1997,,"1,552,483,628,029",28091,Silent
+26625,United Kingdom,1997,female,35-54 years,358,7970382,4.49,United Kingdom1997,,"1,552,483,628,029",28091,Boomers
+26626,United Kingdom,1997,female,55-74 years,224,5648065,3.97,United Kingdom1997,,"1,552,483,628,029",28091,Silent
+26627,United Kingdom,1997,female,75+ years,107,2771148,3.86,United Kingdom1997,,"1,552,483,628,029",28091,G.I. Generation
+26628,United Kingdom,1997,female,25-34 years,171,4576730,3.74,United Kingdom1997,,"1,552,483,628,029",28091,Generation X
+26629,United Kingdom,1997,female,15-24 years,82,3520027,2.33,United Kingdom1997,,"1,552,483,628,029",28091,Generation X
+26630,United Kingdom,1997,female,5-14 years,4,3732059,0.11,United Kingdom1997,,"1,552,483,628,029",28091,Millenials
+26631,United Kingdom,1997,male,5-14 years,3,3929285,0.08,United Kingdom1997,,"1,552,483,628,029",28091,Millenials
+26632,United Kingdom,1998,male,25-34 years,968,4695840,20.61,United Kingdom1998,,"1,638,511,096,390",29508,Generation X
+26633,United Kingdom,1998,male,35-54 years,1280,8158001,15.69,United Kingdom1998,,"1,638,511,096,390",29508,Boomers
+26634,United Kingdom,1998,male,75+ years,204,1534356,13.3,United Kingdom1998,,"1,638,511,096,390",29508,G.I. Generation
+26635,United Kingdom,1998,male,55-74 years,571,5191604,11.0,United Kingdom1998,,"1,638,511,096,390",29508,Silent
+26636,United Kingdom,1998,male,15-24 years,382,3673423,10.4,United Kingdom1998,,"1,638,511,096,390",29508,Generation X
+26637,United Kingdom,1998,female,75+ years,122,2797439,4.36,United Kingdom1998,,"1,638,511,096,390",29508,G.I. Generation
+26638,United Kingdom,1998,female,55-74 years,244,5664521,4.31,United Kingdom1998,,"1,638,511,096,390",29508,Silent
+26639,United Kingdom,1998,female,35-54 years,334,8098801,4.12,United Kingdom1998,,"1,638,511,096,390",29508,Boomers
+26640,United Kingdom,1998,female,25-34 years,177,4508772,3.93,United Kingdom1998,,"1,638,511,096,390",29508,Generation X
+26641,United Kingdom,1998,female,15-24 years,101,3501036,2.88,United Kingdom1998,,"1,638,511,096,390",29508,Generation X
+26642,United Kingdom,1998,female,5-14 years,4,3753737,0.11,United Kingdom1998,,"1,638,511,096,390",29508,Millenials
+26643,United Kingdom,1998,male,5-14 years,2,3949849,0.05,United Kingdom1998,,"1,638,511,096,390",29508,Millenials
+26644,United Kingdom,1999,male,25-34 years,839,4615720,18.18,United Kingdom1999,,"1,665,623,685,488",29832,Generation X
+26645,United Kingdom,1999,male,35-54 years,1361,8305433,16.39,United Kingdom1999,,"1,665,623,685,488",29832,Boomers
+26646,United Kingdom,1999,male,75+ years,242,1562363,15.49,United Kingdom1999,,"1,665,623,685,488",29832,G.I. Generation
+26647,United Kingdom,1999,male,55-74 years,604,5254251,11.5,United Kingdom1999,,"1,665,623,685,488",29832,Silent
+26648,United Kingdom,1999,male,15-24 years,393,3680455,10.68,United Kingdom1999,,"1,665,623,685,488",29832,Generation X
+26649,United Kingdom,1999,female,75+ years,144,2807489,5.13,United Kingdom1999,,"1,665,623,685,488",29832,G.I. Generation
+26650,United Kingdom,1999,female,35-54 years,369,8226330,4.49,United Kingdom1999,,"1,665,623,685,488",29832,Boomers
+26651,United Kingdom,1999,female,55-74 years,232,5703910,4.07,United Kingdom1999,,"1,665,623,685,488",29832,Silent
+26652,United Kingdom,1999,female,25-34 years,171,4419817,3.87,United Kingdom1999,,"1,665,623,685,488",29832,Generation X
+26653,United Kingdom,1999,female,15-24 years,88,3503102,2.51,United Kingdom1999,,"1,665,623,685,488",29832,Generation X
+26654,United Kingdom,1999,male,5-14 years,4,3975507,0.1,United Kingdom1999,,"1,665,623,685,488",29832,Millenials
+26655,United Kingdom,1999,female,5-14 years,1,3778962,0.03,United Kingdom1999,,"1,665,623,685,488",29832,Millenials
+26656,United Kingdom,2000,male,25-34 years,768,4536556,16.93,United Kingdom2000,0.865,"1,647,951,278,560",29358,Generation X
+26657,United Kingdom,2000,male,35-54 years,1357,8459117,16.04,United Kingdom2000,0.865,"1,647,951,278,560",29358,Boomers
+26658,United Kingdom,2000,male,75+ years,223,1589527,14.03,United Kingdom2000,0.865,"1,647,951,278,560",29358,G.I. Generation
+26659,United Kingdom,2000,male,55-74 years,568,5314648,10.69,United Kingdom2000,0.865,"1,647,951,278,560",29358,Silent
+26660,United Kingdom,2000,male,15-24 years,390,3709456,10.51,United Kingdom2000,0.865,"1,647,951,278,560",29358,Generation X
+26661,United Kingdom,2000,female,35-54 years,386,8366055,4.61,United Kingdom2000,0.865,"1,647,951,278,560",29358,Boomers
+26662,United Kingdom,2000,female,75+ years,109,2816810,3.87,United Kingdom2000,0.865,"1,647,951,278,560",29358,G.I. Generation
+26663,United Kingdom,2000,female,25-34 years,167,4332330,3.85,United Kingdom2000,0.865,"1,647,951,278,560",29358,Generation X
+26664,United Kingdom,2000,female,55-74 years,212,5750273,3.69,United Kingdom2000,0.865,"1,647,951,278,560",29358,Silent
+26665,United Kingdom,2000,female,15-24 years,101,3523496,2.87,United Kingdom2000,0.865,"1,647,951,278,560",29358,Generation X
+26666,United Kingdom,2000,male,5-14 years,5,3967341,0.13,United Kingdom2000,0.865,"1,647,951,278,560",29358,Millenials
+26667,United Kingdom,2000,female,5-14 years,4,3768300,0.11,United Kingdom2000,0.865,"1,647,951,278,560",29358,Millenials
+26668,United Kingdom,2001,male,25-34 years,723,4243590,17.04,United Kingdom2001,,"1,621,510,004,318",29179,Generation X
+26669,United Kingdom,2001,male,35-54 years,1317,8222369,16.02,United Kingdom2001,,"1,621,510,004,318",29179,Boomers
+26670,United Kingdom,2001,male,75+ years,225,1618917,13.9,United Kingdom2001,,"1,621,510,004,318",29179,Silent
+26671,United Kingdom,2001,male,55-74 years,569,5390372,10.56,United Kingdom2001,,"1,621,510,004,318",29179,Silent
+26672,United Kingdom,2001,male,15-24 years,361,3650328,9.89,United Kingdom2001,,"1,621,510,004,318",29179,Millenials
+26673,United Kingdom,2001,female,35-54 years,373,8374702,4.45,United Kingdom2001,,"1,621,510,004,318",29179,Boomers
+26674,United Kingdom,2001,female,55-74 years,239,5820231,4.11,United Kingdom2001,,"1,621,510,004,318",29179,Silent
+26675,United Kingdom,2001,female,75+ years,106,2801024,3.78,United Kingdom2001,,"1,621,510,004,318",29179,Silent
+26676,United Kingdom,2001,female,25-34 years,136,4251558,3.2,United Kingdom2001,,"1,621,510,004,318",29179,Generation X
+26677,United Kingdom,2001,female,15-24 years,72,3581981,2.01,United Kingdom2001,,"1,621,510,004,318",29179,Millenials
+26678,United Kingdom,2001,male,5-14 years,4,3902253,0.1,United Kingdom2001,,"1,621,510,004,318",29179,Millenials
+26679,United Kingdom,2001,female,5-14 years,3,3714668,0.08,United Kingdom2001,,"1,621,510,004,318",29179,Millenials
+26680,United Kingdom,2002,male,25-34 years,747,4114056,18.16,United Kingdom2002,,"1,768,408,273,381",31630,Generation X
+26681,United Kingdom,2002,male,35-54 years,1350,8250038,16.36,United Kingdom2002,,"1,768,408,273,381",31630,Boomers
+26682,United Kingdom,2002,male,75+ years,175,1653523,10.58,United Kingdom2002,,"1,768,408,273,381",31630,Silent
+26683,United Kingdom,2002,male,55-74 years,564,5545751,10.17,United Kingdom2002,,"1,768,408,273,381",31630,Silent
+26684,United Kingdom,2002,male,15-24 years,323,3758190,8.59,United Kingdom2002,,"1,768,408,273,381",31630,Millenials
+26685,United Kingdom,2002,female,75+ years,117,2817222,4.15,United Kingdom2002,,"1,768,408,273,381",31630,Silent
+26686,United Kingdom,2002,female,35-54 years,349,8405892,4.15,United Kingdom2002,,"1,768,408,273,381",31630,Boomers
+26687,United Kingdom,2002,female,25-34 years,170,4149794,4.1,United Kingdom2002,,"1,768,408,273,381",31630,Generation X
+26688,United Kingdom,2002,female,55-74 years,222,5969004,3.72,United Kingdom2002,,"1,768,408,273,381",31630,Silent
+26689,United Kingdom,2002,female,15-24 years,90,3642294,2.47,United Kingdom2002,,"1,768,408,273,381",31630,Millenials
+26690,United Kingdom,2002,female,5-14 years,5,3706268,0.13,United Kingdom2002,,"1,768,408,273,381",31630,Millenials
+26691,United Kingdom,2002,male,5-14 years,5,3896912,0.13,United Kingdom2002,,"1,768,408,273,381",31630,Millenials
+26692,United Kingdom,2003,male,25-34 years,637,4023648,15.83,United Kingdom2003,,"2,038,395,102,041",36289,Generation X
+26693,United Kingdom,2003,male,35-54 years,1311,8282037,15.83,United Kingdom2003,,"2,038,395,102,041",36289,Boomers
+26694,United Kingdom,2003,male,75+ years,209,1681364,12.43,United Kingdom2003,,"2,038,395,102,041",36289,Silent
+26695,United Kingdom,2003,male,55-74 years,575,5665717,10.15,United Kingdom2003,,"2,038,395,102,041",36289,Silent
+26696,United Kingdom,2003,male,15-24 years,316,3854815,8.2,United Kingdom2003,,"2,038,395,102,041",36289,Millenials
+26697,United Kingdom,2003,female,35-54 years,381,8432837,4.52,United Kingdom2003,,"2,038,395,102,041",36289,Boomers
+26698,United Kingdom,2003,female,75+ years,104,2821243,3.69,United Kingdom2003,,"2,038,395,102,041",36289,Silent
+26699,United Kingdom,2003,female,25-34 years,144,4059897,3.55,United Kingdom2003,,"2,038,395,102,041",36289,Generation X
+26700,United Kingdom,2003,female,55-74 years,207,6085995,3.4,United Kingdom2003,,"2,038,395,102,041",36289,Silent
+26701,United Kingdom,2003,female,15-24 years,91,3718206,2.45,United Kingdom2003,,"2,038,395,102,041",36289,Millenials
+26702,United Kingdom,2003,female,5-14 years,2,3677964,0.05,United Kingdom2003,,"2,038,395,102,041",36289,Millenials
+26703,United Kingdom,2003,male,5-14 years,2,3868048,0.05,United Kingdom2003,,"2,038,395,102,041",36289,Millenials
+26704,United Kingdom,2004,male,35-54 years,1422,8324962,17.08,United Kingdom2004,,"2,398,555,474,185",42486,Boomers
+26705,United Kingdom,2004,male,25-34 years,599,3960327,15.13,United Kingdom2004,,"2,398,555,474,185",42486,Generation X
+26706,United Kingdom,2004,male,75+ years,221,1713028,12.9,United Kingdom2004,,"2,398,555,474,185",42486,Silent
+26707,United Kingdom,2004,male,55-74 years,601,5755684,10.44,United Kingdom2004,,"2,398,555,474,185",42486,Silent
+26708,United Kingdom,2004,male,15-24 years,315,3953382,7.97,United Kingdom2004,,"2,398,555,474,185",42486,Millenials
+26709,United Kingdom,2004,female,35-54 years,423,8494403,4.98,United Kingdom2004,,"2,398,555,474,185",42486,Boomers
+26710,United Kingdom,2004,female,75+ years,115,2829135,4.06,United Kingdom2004,,"2,398,555,474,185",42486,Silent
+26711,United Kingdom,2004,female,55-74 years,244,6170678,3.95,United Kingdom2004,,"2,398,555,474,185",42486,Silent
+26712,United Kingdom,2004,female,25-34 years,150,3993258,3.76,United Kingdom2004,,"2,398,555,474,185",42486,Generation X
+26713,United Kingdom,2004,female,15-24 years,88,3785230,2.32,United Kingdom2004,,"2,398,555,474,185",42486,Millenials
+26714,United Kingdom,2004,male,5-14 years,4,3832497,0.1,United Kingdom2004,,"2,398,555,474,185",42486,Millenials
+26715,United Kingdom,2004,female,5-14 years,1,3642427,0.03,United Kingdom2004,,"2,398,555,474,185",42486,Millenials
+26716,United Kingdom,2005,male,35-54 years,1359,8397155,16.18,United Kingdom2005,0.89,"2,520,701,818,182",44372,Boomers
+26717,United Kingdom,2005,male,25-34 years,563,3951996,14.25,United Kingdom2005,0.89,"2,520,701,818,182",44372,Generation X
+26718,United Kingdom,2005,male,75+ years,215,1749520,12.29,United Kingdom2005,0.89,"2,520,701,818,182",44372,Silent
+26719,United Kingdom,2005,male,55-74 years,617,5831367,10.58,United Kingdom2005,0.89,"2,520,701,818,182",44372,Silent
+26720,United Kingdom,2005,male,15-24 years,296,4029567,7.35,United Kingdom2005,0.89,"2,520,701,818,182",44372,Millenials
+26721,United Kingdom,2005,female,35-54 years,405,8555323,4.73,United Kingdom2005,0.89,"2,520,701,818,182",44372,Boomers
+26722,United Kingdom,2005,female,25-34 years,162,3983494,4.07,United Kingdom2005,0.89,"2,520,701,818,182",44372,Generation X
+26723,United Kingdom,2005,female,55-74 years,237,6236531,3.8,United Kingdom2005,0.89,"2,520,701,818,182",44372,Silent
+26724,United Kingdom,2005,female,75+ years,97,2844822,3.41,United Kingdom2005,0.89,"2,520,701,818,182",44372,Silent
+26725,United Kingdom,2005,female,15-24 years,88,3856149,2.28,United Kingdom2005,0.89,"2,520,701,818,182",44372,Millenials
+26726,United Kingdom,2005,female,5-14 years,4,3591721,0.11,United Kingdom2005,0.89,"2,520,701,818,182",44372,Millenials
+26727,United Kingdom,2005,male,5-14 years,4,3781379,0.11,United Kingdom2005,0.89,"2,520,701,818,182",44372,Millenials
+26728,United Kingdom,2006,male,35-54 years,1457,8462315,17.22,United Kingdom2006,,"2,692,612,695,492",47163,Boomers
+26729,United Kingdom,2006,male,25-34 years,562,3940414,14.26,United Kingdom2006,,"2,692,612,695,492",47163,Generation X
+26730,United Kingdom,2006,male,55-74 years,656,5891585,11.13,United Kingdom2006,,"2,692,612,695,492",47163,Silent
+26731,United Kingdom,2006,male,75+ years,199,1792119,11.1,United Kingdom2006,,"2,692,612,695,492",47163,Silent
+26732,United Kingdom,2006,male,15-24 years,308,4108191,7.5,United Kingdom2006,,"2,692,612,695,492",47163,Millenials
+26733,United Kingdom,2006,female,35-54 years,397,8633179,4.6,United Kingdom2006,,"2,692,612,695,492",47163,Boomers
+26734,United Kingdom,2006,female,55-74 years,238,6287636,3.79,United Kingdom2006,,"2,692,612,695,492",47163,Silent
+26735,United Kingdom,2006,female,25-34 years,138,3955936,3.49,United Kingdom2006,,"2,692,612,695,492",47163,Generation X
+26736,United Kingdom,2006,female,75+ years,86,2866699,3.0,United Kingdom2006,,"2,692,612,695,492",47163,Silent
+26737,United Kingdom,2006,female,15-24 years,74,3911869,1.89,United Kingdom2006,,"2,692,612,695,492",47163,Millenials
+26738,United Kingdom,2006,male,5-14 years,4,3709139,0.11,United Kingdom2006,,"2,692,612,695,492",47163,Millenials
+26739,United Kingdom,2006,female,5-14 years,3,3532047,0.08,United Kingdom2006,,"2,692,612,695,492",47163,Millenials
+26740,United Kingdom,2007,male,35-54 years,1332,8519029,15.64,United Kingdom2007,,"3,074,359,743,898",53576,Boomers
+26741,United Kingdom,2007,male,25-34 years,547,3935970,13.9,United Kingdom2007,,"3,074,359,743,898",53576,Generation X
+26742,United Kingdom,2007,male,75+ years,214,1834466,11.67,United Kingdom2007,,"3,074,359,743,898",53576,Silent
+26743,United Kingdom,2007,male,55-74 years,613,5943853,10.31,United Kingdom2007,,"3,074,359,743,898",53576,Silent
+26744,United Kingdom,2007,male,15-24 years,309,4193170,7.37,United Kingdom2007,,"3,074,359,743,898",53576,Millenials
+26745,United Kingdom,2007,female,35-54 years,354,8709169,4.06,United Kingdom2007,,"3,074,359,743,898",53576,Boomers
+26746,United Kingdom,2007,female,55-74 years,230,6345128,3.62,United Kingdom2007,,"3,074,359,743,898",53576,Silent
+26747,United Kingdom,2007,female,25-34 years,132,3923507,3.36,United Kingdom2007,,"3,074,359,743,898",53576,Generation X
+26748,United Kingdom,2007,female,75+ years,82,2886921,2.84,United Kingdom2007,,"3,074,359,743,898",53576,Silent
+26749,United Kingdom,2007,female,15-24 years,70,3963103,1.77,United Kingdom2007,,"3,074,359,743,898",53576,Millenials
+26750,United Kingdom,2007,male,5-14 years,10,3648686,0.27,United Kingdom2007,,"3,074,359,743,898",53576,Generation Z
+26751,United Kingdom,2007,female,5-14 years,4,3479755,0.11,United Kingdom2007,,"3,074,359,743,898",53576,Generation Z
+26752,United Kingdom,2008,male,35-54 years,1441,8559778,16.83,United Kingdom2008,,"2,890,564,338,235",50111,Boomers
+26753,United Kingdom,2008,male,25-34 years,617,3984635,15.48,United Kingdom2008,,"2,890,564,338,235",50111,Generation X
+26754,United Kingdom,2008,male,75+ years,221,1873437,11.8,United Kingdom2008,,"2,890,564,338,235",50111,Silent
+26755,United Kingdom,2008,male,55-74 years,692,6013042,11.51,United Kingdom2008,,"2,890,564,338,235",50111,Silent
+26756,United Kingdom,2008,male,15-24 years,323,4214828,7.66,United Kingdom2008,,"2,890,564,338,235",50111,Millenials
+26757,United Kingdom,2008,female,35-54 years,420,8751380,4.8,United Kingdom2008,,"2,890,564,338,235",50111,Boomers
+26758,United Kingdom,2008,female,25-34 years,156,3915840,3.98,United Kingdom2008,,"2,890,564,338,235",50111,Generation X
+26759,United Kingdom,2008,female,55-74 years,207,6414224,3.23,United Kingdom2008,,"2,890,564,338,235",50111,Silent
+26760,United Kingdom,2008,female,75+ years,88,2901507,3.03,United Kingdom2008,,"2,890,564,338,235",50111,Silent
+26761,United Kingdom,2008,female,15-24 years,81,4000750,2.02,United Kingdom2008,,"2,890,564,338,235",50111,Millenials
+26762,United Kingdom,2008,female,5-14 years,7,3443457,0.2,United Kingdom2008,,"2,890,564,338,235",50111,Generation Z
+26763,United Kingdom,2008,male,5-14 years,6,3610494,0.17,United Kingdom2008,,"2,890,564,338,235",50111,Generation Z
+26764,United Kingdom,2009,male,35-54 years,1542,8582671,17.97,United Kingdom2009,,"2,382,825,985,356",41074,Boomers
+26765,United Kingdom,2009,male,25-34 years,564,4047103,13.94,United Kingdom2009,,"2,382,825,985,356",41074,Generation X
+26766,United Kingdom,2009,male,55-74 years,676,6096376,11.09,United Kingdom2009,,"2,382,825,985,356",41074,Silent
+26767,United Kingdom,2009,male,75+ years,195,1911370,10.2,United Kingdom2009,,"2,382,825,985,356",41074,Silent
+26768,United Kingdom,2009,male,15-24 years,332,4210903,7.88,United Kingdom2009,,"2,382,825,985,356",41074,Millenials
+26769,United Kingdom,2009,female,35-54 years,387,8778984,4.41,United Kingdom2009,,"2,382,825,985,356",41074,Boomers
+26770,United Kingdom,2009,female,55-74 years,229,6497453,3.52,United Kingdom2009,,"2,382,825,985,356",41074,Silent
+26771,United Kingdom,2009,female,25-34 years,133,3946153,3.37,United Kingdom2009,,"2,382,825,985,356",41074,Generation X
+26772,United Kingdom,2009,female,75+ years,97,2915785,3.33,United Kingdom2009,,"2,382,825,985,356",41074,Silent
+26773,United Kingdom,2009,female,15-24 years,84,4009556,2.09,United Kingdom2009,,"2,382,825,985,356",41074,Millenials
+26774,United Kingdom,2009,male,5-14 years,4,3591283,0.11,United Kingdom2009,,"2,382,825,985,356",41074,Generation Z
+26775,United Kingdom,2009,female,5-14 years,3,3425922,0.09,United Kingdom2009,,"2,382,825,985,356",41074,Generation Z
+26776,United Kingdom,2010,male,35-54 years,1444,8592781,16.8,United Kingdom2010,0.9059999999999999,"2,441,173,394,730",41798,Generation X
+26777,United Kingdom,2010,male,25-34 years,513,4128369,12.43,United Kingdom2010,0.9059999999999999,"2,441,173,394,730",41798,Generation X
+26778,United Kingdom,2010,male,75+ years,227,1960939,11.58,United Kingdom2010,0.9059999999999999,"2,441,173,394,730",41798,Silent
+26779,United Kingdom,2010,male,55-74 years,696,6171080,11.28,United Kingdom2010,0.9059999999999999,"2,441,173,394,730",41798,Silent
+26780,United Kingdom,2010,male,15-24 years,344,4225926,8.14,United Kingdom2010,0.9059999999999999,"2,441,173,394,730",41798,Millenials
+26781,United Kingdom,2010,female,35-54 years,400,8788212,4.55,United Kingdom2010,0.9059999999999999,"2,441,173,394,730",41798,Generation X
+26782,United Kingdom,2010,female,55-74 years,232,6570278,3.53,United Kingdom2010,0.9059999999999999,"2,441,173,394,730",41798,Silent
+26783,United Kingdom,2010,female,25-34 years,133,4012797,3.31,United Kingdom2010,0.9059999999999999,"2,441,173,394,730",41798,Generation X
+26784,United Kingdom,2010,female,75+ years,89,2944062,3.02,United Kingdom2010,0.9059999999999999,"2,441,173,394,730",41798,Silent
+26785,United Kingdom,2010,female,15-24 years,106,3995780,2.65,United Kingdom2010,0.9059999999999999,"2,441,173,394,730",41798,Millenials
+26786,United Kingdom,2010,female,5-14 years,3,3426430,0.09,United Kingdom2010,0.9059999999999999,"2,441,173,394,730",41798,Generation Z
+26787,United Kingdom,2010,male,5-14 years,1,3586875,0.03,United Kingdom2010,0.9059999999999999,"2,441,173,394,730",41798,Generation Z
+26788,United Kingdom,2011,male,35-54 years,1611,8617712,18.69,United Kingdom2011,0.9009999999999999,"2,619,700,404,733",44491,Generation X
+26789,United Kingdom,2011,male,25-34 years,553,4222804,13.1,United Kingdom2011,0.9009999999999999,"2,619,700,404,733",44491,Millenials
+26790,United Kingdom,2011,male,55-74 years,708,6253024,11.32,United Kingdom2011,0.9009999999999999,"2,619,700,404,733",44491,Boomers
+26791,United Kingdom,2011,male,75+ years,207,2013814,10.28,United Kingdom2011,0.9009999999999999,"2,619,700,404,733",44491,Silent
+26792,United Kingdom,2011,male,15-24 years,346,4236989,8.17,United Kingdom2011,0.9009999999999999,"2,619,700,404,733",44491,Millenials
+26793,United Kingdom,2011,female,35-54 years,417,8790957,4.74,United Kingdom2011,0.9009999999999999,"2,619,700,404,733",44491,Generation X
+26794,United Kingdom,2011,female,55-74 years,235,6652911,3.53,United Kingdom2011,0.9009999999999999,"2,619,700,404,733",44491,Boomers
+26795,United Kingdom,2011,female,25-34 years,134,4094631,3.27,United Kingdom2011,0.9009999999999999,"2,619,700,404,733",44491,Millenials
+26796,United Kingdom,2011,female,15-24 years,100,4001855,2.5,United Kingdom2011,0.9009999999999999,"2,619,700,404,733",44491,Millenials
+26797,United Kingdom,2011,female,75+ years,70,2973876,2.35,United Kingdom2011,0.9009999999999999,"2,619,700,404,733",44491,Silent
+26798,United Kingdom,2011,male,5-14 years,8,3594112,0.22,United Kingdom2011,0.9009999999999999,"2,619,700,404,733",44491,Generation Z
+26799,United Kingdom,2011,female,5-14 years,4,3429167,0.12,United Kingdom2011,0.9009999999999999,"2,619,700,404,733",44491,Generation Z
+26800,United Kingdom,2012,male,35-54 years,1587,8673006,18.3,United Kingdom2012,0.9009999999999999,"2,662,085,168,499",44585,Generation X
+26801,United Kingdom,2012,male,25-34 years,597,4261254,14.01,United Kingdom2012,0.9009999999999999,"2,662,085,168,499",44585,Millenials
+26802,United Kingdom,2012,male,55-74 years,739,6392214,11.56,United Kingdom2012,0.9009999999999999,"2,662,085,168,499",44585,Boomers
+26803,United Kingdom,2012,male,75+ years,215,2043034,10.52,United Kingdom2012,0.9009999999999999,"2,662,085,168,499",44585,Silent
+26804,United Kingdom,2012,male,15-24 years,364,4204765,8.66,United Kingdom2012,0.9009999999999999,"2,662,085,168,499",44585,Millenials
+26805,United Kingdom,2012,female,35-54 years,403,8852151,4.55,United Kingdom2012,0.9009999999999999,"2,662,085,168,499",44585,Generation X
+26806,United Kingdom,2012,female,25-34 years,153,4296499,3.56,United Kingdom2012,0.9009999999999999,"2,662,085,168,499",44585,Millenials
+26807,United Kingdom,2012,female,55-74 years,211,6737405,3.13,United Kingdom2012,0.9009999999999999,"2,662,085,168,499",44585,Boomers
+26808,United Kingdom,2012,female,75+ years,93,2976921,3.12,United Kingdom2012,0.9009999999999999,"2,662,085,168,499",44585,Silent
+26809,United Kingdom,2012,female,15-24 years,70,4054017,1.73,United Kingdom2012,0.9009999999999999,"2,662,085,168,499",44585,Millenials
+26810,United Kingdom,2012,male,5-14 years,10,3695552,0.27,United Kingdom2012,0.9009999999999999,"2,662,085,168,499",44585,Generation Z
+26811,United Kingdom,2012,female,5-14 years,2,3521812,0.06,United Kingdom2012,0.9009999999999999,"2,662,085,168,499",44585,Generation Z
+26812,United Kingdom,2013,male,35-54 years,1743,8656572,20.13,United Kingdom2013,0.902,"2,739,818,680,930",45594,Generation X
+26813,United Kingdom,2013,male,55-74 years,908,6488882,13.99,United Kingdom2013,0.902,"2,739,818,680,930",45594,Boomers
+26814,United Kingdom,2013,male,25-34 years,586,4320298,13.56,United Kingdom2013,0.902,"2,739,818,680,930",45594,Millenials
+26815,United Kingdom,2013,male,75+ years,258,2096518,12.31,United Kingdom2013,0.902,"2,739,818,680,930",45594,Silent
+26816,United Kingdom,2013,male,15-24 years,331,4180873,7.92,United Kingdom2013,0.902,"2,739,818,680,930",45594,Millenials
+26817,United Kingdom,2013,female,35-54 years,449,8837469,5.08,United Kingdom2013,0.902,"2,739,818,680,930",45594,Generation X
+26818,United Kingdom,2013,female,75+ years,103,3004685,3.43,United Kingdom2013,0.902,"2,739,818,680,930",45594,Silent
+26819,United Kingdom,2013,female,55-74 years,232,6839180,3.39,United Kingdom2013,0.902,"2,739,818,680,930",45594,Boomers
+26820,United Kingdom,2013,female,25-34 years,124,4356539,2.85,United Kingdom2013,0.902,"2,739,818,680,930",45594,Millenials
+26821,United Kingdom,2013,female,15-24 years,81,4017291,2.02,United Kingdom2013,0.902,"2,739,818,680,930",45594,Millenials
+26822,United Kingdom,2013,male,5-14 years,5,3734237,0.13,United Kingdom2013,0.902,"2,739,818,680,930",45594,Generation Z
+26823,United Kingdom,2013,female,5-14 years,4,3559249,0.11,United Kingdom2013,0.902,"2,739,818,680,930",45594,Generation Z
+26824,United Kingdom,2014,male,35-54 years,1692,8665195,19.53,United Kingdom2014,0.907,"3,022,827,781,881",49906,Generation X
+26825,United Kingdom,2014,male,25-34 years,602,4360457,13.81,United Kingdom2014,0.907,"3,022,827,781,881",49906,Millenials
+26826,United Kingdom,2014,male,55-74 years,827,6597480,12.54,United Kingdom2014,0.907,"3,022,827,781,881",49906,Boomers
+26827,United Kingdom,2014,male,75+ years,257,2158742,11.91,United Kingdom2014,0.907,"3,022,827,781,881",49906,Silent
+26828,United Kingdom,2014,male,15-24 years,332,4171187,7.96,United Kingdom2014,0.907,"3,022,827,781,881",49906,Millenials
+26829,United Kingdom,2014,female,35-54 years,462,8850139,5.22,United Kingdom2014,0.907,"3,022,827,781,881",49906,Generation X
+26830,United Kingdom,2014,female,55-74 years,262,6952444,3.77,United Kingdom2014,0.907,"3,022,827,781,881",49906,Boomers
+26831,United Kingdom,2014,female,25-34 years,155,4388346,3.53,United Kingdom2014,0.907,"3,022,827,781,881",49906,Millenials
+26832,United Kingdom,2014,female,75+ years,83,3052672,2.72,United Kingdom2014,0.907,"3,022,827,781,881",49906,Silent
+26833,United Kingdom,2014,female,15-24 years,103,3992566,2.58,United Kingdom2014,0.907,"3,022,827,781,881",49906,Millenials
+26834,United Kingdom,2014,male,5-14 years,7,3778321,0.19,United Kingdom2014,0.907,"3,022,827,781,881",49906,Generation Z
+26835,United Kingdom,2014,female,5-14 years,6,3602933,0.17,United Kingdom2014,0.907,"3,022,827,781,881",49906,Generation Z
+26836,United Kingdom,2015,male,35-54 years,1579,8692440,18.17,United Kingdom2015,,"2,885,570,309,161",47240,Generation X
+26837,United Kingdom,2015,male,25-34 years,596,4408293,13.52,United Kingdom2015,,"2,885,570,309,161",47240,Millenials
+26838,United Kingdom,2015,male,55-74 years,906,6716557,13.49,United Kingdom2015,,"2,885,570,309,161",47240,Boomers
+26839,United Kingdom,2015,male,75+ years,273,2200958,12.4,United Kingdom2015,,"2,885,570,309,161",47240,Silent
+26840,United Kingdom,2015,male,15-24 years,374,4151992,9.01,United Kingdom2015,,"2,885,570,309,161",47240,Millenials
+26841,United Kingdom,2015,female,35-54 years,473,8881944,5.33,United Kingdom2015,,"2,885,570,309,161",47240,Generation X
+26842,United Kingdom,2015,female,55-74 years,306,7075576,4.32,United Kingdom2015,,"2,885,570,309,161",47240,Boomers
+26843,United Kingdom,2015,female,25-34 years,181,4414464,4.1,United Kingdom2015,,"2,885,570,309,161",47240,Millenials
+26844,United Kingdom,2015,female,75+ years,108,3070457,3.52,United Kingdom2015,,"2,885,570,309,161",47240,Silent
+26845,United Kingdom,2015,female,15-24 years,104,3966564,2.62,United Kingdom2015,,"2,885,570,309,161",47240,Millenials
+26846,United Kingdom,2015,female,5-14 years,6,3663221,0.16,United Kingdom2015,,"2,885,570,309,161",47240,Generation Z
+26847,United Kingdom,2015,male,5-14 years,4,3840476,0.1,United Kingdom2015,,"2,885,570,309,161",47240,Generation Z

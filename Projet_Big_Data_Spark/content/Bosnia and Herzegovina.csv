@@ -1,0 +1,25 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+4148,Bosnia and Herzegovina,2011,male,55-74 years,2,363350,0.55,Bosnia and Herzegovina2011,0.7240000000000001,"18,644,723,861",5076,Boomers
+4149,Bosnia and Herzegovina,2011,male,25-34 years,1,252743,0.4,Bosnia and Herzegovina2011,0.7240000000000001,"18,644,723,861",5076,Millenials
+4150,Bosnia and Herzegovina,2011,male,35-54 years,2,549187,0.36,Bosnia and Herzegovina2011,0.7240000000000001,"18,644,723,861",5076,Generation X
+4151,Bosnia and Herzegovina,2011,female,15-24 years,0,272956,0.0,Bosnia and Herzegovina2011,0.7240000000000001,"18,644,723,861",5076,Millenials
+4152,Bosnia and Herzegovina,2011,female,25-34 years,0,256067,0.0,Bosnia and Herzegovina2011,0.7240000000000001,"18,644,723,861",5076,Millenials
+4153,Bosnia and Herzegovina,2011,female,35-54 years,0,553980,0.0,Bosnia and Herzegovina2011,0.7240000000000001,"18,644,723,861",5076,Generation X
+4154,Bosnia and Herzegovina,2011,female,5-14 years,0,246977,0.0,Bosnia and Herzegovina2011,0.7240000000000001,"18,644,723,861",5076,Generation Z
+4155,Bosnia and Herzegovina,2011,female,55-74 years,0,436988,0.0,Bosnia and Herzegovina2011,0.7240000000000001,"18,644,723,861",5076,Boomers
+4156,Bosnia and Herzegovina,2011,female,75+ years,0,115955,0.0,Bosnia and Herzegovina2011,0.7240000000000001,"18,644,723,861",5076,Silent
+4157,Bosnia and Herzegovina,2011,male,15-24 years,0,290910,0.0,Bosnia and Herzegovina2011,0.7240000000000001,"18,644,723,861",5076,Millenials
+4158,Bosnia and Herzegovina,2011,male,5-14 years,0,256966,0.0,Bosnia and Herzegovina2011,0.7240000000000001,"18,644,723,861",5076,Generation Z
+4159,Bosnia and Herzegovina,2011,male,75+ years,0,77233,0.0,Bosnia and Herzegovina2011,0.7240000000000001,"18,644,723,861",5076,Silent
+4160,Bosnia and Herzegovina,2014,male,75+ years,37,96222,38.45,Bosnia and Herzegovina2014,0.733,"18,558,343,508",5079,Silent
+4161,Bosnia and Herzegovina,2014,male,55-74 years,84,401567,20.92,Bosnia and Herzegovina2014,0.733,"18,558,343,508",5079,Boomers
+4162,Bosnia and Herzegovina,2014,male,35-54 years,96,534512,17.96,Bosnia and Herzegovina2014,0.733,"18,558,343,508",5079,Generation X
+4163,Bosnia and Herzegovina,2014,female,75+ years,14,141795,9.87,Bosnia and Herzegovina2014,0.733,"18,558,343,508",5079,Silent
+4164,Bosnia and Herzegovina,2014,male,25-34 years,19,252546,7.52,Bosnia and Herzegovina2014,0.733,"18,558,343,508",5079,Millenials
+4165,Bosnia and Herzegovina,2014,female,35-54 years,28,554379,5.05,Bosnia and Herzegovina2014,0.733,"18,558,343,508",5079,Generation X
+4166,Bosnia and Herzegovina,2014,female,55-74 years,23,458353,5.02,Bosnia and Herzegovina2014,0.733,"18,558,343,508",5079,Boomers
+4167,Bosnia and Herzegovina,2014,male,15-24 years,6,274269,2.19,Bosnia and Herzegovina2014,0.733,"18,558,343,508",5079,Millenials
+4168,Bosnia and Herzegovina,2014,female,25-34 years,3,234219,1.28,Bosnia and Herzegovina2014,0.733,"18,558,343,508",5079,Millenials
+4169,Bosnia and Herzegovina,2014,female,15-24 years,2,250924,0.8,Bosnia and Herzegovina2014,0.733,"18,558,343,508",5079,Millenials
+4170,Bosnia and Herzegovina,2014,male,5-14 years,1,227491,0.44,Bosnia and Herzegovina2014,0.733,"18,558,343,508",5079,Generation Z
+4171,Bosnia and Herzegovina,2014,female,5-14 years,0,227892,0.0,Bosnia and Herzegovina2014,0.733,"18,558,343,508",5079,Generation Z

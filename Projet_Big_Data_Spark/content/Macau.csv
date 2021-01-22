@@ -1,0 +1,13 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+15678,Macau,1994,male,75+ years,2,3622,55.22,Macau1994,,"6,265,844,252",18081,G.I. Generation
+15679,Macau,1994,female,75+ years,3,6106,49.13,Macau1994,,"6,265,844,252",18081,G.I. Generation
+15680,Macau,1994,female,55-74 years,3,20340,14.75,Macau1994,,"6,265,844,252",18081,Silent
+15681,Macau,1994,male,55-74 years,2,17269,11.58,Macau1994,,"6,265,844,252",18081,Silent
+15682,Macau,1994,male,35-54 years,6,55677,10.78,Macau1994,,"6,265,844,252",18081,Boomers
+15683,Macau,1994,male,25-34 years,3,34319,8.74,Macau1994,,"6,265,844,252",18081,Boomers
+15684,Macau,1994,male,15-24 years,2,23147,8.64,Macau1994,,"6,265,844,252",18081,Generation X
+15685,Macau,1994,female,35-54 years,4,48296,8.28,Macau1994,,"6,265,844,252",18081,Boomers
+15686,Macau,1994,female,25-34 years,2,43286,4.62,Macau1994,,"6,265,844,252",18081,Boomers
+15687,Macau,1994,female,15-24 years,0,28458,0.0,Macau1994,,"6,265,844,252",18081,Generation X
+15688,Macau,1994,female,5-14 years,0,32221,0.0,Macau1994,,"6,265,844,252",18081,Millenials
+15689,Macau,1994,male,5-14 years,0,33801,0.0,Macau1994,,"6,265,844,252",18081,Millenials

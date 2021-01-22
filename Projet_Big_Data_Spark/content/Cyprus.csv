@@ -1,0 +1,179 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+6918,Cyprus,1999,male,55-74 years,1,63504,1.57,Cyprus1999,,"10,614,455,232",12389,Silent
+6919,Cyprus,1999,female,15-24 years,0,73855,0.0,Cyprus1999,,"10,614,455,232",12389,Generation X
+6920,Cyprus,1999,female,25-34 years,0,70201,0.0,Cyprus1999,,"10,614,455,232",12389,Generation X
+6921,Cyprus,1999,female,35-54 years,0,119889,0.0,Cyprus1999,,"10,614,455,232",12389,Boomers
+6922,Cyprus,1999,female,5-14 years,0,69281,0.0,Cyprus1999,,"10,614,455,232",12389,Millenials
+6923,Cyprus,1999,female,55-74 years,0,69881,0.0,Cyprus1999,,"10,614,455,232",12389,Silent
+6924,Cyprus,1999,female,75+ years,0,22730,0.0,Cyprus1999,,"10,614,455,232",12389,G.I. Generation
+6925,Cyprus,1999,male,15-24 years,0,81348,0.0,Cyprus1999,,"10,614,455,232",12389,Generation X
+6926,Cyprus,1999,male,25-34 years,0,72963,0.0,Cyprus1999,,"10,614,455,232",12389,Generation X
+6927,Cyprus,1999,male,35-54 years,0,122486,0.0,Cyprus1999,,"10,614,455,232",12389,Boomers
+6928,Cyprus,1999,male,5-14 years,0,73496,0.0,Cyprus1999,,"10,614,455,232",12389,Millenials
+6929,Cyprus,1999,male,75+ years,0,17099,0.0,Cyprus1999,,"10,614,455,232",12389,G.I. Generation
+6930,Cyprus,2000,male,25-34 years,5,73992,6.76,Cyprus2000,0.8,"10,183,317,625",11635,Generation X
+6931,Cyprus,2000,male,35-54 years,2,125288,1.6,Cyprus2000,0.8,"10,183,317,625",11635,Boomers
+6932,Cyprus,2000,female,15-24 years,0,75880,0.0,Cyprus2000,0.8,"10,183,317,625",11635,Generation X
+6933,Cyprus,2000,female,25-34 years,0,71455,0.0,Cyprus2000,0.8,"10,183,317,625",11635,Generation X
+6934,Cyprus,2000,female,35-54 years,0,122632,0.0,Cyprus2000,0.8,"10,183,317,625",11635,Boomers
+6935,Cyprus,2000,female,5-14 years,0,69500,0.0,Cyprus2000,0.8,"10,183,317,625",11635,Millenials
+6936,Cyprus,2000,female,55-74 years,0,72098,0.0,Cyprus2000,0.8,"10,183,317,625",11635,Silent
+6937,Cyprus,2000,female,75+ years,0,23228,0.0,Cyprus2000,0.8,"10,183,317,625",11635,G.I. Generation
+6938,Cyprus,2000,male,15-24 years,0,84119,0.0,Cyprus2000,0.8,"10,183,317,625",11635,Generation X
+6939,Cyprus,2000,male,5-14 years,0,73737,0.0,Cyprus2000,0.8,"10,183,317,625",11635,Millenials
+6940,Cyprus,2000,male,55-74 years,0,66009,0.0,Cyprus2000,0.8,"10,183,317,625",11635,Silent
+6941,Cyprus,2000,male,75+ years,0,17291,0.0,Cyprus2000,0.8,"10,183,317,625",11635,G.I. Generation
+6942,Cyprus,2004,male,55-74 years,2,60428,3.31,Cyprus2004,,"17,422,375,000",25227,Silent
+6943,Cyprus,2004,male,35-54 years,3,98485,3.05,Cyprus2004,,"17,422,375,000",25227,Boomers
+6944,Cyprus,2004,female,25-34 years,1,54147,1.85,Cyprus2004,,"17,422,375,000",25227,Generation X
+6945,Cyprus,2004,female,35-54 years,1,104038,0.96,Cyprus2004,,"17,422,375,000",25227,Boomers
+6946,Cyprus,2004,female,15-24 years,0,56410,0.0,Cyprus2004,,"17,422,375,000",25227,Millenials
+6947,Cyprus,2004,female,5-14 years,0,50624,0.0,Cyprus2004,,"17,422,375,000",25227,Millenials
+6948,Cyprus,2004,female,55-74 years,0,65412,0.0,Cyprus2004,,"17,422,375,000",25227,Silent
+6949,Cyprus,2004,female,75+ years,0,22299,0.0,Cyprus2004,,"17,422,375,000",25227,Silent
+6950,Cyprus,2004,male,15-24 years,0,59250,0.0,Cyprus2004,,"17,422,375,000",25227,Millenials
+6951,Cyprus,2004,male,25-34 years,0,49934,0.0,Cyprus2004,,"17,422,375,000",25227,Generation X
+6952,Cyprus,2004,male,5-14 years,0,53202,0.0,Cyprus2004,,"17,422,375,000",25227,Millenials
+6953,Cyprus,2004,male,75+ years,0,16387,0.0,Cyprus2004,,"17,422,375,000",25227,Silent
+6954,Cyprus,2005,male,55-74 years,4,62661,6.38,Cyprus2005,0.83,"18,703,146,375",26671,Silent
+6955,Cyprus,2005,female,55-74 years,3,67452,4.45,Cyprus2005,0.83,"18,703,146,375",26671,Silent
+6956,Cyprus,2005,male,35-54 years,4,99191,4.03,Cyprus2005,0.83,"18,703,146,375",26671,Boomers
+6957,Cyprus,2005,male,25-34 years,2,51837,3.86,Cyprus2005,0.83,"18,703,146,375",26671,Generation X
+6958,Cyprus,2005,male,15-24 years,2,60126,3.33,Cyprus2005,0.83,"18,703,146,375",26671,Millenials
+6959,Cyprus,2005,female,15-24 years,1,57341,1.74,Cyprus2005,0.83,"18,703,146,375",26671,Millenials
+6960,Cyprus,2005,female,35-54 years,1,105435,0.95,Cyprus2005,0.83,"18,703,146,375",26671,Boomers
+6961,Cyprus,2005,female,25-34 years,0,55734,0.0,Cyprus2005,0.83,"18,703,146,375",26671,Generation X
+6962,Cyprus,2005,female,5-14 years,0,49682,0.0,Cyprus2005,0.83,"18,703,146,375",26671,Millenials
+6963,Cyprus,2005,female,75+ years,0,22842,0.0,Cyprus2005,0.83,"18,703,146,375",26671,Silent
+6964,Cyprus,2005,male,5-14 years,0,52329,0.0,Cyprus2005,0.83,"18,703,146,375",26671,Millenials
+6965,Cyprus,2005,male,75+ years,0,16633,0.0,Cyprus2005,0.83,"18,703,146,375",26671,Silent
+6966,Cyprus,2006,male,55-74 years,5,64866,7.71,Cyprus2006,,"20,403,713,461",28600,Silent
+6967,Cyprus,2006,male,25-34 years,4,53856,7.43,Cyprus2006,,"20,403,713,461",28600,Generation X
+6968,Cyprus,2006,female,55-74 years,3,69357,4.33,Cyprus2006,,"20,403,713,461",28600,Silent
+6969,Cyprus,2006,female,35-54 years,3,107098,2.8,Cyprus2006,,"20,403,713,461",28600,Boomers
+6970,Cyprus,2006,male,35-54 years,2,100123,2.0,Cyprus2006,,"20,403,713,461",28600,Boomers
+6971,Cyprus,2006,female,25-34 years,1,57514,1.74,Cyprus2006,,"20,403,713,461",28600,Generation X
+6972,Cyprus,2006,male,15-24 years,1,61353,1.63,Cyprus2006,,"20,403,713,461",28600,Millenials
+6973,Cyprus,2006,female,15-24 years,0,58243,0.0,Cyprus2006,,"20,403,713,461",28600,Millenials
+6974,Cyprus,2006,female,5-14 years,0,48947,0.0,Cyprus2006,,"20,403,713,461",28600,Millenials
+6975,Cyprus,2006,female,75+ years,0,23595,0.0,Cyprus2006,,"20,403,713,461",28600,Silent
+6976,Cyprus,2006,male,5-14 years,0,51269,0.0,Cyprus2006,,"20,403,713,461",28600,Millenials
+6977,Cyprus,2006,male,75+ years,0,17205,0.0,Cyprus2006,,"20,403,713,461",28600,Silent
+6978,Cyprus,2007,male,75+ years,2,17897,11.18,Cyprus2007,,"24,077,470,572",33048,Silent
+6979,Cyprus,2007,male,25-34 years,4,55768,7.17,Cyprus2007,,"24,077,470,572",33048,Generation X
+6980,Cyprus,2007,male,15-24 years,3,63227,4.74,Cyprus2007,,"24,077,470,572",33048,Millenials
+6981,Cyprus,2007,male,55-74 years,3,67267,4.46,Cyprus2007,,"24,077,470,572",33048,Silent
+6982,Cyprus,2007,female,25-34 years,2,59428,3.37,Cyprus2007,,"24,077,470,572",33048,Generation X
+6983,Cyprus,2007,male,35-54 years,3,101951,2.94,Cyprus2007,,"24,077,470,572",33048,Boomers
+6984,Cyprus,2007,female,55-74 years,1,71415,1.4,Cyprus2007,,"24,077,470,572",33048,Silent
+6985,Cyprus,2007,female,35-54 years,1,109618,0.91,Cyprus2007,,"24,077,470,572",33048,Boomers
+6986,Cyprus,2007,female,15-24 years,0,60276,0.0,Cyprus2007,,"24,077,470,572",33048,Millenials
+6987,Cyprus,2007,female,5-14 years,0,47379,0.0,Cyprus2007,,"24,077,470,572",33048,Generation Z
+6988,Cyprus,2007,female,75+ years,0,24362,0.0,Cyprus2007,,"24,077,470,572",33048,Silent
+6989,Cyprus,2007,male,5-14 years,0,49978,0.0,Cyprus2007,,"24,077,470,572",33048,Generation Z
+6990,Cyprus,2008,male,35-54 years,16,104052,15.38,Cyprus2008,,"27,839,460,964",37267,Boomers
+6991,Cyprus,2008,male,25-34 years,7,58499,11.97,Cyprus2008,,"27,839,460,964",37267,Generation X
+6992,Cyprus,2008,male,75+ years,2,18436,10.85,Cyprus2008,,"27,839,460,964",37267,Silent
+6993,Cyprus,2008,female,25-34 years,3,62348,4.81,Cyprus2008,,"27,839,460,964",37267,Generation X
+6994,Cyprus,2008,male,15-24 years,3,64765,4.63,Cyprus2008,,"27,839,460,964",37267,Millenials
+6995,Cyprus,2008,female,35-54 years,5,112837,4.43,Cyprus2008,,"27,839,460,964",37267,Boomers
+6996,Cyprus,2008,male,55-74 years,3,69949,4.29,Cyprus2008,,"27,839,460,964",37267,Silent
+6997,Cyprus,2008,female,55-74 years,2,73788,2.71,Cyprus2008,,"27,839,460,964",37267,Silent
+6998,Cyprus,2008,female,15-24 years,0,61894,0.0,Cyprus2008,,"27,839,460,964",37267,Millenials
+6999,Cyprus,2008,female,5-14 years,0,46407,0.0,Cyprus2008,,"27,839,460,964",37267,Generation Z
+7000,Cyprus,2008,female,75+ years,0,25015,0.0,Cyprus2008,,"27,839,460,964",37267,Silent
+7001,Cyprus,2008,male,5-14 years,0,49044,0.0,Cyprus2008,,"27,839,460,964",37267,Generation Z
+7002,Cyprus,2009,male,75+ years,3,19014,15.78,Cyprus2009,,"25,942,622,951",33816,Silent
+7003,Cyprus,2009,male,25-34 years,6,61663,9.73,Cyprus2009,,"25,942,622,951",33816,Generation X
+7004,Cyprus,2009,male,15-24 years,5,66107,7.56,Cyprus2009,,"25,942,622,951",33816,Millenials
+7005,Cyprus,2009,male,35-54 years,7,105858,6.61,Cyprus2009,,"25,942,622,951",33816,Boomers
+7006,Cyprus,2009,male,55-74 years,4,72713,5.5,Cyprus2009,,"25,942,622,951",33816,Silent
+7007,Cyprus,2009,female,75+ years,1,25758,3.88,Cyprus2009,,"25,942,622,951",33816,Silent
+7008,Cyprus,2009,female,35-54 years,4,116224,3.44,Cyprus2009,,"25,942,622,951",33816,Boomers
+7009,Cyprus,2009,female,25-34 years,2,66001,3.03,Cyprus2009,,"25,942,622,951",33816,Generation X
+7010,Cyprus,2009,female,15-24 years,0,63385,0.0,Cyprus2009,,"25,942,622,951",33816,Millenials
+7011,Cyprus,2009,female,5-14 years,0,45750,0.0,Cyprus2009,,"25,942,622,951",33816,Generation Z
+7012,Cyprus,2009,female,55-74 years,0,76382,0.0,Cyprus2009,,"25,942,622,951",33816,Silent
+7013,Cyprus,2009,male,5-14 years,0,48319,0.0,Cyprus2009,,"25,942,622,951",33816,Generation Z
+7014,Cyprus,2010,male,75+ years,3,19667,15.25,Cyprus2010,0.848,"25,562,251,656",32477,Silent
+7015,Cyprus,2010,male,25-34 years,7,65092,10.75,Cyprus2010,0.848,"25,562,251,656",32477,Generation X
+7016,Cyprus,2010,male,55-74 years,7,75567,9.26,Cyprus2010,0.848,"25,562,251,656",32477,Silent
+7017,Cyprus,2010,male,35-54 years,9,107241,8.39,Cyprus2010,0.848,"25,562,251,656",32477,Generation X
+7018,Cyprus,2010,male,15-24 years,4,67097,5.96,Cyprus2010,0.848,"25,562,251,656",32477,Millenials
+7019,Cyprus,2010,female,15-24 years,3,64577,4.65,Cyprus2010,0.848,"25,562,251,656",32477,Millenials
+7020,Cyprus,2010,female,35-54 years,4,119200,3.36,Cyprus2010,0.848,"25,562,251,656",32477,Generation X
+7021,Cyprus,2010,female,55-74 years,1,79168,1.26,Cyprus2010,0.848,"25,562,251,656",32477,Silent
+7022,Cyprus,2010,female,25-34 years,0,69866,0.0,Cyprus2010,0.848,"25,562,251,656",32477,Generation X
+7023,Cyprus,2010,female,5-14 years,0,45354,0.0,Cyprus2010,0.848,"25,562,251,656",32477,Generation Z
+7024,Cyprus,2010,female,75+ years,0,26570,0.0,Cyprus2010,0.848,"25,562,251,656",32477,Silent
+7025,Cyprus,2010,male,5-14 years,0,47682,0.0,Cyprus2010,0.848,"25,562,251,656",32477,Generation Z
+7026,Cyprus,2011,male,35-54 years,12,108755,11.03,Cyprus2011,0.852,"27,427,161,523",34249,Generation X
+7027,Cyprus,2011,male,55-74 years,8,77047,10.38,Cyprus2011,0.852,"27,427,161,523",34249,Boomers
+7028,Cyprus,2011,male,75+ years,2,19308,10.36,Cyprus2011,0.852,"27,427,161,523",34249,Silent
+7029,Cyprus,2011,male,15-24 years,3,67311,4.46,Cyprus2011,0.852,"27,427,161,523",34249,Millenials
+7030,Cyprus,2011,female,75+ years,1,25937,3.86,Cyprus2011,0.852,"27,427,161,523",34249,Silent
+7031,Cyprus,2011,female,35-54 years,3,122543,2.45,Cyprus2011,0.852,"27,427,161,523",34249,Generation X
+7032,Cyprus,2011,female,55-74 years,1,80672,1.24,Cyprus2011,0.852,"27,427,161,523",34249,Boomers
+7033,Cyprus,2011,female,15-24 years,0,64690,0.0,Cyprus2011,0.852,"27,427,161,523",34249,Millenials
+7034,Cyprus,2011,female,25-34 years,0,73838,0.0,Cyprus2011,0.852,"27,427,161,523",34249,Millenials
+7035,Cyprus,2011,female,5-14 years,0,44757,0.0,Cyprus2011,0.852,"27,427,161,523",34249,Generation Z
+7036,Cyprus,2011,male,25-34 years,0,68773,0.0,Cyprus2011,0.852,"27,427,161,523",34249,Millenials
+7037,Cyprus,2011,male,5-14 years,0,47189,0.0,Cyprus2011,0.852,"27,427,161,523",34249,Generation Z
+7038,Cyprus,2012,male,25-34 years,9,70596,12.75,Cyprus2012,0.852,"25,041,372,222",30752,Millenials
+7039,Cyprus,2012,male,35-54 years,14,110616,12.66,Cyprus2012,0.852,"25,041,372,222",30752,Generation X
+7040,Cyprus,2012,male,15-24 years,6,66014,9.09,Cyprus2012,0.852,"25,041,372,222",30752,Millenials
+7041,Cyprus,2012,male,55-74 years,5,79804,6.27,Cyprus2012,0.852,"25,041,372,222",30752,Boomers
+7042,Cyprus,2012,female,25-34 years,1,75365,1.33,Cyprus2012,0.852,"25,041,372,222",30752,Millenials
+7043,Cyprus,2012,female,35-54 years,1,125423,0.8,Cyprus2012,0.852,"25,041,372,222",30752,Generation X
+7044,Cyprus,2012,female,15-24 years,0,63355,0.0,Cyprus2012,0.852,"25,041,372,222",30752,Millenials
+7045,Cyprus,2012,female,5-14 years,0,44613,0.0,Cyprus2012,0.852,"25,041,372,222",30752,Generation Z
+7046,Cyprus,2012,female,55-74 years,0,83946,0.0,Cyprus2012,0.852,"25,041,372,222",30752,Boomers
+7047,Cyprus,2012,female,75+ years,0,27031,0.0,Cyprus2012,0.852,"25,041,372,222",30752,Silent
+7048,Cyprus,2012,male,5-14 years,0,47222,0.0,Cyprus2012,0.852,"25,041,372,222",30752,Generation Z
+7049,Cyprus,2012,male,75+ years,0,20320,0.0,Cyprus2012,0.852,"25,041,372,222",30752,Silent
+7050,Cyprus,2013,male,75+ years,3,21349,14.05,Cyprus2013,0.85,"24,084,572,491",29624,Silent
+7051,Cyprus,2013,male,15-24 years,8,62893,12.72,Cyprus2013,0.85,"24,084,572,491",29624,Millenials
+7052,Cyprus,2013,male,55-74 years,10,81903,12.21,Cyprus2013,0.85,"24,084,572,491",29624,Boomers
+7053,Cyprus,2013,male,25-34 years,8,70521,11.34,Cyprus2013,0.85,"24,084,572,491",29624,Millenials
+7054,Cyprus,2013,male,35-54 years,11,110593,9.95,Cyprus2013,0.85,"24,084,572,491",29624,Generation X
+7055,Cyprus,2013,female,35-54 years,4,125846,3.18,Cyprus2013,0.85,"24,084,572,491",29624,Generation X
+7056,Cyprus,2013,female,55-74 years,1,86452,1.16,Cyprus2013,0.85,"24,084,572,491",29624,Boomers
+7057,Cyprus,2013,female,15-24 years,0,59969,0.0,Cyprus2013,0.85,"24,084,572,491",29624,Millenials
+7058,Cyprus,2013,female,25-34 years,0,73849,0.0,Cyprus2013,0.85,"24,084,572,491",29624,Millenials
+7059,Cyprus,2013,female,5-14 years,0,44407,0.0,Cyprus2013,0.85,"24,084,572,491",29624,Generation Z
+7060,Cyprus,2013,female,75+ years,0,28320,0.0,Cyprus2013,0.85,"24,084,572,491",29624,Silent
+7061,Cyprus,2013,male,5-14 years,0,46914,0.0,Cyprus2013,0.85,"24,084,572,491",29624,Generation Z
+7062,Cyprus,2014,male,35-54 years,13,107823,12.06,Cyprus2014,0.85,"23,359,294,149",29024,Generation X
+7063,Cyprus,2014,male,25-34 years,8,68555,11.67,Cyprus2014,0.85,"23,359,294,149",29024,Millenials
+7064,Cyprus,2014,male,55-74 years,7,82766,8.46,Cyprus2014,0.85,"23,359,294,149",29024,Boomers
+7065,Cyprus,2014,female,55-74 years,5,87152,5.74,Cyprus2014,0.85,"23,359,294,149",29024,Boomers
+7066,Cyprus,2014,female,25-34 years,4,72330,5.53,Cyprus2014,0.85,"23,359,294,149",29024,Millenials
+7067,Cyprus,2014,female,15-24 years,3,59114,5.07,Cyprus2014,0.85,"23,359,294,149",29024,Millenials
+7068,Cyprus,2014,male,75+ years,1,22372,4.47,Cyprus2014,0.85,"23,359,294,149",29024,Silent
+7069,Cyprus,2014,male,15-24 years,2,60975,3.28,Cyprus2014,0.85,"23,359,294,149",29024,Millenials
+7070,Cyprus,2014,female,35-54 years,1,122485,0.82,Cyprus2014,0.85,"23,359,294,149",29024,Generation X
+7071,Cyprus,2014,female,5-14 years,0,44760,0.0,Cyprus2014,0.85,"23,359,294,149",29024,Generation Z
+7072,Cyprus,2014,female,75+ years,0,29382,0.0,Cyprus2014,0.85,"23,359,294,149",29024,Silent
+7073,Cyprus,2014,male,5-14 years,0,47104,0.0,Cyprus2014,0.85,"23,359,294,149",29024,Generation Z
+7074,Cyprus,2015,male,55-74 years,9,83627,10.76,Cyprus2015,,"19,676,167,240",24718,Boomers
+7075,Cyprus,2015,male,25-34 years,7,67482,10.37,Cyprus2015,,"19,676,167,240",24718,Millenials
+7076,Cyprus,2015,male,35-54 years,10,106371,9.4,Cyprus2015,,"19,676,167,240",24718,Generation X
+7077,Cyprus,2015,male,15-24 years,5,58308,8.58,Cyprus2015,,"19,676,167,240",24718,Millenials
+7078,Cyprus,2015,female,55-74 years,3,87902,3.41,Cyprus2015,,"19,676,167,240",24718,Boomers
+7079,Cyprus,2015,female,25-34 years,2,70765,2.83,Cyprus2015,,"19,676,167,240",24718,Millenials
+7080,Cyprus,2015,female,35-54 years,3,118975,2.52,Cyprus2015,,"19,676,167,240",24718,Generation X
+7081,Cyprus,2015,female,15-24 years,1,58123,1.72,Cyprus2015,,"19,676,167,240",24718,Millenials
+7082,Cyprus,2015,female,5-14 years,0,44693,0.0,Cyprus2015,,"19,676,167,240",24718,Generation Z
+7083,Cyprus,2015,female,75+ years,0,29924,0.0,Cyprus2015,,"19,676,167,240",24718,Silent
+7084,Cyprus,2015,male,5-14 years,0,46906,0.0,Cyprus2015,,"19,676,167,240",24718,Generation Z
+7085,Cyprus,2015,male,75+ years,0,22961,0.0,Cyprus2015,,"19,676,167,240",24718,Silent
+7086,Cyprus,2016,male,35-54 years,15,106925,14.03,Cyprus2016,,"20,153,871,681",25098,Generation X
+7087,Cyprus,2016,male,15-24 years,5,58051,8.61,Cyprus2016,,"20,153,871,681",25098,Millenials
+7088,Cyprus,2016,male,75+ years,2,24004,8.33,Cyprus2016,,"20,153,871,681",25098,Silent
+7089,Cyprus,2016,male,55-74 years,7,85486,8.19,Cyprus2016,,"20,153,871,681",25098,Boomers
+7090,Cyprus,2016,male,25-34 years,2,68167,2.93,Cyprus2016,,"20,153,871,681",25098,Millenials
+7091,Cyprus,2016,female,35-54 years,3,117819,2.55,Cyprus2016,,"20,153,871,681",25098,Generation X
+7092,Cyprus,2016,female,25-34 years,1,71307,1.4,Cyprus2016,,"20,153,871,681",25098,Millenials
+7093,Cyprus,2016,female,55-74 years,1,90294,1.11,Cyprus2016,,"20,153,871,681",25098,Boomers
+7094,Cyprus,2016,female,15-24 years,0,58057,0.0,Cyprus2016,,"20,153,871,681",25098,Millenials
+7095,Cyprus,2016,female,75+ years,0,31234,0.0,Cyprus2016,,"20,153,871,681",25098,Silent

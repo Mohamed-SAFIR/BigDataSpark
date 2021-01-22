@@ -1,0 +1,37 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+21260,Saint Kitts and Nevis,1990,female,15-24 years,0,4900,0.0,Saint Kitts and Nevis1990,,"208,740,444",5339,Generation X
+21261,Saint Kitts and Nevis,1990,female,25-34 years,0,2600,0.0,Saint Kitts and Nevis1990,,"208,740,444",5339,Boomers
+21262,Saint Kitts and Nevis,1990,female,35-54 years,0,2900,0.0,Saint Kitts and Nevis1990,,"208,740,444",5339,Silent
+21263,Saint Kitts and Nevis,1990,female,5-14 years,0,5700,0.0,Saint Kitts and Nevis1990,,"208,740,444",5339,Generation X
+21264,Saint Kitts and Nevis,1990,female,55-74 years,0,3300,0.0,Saint Kitts and Nevis1990,,"208,740,444",5339,G.I. Generation
+21265,Saint Kitts and Nevis,1990,female,75+ years,0,1000,0.0,Saint Kitts and Nevis1990,,"208,740,444",5339,G.I. Generation
+21266,Saint Kitts and Nevis,1990,male,15-24 years,0,4900,0.0,Saint Kitts and Nevis1990,,"208,740,444",5339,Generation X
+21267,Saint Kitts and Nevis,1990,male,25-34 years,0,2400,0.0,Saint Kitts and Nevis1990,,"208,740,444",5339,Boomers
+21268,Saint Kitts and Nevis,1990,male,35-54 years,0,2400,0.0,Saint Kitts and Nevis1990,,"208,740,444",5339,Silent
+21269,Saint Kitts and Nevis,1990,male,5-14 years,0,6000,0.0,Saint Kitts and Nevis1990,,"208,740,444",5339,Generation X
+21270,Saint Kitts and Nevis,1990,male,55-74 years,0,2500,0.0,Saint Kitts and Nevis1990,,"208,740,444",5339,G.I. Generation
+21271,Saint Kitts and Nevis,1990,male,75+ years,0,500,0.0,Saint Kitts and Nevis1990,,"208,740,444",5339,G.I. Generation
+21272,Saint Kitts and Nevis,1991,female,15-24 years,0,4900,0.0,Saint Kitts and Nevis1991,,"209,880,963",5368,Generation X
+21273,Saint Kitts and Nevis,1991,female,25-34 years,0,2600,0.0,Saint Kitts and Nevis1991,,"209,880,963",5368,Boomers
+21274,Saint Kitts and Nevis,1991,female,35-54 years,0,2900,0.0,Saint Kitts and Nevis1991,,"209,880,963",5368,Boomers
+21275,Saint Kitts and Nevis,1991,female,5-14 years,0,5700,0.0,Saint Kitts and Nevis1991,,"209,880,963",5368,Millenials
+21276,Saint Kitts and Nevis,1991,female,55-74 years,0,3300,0.0,Saint Kitts and Nevis1991,,"209,880,963",5368,Silent
+21277,Saint Kitts and Nevis,1991,female,75+ years,0,1000,0.0,Saint Kitts and Nevis1991,,"209,880,963",5368,G.I. Generation
+21278,Saint Kitts and Nevis,1991,male,15-24 years,0,4900,0.0,Saint Kitts and Nevis1991,,"209,880,963",5368,Generation X
+21279,Saint Kitts and Nevis,1991,male,25-34 years,0,2400,0.0,Saint Kitts and Nevis1991,,"209,880,963",5368,Boomers
+21280,Saint Kitts and Nevis,1991,male,35-54 years,0,2400,0.0,Saint Kitts and Nevis1991,,"209,880,963",5368,Boomers
+21281,Saint Kitts and Nevis,1991,male,5-14 years,0,6000,0.0,Saint Kitts and Nevis1991,,"209,880,963",5368,Millenials
+21282,Saint Kitts and Nevis,1991,male,55-74 years,0,2500,0.0,Saint Kitts and Nevis1991,,"209,880,963",5368,Silent
+21283,Saint Kitts and Nevis,1991,male,75+ years,0,500,0.0,Saint Kitts and Nevis1991,,"209,880,963",5368,G.I. Generation
+21284,Saint Kitts and Nevis,1992,female,15-24 years,0,4900,0.0,Saint Kitts and Nevis1992,,"229,434,519",5868,Generation X
+21285,Saint Kitts and Nevis,1992,female,25-34 years,0,2600,0.0,Saint Kitts and Nevis1992,,"229,434,519",5868,Boomers
+21286,Saint Kitts and Nevis,1992,female,35-54 years,0,2900,0.0,Saint Kitts and Nevis1992,,"229,434,519",5868,Boomers
+21287,Saint Kitts and Nevis,1992,female,5-14 years,0,5700,0.0,Saint Kitts and Nevis1992,,"229,434,519",5868,Millenials
+21288,Saint Kitts and Nevis,1992,female,55-74 years,0,3300,0.0,Saint Kitts and Nevis1992,,"229,434,519",5868,Silent
+21289,Saint Kitts and Nevis,1992,female,75+ years,0,1000,0.0,Saint Kitts and Nevis1992,,"229,434,519",5868,G.I. Generation
+21290,Saint Kitts and Nevis,1992,male,15-24 years,0,4900,0.0,Saint Kitts and Nevis1992,,"229,434,519",5868,Generation X
+21291,Saint Kitts and Nevis,1992,male,25-34 years,0,2400,0.0,Saint Kitts and Nevis1992,,"229,434,519",5868,Boomers
+21292,Saint Kitts and Nevis,1992,male,35-54 years,0,2400,0.0,Saint Kitts and Nevis1992,,"229,434,519",5868,Boomers
+21293,Saint Kitts and Nevis,1992,male,5-14 years,0,6000,0.0,Saint Kitts and Nevis1992,,"229,434,519",5868,Millenials
+21294,Saint Kitts and Nevis,1992,male,55-74 years,0,2500,0.0,Saint Kitts and Nevis1992,,"229,434,519",5868,Silent
+21295,Saint Kitts and Nevis,1992,male,75+ years,0,500,0.0,Saint Kitts and Nevis1992,,"229,434,519",5868,G.I. Generation

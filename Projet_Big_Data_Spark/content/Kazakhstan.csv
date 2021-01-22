@@ -1,0 +1,313 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+13736,Kazakhstan,1990,male,75+ years,82,102200,80.23,Kazakhstan1990,0.69,"26,932,728,899",1823,G.I. Generation
+13737,Kazakhstan,1990,male,35-54 years,925,1735100,53.31,Kazakhstan1990,0.69,"26,932,728,899",1823,Silent
+13738,Kazakhstan,1990,male,55-74 years,356,706400,50.4,Kazakhstan1990,0.69,"26,932,728,899",1823,G.I. Generation
+13739,Kazakhstan,1990,male,25-34 years,602,1455200,41.37,Kazakhstan1990,0.69,"26,932,728,899",1823,Boomers
+13740,Kazakhstan,1990,female,75+ years,85,291100,29.2,Kazakhstan1990,0.69,"26,932,728,899",1823,G.I. Generation
+13741,Kazakhstan,1990,male,15-24 years,375,1425100,26.31,Kazakhstan1990,0.69,"26,932,728,899",1823,Generation X
+13742,Kazakhstan,1990,female,55-74 years,188,1060900,17.72,Kazakhstan1990,0.69,"26,932,728,899",1823,G.I. Generation
+13743,Kazakhstan,1990,female,15-24 years,170,1338900,12.7,Kazakhstan1990,0.69,"26,932,728,899",1823,Generation X
+13744,Kazakhstan,1990,female,35-54 years,225,1845400,12.19,Kazakhstan1990,0.69,"26,932,728,899",1823,Silent
+13745,Kazakhstan,1990,female,25-34 years,104,1453700,7.15,Kazakhstan1990,0.69,"26,932,728,899",1823,Boomers
+13746,Kazakhstan,1990,male,5-14 years,53,1698000,3.12,Kazakhstan1990,0.69,"26,932,728,899",1823,Generation X
+13747,Kazakhstan,1990,female,5-14 years,7,1661900,0.42,Kazakhstan1990,0.69,"26,932,728,899",1823,Generation X
+13748,Kazakhstan,1991,male,75+ years,74,101600,72.83,Kazakhstan1991,,"24,881,135,586",1664,G.I. Generation
+13749,Kazakhstan,1991,male,35-54 years,866,1769600,48.94,Kazakhstan1991,,"24,881,135,586",1664,Boomers
+13750,Kazakhstan,1991,male,55-74 years,354,741600,47.73,Kazakhstan1991,,"24,881,135,586",1664,Silent
+13751,Kazakhstan,1991,male,25-34 years,621,1441200,43.09,Kazakhstan1991,,"24,881,135,586",1664,Boomers
+13752,Kazakhstan,1991,female,75+ years,91,294600,30.89,Kazakhstan1991,,"24,881,135,586",1664,G.I. Generation
+13753,Kazakhstan,1991,male,15-24 years,405,1438500,28.15,Kazakhstan1991,,"24,881,135,586",1664,Generation X
+13754,Kazakhstan,1991,female,55-74 years,166,1093000,15.19,Kazakhstan1991,,"24,881,135,586",1664,Silent
+13755,Kazakhstan,1991,female,15-24 years,139,1351900,10.28,Kazakhstan1991,,"24,881,135,586",1664,Generation X
+13756,Kazakhstan,1991,female,35-54 years,185,1877800,9.85,Kazakhstan1991,,"24,881,135,586",1664,Boomers
+13757,Kazakhstan,1991,female,25-34 years,104,1438900,7.23,Kazakhstan1991,,"24,881,135,586",1664,Boomers
+13758,Kazakhstan,1991,male,5-14 years,66,1721900,3.83,Kazakhstan1991,,"24,881,135,586",1664,Millenials
+13759,Kazakhstan,1991,female,5-14 years,11,1682200,0.65,Kazakhstan1991,,"24,881,135,586",1664,Millenials
+13760,Kazakhstan,1992,male,75+ years,64,101800,62.87,Kazakhstan1992,,"24,906,939,560",1644,G.I. Generation
+13761,Kazakhstan,1992,male,35-54 years,925,1794700,51.54,Kazakhstan1992,,"24,906,939,560",1644,Boomers
+13762,Kazakhstan,1992,male,55-74 years,390,785400,49.66,Kazakhstan1992,,"24,906,939,560",1644,Silent
+13763,Kazakhstan,1992,male,25-34 years,676,1421100,47.57,Kazakhstan1992,,"24,906,939,560",1644,Boomers
+13764,Kazakhstan,1992,male,15-24 years,453,1459100,31.05,Kazakhstan1992,,"24,906,939,560",1644,Generation X
+13765,Kazakhstan,1992,female,75+ years,84,298600,28.13,Kazakhstan1992,,"24,906,939,560",1644,G.I. Generation
+13766,Kazakhstan,1992,female,55-74 years,194,1132100,17.14,Kazakhstan1992,,"24,906,939,560",1644,Silent
+13767,Kazakhstan,1992,female,35-54 years,217,1900200,11.42,Kazakhstan1992,,"24,906,939,560",1644,Boomers
+13768,Kazakhstan,1992,female,15-24 years,144,1385000,10.4,Kazakhstan1992,,"24,906,939,560",1644,Generation X
+13769,Kazakhstan,1992,female,25-34 years,132,1414300,9.33,Kazakhstan1992,,"24,906,939,560",1644,Boomers
+13770,Kazakhstan,1992,male,5-14 years,63,1751600,3.6,Kazakhstan1992,,"24,906,939,560",1644,Millenials
+13771,Kazakhstan,1992,female,5-14 years,14,1706200,0.82,Kazakhstan1992,,"24,906,939,560",1644,Millenials
+13772,Kazakhstan,1993,male,75+ years,77,103700,74.25,Kazakhstan1993,,"23,409,027,476",1527,G.I. Generation
+13773,Kazakhstan,1993,male,55-74 years,545,830100,65.65,Kazakhstan1993,,"23,409,027,476",1527,Silent
+13774,Kazakhstan,1993,male,35-54 years,1146,1825900,62.76,Kazakhstan1993,,"23,409,027,476",1527,Boomers
+13775,Kazakhstan,1993,male,25-34 years,772,1395600,55.32,Kazakhstan1993,,"23,409,027,476",1527,Boomers
+13776,Kazakhstan,1993,male,15-24 years,574,1474700,38.92,Kazakhstan1993,,"23,409,027,476",1527,Generation X
+13777,Kazakhstan,1993,female,75+ years,69,308200,22.39,Kazakhstan1993,,"23,409,027,476",1527,G.I. Generation
+13778,Kazakhstan,1993,female,55-74 years,229,1173100,19.52,Kazakhstan1993,,"23,409,027,476",1527,Silent
+13779,Kazakhstan,1993,female,15-24 years,173,1407100,12.29,Kazakhstan1993,,"23,409,027,476",1527,Generation X
+13780,Kazakhstan,1993,female,35-54 years,219,1929300,11.35,Kazakhstan1993,,"23,409,027,476",1527,Boomers
+13781,Kazakhstan,1993,female,25-34 years,119,1383000,8.6,Kazakhstan1993,,"23,409,027,476",1527,Boomers
+13782,Kazakhstan,1993,male,5-14 years,76,1774700,4.28,Kazakhstan1993,,"23,409,027,476",1527,Millenials
+13783,Kazakhstan,1993,female,5-14 years,20,1726000,1.16,Kazakhstan1993,,"23,409,027,476",1527,Millenials
+13784,Kazakhstan,1994,male,75+ years,94,90300,104.1,Kazakhstan1994,,"21,250,839,258",1395,G.I. Generation
+13785,Kazakhstan,1994,male,55-74 years,599,853800,70.16,Kazakhstan1994,,"21,250,839,258",1395,Silent
+13786,Kazakhstan,1994,male,35-54 years,1246,1861800,66.92,Kazakhstan1994,,"21,250,839,258",1395,Boomers
+13787,Kazakhstan,1994,male,25-34 years,735,1342400,54.75,Kazakhstan1994,,"21,250,839,258",1395,Boomers
+13788,Kazakhstan,1994,male,15-24 years,520,1442200,36.06,Kazakhstan1994,,"21,250,839,258",1395,Generation X
+13789,Kazakhstan,1994,female,75+ years,91,288000,31.6,Kazakhstan1994,,"21,250,839,258",1395,G.I. Generation
+13790,Kazakhstan,1994,female,55-74 years,198,1201100,16.48,Kazakhstan1994,,"21,250,839,258",1395,Silent
+13791,Kazakhstan,1994,female,15-24 years,149,1332400,11.18,Kazakhstan1994,,"21,250,839,258",1395,Generation X
+13792,Kazakhstan,1994,female,35-54 years,198,1965300,10.07,Kazakhstan1994,,"21,250,839,258",1395,Boomers
+13793,Kazakhstan,1994,female,25-34 years,128,1327200,9.64,Kazakhstan1994,,"21,250,839,258",1395,Boomers
+13794,Kazakhstan,1994,male,5-14 years,50,1784600,2.8,Kazakhstan1994,,"21,250,839,258",1395,Millenials
+13795,Kazakhstan,1994,female,5-14 years,16,1740500,0.92,Kazakhstan1994,,"21,250,839,258",1395,Millenials
+13796,Kazakhstan,1995,male,75+ years,76,86400,87.96,Kazakhstan1995,0.664,"20,374,307,047",1359,G.I. Generation
+13797,Kazakhstan,1995,male,55-74 years,737,859800,85.72,Kazakhstan1995,0.664,"20,374,307,047",1359,Silent
+13798,Kazakhstan,1995,male,35-54 years,1523,1791600,85.01,Kazakhstan1995,0.664,"20,374,307,047",1359,Boomers
+13799,Kazakhstan,1995,male,25-34 years,887,1311800,67.62,Kazakhstan1995,0.664,"20,374,307,047",1359,Generation X
+13800,Kazakhstan,1995,male,15-24 years,622,1455600,42.73,Kazakhstan1995,0.664,"20,374,307,047",1359,Generation X
+13801,Kazakhstan,1995,female,75+ years,86,267600,32.14,Kazakhstan1995,0.664,"20,374,307,047",1359,G.I. Generation
+13802,Kazakhstan,1995,female,55-74 years,208,1205800,17.25,Kazakhstan1995,0.664,"20,374,307,047",1359,Silent
+13803,Kazakhstan,1995,female,35-54 years,216,1901900,11.36,Kazakhstan1995,0.664,"20,374,307,047",1359,Boomers
+13804,Kazakhstan,1995,female,15-24 years,145,1412600,10.26,Kazakhstan1995,0.664,"20,374,307,047",1359,Generation X
+13805,Kazakhstan,1995,female,25-34 years,130,1271500,10.22,Kazakhstan1995,0.664,"20,374,307,047",1359,Generation X
+13806,Kazakhstan,1995,male,5-14 years,61,1736100,3.51,Kazakhstan1995,0.664,"20,374,307,047",1359,Millenials
+13807,Kazakhstan,1995,female,5-14 years,15,1688900,0.89,Kazakhstan1995,0.664,"20,374,307,047",1359,Millenials
+13808,Kazakhstan,1996,male,35-54 years,1630,1753600,92.95,Kazakhstan1996,,"21,035,357,833",1452,Boomers
+13809,Kazakhstan,1996,male,55-74 years,731,836900,87.35,Kazakhstan1996,,"21,035,357,833",1452,Silent
+13810,Kazakhstan,1996,male,75+ years,64,80400,79.6,Kazakhstan1996,,"21,035,357,833",1452,G.I. Generation
+13811,Kazakhstan,1996,male,25-34 years,879,1243300,70.7,Kazakhstan1996,,"21,035,357,833",1452,Generation X
+13812,Kazakhstan,1996,male,15-24 years,635,1405800,45.17,Kazakhstan1996,,"21,035,357,833",1452,Generation X
+13813,Kazakhstan,1996,female,75+ years,54,251800,21.45,Kazakhstan1996,,"21,035,357,833",1452,G.I. Generation
+13814,Kazakhstan,1996,female,55-74 years,211,1173100,17.99,Kazakhstan1996,,"21,035,357,833",1452,Silent
+13815,Kazakhstan,1996,female,35-54 years,223,1858300,12.0,Kazakhstan1996,,"21,035,357,833",1452,Boomers
+13816,Kazakhstan,1996,female,15-24 years,158,1381300,11.44,Kazakhstan1996,,"21,035,357,833",1452,Generation X
+13817,Kazakhstan,1996,female,25-34 years,121,1187600,10.19,Kazakhstan1996,,"21,035,357,833",1452,Generation X
+13818,Kazakhstan,1996,male,5-14 years,57,1682200,3.39,Kazakhstan1996,,"21,035,357,833",1452,Millenials
+13819,Kazakhstan,1996,female,5-14 years,10,1633400,0.61,Kazakhstan1996,,"21,035,357,833",1452,Millenials
+13820,Kazakhstan,1997,male,55-74 years,740,822400,89.98,Kazakhstan1997,,"22,165,932,063",1540,Silent
+13821,Kazakhstan,1997,male,35-54 years,1577,1766200,89.29,Kazakhstan1997,,"22,165,932,063",1540,Boomers
+13822,Kazakhstan,1997,male,25-34 years,810,1217700,66.52,Kazakhstan1997,,"22,165,932,063",1540,Generation X
+13823,Kazakhstan,1997,male,75+ years,50,78400,63.78,Kazakhstan1997,,"22,165,932,063",1540,G.I. Generation
+13824,Kazakhstan,1997,male,15-24 years,651,1401300,46.46,Kazakhstan1997,,"22,165,932,063",1540,Generation X
+13825,Kazakhstan,1997,female,75+ years,59,247700,23.82,Kazakhstan1997,,"22,165,932,063",1540,G.I. Generation
+13826,Kazakhstan,1997,female,55-74 years,164,1153000,14.22,Kazakhstan1997,,"22,165,932,063",1540,Silent
+13827,Kazakhstan,1997,female,15-24 years,175,1388400,12.6,Kazakhstan1997,,"22,165,932,063",1540,Generation X
+13828,Kazakhstan,1997,female,35-54 years,216,1871000,11.54,Kazakhstan1997,,"22,165,932,063",1540,Boomers
+13829,Kazakhstan,1997,female,25-34 years,131,1152200,11.37,Kazakhstan1997,,"22,165,932,063",1540,Generation X
+13830,Kazakhstan,1997,male,5-14 years,53,1673300,3.17,Kazakhstan1997,,"22,165,932,063",1540,Millenials
+13831,Kazakhstan,1997,female,5-14 years,16,1623000,0.99,Kazakhstan1997,,"22,165,932,063",1540,Millenials
+13832,Kazakhstan,1998,male,55-74 years,692,762500,90.75,Kazakhstan1998,,"22,135,245,413",1599,Silent
+13833,Kazakhstan,1998,male,35-54 years,1459,1724400,84.61,Kazakhstan1998,,"22,135,245,413",1599,Boomers
+13834,Kazakhstan,1998,male,75+ years,58,74500,77.85,Kazakhstan1998,,"22,135,245,413",1599,G.I. Generation
+13835,Kazakhstan,1998,male,25-34 years,727,1145900,63.44,Kazakhstan1998,,"22,135,245,413",1599,Generation X
+13836,Kazakhstan,1998,male,15-24 years,594,1343300,44.22,Kazakhstan1998,,"22,135,245,413",1599,Generation X
+13837,Kazakhstan,1998,female,75+ years,63,241200,26.12,Kazakhstan1998,,"22,135,245,413",1599,G.I. Generation
+13838,Kazakhstan,1998,female,55-74 years,160,1090300,14.67,Kazakhstan1998,,"22,135,245,413",1599,Silent
+13839,Kazakhstan,1998,female,25-34 years,138,1103400,12.51,Kazakhstan1998,,"22,135,245,413",1599,Generation X
+13840,Kazakhstan,1998,female,15-24 years,152,1353400,11.23,Kazakhstan1998,,"22,135,245,413",1599,Generation X
+13841,Kazakhstan,1998,female,35-54 years,205,1863700,11.0,Kazakhstan1998,,"22,135,245,413",1599,Boomers
+13842,Kazakhstan,1998,male,5-14 years,54,1585500,3.41,Kazakhstan1998,,"22,135,245,413",1599,Millenials
+13843,Kazakhstan,1998,female,5-14 years,11,1556100,0.71,Kazakhstan1998,,"22,135,245,413",1599,Millenials
+13844,Kazakhstan,1999,male,55-74 years,567,727800,77.91,Kazakhstan1999,,"16,870,817,135",1225,Silent
+13845,Kazakhstan,1999,male,35-54 years,1331,1761800,75.55,Kazakhstan1999,,"16,870,817,135",1225,Boomers
+13846,Kazakhstan,1999,male,75+ years,55,75400,72.94,Kazakhstan1999,,"16,870,817,135",1225,G.I. Generation
+13847,Kazakhstan,1999,male,25-34 years,717,1131600,63.36,Kazakhstan1999,,"16,870,817,135",1225,Generation X
+13848,Kazakhstan,1999,male,15-24 years,609,1349400,45.13,Kazakhstan1999,,"16,870,817,135",1225,Generation X
+13849,Kazakhstan,1999,female,75+ years,59,246200,23.96,Kazakhstan1999,,"16,870,817,135",1225,G.I. Generation
+13850,Kazakhstan,1999,female,55-74 years,152,1044200,14.56,Kazakhstan1999,,"16,870,817,135",1225,Silent
+13851,Kazakhstan,1999,female,25-34 years,120,1089900,11.01,Kazakhstan1999,,"16,870,817,135",1225,Generation X
+13852,Kazakhstan,1999,female,35-54 years,198,1909900,10.37,Kazakhstan1999,,"16,870,817,135",1225,Boomers
+13853,Kazakhstan,1999,female,15-24 years,124,1358700,9.13,Kazakhstan1999,,"16,870,817,135",1225,Generation X
+13854,Kazakhstan,1999,male,5-14 years,49,1555400,3.15,Kazakhstan1999,,"16,870,817,135",1225,Millenials
+13855,Kazakhstan,1999,female,5-14 years,10,1523100,0.66,Kazakhstan1999,,"16,870,817,135",1225,Millenials
+13856,Kazakhstan,2000,male,35-54 years,1527,1802430,84.72,Kazakhstan2000,0.679,"18,291,990,619",1328,Boomers
+13857,Kazakhstan,2000,male,55-74 years,586,698665,83.87,Kazakhstan2000,0.679,"18,291,990,619",1328,Silent
+13858,Kazakhstan,2000,male,25-34 years,852,1132418,75.24,Kazakhstan2000,0.679,"18,291,990,619",1328,Generation X
+13859,Kazakhstan,2000,male,75+ years,47,77972,60.28,Kazakhstan2000,0.679,"18,291,990,619",1328,G.I. Generation
+13860,Kazakhstan,2000,male,15-24 years,623,1366874,45.58,Kazakhstan2000,0.679,"18,291,990,619",1328,Generation X
+13861,Kazakhstan,2000,female,75+ years,56,254407,22.01,Kazakhstan2000,0.679,"18,291,990,619",1328,G.I. Generation
+13862,Kazakhstan,2000,female,55-74 years,147,1005027,14.63,Kazakhstan2000,0.679,"18,291,990,619",1328,Silent
+13863,Kazakhstan,2000,female,15-24 years,169,1375343,12.29,Kazakhstan2000,0.679,"18,291,990,619",1328,Generation X
+13864,Kazakhstan,2000,female,35-54 years,234,1959602,11.94,Kazakhstan2000,0.679,"18,291,990,619",1328,Boomers
+13865,Kazakhstan,2000,female,25-34 years,122,1089854,11.19,Kazakhstan2000,0.679,"18,291,990,619",1328,Generation X
+13866,Kazakhstan,2000,male,5-14 years,47,1523202,3.09,Kazakhstan2000,0.679,"18,291,990,619",1328,Millenials
+13867,Kazakhstan,2000,female,5-14 years,18,1486628,1.21,Kazakhstan2000,0.679,"18,291,990,619",1328,Millenials
+13868,Kazakhstan,2001,male,35-54 years,1519,1807120,84.06,Kazakhstan2001,,"22,152,694,162",1608,Boomers
+13869,Kazakhstan,2001,male,55-74 years,582,718503,81.0,Kazakhstan2001,,"22,152,694,162",1608,Silent
+13870,Kazakhstan,2001,male,25-34 years,843,1117605,75.43,Kazakhstan2001,,"22,152,694,162",1608,Generation X
+13871,Kazakhstan,2001,male,75+ years,51,82044,62.16,Kazakhstan2001,,"22,152,694,162",1608,Silent
+13872,Kazakhstan,2001,male,15-24 years,660,1365580,48.33,Kazakhstan2001,,"22,152,694,162",1608,Millenials
+13873,Kazakhstan,2001,female,75+ years,53,233378,22.71,Kazakhstan2001,,"22,152,694,162",1608,Silent
+13874,Kazakhstan,2001,female,15-24 years,158,1336586,11.82,Kazakhstan2001,,"22,152,694,162",1608,Millenials
+13875,Kazakhstan,2001,female,55-74 years,119,1011423,11.77,Kazakhstan2001,,"22,152,694,162",1608,Silent
+13876,Kazakhstan,2001,female,35-54 years,197,1998447,9.86,Kazakhstan2001,,"22,152,694,162",1608,Boomers
+13877,Kazakhstan,2001,female,25-34 years,110,1137636,9.67,Kazakhstan2001,,"22,152,694,162",1608,Generation X
+13878,Kazakhstan,2001,male,5-14 years,64,1508752,4.24,Kazakhstan2001,,"22,152,694,162",1608,Millenials
+13879,Kazakhstan,2001,female,5-14 years,21,1455622,1.44,Kazakhstan2001,,"22,152,694,162",1608,Millenials
+13880,Kazakhstan,2002,male,55-74 years,582,704901,82.56,Kazakhstan2002,,"24,636,593,223",1788,Silent
+13881,Kazakhstan,2002,male,35-54 years,1414,1837817,76.94,Kazakhstan2002,,"24,636,593,223",1788,Boomers
+13882,Kazakhstan,2002,male,25-34 years,825,1128226,73.12,Kazakhstan2002,,"24,636,593,223",1788,Generation X
+13883,Kazakhstan,2002,male,75+ years,53,91887,57.68,Kazakhstan2002,,"24,636,593,223",1788,Silent
+13884,Kazakhstan,2002,male,15-24 years,621,1414530,43.9,Kazakhstan2002,,"24,636,593,223",1788,Millenials
+13885,Kazakhstan,2002,female,75+ years,52,247685,20.99,Kazakhstan2002,,"24,636,593,223",1788,Silent
+13886,Kazakhstan,2002,female,55-74 years,119,996301,11.94,Kazakhstan2002,,"24,636,593,223",1788,Silent
+13887,Kazakhstan,2002,female,15-24 years,160,1377461,11.62,Kazakhstan2002,,"24,636,593,223",1788,Millenials
+13888,Kazakhstan,2002,female,25-34 years,129,1147717,11.24,Kazakhstan2002,,"24,636,593,223",1788,Generation X
+13889,Kazakhstan,2002,female,35-54 years,198,2033504,9.74,Kazakhstan2002,,"24,636,593,223",1788,Boomers
+13890,Kazakhstan,2002,male,5-14 years,67,1424722,4.7,Kazakhstan2002,,"24,636,593,223",1788,Millenials
+13891,Kazakhstan,2002,female,5-14 years,20,1372725,1.46,Kazakhstan2002,,"24,636,593,223",1788,Millenials
+13892,Kazakhstan,2003,male,25-34 years,938,1141761,82.15,Kazakhstan2003,,"30,833,699,703",2232,Generation X
+13893,Kazakhstan,2003,male,55-74 years,530,702817,75.41,Kazakhstan2003,,"30,833,699,703",2232,Silent
+13894,Kazakhstan,2003,male,35-54 years,1386,1855662,74.69,Kazakhstan2003,,"30,833,699,703",2232,Boomers
+13895,Kazakhstan,2003,male,75+ years,60,99171,60.5,Kazakhstan2003,,"30,833,699,703",2232,Silent
+13896,Kazakhstan,2003,male,15-24 years,652,1449082,44.99,Kazakhstan2003,,"30,833,699,703",2232,Millenials
+13897,Kazakhstan,2003,female,75+ years,60,259838,23.09,Kazakhstan2003,,"30,833,699,703",2232,Silent
+13898,Kazakhstan,2003,female,55-74 years,139,996433,13.95,Kazakhstan2003,,"30,833,699,703",2232,Silent
+13899,Kazakhstan,2003,female,15-24 years,157,1408946,11.14,Kazakhstan2003,,"30,833,699,703",2232,Millenials
+13900,Kazakhstan,2003,female,35-54 years,202,2053544,9.84,Kazakhstan2003,,"30,833,699,703",2232,Boomers
+13901,Kazakhstan,2003,female,25-34 years,114,1159693,9.83,Kazakhstan2003,,"30,833,699,703",2232,Generation X
+13902,Kazakhstan,2003,male,5-14 years,67,1368679,4.9,Kazakhstan2003,,"30,833,699,703",2232,Millenials
+13903,Kazakhstan,2003,female,5-14 years,16,1316237,1.22,Kazakhstan2003,,"30,833,699,703",2232,Millenials
+13904,Kazakhstan,2004,male,25-34 years,967,1159137,83.42,Kazakhstan2004,,"43,151,647,003",3110,Generation X
+13905,Kazakhstan,2004,male,35-54 years,1427,1874980,76.11,Kazakhstan2004,,"43,151,647,003",3110,Boomers
+13906,Kazakhstan,2004,male,75+ years,75,105970,70.77,Kazakhstan2004,,"43,151,647,003",3110,Silent
+13907,Kazakhstan,2004,male,55-74 years,441,706313,62.44,Kazakhstan2004,,"43,151,647,003",3110,Silent
+13908,Kazakhstan,2004,male,15-24 years,735,1480125,49.66,Kazakhstan2004,,"43,151,647,003",3110,Millenials
+13909,Kazakhstan,2004,female,75+ years,61,271208,22.49,Kazakhstan2004,,"43,151,647,003",3110,Silent
+13910,Kazakhstan,2004,female,15-24 years,177,1438621,12.3,Kazakhstan2004,,"43,151,647,003",3110,Millenials
+13911,Kazakhstan,2004,female,25-34 years,131,1174778,11.15,Kazakhstan2004,,"43,151,647,003",3110,Generation X
+13912,Kazakhstan,2004,female,55-74 years,101,1004413,10.06,Kazakhstan2004,,"43,151,647,003",3110,Silent
+13913,Kazakhstan,2004,female,35-54 years,208,2076222,10.02,Kazakhstan2004,,"43,151,647,003",3110,Boomers
+13914,Kazakhstan,2004,male,5-14 years,57,1317575,4.33,Kazakhstan2004,,"43,151,647,003",3110,Millenials
+13915,Kazakhstan,2004,female,5-14 years,14,1263986,1.11,Kazakhstan2004,,"43,151,647,003",3110,Millenials
+13916,Kazakhstan,2005,male,25-34 years,868,1174447,73.91,Kazakhstan2005,0.746,"57,123,671,734",4096,Generation X
+13917,Kazakhstan,2005,male,35-54 years,1225,1893623,64.69,Kazakhstan2005,0.746,"57,123,671,734",4096,Boomers
+13918,Kazakhstan,2005,male,55-74 years,402,716191,56.13,Kazakhstan2005,0.746,"57,123,671,734",4096,Silent
+13919,Kazakhstan,2005,male,75+ years,61,112427,54.26,Kazakhstan2005,0.746,"57,123,671,734",4096,Silent
+13920,Kazakhstan,2005,male,15-24 years,635,1507234,42.13,Kazakhstan2005,0.746,"57,123,671,734",4096,Millenials
+13921,Kazakhstan,2005,female,75+ years,54,279776,19.3,Kazakhstan2005,0.746,"57,123,671,734",4096,Silent
+13922,Kazakhstan,2005,female,25-34 years,126,1188857,10.6,Kazakhstan2005,0.746,"57,123,671,734",4096,Generation X
+13923,Kazakhstan,2005,female,15-24 years,153,1464554,10.45,Kazakhstan2005,0.746,"57,123,671,734",4096,Millenials
+13924,Kazakhstan,2005,female,55-74 years,100,1021709,9.79,Kazakhstan2005,0.746,"57,123,671,734",4096,Silent
+13925,Kazakhstan,2005,female,35-54 years,177,2097655,8.44,Kazakhstan2005,0.746,"57,123,671,734",4096,Boomers
+13926,Kazakhstan,2005,male,5-14 years,78,1272278,6.13,Kazakhstan2005,0.746,"57,123,671,734",4096,Millenials
+13927,Kazakhstan,2005,female,5-14 years,24,1219019,1.97,Kazakhstan2005,0.746,"57,123,671,734",4096,Millenials
+13928,Kazakhstan,2006,male,25-34 years,944,1189058,79.39,Kazakhstan2006,,"81,003,884,545",5770,Generation X
+13929,Kazakhstan,2006,male,35-54 years,1225,1915309,63.96,Kazakhstan2006,,"81,003,884,545",5770,Boomers
+13930,Kazakhstan,2006,male,75+ years,71,116133,61.14,Kazakhstan2006,,"81,003,884,545",5770,Silent
+13931,Kazakhstan,2006,male,55-74 years,436,730464,59.69,Kazakhstan2006,,"81,003,884,545",5770,Silent
+13932,Kazakhstan,2006,male,15-24 years,657,1530192,42.94,Kazakhstan2006,,"81,003,884,545",5770,Millenials
+13933,Kazakhstan,2006,female,75+ years,53,282507,18.76,Kazakhstan2006,,"81,003,884,545",5770,Silent
+13934,Kazakhstan,2006,female,15-24 years,181,1486771,12.17,Kazakhstan2006,,"81,003,884,545",5770,Millenials
+13935,Kazakhstan,2006,female,55-74 years,106,1047352,10.12,Kazakhstan2006,,"81,003,884,545",5770,Silent
+13936,Kazakhstan,2006,female,25-34 years,121,1202659,10.06,Kazakhstan2006,,"81,003,884,545",5770,Generation X
+13937,Kazakhstan,2006,female,35-54 years,190,2121510,8.96,Kazakhstan2006,,"81,003,884,545",5770,Boomers
+13938,Kazakhstan,2006,male,5-14 years,68,1234397,5.51,Kazakhstan2006,,"81,003,884,545",5770,Millenials
+13939,Kazakhstan,2006,female,5-14 years,24,1181324,2.03,Kazakhstan2006,,"81,003,884,545",5770,Millenials
+13940,Kazakhstan,2007,male,25-34 years,919,1208359,76.05,Kazakhstan2007,,"104,849,886,826",7423,Generation X
+13941,Kazakhstan,2007,male,75+ years,77,116899,65.87,Kazakhstan2007,,"104,849,886,826",7423,Silent
+13942,Kazakhstan,2007,male,35-54 years,1275,1935835,65.86,Kazakhstan2007,,"104,849,886,826",7423,Boomers
+13943,Kazakhstan,2007,male,55-74 years,412,747545,55.11,Kazakhstan2007,,"104,849,886,826",7423,Silent
+13944,Kazakhstan,2007,male,15-24 years,648,1542361,42.01,Kazakhstan2007,,"104,849,886,826",7423,Millenials
+13945,Kazakhstan,2007,female,75+ years,50,281627,17.75,Kazakhstan2007,,"104,849,886,826",7423,Silent
+13946,Kazakhstan,2007,female,15-24 years,203,1498711,13.54,Kazakhstan2007,,"104,849,886,826",7423,Millenials
+13947,Kazakhstan,2007,female,25-34 years,140,1219565,11.48,Kazakhstan2007,,"104,849,886,826",7423,Generation X
+13948,Kazakhstan,2007,female,35-54 years,210,2144647,9.79,Kazakhstan2007,,"104,849,886,826",7423,Boomers
+13949,Kazakhstan,2007,female,55-74 years,88,1077829,8.16,Kazakhstan2007,,"104,849,886,826",7423,Silent
+13950,Kazakhstan,2007,male,5-14 years,89,1202402,7.4,Kazakhstan2007,,"104,849,886,826",7423,Generation Z
+13951,Kazakhstan,2007,female,5-14 years,30,1149826,2.61,Kazakhstan2007,,"104,849,886,826",7423,Generation Z
+13952,Kazakhstan,2008,male,75+ years,86,116815,73.62,Kazakhstan2008,,"133,441,612,247",9387,Silent
+13953,Kazakhstan,2008,male,25-34 years,860,1232084,69.8,Kazakhstan2008,,"133,441,612,247",9387,Generation X
+13954,Kazakhstan,2008,male,35-54 years,1178,1954893,60.26,Kazakhstan2008,,"133,441,612,247",9387,Boomers
+13955,Kazakhstan,2008,male,55-74 years,383,766809,49.95,Kazakhstan2008,,"133,441,612,247",9387,Silent
+13956,Kazakhstan,2008,male,15-24 years,657,1540282,42.65,Kazakhstan2008,,"133,441,612,247",9387,Millenials
+13957,Kazakhstan,2008,female,75+ years,47,280166,16.78,Kazakhstan2008,,"133,441,612,247",9387,Silent
+13958,Kazakhstan,2008,female,15-24 years,239,1496633,15.97,Kazakhstan2008,,"133,441,612,247",9387,Millenials
+13959,Kazakhstan,2008,female,25-34 years,152,1240283,12.26,Kazakhstan2008,,"133,441,612,247",9387,Generation X
+13960,Kazakhstan,2008,female,35-54 years,217,2165507,10.02,Kazakhstan2008,,"133,441,612,247",9387,Boomers
+13961,Kazakhstan,2008,female,55-74 years,93,1110519,8.37,Kazakhstan2008,,"133,441,612,247",9387,Silent
+13962,Kazakhstan,2008,male,5-14 years,66,1182019,5.58,Kazakhstan2008,,"133,441,612,247",9387,Generation Z
+13963,Kazakhstan,2008,female,5-14 years,19,1130043,1.68,Kazakhstan2008,,"133,441,612,247",9387,Generation Z
+13964,Kazakhstan,2009,male,25-34 years,848,1263819,67.1,Kazakhstan2009,,"115,308,661,143",8024,Generation X
+13965,Kazakhstan,2009,male,35-54 years,1181,1980466,59.63,Kazakhstan2009,,"115,308,661,143",8024,Boomers
+13966,Kazakhstan,2009,male,75+ years,60,116533,51.49,Kazakhstan2009,,"115,308,661,143",8024,Silent
+13967,Kazakhstan,2009,male,55-74 years,380,792505,47.95,Kazakhstan2009,,"115,308,661,143",8024,Silent
+13968,Kazakhstan,2009,male,15-24 years,608,1533027,39.66,Kazakhstan2009,,"115,308,661,143",8024,Millenials
+13969,Kazakhstan,2009,female,75+ years,42,277759,15.12,Kazakhstan2009,,"115,308,661,143",8024,Silent
+13970,Kazakhstan,2009,female,15-24 years,214,1488994,14.37,Kazakhstan2009,,"115,308,661,143",8024,Millenials
+13971,Kazakhstan,2009,female,25-34 years,145,1269302,11.42,Kazakhstan2009,,"115,308,661,143",8024,Generation X
+13972,Kazakhstan,2009,female,35-54 years,192,2191360,8.76,Kazakhstan2009,,"115,308,661,143",8024,Boomers
+13973,Kazakhstan,2009,female,55-74 years,99,1150346,8.61,Kazakhstan2009,,"115,308,661,143",8024,Silent
+13974,Kazakhstan,2009,male,5-14 years,43,1179629,3.65,Kazakhstan2009,,"115,308,661,143",8024,Generation Z
+13975,Kazakhstan,2009,female,5-14 years,26,1126895,2.31,Kazakhstan2009,,"115,308,661,143",8024,Generation Z
+13976,Kazakhstan,2010,male,75+ years,72,113390,63.5,Kazakhstan2010,0.7659999999999999,"148,047,348,241",10062,Silent
+13977,Kazakhstan,2010,male,25-34 years,808,1310211,61.67,Kazakhstan2010,0.7659999999999999,"148,047,348,241",10062,Generation X
+13978,Kazakhstan,2010,male,35-54 years,1118,2037599,54.87,Kazakhstan2010,0.7659999999999999,"148,047,348,241",10062,Generation X
+13979,Kazakhstan,2010,male,55-74 years,389,810461,48.0,Kazakhstan2010,0.7659999999999999,"148,047,348,241",10062,Silent
+13980,Kazakhstan,2010,male,15-24 years,528,1555580,33.94,Kazakhstan2010,0.7659999999999999,"148,047,348,241",10062,Millenials
+13981,Kazakhstan,2010,female,75+ years,39,263531,14.8,Kazakhstan2010,0.7659999999999999,"148,047,348,241",10062,Silent
+13982,Kazakhstan,2010,female,15-24 years,193,1549811,12.45,Kazakhstan2010,0.7659999999999999,"148,047,348,241",10062,Millenials
+13983,Kazakhstan,2010,female,25-34 years,140,1332552,10.51,Kazakhstan2010,0.7659999999999999,"148,047,348,241",10062,Generation X
+13984,Kazakhstan,2010,female,55-74 years,88,1144484,7.69,Kazakhstan2010,0.7659999999999999,"148,047,348,241",10062,Silent
+13985,Kazakhstan,2010,female,35-54 years,160,2227790,7.18,Kazakhstan2010,0.7659999999999999,"148,047,348,241",10062,Generation X
+13986,Kazakhstan,2010,male,5-14 years,49,1212500,4.04,Kazakhstan2010,0.7659999999999999,"148,047,348,241",10062,Generation Z
+13987,Kazakhstan,2010,female,5-14 years,25,1155258,2.16,Kazakhstan2010,0.7659999999999999,"148,047,348,241",10062,Generation Z
+13988,Kazakhstan,2011,male,25-34 years,778,1344771,57.85,Kazakhstan2011,0.772,"192,626,507,972",12969,Millenials
+13989,Kazakhstan,2011,male,75+ years,64,119954,53.35,Kazakhstan2011,0.772,"192,626,507,972",12969,Silent
+13990,Kazakhstan,2011,male,35-54 years,1062,2062451,51.49,Kazakhstan2011,0.772,"192,626,507,972",12969,Generation X
+13991,Kazakhstan,2011,male,55-74 years,358,831202,43.07,Kazakhstan2011,0.772,"192,626,507,972",12969,Boomers
+13992,Kazakhstan,2011,male,15-24 years,493,1526023,32.31,Kazakhstan2011,0.772,"192,626,507,972",12969,Millenials
+13993,Kazakhstan,2011,female,75+ years,44,273217,16.1,Kazakhstan2011,0.772,"192,626,507,972",12969,Silent
+13994,Kazakhstan,2011,female,15-24 years,171,1514356,11.29,Kazakhstan2011,0.772,"192,626,507,972",12969,Millenials
+13995,Kazakhstan,2011,female,25-34 years,128,1367342,9.36,Kazakhstan2011,0.772,"192,626,507,972",12969,Millenials
+13996,Kazakhstan,2011,female,35-54 years,166,2253866,7.37,Kazakhstan2011,0.772,"192,626,507,972",12969,Generation X
+13997,Kazakhstan,2011,female,55-74 years,78,1172197,6.65,Kazakhstan2011,0.772,"192,626,507,972",12969,Boomers
+13998,Kazakhstan,2011,male,5-14 years,38,1218724,3.12,Kazakhstan2011,0.772,"192,626,507,972",12969,Generation Z
+13999,Kazakhstan,2011,female,5-14 years,21,1169247,1.8,Kazakhstan2011,0.772,"192,626,507,972",12969,Generation Z
+14000,Kazakhstan,2012,male,25-34 years,716,1384736,51.71,Kazakhstan2012,0.778,"207,998,568,866",13845,Millenials
+14001,Kazakhstan,2012,male,35-54 years,1074,2082135,51.58,Kazakhstan2012,0.778,"207,998,568,866",13845,Generation X
+14002,Kazakhstan,2012,male,75+ years,60,129890,46.19,Kazakhstan2012,0.778,"207,998,568,866",13845,Silent
+14003,Kazakhstan,2012,male,55-74 years,368,852033,43.19,Kazakhstan2012,0.778,"207,998,568,866",13845,Boomers
+14004,Kazakhstan,2012,male,15-24 years,426,1481240,28.76,Kazakhstan2012,0.778,"207,998,568,866",13845,Millenials
+14005,Kazakhstan,2012,female,75+ years,40,288919,13.84,Kazakhstan2012,0.778,"207,998,568,866",13845,Silent
+14006,Kazakhstan,2012,female,15-24 years,131,1464381,8.95,Kazakhstan2012,0.778,"207,998,568,866",13845,Millenials
+14007,Kazakhstan,2012,female,35-54 years,181,2273726,7.96,Kazakhstan2012,0.778,"207,998,568,866",13845,Generation X
+14008,Kazakhstan,2012,female,25-34 years,111,1407854,7.88,Kazakhstan2012,0.778,"207,998,568,866",13845,Millenials
+14009,Kazakhstan,2012,female,55-74 years,93,1198153,7.76,Kazakhstan2012,0.778,"207,998,568,866",13845,Boomers
+14010,Kazakhstan,2012,male,5-14 years,33,1261734,2.62,Kazakhstan2012,0.778,"207,998,568,866",13845,Generation Z
+14011,Kazakhstan,2012,female,5-14 years,7,1198748,0.58,Kazakhstan2012,0.778,"207,998,568,866",13845,Generation Z
+14012,Kazakhstan,2013,male,75+ years,78,140008,55.71,Kazakhstan2013,0.785,"236,634,552,078",15552,Silent
+14013,Kazakhstan,2013,male,35-54 years,1142,2098964,54.41,Kazakhstan2013,0.785,"236,634,552,078",15552,Generation X
+14014,Kazakhstan,2013,male,25-34 years,733,1425587,51.42,Kazakhstan2013,0.785,"236,634,552,078",15552,Millenials
+14015,Kazakhstan,2013,male,55-74 years,393,878598,44.73,Kazakhstan2013,0.785,"236,634,552,078",15552,Boomers
+14016,Kazakhstan,2013,male,15-24 years,449,1429864,31.4,Kazakhstan2013,0.785,"236,634,552,078",15552,Millenials
+14017,Kazakhstan,2013,female,75+ years,48,307080,15.63,Kazakhstan2013,0.785,"236,634,552,078",15552,Silent
+14018,Kazakhstan,2013,female,15-24 years,182,1405609,12.95,Kazakhstan2013,0.785,"236,634,552,078",15552,Millenials
+14019,Kazakhstan,2013,female,25-34 years,136,1451026,9.37,Kazakhstan2013,0.785,"236,634,552,078",15552,Millenials
+14020,Kazakhstan,2013,female,35-54 years,193,2289754,8.43,Kazakhstan2013,0.785,"236,634,552,078",15552,Generation X
+14021,Kazakhstan,2013,female,55-74 years,89,1228388,7.25,Kazakhstan2013,0.785,"236,634,552,078",15552,Boomers
+14022,Kazakhstan,2013,male,5-14 years,42,1313549,3.2,Kazakhstan2013,0.785,"236,634,552,078",15552,Generation Z
+14023,Kazakhstan,2013,female,5-14 years,27,1246955,2.17,Kazakhstan2013,0.785,"236,634,552,078",15552,Generation Z
+14024,Kazakhstan,2014,male,35-54 years,1082,2116035,51.13,Kazakhstan2014,0.7879999999999999,"221,415,572,820",14351,Generation X
+14025,Kazakhstan,2014,male,75+ years,70,148578,47.11,Kazakhstan2014,0.7879999999999999,"221,415,572,820",14351,Silent
+14026,Kazakhstan,2014,male,25-34 years,667,1462224,45.62,Kazakhstan2014,0.7879999999999999,"221,415,572,820",14351,Millenials
+14027,Kazakhstan,2014,male,55-74 years,343,911127,37.65,Kazakhstan2014,0.7879999999999999,"221,415,572,820",14351,Boomers
+14028,Kazakhstan,2014,male,15-24 years,356,1377269,25.85,Kazakhstan2014,0.7879999999999999,"221,415,572,820",14351,Millenials
+14029,Kazakhstan,2014,female,75+ years,47,325593,14.44,Kazakhstan2014,0.7879999999999999,"221,415,572,820",14351,Silent
+14030,Kazakhstan,2014,female,15-24 years,132,1344351,9.82,Kazakhstan2014,0.7879999999999999,"221,415,572,820",14351,Millenials
+14031,Kazakhstan,2014,female,25-34 years,126,1490998,8.45,Kazakhstan2014,0.7879999999999999,"221,415,572,820",14351,Millenials
+14032,Kazakhstan,2014,female,35-54 years,171,2303567,7.42,Kazakhstan2014,0.7879999999999999,"221,415,572,820",14351,Generation X
+14033,Kazakhstan,2014,female,55-74 years,69,1263876,5.46,Kazakhstan2014,0.7879999999999999,"221,415,572,820",14351,Boomers
+14034,Kazakhstan,2014,male,5-14 years,38,1377917,2.76,Kazakhstan2014,0.7879999999999999,"221,415,572,820",14351,Generation Z
+14035,Kazakhstan,2014,female,5-14 years,18,1307309,1.38,Kazakhstan2014,0.7879999999999999,"221,415,572,820",14351,Generation Z
+14036,Kazakhstan,2015,male,75+ years,72,156393,46.04,Kazakhstan2015,,"184,388,432,149",11784,Silent
+14037,Kazakhstan,2015,male,35-54 years,962,2130654,45.15,Kazakhstan2015,,"184,388,432,149",11784,Generation X
+14038,Kazakhstan,2015,male,25-34 years,603,1492576,40.4,Kazakhstan2015,,"184,388,432,149",11784,Millenials
+14039,Kazakhstan,2015,male,55-74 years,363,951365,38.16,Kazakhstan2015,,"184,388,432,149",11784,Boomers
+14040,Kazakhstan,2015,male,15-24 years,312,1326082,23.53,Kazakhstan2015,,"184,388,432,149",11784,Millenials
+14041,Kazakhstan,2015,female,75+ years,42,343577,12.22,Kazakhstan2015,,"184,388,432,149",11784,Silent
+14042,Kazakhstan,2015,female,15-24 years,127,1285407,9.88,Kazakhstan2015,,"184,388,432,149",11784,Millenials
+14043,Kazakhstan,2015,female,35-54 years,175,2313458,7.56,Kazakhstan2015,,"184,388,432,149",11784,Generation X
+14044,Kazakhstan,2015,female,25-34 years,108,1524321,7.09,Kazakhstan2015,,"184,388,432,149",11784,Millenials
+14045,Kazakhstan,2015,female,55-74 years,65,1306669,4.97,Kazakhstan2015,,"184,388,432,149",11784,Boomers
+14046,Kazakhstan,2015,male,5-14 years,30,1445862,2.07,Kazakhstan2015,,"184,388,432,149",11784,Generation Z
+14047,Kazakhstan,2015,female,5-14 years,13,1370388,0.95,Kazakhstan2015,,"184,388,432,149",11784,Generation Z
